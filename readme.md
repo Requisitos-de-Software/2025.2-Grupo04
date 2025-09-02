@@ -5,7 +5,7 @@
 
 <br>
 
-## 1. Introdução e Objetivo 💡
+## 1. Introdução e Objetivo 🎯
 
 Este repositório é dedicado ao desenvolvimento das atividades referentes à disciplina "*Requisitos de Software*", vigente na [*Universidade de Brasília* (*FCTE*)](https://fcte.unb.br) no 2º período de 2025. Nele, estará mantido todo o processo de desenvolvimento na disciplina pelo [***Grupo 04***](#7-membros-da-equipe-), cujo aplicativo [A definir].
 
@@ -23,11 +23,6 @@ Toda a documentação pertinente ao desenvolvimento do projeto está mantida na 
 Os artefatos previstos, associados a cada entrega, estão listados a seguir com seus respectivos links na página de documentação. As informações de cada entrega estão descritas em [*6. Histórico de Entregas 📅*](#6-histórico-de-entregas-).
 
 1. [*Pré-Rastreabilidade* 🔗](#)
-2. [*Elicitação de Requisitos* 🔗](#)
-3. [*Modelagem de Requisitos I* 🔗](#)
-4. [*Modelagem de Requisitos II (Ágil)* 🔗](#)
-5. *Análise de Requisitos* ([*Verificação* 🔗](#)) e ([*Validação* 🔗](#))
-6. [*Pós-Rastreabilidade* 🔗](#)
 
 
 <br>
@@ -48,5 +43,5 @@ Os artefatos previstos, associados a cada entrega, estão listados a seguir com 
 
 | Item | Escopo | Artefatos | Data | Gravação | Autor(es) | Revisor(es) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| **Entrega** `1` | *Pré-Rastreabilidade* | `Planejamento` e `Rich Map` | xx/xx/2025 | [[LINK]]() | [Nome](), [nome](), [Nome](), [Nome](), [Nome](), [Nome](), [Nome]() | [Nome](),[Nome]() |
- **Entrega** `1` | *Elicitação de Requisitos* | `Planejamento` e `Rich Map` | xx/xx/2025 | [[LINK]]() | [Nome](), [nome](), [Nome](), [Nome](), [Nome](), [Nome](), [Nome]() | [Nome](),[Nome]() |
+| **Entrega** `1` | *Pré-Rastreabilidade* | `Planejamento` e `Rich Map` | xx/xx/2025 | [[LINK]]() | [Nome](), [nome]() |
+ **Entrega** `2` | *Elicitação de Requisitos* | `Planejamento` e `Rich Map` | xx/xx/2025 | [[LINK]]() | [Nome](), [nome]() |

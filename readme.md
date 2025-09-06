@@ -7,7 +7,7 @@
 
 ## 1. Introdução e Objetivo 🎯
 
-Este repositório reúne o desenvolvimento das atividades da disciplina "*Requisitos de Software*", oferecida pela [*Universidade de Brasília* (*FCTE*)](https://fcte.unb.br) no 2º período de 2025. Aqui, estará registrado todo o processo de trabalho do [***Grupo 04***](#7-membros-da-equipe-), voltado para o desenvolvimento do aplicativo [A definir].
+Este repositório reúne o desenvolvimento das atividades da disciplina "*Requisitos de Software*", oferecida pela [*Universidade de Brasília* (*FCTE*)](https://fcte.unb.br) no 2º período de 2025. Aqui, estará registrado todo o processo de trabalho do [***Grupo 04***](#7-membros-da-equipe-), voltado para o desenvolvimento do aplicativo ID JOVEM.
 
 O propósito deste projeto é proporcionar aos integrantes do grupo uma compreensão aprofundada sobre os *requisitos de software*, por meio da [entrega de artefatos](#4-artefatos-planejados-) e [documentação](#2-documentação-️) ao longo do semestre. O estudo contempla tópicos como gerenciamento (pré e pós-rastreabilidade), elicitação e modelagem de requisitos.  
 <br>

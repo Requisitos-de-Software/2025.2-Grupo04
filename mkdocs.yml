@@ -1,6 +1,6 @@
-site_name: ID JOVEM 
+site_name: Identidade Jovem - ID Jovem
 
-repo_name: "ID JOVEM"
+repo_name: "ID Jovem"
 repo_url: "https://github.com/Requisitos-de-Software/2025.2-Grupo04"
 
 theme:
@@ -50,4 +50,4 @@ nav:
       - Metodologias: Planejamentos/Metodologias.md
       - Reunião: Planejamentos/Reunião.md
   - Atas:
-      - Ata 01/09/2025: atas/ata_01_09.md
+      - Ata 01 (01/09): atas/ata_01_09.md

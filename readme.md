@@ -1,15 +1,14 @@
 <h2 align="center">
-  <b><i>Projeto de Requisitos de Software - 2025.2</i></b>
+  <b><i>ID Jovem - 2025.2</i></b>
+    <img src="docs/IDJovem.jpeg" 
+       alt="IDJovem" 
+       width="300px">
 </h2>
-
-
 <br>
 
 ## 1. Introdução e Objetivo 🎯
 
-Este repositório reúne o desenvolvimento das atividades da disciplina "*Requisitos de Software*", oferecida pela [*Universidade de Brasília* (*FCTE*)](https://fcte.unb.br) no 2º período de 2025. Aqui, estará registrado todo o processo de trabalho do [***Grupo 04***](#7-membros-da-equipe-), voltado para o desenvolvimento do aplicativo ID JOVEM.
-
-O propósito deste projeto é proporcionar aos integrantes do grupo uma compreensão aprofundada sobre os *requisitos de software*, por meio da [entrega de artefatos](#4-artefatos-planejados-) e [documentação](#2-documentação-️) ao longo do semestre. O estudo contempla tópicos como gerenciamento (pré e pós-rastreabilidade), elicitação e modelagem de requisitos.  
+Este repositório reúne as atividades desenvolvidas na disciplina **Requisitos de Software**, ministrada pela [Universidade de Brasília (FCTE)](https://fcte.unb.br) no segundo semestre de 2025. Ele registra todo o processo de trabalho do **Grupo 04**, que tem como foco o desenvolvimento do aplicativo **ID Jovem**. O principal objetivo do projeto é proporcionar aos integrantes uma compreensão mais aprofundada sobre os requisitos de software, por meio da elaboração de artefatos e da documentação ao longo do semestre. Durante o estudo, são abordados temas como elicitação, modelagem e gerenciamento de requisitos, incluindo as etapas de pré e pós-rastreabilidade.  
 <br>
 
 ## 2. Documentação 🗃️
@@ -27,7 +26,7 @@ Os artefatos previstos, associados a cada entrega, estão listados a seguir com 
 
 <br>
 
-## 5. Membros da Equipe 👥
+## 5. 🧑🏽‍💻 Membros da Equipe 
 
 <p align="center"><strong>Tabela 1:</strong> <i>Membros do time de desenvolvimento</i></p>
 
@@ -44,4 +43,3 @@ Os artefatos previstos, associados a cada entrega, estão listados a seguir com 
 | Item | Escopo | Artefatos | Data | Gravação | Autor(es) | Revisor(es) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | **Entrega** `1` | *Pré-Rastreabilidade* | `Planejamento` e `Rich Map` | xx/xx/2025 | [[LINK]]() | [Nome](), [nome]()| 
- **Entrega** `2` | *Elicitação de Requisitos* | `Planejamento` e `Rich Map` | xx/xx/2025 | [[LINK]]() | [Nome](), [nome]() |

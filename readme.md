@@ -1,10 +1,10 @@
-<center>
-# ID JOVEM - Grupo 04
-</center>
 <div align="center">
-  <img src="docs/assets/IDJovem.jpeg" 
-       alt="idjovemlogo" 
-       width="300px">
+
+# ID JOVEM - Grupo 04  
+<img src="docs/assets/IDJovem.jpeg" 
+     alt="idjovemlogo" 
+     width="300px">
+
 </div>
 
 

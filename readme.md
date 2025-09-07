@@ -1,10 +1,10 @@
-<h2 align="center">
-  <b><i>ID Jovem - 2025.2</i></b>
-    <img src="docs/IDJovem.jpeg" 
-       alt="IDJovem" 
+# ID JOVEM - Grupo 04
+<div align="center">
+  <img src="docs/IDJovem.jpeg" 
+       alt="idjovemlogo" 
        width="300px">
-</h2>
-<br>
+</div>
+
 
 ## 1. Introdução e Objetivo 🎯
 

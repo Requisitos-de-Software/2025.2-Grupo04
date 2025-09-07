@@ -1,6 +1,8 @@
+<center>
 # ID JOVEM - Grupo 04
+</center>
 <div align="center">
-  <img src="docs/IDJovem.jpeg" 
+  <img src="docs/assets/IDJovem.jpeg" 
        alt="idjovemlogo" 
        width="300px">
 </div>

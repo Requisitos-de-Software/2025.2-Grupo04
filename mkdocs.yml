@@ -49,7 +49,12 @@ extra_css:
   - stylesheets/extra.css
 
 nav:
-  - Sobre: "index.md"
+  - Início: "index.md"
+  - Planejamento: "index.md"
+  - Apresentação: "index.md"
+  - Pré-Rastreabilidade: "index.md"
+  - Atas: "index.md"
+  - Contribuição: "index.md"
 
 #  - Guias:
      # - Guia de Contribuição: "guias/guia_de_contribuicao.md"

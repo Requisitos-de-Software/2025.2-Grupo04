@@ -23,4 +23,4 @@ Decidiu-se que o número de reuniões semanais seria variável, conforme detalha
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 11/04/2025 | Criação do plano de reuniões | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Nome](https://github.com/) |
+| `1.0` | 11/04/2025 | Criação do plano de reuniões | [Todos]() | [Todos]() |

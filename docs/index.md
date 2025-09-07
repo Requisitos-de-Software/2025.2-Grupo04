@@ -1,12 +1,12 @@
 # ID Jovem
 
-<h2 align="center">
-  <b><i>ID Jovem - 2025.2</i></b>
-    <img src="docs/IDJovem.jpeg" 
-       alt="IDJovem" 
-       width="300px">
-</h2>
-<br>
+<figure style="text-align: center;">
+  <img src="docs/assets/IDJovem.jpeg" alt="ID Jovem" style="max-width: 300px;">
+  <figcaption>
+    <strong>Figura 1:</strong> <i>ID Jovem</i>,&nbsp; <strong>Fonte:</strong> <i><a href="https://idjovem.juventude.gov.br/">ID Jovem</a></i>
+  </figcaption>
+</figure>
+
 
 
 ## Sobre o Projeto  

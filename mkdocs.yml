@@ -1,4 +1,4 @@
-site_name: 2025.2 (GRUPO 4) - ID JOVEM 
+site_name: ID JOVEM 
 
 repo_name: "ID JOVEM"
 repo_url: "https://github.com/Requisitos-de-Software/2025.2-Grupo04"
@@ -7,33 +7,27 @@ theme:
   name: material
   palette:
     - scheme: default
-      primary: deep blue
+      primary: blue
       accent: black
-      background: black
-      text: white
-      code: white
       toggle:
         icon: material/weather-sunny
-        name: Switch to dark mode
+        name: Mudar para modo escuro
     - scheme: slate
-      primary: deep blue
+      primary: blue
       accent: black
-      background: black
-      text: white
-      code: white
       toggle:
         icon: material/weather-night
-        name: Switch to light mode
+        name: Mudar para modo claro
 
   font:
     text: Poppins
     code: Inconsolata
-  font_size:
-    text: 16px
-    code: 14px
-  locale: pt_BR
 
-user_color_mode_toggle: true
+  features:
+    - navigation.tabs
+    - navigation.top
+
+  locale: pt_BR
 
 plugins:
   - search
@@ -43,37 +37,17 @@ markdown_extensions:
       custom_fences:
         - name: mermaid
           class: mermaid
-    
 
 extra_css:
   - stylesheets/extra.css
 
 nav:
-  - Início: "index.md"
-  - Planejamento: "index.md"
-  - Apresentação: "index.md"
-  - Pré-Rastreabilidade: "index.md"
-  - Atas: "index.md"
-  - Contribuição: "index.md"
-
-#  - Guias:
-     # - Guia de Contribuição: "guias/guia_de_contribuicao.md"
-
-#  - Equipe:
-      #- Gestão de Pareamentos: "equipe/gestao_de_pareamento.md"
-#  - Atas:
-      #AS ATAS PRECISAM SEGUIR ESSE PADRAO DE NOME:
-      #- Ata do dia XX/XX/2025: "Atas/ata_reuniao_XX_XX_25.md"
-      
-  
-#  - Lean Inception:
-    #- Visão do Produto: 'Lean_Inception/Vis_prod.md'
-    #- Objetivos do Produto: 'Lean_Inception/obj_prod.md'
-    #- Personas: 'Lean_Inception/personas.md'
-
-
-#  - Gestão do Projeto:
-    #- Metodologias e Ferramentas: 'projeto/metodologias_e_ferramentas.md'
-  
-#  - Encerramento:
-    #- Post Mortem: 'encerramento/post_mortem.md'
+  - Início: index.md
+  - Planejamento:
+      - Aplicativo: Planejamentos/Aplicativo.md
+      - Cronograma: Planejamentos/Cronograma.md
+      - Ferramentas: Planejamentos/Ferramentas.md
+      - Metodologias: Planejamentos/Metodologias.md
+      - Reunião: Planejamentos/Reunião.md
+  - Atas:
+      - Ata 01/09/2025: atas/ata_01_09.md

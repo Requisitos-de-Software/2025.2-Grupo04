@@ -25,7 +25,7 @@ Tabela 1: *Tabela dos rich pictures analisados*
 
 ### Motivações da escolha
 
-Após a análise de todos os rich pictures com base nos critérios definidos, o rich picture do aplicativo [ID Jovem](https://idjovem.juventude.gov.br/) <a id="anchor_4" href="#ref4"> ^4^ </a> foi inicialmente selecionado.
+Após a análise de todos os rich pictures com base nos critérios definidos, o rich picture do aplicativo [ID Jovem](https://idjovem.juventude.gov.br/) foi inicialmente selecionado.
 
 As motivações foram as seguintes:
 

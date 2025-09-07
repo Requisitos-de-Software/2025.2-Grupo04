@@ -44,4 +44,4 @@
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0`  | xx/xx/2025 | Criação da ata 01/05 | [NOME](https://github.com/nome) | [NOME](https://github.com/nome) |
+| `1.0`  | 07/09/2025 | Criação da ata 01/05 | Giovana (https://github.com/GiovanaFontesS) | Arthur (https://github.com/arthurfernandesj) |

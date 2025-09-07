@@ -1,12 +1,12 @@
 # Ata de Reunião 
 
-- **Data:** 01/05/2025
+- **Data:** xx/xx/2025
 
-- **Início:** 21:20
+- **Início:** xx:xx
 
-- **Fim:** 21:55
+- **Fim:** xx:xx
 
-- **Local:** Discord
+- **Local:** Teams
 
 ## Participantes
 

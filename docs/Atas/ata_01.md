@@ -1,10 +1,10 @@
 # Ata de Reunião 
 
-- **Data:** xx/xx/2025
+- **Data:** 01/09/2025
 
-- **Início:** xx:xx
+- **Início:** 20:00
 
-- **Fim:** xx:xx
+- **Fim:** 20:50
 
 - **Local:** Teams
 
@@ -17,28 +17,28 @@
 ## Gravação
 
 <p style="text-align: center">
-<iframe width="560" height="315" src="https://www.youtube.com/LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/1CVWwLR67BU?si=a5AuRqXWxnr7fd-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
 ## 1. Pauta da Reunião
 
-1. xxxxx
-2. xxxx  
-
+1. Análise de Aplicativos disponíveis;
+2. Heatmap dos integrantes;
+3. Análise do plano de ensino e cronograma;
 
 ## 2. Desenvolvimento
 
-### 2.1 xxxx
+### 2.1 Pesquisamos e debatemos os aplicativos que estavam disponiveis para o projeto, e fizemos o headmap dos integrantes do grupo para ter uma maior facilidade em organizar as proximas reuniões. Tambem foi análisado o plano de ensino e as principais datas de entregas.
 
 
 
 ## 3. Próxima Reunião
 
-- **Data**: xx/xx/2025
+- **Data**: 04/09/2025
 
 ## 4. Observações
-
-<br>
+ Para a proxima reunião estaá previsto a escolha definitiva de um aplicativo, a gitpage feita, e a organização para a primeira entrega do dia 09/09;
+<br> 
 
 ## Histórico de Versões 📅
 

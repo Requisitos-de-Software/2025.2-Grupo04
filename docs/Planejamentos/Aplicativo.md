@@ -9,8 +9,8 @@ No começo do projeto, cada membro do grupo criou um rich picture, totalizando s
 | [Arthur Fernandes](#) | [Metro DF](https://play.google.com/store/apps/details?id=br.gov.df.metroapp&hl=pt_BR) | [Rich picture](/assets/rich-pictures-analisados/Rich-Picture-Arthur.png) |
 | [Breno Lourenço](#) | [Moodle](https://play.google.com/store/apps/details?id=com.moodle.moodlemobile&hl=pt_BR) | [Rich picture](/assets/rich-pictures-analisados/Rich-Picture-Breno.jpg) |
 | [Danilo Melo](#) | [ID Jovem](https://www.idjovem.com.br) | [Rich picture](/assets/rich-pictures-analisados/Rich-Picture-Danilo.jpg) |
-| [Dylan Cavalcante](#) | []() | [Rich picture](/assets/rich-pictures-analisados/Dylan.png) |
-| [Eduarda Domingos](#) | []() | [Rich picture](/assets/rich-pictures-analisados/Eduarda.png) |
+| [Dylan Cavalcante](#) | [GitHub]() | [Rich picture](/assets/rich-pictures-analisados/Rich-Picture-Dylan.jpeg) |
+| [Eduarda Domingos](#) | []() | [Rich picture]() |
 | [Giovana Fontes](#) | [CIN](https://play.google.com/store/apps/details?id=com.identidadenacional&hl=pt_BR) | [Rich picture](/assets/rich-pictures-analisados/Rich-Picture-Giovana.png) |
 | [Leticia Lopes](#) | [CadÚnico](https://play.google.com/store/apps/details?id=br.gov.dataprev.meucadunico&hl=pt_BR) | [Rich picture](/assets/rich-pictures-analisados/Rich-Picture-Leticia.jpeg) |
 
@@ -30,7 +30,7 @@ Após a análise de todos os rich pictures com base nos critérios definidos, o 
 As motivações foram as seguintes:
 
 * O aplicativo não foi trabalhado anteriormente na disciplina;
-* O público-alvo é amplo (todos os eleitores brasileiros) e proporciona facilidade de acesso aos usuários do aplicativo;
+* O público-alvo é amplo dentro da juventude brasileira (jovens de 15 a 29 anos, de baixa renda e inscritos no CadÚnico), o que facilita o acesso e a obtenção de feedback; 
 * O aplicativo possui uma complexidade intermediária.
 
 ### Funcionalidades
@@ -65,7 +65,7 @@ Com o objetivo de verificar a viabilidade legal do desenvolvimento do projeto, d
 > <a id="REF4" href="#anchor_4">4.</a> Site ID Jovem. Disponível em <<https://idjovem.juventude.gov.br/>>. Acesso em: 07/09/2025.
 
 
-## Histórico de Versões 📅
+## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |

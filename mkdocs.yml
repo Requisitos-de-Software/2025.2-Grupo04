@@ -5,18 +5,18 @@ repo_url: "https://github.com/Requisitos-de-Software/2025.2-Grupo04"
 
 theme:
   name: material
-  logo: Logo_IDJovem.svg
+  logo: assets/Logo_IDJovem.svg
   favicon: Logo_IDJovem.svg
   palette:
     - scheme: default
-      primary: blue
-      accent: black
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-sunny
         name: Mudar para modo escuro
     - scheme: slate
-      primary: blue
-      accent: black
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-night
         name: Mudar para modo claro

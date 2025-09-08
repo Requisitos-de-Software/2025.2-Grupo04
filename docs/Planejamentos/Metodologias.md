@@ -78,4 +78,6 @@ Cada sprint terá objetivos claros, responsáveis definidos e entregáveis docum
 
 | Versão | Data       | Descrição                                        | Autor(es)    | Revisor(es) |
 |--------|-----------|-------------------------------------------------|-------------|-------------|
-| 1.0    | 08/09/2025 | Definição da metodologia Scrum utilizada no projeto, com papéis, eventos e artefatos. | @eduardar0 | @leticialopes20 |
+| 1.0    | 08/09/2025 | Definição da metodologia Scrum utilizada no projeto, com papéis, eventos e artefatos. | [Eduarda](https://github.com/eduardar0) | [Leticia](https://github.com/eduardar0/leticialopes20)|
+
+

@@ -10,7 +10,7 @@ No começo do projeto, cada membro do grupo criou um rich picture, totalizando s
 | [Breno Lourenço](#) | [Moodle](https://play.google.com/store/apps/details?id=com.moodle.moodlemobile&hl=pt_BR) | [Rich picture](/assets/rich-pictures-analisados/Rich-Picture-Breno.jpg) |
 | [Danilo Melo](#) | [ID Jovem](https://www.idjovem.com.br) | [Rich picture](/assets/rich-pictures-analisados/Rich-Picture-Danilo.jpg) |
 | [Dylan Cavalcante](#) | [GitHub]() | [Rich picture](/assets/rich-pictures-analisados/Rich-Picture-Dylan.jpeg) |
-| [Eduarda Domingos](#) | []() | [Rich picture]() |
+| [Eduarda Domingos](#) | [Meu INSS]() | [Rich picture](/assets/rich-pictures-analisados/Rich-Picture-Eduarda.png) |
 | [Giovana Fontes](#) | [CIN](https://play.google.com/store/apps/details?id=com.identidadenacional&hl=pt_BR) | [Rich picture](/assets/rich-pictures-analisados/Rich-Picture-Giovana.png) |
 | [Leticia Lopes](#) | [CadÚnico](https://play.google.com/store/apps/details?id=br.gov.dataprev.meucadunico&hl=pt_BR) | [Rich picture](/assets/rich-pictures-analisados/Rich-Picture-Leticia.jpeg) |
 

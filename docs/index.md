@@ -28,4 +28,4 @@ Esta página tem como finalidade analisar o aplicativo **ID Jovem**, escolhido p
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--------|------|-----------|-----------|-------------|
-| 1.0 | 06/09/2025 | Configuração do GitHub Pages | [Nome do Autor](https://github.com/dylancavalcante) | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+| 1.0 | 06/09/2025 | Configuração do GitHub Pages | [Dylan Cavalcante](https://github.com/dylancavalcante) | [Arthur Fernandes](https://github.com/arthurfernandesj) |

@@ -19,7 +19,7 @@ Decidiu-se que o número de reuniões semanais seria variável, conforme detalha
 - **Reunião(ões) Secundária(s)**: Ocorrerão apenas quando necessário, em sprints de maior demanda, com dia e horário definidos via *WhatsApp*. Cada reunião secundária será identificada com um código ".1", ".2", e assim sucessivamente, seguindo o código da última reunião principal realizada.
 <br>
 
-## Histórico de Versões 📅
+## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |

@@ -3,7 +3,7 @@
 # ID JOVEM - Grupo 04  
 <img src="docs/IdJovem.png" 
      alt="idjovemlogo" 
-     width="300px">
+     width="200px">
 
 </div>
 

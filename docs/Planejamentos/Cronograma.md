@@ -149,3 +149,5 @@
 | Versão | Data       | Descrição                                        | Autor(es)          | Revisor(es)       |
 |--------|-----------|-------------------------------------------------|------------------|-----------------|
 | 1.0    | 08/09/2025 | Criação do cronograma do projeto ID Jovem, com sprints, tarefas e responsáveis. Baseado no plano de ensino da disciplina e metodologia Scrum. | @eduardar0, @leticialopes20, @dylancavalcante, @EngDann, @BrenoLTeixeira | Todos |
+
+.

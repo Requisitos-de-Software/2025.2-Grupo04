@@ -6,13 +6,13 @@ No começo do projeto, cada membro do grupo criou um rich picture, totalizando s
 
 | Nome | Aplicativo | Rich picture |
 | :-: | :-: | :-: |
-| [Arthur Fernandes](#) | [Metro DF](https://play.google.com/store/apps/details?id=br.gov.df.metroapp&hl=pt_BR) | [Rich picture](/assets/rich-pictures-analisados/Rich-Picture-Arthur.png) |
-| [Breno Lourenço](#) | [Moodle](https://play.google.com/store/apps/details?id=com.moodle.moodlemobile&hl=pt_BR) | [Rich picture](/assets/rich-pictures-analisados/Rich-Picture-Breno.jpg) |
-| [Danilo Melo](#) | [ID Jovem](https://www.idjovem.com.br) | [Rich picture](/assets/rich-pictures-analisados/Rich-Picture-Danilo.jpg) |
+| [Arthur Fernandes](#) | [Metro DF](https://play.google.com/store/apps/details?id=br.gov.df.metroapp&hl=pt_BR) | [Rich picture](/assets/rich-pictures-analisados/Rich-Picture-Arthur.png)  |
+| [Breno Lourenço](#) | [Moodle](https://play.google.com/store/apps/details?id=com.moodle.moodlemobile&hl=pt_BR) | [Rich picture](/assets/rich-pictures-analisados/Rich-Picture-Breno.jpg)  |
+| [Danilo Melo](#) | [ID Jovem](https://www.idjovem.com.br) | [Rich picture](/assets/rich-pictures-analisados/Rich-Picture-Danilo.jpg)  |
 | [Dylan Cavalcante](#) | [GitHub](https://play.google.com/store/search?q=github&c=apps&hl=pt_BR) | [Rich picture](/assets/rich-pictures-analisados/Rich-Picture-Dylan.jpeg) |
-| [Eduarda Domingos](#) | [Meu INSS](https://play.google.com/store/apps/details?id=br.gov.dataprev.meuinss&hl=pt_BR) | [Rich picture](/assets/rich-pictures-analisados/Rich-Picture-Eduarda.png) |
-| [Giovana Fontes](#) | [CIN](https://play.google.com/store/apps/details?id=com.identidadenacional&hl=pt_BR) | [Rich picture](/assets/rich-pictures-analisados/Rich-Picture-Giovana.png) |
-| [Leticia Lopes](#) | [CadÚnico](https://play.google.com/store/apps/details?id=br.gov.dataprev.meucadunico&hl=pt_BR) | [Rich picture](/assets/rich-pictures-analisados/Rich-Picture-Leticia.jpeg) |
+| [Eduarda Domingos](#) | [Meu INSS](https://play.google.com/store/apps/details?id=br.gov.dataprev.meuinss&hl=pt_BR) | [Rich picture](/assets/rich-pictures-analisados/Rich-Picture-Eduarda.png) | |
+| [Giovana Fontes](#) | [CIN](https://play.google.com/store/apps/details?id=com.identidadenacional&hl=pt_BR) | [Rich picture](/assets/rich-pictures-analisados/Rich-Picture-Giovana.png) | |
+| [Leticia Lopes](#) | [CadÚnico](https://play.google.com/store/apps/details?id=br.gov.dataprev.meucadunico&hl=pt_BR) | [Rich picture](/assets/rich-pictures-analisados/Rich-Picture-Leticia.jpeg) ||
 
 
 Tabela 1: *Tabela dos rich pictures analisados*

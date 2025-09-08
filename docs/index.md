@@ -2,7 +2,7 @@
   <h1>Identidade Jovem - ID JOVEM</h1>
 
   <figure>
-    <img src="./IdJovem.png" alt="ID Jovem" style="max-width: 38%; display: block; margin: auto;">
+    <img src="assets/IdJovem.png" alt="ID Jovem" style="max-width: 38%; display: block; margin: auto;">
     <figcaption>
       <strong>Figura 1:</strong> <i>ID Jovem</i>,&nbsp; <strong>Fonte:</strong> <i><a href="https://idjovem.juventude.gov.br/">ID Jovem</a></i>
     </figcaption>

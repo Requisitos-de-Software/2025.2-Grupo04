@@ -4,52 +4,54 @@ repo_name: "ID Jovem"
 repo_url: "https://github.com/Requisitos-de-Software/2025.2-Grupo04"
 
 theme:
-  name: material
-  logo: Logo_IDJovem.svg
-  favicon: Logo_IDJovem.svg
-  palette:
-    - scheme: default
-      primary: blue
-      accent: black
-      toggle:
-        icon: material/weather-sunny
-        name: Mudar para modo escuro
-    - scheme: slate
-      primary: blue
-      accent: black
-      toggle:
-        icon: material/weather-night
-        name: Mudar para modo claro
+    name: material
+    logo: Logo_IDJovem.svg
+    favicon: Logo_IDJovem.svg
+    palette:
+        - scheme: default
+          primary: blue
+          accent: black
+          toggle:
+              icon: material/weather-sunny
+              name: Mudar para modo escuro
+        - scheme: slate
+          primary: blue
+          accent: black
+          toggle:
+              icon: material/weather-night
+              name: Mudar para modo claro
 
-  font:
-    text: Poppins
-    code: Inconsolata
+    font:
+        text: Poppins
+        code: Inconsolata
 
-  features:
-    - navigation.tabs
-    - navigation.top
+    features:
+        - navigation.tabs
+        - navigation.top
 
-  locale: pt_BR
+    locale: pt_BR
 
 plugins:
-  - search
+    - search
 
 markdown_extensions:
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
+    - pymdownx.superfences:
+          custom_fences:
+              - name: mermaid
+                class: mermaid
 
 extra_css:
-  - stylesheets/extra.css
+    - stylesheets/extra.css
 
 nav:
-  - Início: index.md
-  - Planejamento:
-      - Aplicativo: Planejamentos/Aplicativo.md
-      - Cronograma: Planejamentos/Cronograma.md
-      - Ferramentas: Planejamentos/Ferramentas.md
-      - Metodologias: Planejamentos/Metodologias.md
-      - Reunião: Planejamentos/Reunião.md
-  - Atas:
-      - Ata 01 (01/09): atas/ata_01_09.md
+    - Início: index.md
+    - Planejamento:
+          - Aplicativo: Planejamentos/Aplicativo.md
+          - Cronograma: Planejamentos/Cronograma.md
+          - Ferramentas: Planejamentos/Ferramentas.md
+          - Metodologias: Planejamentos/Metodologias.md
+          - Reunião: Planejamentos/Reunião.md
+    - Atas:
+          - Ata 01 (01/09): atas/ata_01_09.md
+    - Pré-Rastreabilidade:
+          - RichPicture: Pré-Rastreabilidade/RichPicture.md

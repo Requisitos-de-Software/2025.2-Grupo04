@@ -1,7 +1,7 @@
 <div align="center">
 
 # ID JOVEM - Grupo 04  
-<img src="docs/IdJovem.png.jpeg" 
+<img src="docs/IdJovem.png" 
      alt="idjovemlogo" 
      width="300px">
 

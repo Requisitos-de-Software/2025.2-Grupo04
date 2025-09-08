@@ -1,0 +1,30 @@
+name: Deploy MkDocs
+
+on:
+  push:
+    branches:
+      - main  # dispara quando você fizer push na main
+
+permissions:
+  contents: write  # necessário para publicar no gh-pages
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt      
+
+      - name: Deploy to GitHub Pages
+        run: |
+          mkdocs gh-deploy --force

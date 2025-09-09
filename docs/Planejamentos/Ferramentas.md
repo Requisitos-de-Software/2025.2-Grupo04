@@ -67,4 +67,4 @@ Com o objetivo de assegurar maior organização, eficiência na comunicação e 
 | :----: | :--------: | :-------------------------------------------: | :------------------------------------------------: | :----------------------------------------------------: |
 | `1.0`  | 08/09/2025 |       Criação da página de ferramentas        | [Letícia Lopes](https://github.com/leticialopes20) | [Dylan Cavalcante](https://github.com/dylancavalcante) |
 | `1.1`  | 08/09/2025 | Mudanças para melhor visualização das imagens |    [Danilo de Melo](https://github.com/engdann)    | [Dylan Cavalcante](https://github.com/dylancavalcante) |
-| `1.2`  | 09/09/2025 | Correção de tamanho das imagens |    [Breno Teixeira](https://github.com/BrenoLTeixeira)    | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| `1.2`  | 09/09/2025 | Correção do tamanho das imagens |    [Breno Teixeira](https://github.com/BrenoLTeixeira)    | [Arthur Fernandes](https://github.com/arthurfernandesj) |

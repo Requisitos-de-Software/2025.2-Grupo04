@@ -6,7 +6,7 @@ repo_url: "https://github.com/Requisitos-de-Software/2025.2-Grupo04"
 theme:
   name: material
   logo: assets/Logo_IDJovem.svg
-  favicon: Logo_IDJovem.svg
+  favicon: assets/Logo_IDJovem.svg
   palette:
     - scheme: default
       primary: custom
@@ -53,6 +53,32 @@ nav:
       - Reunião: Planejamentos/Reunião.md
   - Atas:
       - Ata 01 (01/09): atas/ata_01_09.md
+
+  - Inspeção:
+      - Processo de Inspeção: Inspecao/Processo_de_Inspecao.md
       
   - Pré-Rastreabilidade:
       - RichPicture: Pré-Rastreabilidade/RichPicture.md
+
+  - Elicitação:
+    - Perfil de Usuário: Elicitação/Perfil_de_Usuário.md
+    - Definição de Personas: Elicitação/Definicao_de_Personas.md
+    - Técnicas de Elicitação:
+        - Introspecção: Elicitação/Tecnicas_de_Elicitacao.md#introspeccao
+        - Questionário: Elicitação/Tecnicas_de_Elicitacao.md#questionario
+        - Brainstorming: Elicitação/Tecnicas_de_Elicitacao.md#brainstorming
+        - Observação: Elicitação/Tecnicas_de_Elicitacao.md#observacao
+    - Priorização: Elicitação/Priorizacao.md
+    - Requisitos Elicitados: Elicitação/Requisitos_Elicitados.md
+
+  - Modelagem:
+    - Diagramas: Modelagem/Diagramas.md
+    - Especificações: Modelagem/Especificacoes.md
+
+  - Pós-Rastreabilidade:
+      - Matriz de Rastreabilidade: Pos_Rastreabilidade/Matriz.md
+      - Relatórios: Pos_Rastreabilidade/Relatorios.md
+
+  - Entrega Final:
+      - Conclusão: Final/Conclusao.md
+      - Anexos: Final/Anexos.md

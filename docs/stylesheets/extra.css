@@ -1,0 +1,28 @@
+/* ====== PALETA CUSTOMIZADA ====== */
+
+/* 🌞 Modo Claro */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color:        #FA3938; /* Tomato Red */
+  --md-primary-fg-color--light: #FF6A5C; /* versão mais clara */
+  --md-primary-fg-color--dark:  #C8211D; /* versão mais escura */
+
+  --md-accent-fg-color: #2E4FC0; /* Azul intenso da logo */
+  --md-default-bg-color: #FFFFFF;
+  --md-default-fg-color: #212121;
+}
+
+/* 🌙 Modo Escuro */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color:        #FA3938; /* Tomato Red */
+  --md-primary-fg-color--light: #FF6A5C;
+  --md-primary-fg-color--dark:  #C8211D;
+
+  --md-accent-fg-color: #A15FB1; /* Roxo da logo */
+  --md-default-bg-color: #121212;
+  --md-default-fg-color: #E0E0E0;
+}
+/* Aumenta as imagens.*/
+table tr td:first-child img:nth-last-of-type(-n+3) {
+  max-width: 120px !important;
+  height: auto !important;
+}

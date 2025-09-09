@@ -1,9 +1,7 @@
 <div align="center">
 
 # ID JOVEM - Grupo 04  
-<img src="docs/IdJovem.png" 
-     alt="idjovemlogo" 
-     width="200px">
+<img width="262" height="83" alt="image" src="https://github.com/user-attachments/assets/7ea0095f-2c29-4427-9f44-2bda4ee2c810" />
 
 </div>
 

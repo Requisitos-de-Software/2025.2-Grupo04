@@ -62,6 +62,7 @@ Com o objetivo de assegurar maior organização, eficiência na comunicação e 
 
 ## Histórico de Versões 📅
 
-| Versão |    Data    |            Descrição             |                     Autor(es)                      |                      Revisor(es)                       |
-| :----: | :--------: | :------------------------------: | :------------------------------------------------: | :----------------------------------------------------: |
-| `1.0`  | 08/09/2025 | Criação da página de ferramentas | [Letícia Lopes](https://github.com/leticialopes20) | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+| Versão |    Data    |                   Descrição                   |                     Autor(es)                      |                      Revisor(es)                       |
+| :----: | :--------: | :-------------------------------------------: | :------------------------------------------------: | :----------------------------------------------------: |
+| `1.0`  | 08/09/2025 |       Criação da página de ferramentas        | [Letícia Lopes](https://github.com/leticialopes20) | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+| `1.1`  | 08/09/2025 | Mudanças para melhor visualização das imagens |    [Danilo de Melo](https://github.com/engdann)    | [Dylan Cavalcante](https://github.com/dylancavalcante) |

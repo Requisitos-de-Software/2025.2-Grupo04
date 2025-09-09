@@ -55,7 +55,7 @@ nav:
       - Ata 01 (01/09): atas/ata_01_09.md
 
   - Inspeção:
-      - Processo de Inspeção: Inspecao/Processo_de_Inspecao.md
+      - Processo de Inspeção: Inspeção/Processo_de_Inspecao.md
       
   - Pré-Rastreabilidade:
       - RichPicture: Pré-Rastreabilidade/RichPicture.md
@@ -64,10 +64,10 @@ nav:
     - Perfil de Usuário: Elicitação/Perfil_de_Usuário.md
     - Definição de Personas: Elicitação/Definicao_de_Personas.md
     - Técnicas de Elicitação:
-        - Introspecção: Elicitação/Tecnicas_de_Elicitacao.md#introspeccao
-        - Questionário: Elicitação/Tecnicas_de_Elicitacao.md#questionario
-        - Brainstorming: Elicitação/Tecnicas_de_Elicitacao.md#brainstorming
-        - Observação: Elicitação/Tecnicas_de_Elicitacao.md#observacao
+        - Introspecção: Elicitação/Introspecao.md
+        - Questionário: Elicitação/Questionario.md
+        - Brainstorming: Elicitação/Brainstorming.md
+        - Observação: Elicitação/Observacao.md
     - Priorização: Elicitação/Priorizacao.md
     - Requisitos Elicitados: Elicitação/Requisitos_Elicitados.md
 
@@ -76,9 +76,10 @@ nav:
     - Especificações: Modelagem/Especificacoes.md
 
   - Pós-Rastreabilidade:
-      - Matriz de Rastreabilidade: Pos_Rastreabilidade/Matriz.md
-      - Relatórios: Pos_Rastreabilidade/Relatorios.md
+      - Matriz de Rastreabilidade: Pós-Rastreabilidade/Matriz.md
+      - Relatórios: Pós-Rastreabilidade/Relatorios.md
 
   - Entrega Final:
-      - Conclusão: Final/Conclusao.md
-      - Anexos: Final/Anexos.md
+      - Conclusão: Entrega-Final/Conclusao.md
+      - Anexos: Entrega-Final/Anexos.md
+

@@ -54,7 +54,7 @@ Clique [AQUI](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8P
 | ***13:*** Cada atividade tem uma estimativa de duração? [(2)](#RP2) | [Danilo](https://github.com/EngDann) |  |  | ![][image11] |  |  |
 | ***14:*** As datas de início e fim do projeto estão definidas? [(2)](#RP2) | [Danilo](https://github.com/EngDann) |  |  | ![][image11] |  |  |
 | ***15:*** As dependências entre atividades foram consideradas? [(2)](#RP2) | [Danilo](https://github.com/EngDann) |  |  | ![][image12] |  |  |
-| ***16:*** O cronograma está sendo acompanhado e atualizado? [(2)](#RP2) | [Breno](https://github.com/dudaa28) |  |  | ![][image13] |  |  |
+| ***16:*** O cronograma está sendo acompanhado e atualizado? [(2)](#RP2) | [Breno](https://github.com/BrenoLTeixeira) |  |  | ![][image13] |  |  |
 
 ### ✅ Rich Picture
 

@@ -66,4 +66,4 @@ Com o objetivo de verificar a viabilidade legal do desenvolvimento do projeto, d
 
 | Versão |    Data    |      Descrição       |                        Autor(es)                        |                       Revisor(es)                       |
 | :----: | :--------: | :------------------: | :-----------------------------------------------------: | :-----------------------------------------------------: |
-| `1.0`  | 10/04/2025 | Criação do documento | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| `1.0`  | 07/09/2025 | Criação do documento | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Arthur Fernandes](https://github.com/arthurfernandesj) |

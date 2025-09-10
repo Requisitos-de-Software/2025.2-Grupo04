@@ -10,8 +10,15 @@ A entrega 1 consiste na base inicial que guiará o time nas próximas entregas. 
 
 ---
 
-<p style="text-align: center">
-<iframe width="560" height="315" src="https://youtu.be/mn22MRRCZZ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p align="center"> 
+<iframe width="560" height="315" 
+          src="https://www.youtube.com/embed/mn22MRRCZZ4" 
+          title="YouTube video player" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+          referrerpolicy="strict-origin-when-cross-origin" 
+          allowfullscreen>
+  </iframe>
 </p>
 
 ---
@@ -77,7 +84,7 @@ Clique [AQUI](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8P
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |:-:|:-:|:-:|:-:|:-:|
-| `1.0`  | 13/04/2025 | Adição da Entrega 01 | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Leticia](https://github.com/leticialopes20) |
+| `1.0`  | 07/09/2025 | Adição da Entrega 01 | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Leticia](https://github.com/leticialopes20) |
 
 
 [image1]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEoAAAAFCAYAAADi3nrIAAAAvElEQVR4XmP4PwqIAgzoArQEWzZvRxeiCviJLkADgBFQN179QOHffAN0xp8v////Pgfmb96wEUw/f/EerubV3cv/X965BOejmvD//50XX/7/QeIjq4WZ8/Xlnf/nzlyEi4PApbtv/r/5/RuI//9n5AtDkQNqQOUDwZ1LF/4/+vv//9/Pz/5fuHwHRe7ynRco/DfojiQAwAHFyKb+Xz2w6n9GQ8t/BWbW/zxmjWDJlauWoigeyQAjRY0C7AAApJurko2iqMIAAAAASUVORK5CYII=>

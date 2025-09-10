@@ -40,4 +40,4 @@ O objetivo dessa página é armazenar o vídeo da apresentação da Primeira Ent
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--------|------|-----------|-----------|-------------|
-| 1.0 | 07/09/2025 | Criação da tbela de lista de verificação  | [Arthur Fernandes](https://github.com/Arthurfernandesj) | [Arthur Fernandes ](https://github.com/Arthurfernandesj) |
+| 1.0 | 07/09/2025 | Criação da tabela de lista de verificação  | [Todos]() | [Todos ]() |

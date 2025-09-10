@@ -3,7 +3,7 @@
 
 ## Introdução
 
-A entrega 1 consiste na base inicial que guiará o time nas próximas entregas. Com o app definido a princípio, o *HBO MAx*, o grupo 05 estabeleceu e organizou o *GitHub Pages* com o esquema inicial de páginas para apresentar a documentação do projeto. Além disso, cumpriu também a etapa de [Pré-Rastreabilidade](../Pré-Rastreabilidade/RichPicture.md), que consiste na criação do Rich Picture. Dessa forma, o time concluiu a sua primeira entrega e seguiu para a [Inspeção do Grupo +1](../Inspeção/Processo_de_Inspecao.md).
+A entrega 1 consiste na base inicial que guiará o time nas próximas entregas. Com o app definido a princípio, o *ID Jovem*, o grupo 04 estabeleceu e organizou o *GitHub Pages* com o esquema inicial de páginas para apresentar a documentação do projeto. Além disso, cumpriu também a etapa de [Pré-Rastreabilidade](../Pré-Rastreabilidade/RichPicture.md), que consiste na criação do Rich Picture. Dessa forma, o time concluiu a sua primeira entrega e seguiu para a [Inspeção do Grupo +1](../Inspeção/Processo_de_Inspecao.md).
 
 
 ## Apresentação
@@ -18,7 +18,7 @@ A entrega 1 consiste na base inicial que guiará o time nas próximas entregas. 
 
 ## Modelo para Lista de Verificação/Inspeção da Entrega 1
 
-Clique [AQUI](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7) se você quiser verificar os **prints das referências**.
+Clique [AQUI](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7?usp=sharing) se você quiser verificar os **prints das referências**.
 
 ### ✅ Equipe
 

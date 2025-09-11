@@ -12,7 +12,7 @@ A ferramenta Miro foi fundamental para a elaboração do diagrama visual do proj
 
 _Figura 1: Rich Picture do ecossistema IdJovem._
 
-![Diagrama visual mostrando o fluxo de interações entre jovens, governo e empresas parceiras do programa IdJovem](../assets/rich-picture-final/rich-picture.png)
+![Diagrama visual mostrando o fluxo de interações entre jovens, governo e empresas parceiras do programa IdJovem](../../assets/rich-picture-final/rich-picture.png)
 
 _Fonte: Autores._
 
@@ -29,7 +29,7 @@ A legenda a seguir (Figura 2) detalha os símbolos visuais que compõem a Rich P
 
 _Figura 2: Legenda oficial da Rich Picture do ID Jovem._
 
-![Legenda detalhando os símbolos do diagrama ID Jovem: Ator, Operação, Armazenamento, Nuvem externa, Limite do sistema e Setas.](../assets/rich-picture-final/legenda.png)
+![Legenda detalhando os símbolos do diagrama ID Jovem: Ator, Operação, Armazenamento, Nuvem externa, Limite do sistema e Setas.](../../assets/rich-picture-final/legenda.png)
 
 _Fonte: Autores._
 

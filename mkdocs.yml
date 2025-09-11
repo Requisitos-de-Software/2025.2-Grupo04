@@ -45,6 +45,12 @@ extra_css:
 
 nav:
   - Início: index.md
+
+
+  - Apresentação:
+      - Apresentação: Apresentação/apresentacao01.md 
+
+
   - Planejamento:
       - Aplicativo: Planejamentos/Aplicativo.md
       - Cronograma: Planejamentos/Cronograma.md
@@ -53,9 +59,15 @@ nav:
       - Reunião: Planejamentos/Reunião.md
   - Atas:
       - Ata 01 (01/09): atas/ata_01_09.md
+      - Ata 02 (07/09): atas/ata_07_09.md
+      - Ata 03 (08/09): atas/ata_08_09.md
+  
+  - Entregas:
+      - Entrega 01: Entregas/Entrega_01.md
+
 
   - Inspeção:
-      - Processo de Inspeção: Inspeção/Processo_de_Inspecao.md
+      - Processo de Inspeção: Inspeção/inspecao01.md
       
   - Pré-Rastreabilidade:
       - RichPicture: Pré-Rastreabilidade/RichPicture.md

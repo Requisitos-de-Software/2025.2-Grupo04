@@ -42,4 +42,4 @@ Os artefatos previstos, associados a cada entrega, estão listados a seguir com 
 
 | Item | Escopo | Artefatos | Data | Gravação | Autor(es) | Revisor(es) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| **Entrega** `1` | *Pré-Rastreabilidade* | `Planejamento` e `Rich Map` | 11/09/2025 | [[LINK]]() | [Nome](), [nome]()| 
+| **Entrega** `1` | *Pré-Rastreabilidade* | `Planejamento` e `Rich Map` | 11/09/2025 | [[https://img.youtube.com/vi/mn22MRRCZZ4/hqdefault.jpg]]() | [Todos](), [Todos]()| 

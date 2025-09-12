@@ -46,52 +46,48 @@ extra_css:
 nav:
   - Início: index.md
 
-
-  - Apresentação:
-      - Apresentação: Apresentação/apresentacao01.md 
-
-
   - Planejamento:
       - Aplicativo: Planejamentos/Aplicativo.md
       - Cronograma: Planejamentos/Cronograma.md
       - Ferramentas: Planejamentos/Ferramentas.md
       - Metodologias: Planejamentos/Metodologias.md
-      - Reunião: Planejamentos/Reunião.md
-  - Atas:
-      - Ata 01 (01/09): atas/ata_01_09.md
-      - Ata 02 (07/09): atas/ata_07_09.md
-      - Ata 03 (08/09): atas/ata_08_09.md
+      
+
+  - Encontros:
+      - Reunião: Encontros/Reunião.md
+      - Atas:
+        - Ata 01 (01/09): Encontros/atas/ata_01_09.md
+        - Ata 02 (07/09): Encontros/atas/ata_07_09.md
+        - Ata 03 (08/09): Encontros/atas/ata_08_09.md
   
   - Entregas:
-      - Entrega 01: Entregas/Entrega_01.md
+      - Entrega 01:
+          - Pré-Rastreabilidade (RichPicture): Entregas/Entregas_01/RichPicture.md
+          - Apresentação: Entregas/Entregas_01/apresentacao01.md
+          - Verificação e inspeção: Entregas/Entregas_01/Entrega_01.md
+          - Inspeção grupo n+1: Entregas/Entregas_01/inspecao01.md
 
+      - Entrega 02:
+          - Elicitação:
+            - Perfil de Usuário: Entrega_02/Elicitação/Perfil_de_Usuário.md
+            - Definição de Personas: Entrega_02/Elicitação/Definicao_de_Personas.md
+            - Técnicas de Elicitação:
+              - Introspecção: Entrega_02/Elicitação/Introspecao.md
+              - Questionário: Entrega_02/Elicitação/Questionario.md
+              - Brainstorming: Entrega_02/Elicitação/Brainstorming.md
+              - Observação: Entrega_02/Elicitação/Observacao.md
+            - Priorização: Entrega_02/Elicitação/Priorizacao.md
+            - Requisitos Elicitados: Entrega_02/Elicitação/Requisitos_Elicitados.md
+            
+      - Entrega 03:
+          - Modelagem:
+            - Diagramas: Entregas/Entregas_03/Modelagem/Diagramas.md
+            - Especificações: Entregas/Entregas_03/Modelagem/Especificacoes.md
+          - Pós-Rastreabilidade:
+            - Matriz de Rastreabilidade: Entregas/Entregas_03/Pós-Rastreabilidade/Matriz.md
+            - Relatórios: Entregas/Entregas_03/Pós-Rastreabilidade/Relatorios.md
 
-  - Inspeção:
-      - Processo de Inspeção: Inspeção/inspecao01.md
-      
-  - Pré-Rastreabilidade:
-      - RichPicture: Pré-Rastreabilidade/RichPicture.md
-
-  - Elicitação:
-    - Perfil de Usuário: Elicitação/Perfil_de_Usuário.md
-    - Definição de Personas: Elicitação/Definicao_de_Personas.md
-    - Técnicas de Elicitação:
-        - Introspecção: Elicitação/Introspecao.md
-        - Questionário: Elicitação/Questionario.md
-        - Brainstorming: Elicitação/Brainstorming.md
-        - Observação: Elicitação/Observacao.md
-    - Priorização: Elicitação/Priorizacao.md
-    - Requisitos Elicitados: Elicitação/Requisitos_Elicitados.md
-
-  - Modelagem:
-    - Diagramas: Modelagem/Diagramas.md
-    - Especificações: Modelagem/Especificacoes.md
-
-  - Pós-Rastreabilidade:
-      - Matriz de Rastreabilidade: Pós-Rastreabilidade/Matriz.md
-      - Relatórios: Pós-Rastreabilidade/Relatorios.md
-
-  - Entrega Final:
-      - Conclusão: Entrega-Final/Conclusao.md
-      - Anexos: Entrega-Final/Anexos.md
+      - Entrega Final:
+        - Conclusão: Entregas/Entrega-Final/Conclusao.md
+        - Anexos: Entregas/Entrega-Final/Anexos.md
 

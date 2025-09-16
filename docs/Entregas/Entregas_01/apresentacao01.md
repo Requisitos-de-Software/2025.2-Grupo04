@@ -19,6 +19,7 @@ O objetivo dessa página é armazenar o vídeo da apresentação da Primeira Ent
 | 10 - Uma página com as atas de reunião com o acesso a gravação (vídeo), quando houver. | Conforme | 07/09 16:30 |
 
 <font size="2"><p style="text-align: center"><b>Tabela 1</b> - Lista de Verificação</p></font>
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></p>
 
 
 | Itens do Desenvolvimento do projeto. | Avaliação (Conforme / Não Conforme / Não aplicável/ Sugestão de Melhoria) | Versão, Data e hora da avaliação |
@@ -35,9 +36,11 @@ O objetivo dessa página é armazenar o vídeo da apresentação da Primeira Ent
 | 10 - Tabela de contribuição no início do artefato com o nome de todos os integrantes com a contribuição de cada integrante com hiperligação atividade e da gravação, se houver. | Conforme | 07/09 17:00 |
 
 <font size="2"><p style="text-align: center"><b>Tabela 2</b> - Lista de verificação Desenvolvimento do projeto. </p></font>
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></p>
  
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--------|------|-----------|-----------|-------------|
 | 1.0 | 07/09/2025 | Criação da tabela de lista de verificação  | [Todos]() | [Todos ]() |
+| 1.2 | 16/09/2025 | Melhoria na descrição e tabela  | [Arthur Fernandes](https://github.com/arthurfernandesj) | []() |

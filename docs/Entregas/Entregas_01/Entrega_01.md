@@ -3,7 +3,7 @@
 
 ## Introdução
 
-A entrega 1 consiste na base inicial que guiará o time nas próximas entregas. Com o app definido a princípio, o *ID Jovem*, o grupo 04 estabeleceu e organizou o *GitHub Pages* com o esquema inicial de páginas para apresentar a documentação do projeto. Além disso, cumpriu também a etapa de [Pré-Rastreabilidade](../Pré-Rastreabilidade/RichPicture.md), que consiste na criação do Rich Picture. Dessa forma, o time concluiu a sua primeira entrega e seguiu para a [Inspeção do Grupo +1](../Inspeção/Processo_de_Inspecao.md).
+A entrega 1 consiste na base inicial que guiará o time nas próximas entregas. Com o app definido a princípio, o *ID Jovem*, o grupo 04 estabeleceu e organizou o *GitHub Pages* com o esquema inicial de páginas para apresentar a documentação do projeto. Além disso, cumpriu também a etapa de [Pré-Rastreabilidade](../Entregas_01/RichPicture.md), que consiste na criação do Rich Picture. Dessa forma, o time concluiu a sua primeira entrega e seguiu para a [Inspeção do Grupo +1](../Inspeção/Processo_de_Inspecao.md).
 
 
 ## Apresentação
@@ -25,7 +25,7 @@ A entrega 1 consiste na base inicial que guiará o time nas próximas entregas. 
 
 ## Modelo para Lista de Verificação/Inspeção da Entrega 1
 
-Clique [AQUI](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7?usp=sharing) se você quiser verificar os **prints das referências**.
+Clique [AQUI](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7?usp=sharing) se você quiser verificar os prints das referências
 
 ### ✅ Equipe
 
@@ -76,15 +76,16 @@ Clique [AQUI](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8P
 
 ## Referências Bibliográficas
 
-> <a id="RP1" href="#TEC1">1.</a> CTEC2402 Software Development Project. Introducing Rich Pictures. [S. l.: s. n.]. Disponível em: https://aprender3.unb.br/pluginfile.php/3096055/mod_resource/content/2/1_5145791542719414573.pdf. Acesso em: 08 set. 2025.
+> <a id="RP1" href="#TEC1">1.</a> CTEC2402 Software Development Project. Introducing Rich Pictures. [S. l.: s. n.]. Disponível em:[ https://aprender3.unb.br/pluginfile.php/3096055/mod_resource/content/2/1_5145791542719414573.pdf](https://aprender3.unb.br/course/view.php?id=27470). Acesso em: 08 set. 2025.
 
-> <a id="RP2" href="#TEC2">2.</a> SALES, André Barros. Sugestão inicial da Lista de Verificação para algumas entregas do projeto. [S. l.: s. n.]. Disponível em: https://aprender3.unb.br/pluginfile.php/3106711/mod_resource/content/58/Lista%20de%20Verifica%C3%A7%C3%A3o%20-%20Plano_de_Ensino%20RE%20012025%20Turma%2003%20v2.pdf. Acesso em: 08 set. 2025.
+> <a id="RP2" href="#TEC2">2.</a> SALES, André Barros. Sugestão inicial da Lista de Verificação para algumas entregas do projeto. [S. l.: s. n.]. Disponível em: [https://aprender3.unb.br/pluginfile.php/3106711/mod_resource/content/58/Lista%20de%20Verifica%C3%A7%C3%A3o%20-%20Plano_de_Ensino%20RE%20012025%20Turma%2003%20v2.pdf](https://aprender3.unb.br/course/view.php?id=27470). Acesso em: 08 set. 2025.
 
 ## Histórico de Versões 📅
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |:-:|:-:|:-:|:-:|:-:|
 | `1.0`  | 07/09/2025 | Adição da Entrega 01 | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Leticia](https://github.com/leticialopes20) |
+| `1.2`;  | 16/09/2025 | Atualização no link | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
 
 
 [image1]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEoAAAAFCAYAAADi3nrIAAAAvElEQVR4XmP4PwqIAgzoArQEWzZvRxeiCviJLkADgBFQN179QOHffAN0xp8v////Pgfmb96wEUw/f/EerubV3cv/X965BOejmvD//50XX/7/QeIjq4WZ8/Xlnf/nzlyEi4PApbtv/r/5/RuI//9n5AtDkQNqQOUDwZ1LF/4/+vv//9/Pz/5fuHwHRe7ynRco/DfojiQAwAHFyKb+Xz2w6n9GQ8t/BWbW/zxmjWDJlauWoigeyQAjRY0C7AAApJurko2iqMIAAAAASUVORK5CYII=>

@@ -48,6 +48,7 @@ nav:
 
   - Planejamento:
       - Aplicativo: Planejamentos/Aplicativo.md
+      - Aplicativo Avaliado: Planejamentos/Aplicativos_Avaliados.md
       - Cronograma: Planejamentos/Cronograma.md
       - Ferramentas: Planejamentos/Ferramentas.md
       - Metodologias: Planejamentos/Metodologias.md
@@ -91,3 +92,18 @@ nav:
         - Conclusão: Entregas/Entrega-Final/Conclusao.md
         - Anexos: Entregas/Entrega-Final/Anexos.md
 
+  - Elicitação: 
+    - Perfil de Usuário: Elicitação/Perfil_de_Usuário.md
+    - Personas: Elicitação/Definicao_de_Personas.md
+    - Técnicas de Elicitação:
+      - Introspecção: Elicitação/Introspecao.md
+      - Questionário: Elicitação/Questionario.md
+      - Brainstorming: Elicitação/Brainstorming.md
+      - Observação: Elicitação/Observacao.md
+    
+    - Priorização:
+      - $ 100: Elicitação/100_Pontos.md
+      - First Things First: Elicitação/First_Things_First.md
+      - Three Level Scale: Elicitação/Three_Level_Scale.md
+    - Elicitação: Elicitação/Requisitos_Elicitados.md
+    

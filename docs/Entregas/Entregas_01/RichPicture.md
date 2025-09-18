@@ -14,9 +14,9 @@ _Figura 1: Rich Picture do ecossistema IdJovem._
 
 ![Diagrama visual mostrando o fluxo de interações entre jovens, governo e empresas parceiras do programa IdJovem](../../assets/rich-picture-final/rich-picture.png)
 
-_Fonte: Autores._
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></p>
 
-# Legenda
+## Legenda
 
 A legenda a seguir (Figura 2) detalha os símbolos visuais que compõem a Rich Picture do ID Jovem. Cada elemento foi escolhido para representar um componente-chave do ecossistema do programa:
 
@@ -31,10 +31,11 @@ _Figura 2: Legenda oficial da Rich Picture do ID Jovem._
 
 ![Legenda detalhando os símbolos do diagrama ID Jovem: Ator, Operação, Armazenamento, Nuvem externa, Limite do sistema e Setas.](../../assets/rich-picture-final/legenda.png)
 
-_Fonte: Autores._
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></p>
 
 # Histórico de Versões
 
 | Versão | Data       | Descrição                                   | Autor       | Revisor          |
 | :----- | :--------- | :------------------------------------------ | :---------- | :--------------- |
 | 1.0    | 08/09/2025 | Criação do documento para o projeto IdJovem | Danilo Melo | Arthur Fernandes |
+| 1.2    | 16/09/2025 | Atualização nas legendas                    | Arthur Fernandes |  |

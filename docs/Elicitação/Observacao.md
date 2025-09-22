@@ -153,7 +153,7 @@ As funcionalidades observadas foram organizadas a seguir como possíveis **Requi
 | RNF13  | O sistema deve estar em conformidade com a Lei Geral de Proteção de Dados (LGPD)                          | OB22 |     Sim      |
 | RNF14  | O aplicativo deve ocupar pouco espaço de armazenamento no dispositivo do usuário                          | OB23 |     Sim      |
 | RNF15  | O design deve ser responsivo, adaptando-se a diferentes tamanhos e resoluções de tela                     | OB24 |     Sim      |
-| RNF16  | A navegação deve ser intuitiva, com ícones e menus de fácil entendimento                                   | OB25 |     Sim      |
+| RNF16  | A navegação deve ser intuitiva, com ícones e menus de fácil entendimento                                  | OB25 |     Sim      |
 
 
 
@@ -182,6 +182,6 @@ As funcionalidades observadas foram organizadas a seguir como possíveis **Requi
 
 | Versão | Data       | Descrição                                        | Autor(es)    | Revisor(es) |
 |--------|-----------|-------------------------------------------------|-------------|-------------|
-| 1.0    | 17/09/2025 | Criação da página | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Nome](https://github.com/)|
+| 1.0    | 17/09/2025 | Criação da página | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Dylan](https://github.com/dylancavalcante)|
 
 

@@ -2,7 +2,7 @@
 
 ## Escolha do Aplicativo
 
-No começo do projeto, cada membro do grupo criou um rich picture, totalizando sete representações visuais. Posteriormente, realizamos uma [reunião](../Encontros/atas/ata_01_09.md) para avaliar os rich pictures com base em determinados critérios. Durante essa reunião, decidimos utilizar o aplicativo **ID Jovem** para o desenvolvimento do projeto. Os rich pictures produzidos por cada integrante e selecionados para análise estão disponíveis em  [Aplicativos Avaliados](../Planejamentos/Aplicativos_Avaliados.md)
+No começo do projeto, cada membro do grupo criou um rich picture, totalizando sete representações visuais. Posteriormente, realizamos uma [reunião](../Encontros/atas/ata_01_09.md) para avaliar os rich pictures com base em determinados critérios. Durante essa reunião, decidimos utilizar o aplicativo **ID Jovem** para o desenvolvimento do projeto. Os rich pictures produzidos por cada integrante e selecionados para análise estão disponíveis em  [Aplicativos Avaliados](../Planejamentos/Aplicativos_Avaliados.md). Além disso, também fizemos uma pesquisa mais detalhada no site do governo e na própria documentação do programa, a fim de compreender melhor suas funcionalidades, como quem pode utilizar, de que forma solicitar os serviços disponíveis, como o aplicativo funciona, entre outros aspectos. Esse levantamento foi essencial para que tivéssemos uma visão mais ampla e embasada do aplicativo antes de escolher definitivamente.
 
 
 
@@ -57,4 +57,5 @@ Com o objetivo de verificar a viabilidade legal do desenvolvimento do projeto, d
 | Versão |    Data    |      Descrição       |                        Autor(es)                        |                       Revisor(es)                       |
 | :----: | :--------: | :------------------: | :-----------------------------------------------------: | :-----------------------------------------------------: |
 | `1.0`  | 07/09/2025 | Criação do documento | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
-| `1.2`  | 16/09/2025 | Mudança na descrição da escolha do aplicativo | [Arthur Fernandes](https://github.com/arthurfernandesj) | []() |
+| `1.2`  | 16/09/2025 | Mudança na descrição da escolha do aplicativo | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Giovana](https://github.com/GiovanaFontesS) |
+| `1.3`  | 16/09/2025 | Aletrações adicionais ditas na apresentação | [Giovana](https://github.com/GiovanaFontesS) | []() |

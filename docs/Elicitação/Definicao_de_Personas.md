@@ -10,7 +10,7 @@ O desenvolvimento de um aplicativo eficaz requer uma compreensão profunda dos u
 A seguir estão as personas definidas para o aplicativo:
 
 ### Persona 1 – Ana Clara
-| ![Imagem da Persona](../Imagens/personas/persona1.png) |
+| ![Imagem da Persona](../assets/personas/persona1.png) |
 | --- |
 | **Status:** Persona Primária |
 | **Idade:** 19 anos |

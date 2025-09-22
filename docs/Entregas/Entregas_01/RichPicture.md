@@ -10,6 +10,10 @@ No caso do Aplicativo ID Jovem, a Rich Picture (Figura 1) delimita as funcionali
 Para a elaboração do Rich Picture do ID Jovem, realizamos uma breve pesquisa com o objetivo de compreender melhor as funcionalidades do aplicativo. Foram consultadas informações disponibilizadas no portal do Governo Federal, onde é possível encontrar detalhes sobre quem pode utilizar o programa, como solicitar os serviços, seu funcionamento e demais orientações. Além disso, também analisamos a própria documentação do ID Jovem, que serviu de base para estruturar e representar de forma mais clara os elementos e relações presentes no Rich Picture.
 
 
+## Pesquisa e Coleta de Dados 
+Para a elaboração do Rich Picture do ID Jovem, realizamos uma breve pesquisa com o objetivo de compreender melhor as funcionalidades do aplicativo. Foram consultadas informações disponibilizadas no portal do Governo Federal, onde é possível encontrar detalhes sobre quem pode utilizar o programa, como solicitar os serviços, seu funcionamento e demais orientações. Além disso, também analisamos a própria documentação do ID Jovem, que serviu de base para estruturar e representar de forma mais clara os elementos e relações presentes no Rich Picture.
+
+
 ## Metodologia e Ferramentas
 
 A ferramenta Miro foi fundamental para a elaboração do diagrama visual do projeto. Com ela, criamos a Rich Picture e sua legenda correspondente, que detalha o significado de cada elemento gráfico. Esse diagrama, mostrado na Figura 1, é essencial para uma visão completa do escopo e do contexto do nosso trabalho.

@@ -9,16 +9,15 @@
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 |-----------|---------------------------|--------------|---------|-----------|
-| Definição da equipe e papéis (Heatmap) |  02/09 - 03/09 | Todos |  04/09 | Arthur |
-| Levantamento e avaliação de apps |  02/09 - 04/09 | Todos |  05/09 - 05/09 | Eduarda |
-| Seleção do app final |  05/09 - 06/09 | Todos |  07/09 - 07/09 | Leticia |
-| Obtenção do Termo de Uso |  05/09 - 06/09 | Arthur |  07/09 - 07/09 | Danilo |
-| Definição das ferramentas do projeto |  03/09 - 05/09 | Leticia |  06/09 - 06/09 | Dylan |
-| Elaboração do cronograma detalhado |  04/09 - 08/09 | Danilo, Eduarda, Leticia, Breno |  07/09 - 08/09 | Giovana |
-|Metodologia de Desenvolvimento |  04/09 - 08/09 | Eduarda |  08/09 - 08/09 | Leticia |
-| Construção do Rich Picture |  06/09 - 07/09 | Giovana |  08/09 - 08/09 | Dylan |
-| Preparação e gravação da apresentação |  08/09 - 09/09 | Todos |  09/09 - 09/09 | Todos |
-| Correção pós apresentação |  10/09 - 11/09 | Todos |  12/09 - 12/09 | Todos |
+| Definição da equipe e papéis (Heatmap) | Início: 02/09<br>Fim: 03/09 | Todos | Início: 04/09<br>Fim: 04/09 | Arthur |
+| Levantamento e avaliação de apps | Início: 02/09<br>Fim: 04/09 | Todos | Início: 05/09<br>Fim: 05/09 | Eduarda |
+| Seleção do app final | Início: 05/09<br>Fim: 06/09 | Todos | Início: 07/09<br>Fim: 07/09 | Leticia |
+| Obtenção do Termo de Uso | Início: 05/09<br>Fim: 06/09 | Arthur | Início: 07/09<br>Fim: 07/09 | Danilo |
+| Definição das ferramentas do projeto | Início: 03/09<br>Fim: 05/09 | Leticia | Início: 06/09<br>Fim: 06/09 | Dylan |
+| Elaboração do cronograma detalhado | Início: 04/09<br>Fim: 06/09 | Danilo, Eduarda, Leticia, Breno | Início: 07/09<br>Fim: 07/09 | Giovana |
+| Construção do Rich Picture | Início: 06/09<br>Fim: 07/09 | Giovana | Início: 08/09<br>Fim: 08/09 | Dylan |
+| Preparação e gravação da apresentação | Início: 08/09<br>Fim: 09/09 | Todos | Início: 09/09<br>Fim: 09/09 | Todos |
+| Correção pós apresentação | Início: 10/09<br>Fim: 11/09 | Todos | Início: 12/09<br>Fim: 12/09 | Todos |
 
 📌 **Entrega da Sprint:** Apresentação Etapa 1 (09/09).  
 
@@ -137,18 +136,3 @@
 | Avaliação final | 25/11 | Todos | - | Professor |
 
 📌 **Entrega da Sprint:** Projeto final (24/11) e Avaliação (25/11).
-
-## 📚 Referências Bibliográficas
-
-1. Universidade de Brasília – Plano de Ensino da disciplina de Requisitos de Software, 2025.  
-
-
-
-## 📝 Histórico de Versões
-
-| Versão | Data       | Descrição                                        | Autor(es)          | Revisor(es)       |
-|--------|-----------|-------------------------------------------------|------------------|-----------------|
-| 1.0    | 08/09/2025 | Criação do cronograma do projeto ID Jovem, com sprints, tarefas e responsáveis. Baseado no plano de ensino da disciplina e metodologia Scrum. |[Eduarda](https://github.com/eduardar0), [Leticia](https://github.com/leticialopes20), [Danilo](https://github.com/EngDann), [Breno](https://github.com/BrenoLTeixeira) | Todos |
-
-
-.

@@ -2,12 +2,13 @@
 
 A técnica de observação de requisitos é uma abordagem importante para coletar informações sobre o uso e as limitações de um sistema. Essa técnica consiste em acompanhar usuários durante a interação com o software, analisando suas ações, dificuldades e reações, a fim de identificar necessidades e oportunidades de melhoria.
 
-No contexto do projeto ID Jovem, buscou-se compreender como o público-alvo lida com o aplicativo oficial do programa. Entretanto, não foi possível contar com usuários externos reais no momento da atividade. Dessa forma, o desenvolvedor [Arthur Fernandes](https:github.com/arthurfernandesj) assumiu o papel da persona [nome]() ,jovem beneficiário do programa, para simular a experiência prática de utilização do aplicativo.
+No contexto do projeto ID Jovem, buscou-se compreender como o público-alvo lida com o aplicativo oficial do programa. Entretanto, tivemos uma participação de um 
+usuário externo que utiliza o aplicativo. O [nome], jovem beneficiário do programa do ID Jovem, fez sua avaliação e a experiência prática de utilização do aplicativo.
 
 
 ## Metodologia
 
-A atividade foi desenvolvida no dia xx/xx/2025 das 00:00 - 00:00, em reunião online pelo **Microsoft Teams** com os participantes descritos na **tabela 1**. O objetivo da sessão foi conduzir uma **Observação Participativa**, na qual o Engenheiro de Software instruiu o usuário simulado sobre as ações a serem realizadas dentro do aplicativo do ID Jovem.
+A atividade foi desenvolvida no dia xx/xx/2025 das 00:00 - 00:00, em reunião online pelo **Microsoft Teams** com os participantes descritos na **tabela 1**. O objetivo da sessão foi conduzir uma **Observação Participativa**, na qual o Engenheiro de Software instruiu o usuário ulado sobre as ações a serem realizadas dentro do aplicativo do ID Jovem.
 
 Durante a análise, o participante responsável por representar o usuário compartilhou a tela do dispositivo móvel enquanto executava tarefas previamente definidas, como:
 
@@ -119,15 +120,15 @@ As funcionalidades observadas foram organizadas a seguir como possíveis **Requi
 
 | Código | Requisito Funcional / Descrição                                                                                     | ID   | Implementado |
 | ------ | ------------------------------------------------------------------------------------------------------------------- | ---- | :----------: |
-| RF05   | Login seguro, garantindo que apenas o jovem autorizado acesse o aplicativo                                         | OB01 |      Sim     |
-| RF06   | Apresentar resumo dos benefícios disponíveis para o jovem, como transporte gratuito e eventos culturais           | OB02 |      Sim     |
-| RF07   | Permitir solicitação de benefícios com justificativa adequada                                                     | OB03 |      Sim     |
-| RF08   | Exibir histórico de benefícios já utilizados pelo jovem                                                           | OB04 |      Sim     |
-| RF09   | Mostrar nome completo do titular do ID Jovem                                                                       | OB05 |      Sim     |
-| RF10   | Disponibilizar histórico de solicitações realizadas                                                              | OB06 |      Sim     |
-| RF11   | Aba dedicada à solicitação e acompanhamento dos benefícios                                                       | OB07 |      Sim     |
-| RF12   | Possibilitar atualização de dados pessoais e informações de contato                                              | OB08 |      Sim     |
-| RF13   | Incluir aba para itens diversos como dúvidas, ajuda, convocações e regulamentos do programa                        | OB09 |      Sim     |
+| RF01   | Login seguro, garantindo que apenas o jovem autorizado acesse o aplicativo                                         | OB01 |    Sim     |
+| RF02  | Apresentar resumo dos benefícios disponíveis para o jovem, como transporte gratuito e eventos culturais           | OB02 |    Sim       |
+| RF03   | Permitir solicitação de benefícios com justificativa adequada                                                     | OB03 |   Sim        |
+| RF04   | Exibir histórico de benefícios já utilizados pelo jovem                                                           | OB04 |   Não       |
+| RF05   | Mostrar nome completo do titular do ID Jovem                                                                       | OB05 |  Sim         |
+| RF06   | Disponibilizar histórico de solicitações realizadas                                                              | OB06 |    Sim      |
+| RF07 | Aba dedicada à solicitação e acompanhamento dos benefícios                                                       | OB07 |      Sim     |
+| RF08   | Possibilitar atualização de dados pessoais e informações de contato                                              | OB08 |    Sim       |
+| RF09   | Incluir aba para itens diversos como dúvidas, ajuda, convocações e regulamentos do programa                        | OB09 |   Sim        |
 
 ### Requisitos Não Funcionais
 
@@ -135,12 +136,25 @@ As funcionalidades observadas foram organizadas a seguir como possíveis **Requi
 
 <a name="OB_RNF"></a>
 
-| Código | Requisito Não-Funcional                                                                               | ID   | Implementado |
-| ------ | ----------------------------------------------------------------------------------------------------- | ---- | :----------: |
-| RNF06  | O sistema deve garantir segurança firme com verificação de dados pelo usuário                         | OB10 |      Sim     |
-| RNF07  | A interface deve ser dividida em abas específicas com funções bem segmentadas                         | OB11 |      Sim     |
-| RNF08  | A aplicação deve exibir notificações ou notícias úteis de forma acessível                             | OB12 |      Sim     |
-| RNF09  | As informações devem estar organizadas de forma clara e com terminologia compreensível para o usuário | OB13 |      Sim     |
+| Código | Requisito Não-Funcional                                                                                   | ID   | Implementado |
+| ------ | --------------------------------------------------------------------------------------------------------- | ---- | :----------: |
+| RNF01  | O sistema deve garantir segurança firme com verificação de dados pelo usuário                             | OB10 |     Sim      |
+| RNF02  | A interface deve ser dividida em abas específicas com funções bem segmentadas                             | OB11 |     Sim      |
+| RNF03  | A aplicação deve exibir notificações ou notícias úteis de forma acessível                                 | OB12 |     Não      |
+| RNF04  | As informações devem estar organizadas de forma clara e com terminologia compreensível para o usuário     | OB13 |     Sim      |
+| RNF05  | O sistema deve estar disponível 24 horas por dia, 7 dias por semana                                       | OB14 |     Sim      |
+| RNF06  | A aplicação deve ser compatível com dispositivos Android e iOS                                            | OB15 |     Sim      |
+| RNF07  | O tempo de resposta das requisições deve ser inferior a 2 segundos em condições normais de rede           | OB16 |     Parcial  |
+| RNF08  | O sistema deve permitir atualização automática do aplicativo por meio das lojas oficiais                  | OB17 |     Sim      |
+| RNF09  | A aplicação deve seguir diretrizes de acessibilidade, como contraste adequado e textos legíveis           | OB18 |     Parcial  |
+| RNF10  | O sistema deve garantir confidencialidade e proteção contra acessos não autorizados                       | OB19 |     Sim      |
+| RNF11  | O consumo de dados móveis deve ser otimizado para não sobrecarregar a franquia de internet do usuário     | OB20 |     Sim      |
+| RNF12  | O sistema deve permitir utilização mesmo em conexões instáveis, com mensagens de erro claras              | OB21 |     Parcial  |
+| RNF13  | O sistema deve estar em conformidade com a Lei Geral de Proteção de Dados (LGPD)                          | OB22 |     Sim      |
+| RNF14  | O aplicativo deve ocupar pouco espaço de armazenamento no dispositivo do usuário                          | OB23 |     Sim      |
+| RNF15  | O design deve ser responsivo, adaptando-se a diferentes tamanhos e resoluções de tela                     | OB24 |     Sim      |
+| RNF16  | A navegação deve ser intuitiva, com ícones e menus de fácil entendimento                                   | OB25 |     Sim      |
+
 
 
 ## Registro Visual da Observação
@@ -160,8 +174,11 @@ As funcionalidades observadas foram organizadas a seguir como possíveis **Requi
 
 ## Bibliografia
 
+<blockquote>
+<p>SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2025. Disponível em: <a href="https://aprender3.unb.br/course/view.php?id=27470">https://aprender3.unb.br/course/view.php?id=27470</a>. Acesso em: 22/09/2025.</p>
+</blockquote>
 
-## 📝 Histórico de Versões
+## Histórico de Versões
 
 | Versão | Data       | Descrição                                        | Autor(es)    | Revisor(es) |
 |--------|-----------|-------------------------------------------------|-------------|-------------|

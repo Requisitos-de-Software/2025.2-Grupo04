@@ -21,7 +21,7 @@ Foram utilizadas perguntas abertas, oferecendo aos entrevistados a liberdade de 
 |------|-----------|
 | **What (O que)** | 1. Qual é o principal objetivo ao utilizar o cartão **ID Jovem**?<br>2. Quais benefícios ou serviços do **ID Jovem** você mais utiliza com frequência?<br>3. Quais programas ou atividades sociais você acessa por meio do **ID Jovem**? |
 | **Why (Por que)** | 4. Por que você optou por usar o **ID Jovem**?<br>5. Por que considera importante que o **ID Jovem** ofereça determinados serviços ou benefícios? |
-| **Who (Quem)** | 6. Quem deve ser considerado ao desenvolver novas funcionalidades ou serviços para o **ID Jovem**?<br>7. Quem você procura em caso de dúvidas ou problemas relacionados ao **ID Jovem**? |
+| **Who (Quem)** | 6. Quem você acredita que deve ser prioridade ao pensar em melhorias para o **ID Jovem?**<br>7. Quem você procura em caso de dúvidas ou problemas relacionados ao **ID Jovem**? |
 | **When (Quando)** | 8. Com que frequência você utiliza o **ID Jovem**?<br>9. Quando foi a última vez que fez uso do cartão ou aplicativo do **ID Jovem**? |
 | **Where (Onde)** | 10. Onde você identifica oportunidades de melhoria nos serviços oferecidos pelo **ID Jovem**?<br>11. Onde seria mais conveniente acessar suporte ou informações relacionadas ao **ID Jovem**? |
 | **How (Como)** | 12. Como você avalia a facilidade de uso do cartão ou aplicativo do **ID Jovem**?<br>13. Como o **ID Jovem** poderia ser melhorado para atender melhor aos usuários? |
@@ -41,10 +41,10 @@ Inicialmente, foram identificados potenciais candidatos que correspondessem ao [
 
 | Identificador da entrevista | Entrevistadores | Data   | Horário | Entrevistado | Local     |
 |-----------------------------|----------------|--------|---------|--------------|-----------|
-| Entrevista 01               | [Nome](https://github.com/) & [Nome](https://github.com/) | xx/xx | xx:xx   | Nome do Entrevistado | Local |
-| Entrevista 02               | [Nome](https://github.com/) & [Nome](https://github.com/acmposs) | xx/xx | xx:xx   | Nome do Entrevistado | Local |
+| Entrevista 01               | [Arthur Fernandes](https://github.com/arthurfernandesj) & [GIovana](https://github.com/) | 23/09 | 11:05   | Mariane Ruas de Oliveira | UnB-Gama  |
+| Entrevista 02               | [Giovana Fontes](https://github.com/) & [Eduarda Domingos](https://github.com/acmposs) | 25/09 | 15:38   | Noemy da Luz Cardoso | UnB-Gama |
 
-**Autor:** [Nome](https://github.com/) & [Nome](https://github.com/), 2025.
+**Autor:** [Arthur Fernandes](https://github.com/) & [Dylan](https://github.com/), 2025.
 
 
 ### 2. Materiais de apoio
@@ -70,18 +70,18 @@ Inicialmente, foram identificados potenciais candidatos que correspondessem ao [
   </thead>
   <tbody>
     <tr>
-      <td>Nome</td>
-      <td>Idade do entrevistado</td>
-      <td>Gênero do entrevistrado</td>
-      <td>Escolaridade do entrevistrado</td>
-      <td>Ocupação do entrevistrado</td>
+      <td>Mariane Ruas de Oliveira</td>
+      <td>22</td>
+      <td>Feminino</td>
+      <td>Ensino Superior Incompleto</td>
+      <td>Estudante</td>
     </tr>
     <tr>
-      <td>Nome</td>
-      <td>Idade do entrevistado</td>
-      <td>Gênero do entrevistrado</td>
-      <td>Escolaridade do entrevistrado</td>
-      <td>Ocupação do entrevistrado</td>
+      <td>Noemy da Luz Cardoso</td>
+      <td>21</td>
+      <td>Feminino</td>
+      <td>Ensino Superior Incompleto</td>
+      <td>Estudante</td>
     </tr>
   </tbody>
 </table>
@@ -91,15 +91,15 @@ Inicialmente, foram identificados potenciais candidatos que correspondessem ao [
 2. **Leitura do termo de consentimento:** Um dos entrevistadores solicitou que o entrevistado lesse em voz alta o termo de consentimento. Em caso de concordância, o entrevistado responderia positivamente; caso contrário, os dados demográficos não seriam coletados para esse entrevistado específico. Após a confirmação, o termo foi enviado por e-mail para que o entrevistado pudesse assiná-lo. As figuras 1 e 2 apresentam os termos assinados.
 
 <details>
-  <summary>Termo de consentimento Nome</summary>
-  <p align="center"><strong>Figura 1:</strong> Termo de consentimento Nome</p>
+  <summary>Termo de consentimento Mariane Ruas de Oliveira</summary>
+  <p align="center"><strong>Figura 1:</strong> Termo de consentimento Mariane Ruas de Oliveira</p>
   <embed src="..\..\imagens\termos_consentimento\tc_neysa.pdf" width="100%" height="500px" />
   <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/">Nome</a> & <a href="https://github.com/">Nome</a>, 2025.</p></font>
 </details>
 
 <details>
-  <summary>Termo de consentimento Nome</summary>
-  <p align="center"><strong>Figura 2:</strong> Termo de consentimento Nome</p>
+  <summary>Termo de consentimento Noemy da Luz Cardoso</summary>
+  <p align="center"><strong>Figura 2:</strong> Termo de consentimento Noemy da Luz Cardoso</p>
   <embed src="..\..\imagens\termos_consentimento\tc_maria.pdf" width="100%" height="500px" />
   <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/">Nome</a> & <a href="https://github.com/">Nome</a>, 2025.</p></font>
 </details>
@@ -109,8 +109,8 @@ Inicialmente, foram identificados potenciais candidatos que correspondessem ao [
 
 <!-- Tabela das respostas coletadas 1-->
 <details>
-    <font size="3"><p style="text-align: center"><b>Tabela 4:</b> Respostas coletadas da entrevistada [Nome]</p></font>
-    <summary>Respostas coletadas: [Nome]</summary>
+    <font size="3"><p style="text-align: center"><b>Tabela 4:</b> Respostas coletadas da entrevistada Mariane Ruas de Oliveira</p></font>
+    <summary>Respostas coletadas: Mariane Ruas de Oliveira </summary>
     <table>
         <thead>
             <tr>
@@ -191,8 +191,8 @@ Inicialmente, foram identificados potenciais candidatos que correspondessem ao [
 <!-- Tabela das respostas coletadas 2-->
 
 <details>
-    <font size="3"><p style="text-align: center"><b>Tabela 5:</b> Respostas coletadas da entrevistada [Nome]</p></font>
-    <summary>Respostas coletadas: [Nome]</summary>
+    <font size="3"><p style="text-align: center"><b>Tabela 5:</b> Respostas coletadas da entrevistada Noemy da Luz Cardoso</p></font>
+    <summary>Respostas coletadas: Noemy da Luz Cardoso</summary>
     <table>
         <thead>
             <tr>
@@ -238,7 +238,7 @@ Inicialmente, foram identificados potenciais candidatos que correspondessem ao [
                 <td>“Ontem. Hoje ainda não precisei acessar.”</td>
             </tr>
             <tr>
-                <td>10. Onde você vê espaço para melhorias no aplicativo ID Jovem em termos de usabilidade, funcionalidades ou serviços oferecidos?</td>
+                <td>10. Quais aspectos do ID Jovem você acredita que poderiam ser melhorados?</td>
                 <td>“Poderia ter suporte virtual mais acessível, estabilidade melhorada e informações mais claras sobre reservas e comprovantes.”</td>
             </tr>
             <tr>
@@ -274,28 +274,28 @@ Inicialmente, foram identificados potenciais candidatos que correspondessem ao [
 
 4. **Encerramento e agradecimento:** Ao final da entrevista, os entrevistadores conduziram o encerramento agradecendo cordialmente ao entrevistado pela sua participação e contribuição. Esse momento foi crucial para expressar gratidão pela disponibilidade e colaboração do entrevistado, destacando a importância do seu envolvimento para o sucesso do projeto. Além disso, os entrevistadores reforçaram o propósito da pesquisa e a relevância das informações fornecidas pelo entrevistado.
 
-## Entrevista [Nome do Entrevistado]
+## Entrevista Mariane Ruas de Oliveira
 
-Na entrevista 1 encontra-se a gravação da entrevista do(a) [Entrevistado]
+Na entrevista 1 encontra-se a gravação da entrevista da Mariane Ruas de Oliveira
 
 <div align="center">
-<p style="text-align: center"><a href="" target="_blank"><b>Entrevista 01:</b> Nome</a></p>
+<p style="text-align: center"><a href="" target="_blank"><b>Entrevista 01:</b> Mariane Ruas de Oliveira</a></p>
 
 <iframe width="560" height="315" src="" title="Primeira Entrevista do Grupo 4 ID Jovem" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/">Nome</a> & <a href="https://github.com/">Nome</a>, 2025.</p></font>
 </div>
 
-## Entrevista [Nome do Entrevistado]
+## Entrevista Noemy da Luz Cardoso  
 
-Na entrevista 2 encontra-se a gravação da entrevista do(a) Nome.
+Na entrevista 2 encontra-se a gravação da entrevista da Noemy da Luz Cardoso.
 
 <div align="center">
-<p style="text-align: center"><a href="" target="_blank"><b>Entrevista 02:</b> Nome</a></p>
+<p style="text-align: center"><a href="" target="_blank"><b>Entrevista 02:</b> Noemy da Luz Cardoso</a></p>
 
 <iframe width="560" height="315" src="" title="Segunda Entrevista do Grupo 4 ID Jovem" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<font size="3"><p style="text-align: center"><b> Autor:</b> Nome <a href="https://github.com/"></a> & <a href="https://github.com/">Nome</a>, 2025.</p></font>
+<font size="3"><p style="text-align: center"><b> Autor:</b> Giovana Fontes <a href="https://github.com/"></a> & <a href="https://github.com/">Eduarda Domingos</a>, 2025.</p></font>
 </div>
 
 ## Requisitos Elicitados
@@ -363,7 +363,7 @@ Na entrevista 2 encontra-se a gravação da entrevista do(a) Nome.
     </tr>
   </tbody>
 </table>
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/">Nome</a> & <a href="https://github.com/">Nome</a>, 2025.</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/">Arthur Fernandes</a> & <a href="https://github.com/"> Dylan Cavalcante</a>, 2025.</p></font>
 </div>
 
 <div align="center">
@@ -414,7 +414,7 @@ Na entrevista 2 encontra-se a gravação da entrevista do(a) Nome.
     </tr>
   </tbody>
 </table>
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/">Nome</a> & <a href="https://github.com/">Nome</a>, 2025.</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/">Arthur Fernandes</a> & <a href="https://github.com/">Dylan Cavalcante</a>, 2025.</p></font>
 </div>
 
 ## Referências Bibliográficas
@@ -429,3 +429,4 @@ Na entrevista 2 encontra-se a gravação da entrevista do(a) Nome.
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 22/09/2025  | Estrutura da do documento da entrevista | [Arthur Fernandes](https://github.com/arthurfernandesj) | 22/09/2025 | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+| `1.1` | 23/09/2025  | Entrevista com a Mariane | [Arthur Fernandes](https://github.com/arthurfernandesj) | 23/09/2025 | [Giovana Fontes](https://github.com/GiovanaFontesS) |

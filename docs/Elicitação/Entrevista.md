@@ -1,0 +1,431 @@
+
+## Introdução
+
+As entrevistas representam uma das técnicas mais comuns e amplamente empregadas na elicitação de requisitos. Este método envolve interações individuais entre um representante da equipe de desenvolvimento e os stakeholders envolvidos no novo sistema. Reconhecida pela sua capacidade de proporcionar uma compreensão profunda das necessidades e requisitos do software, a técnica de entrevista é considerada essencial para a obtenção e validação desses elementos fundamentais, especialmente em sistemas voltados ao **ID Jovem** [(VAZQUEZ; SIMÕES, 2016)](#anchor_2).
+
+## Técnica de entrevista
+
+"A entrevista é uma técnica muito utilizada. Busca-se encontrar os requisitos ideais para o sistema" [(SERRANO; SERRANO, s.d.)](#anchor_3).  
+"É uma forma de diálogo, formal ou informal, entre duas ou mais pessoas, onde o entrevistador busca respostas para um conjunto de questões previamente planejadas e os entrevistados se apresentam como fontes de informação" [(VAZQUEZ; SIMÕES, 2016)](#anchor_2).
+
+## Metodologia
+
+Durante a entrevista, adotamos uma abordagem estruturada, fundamentada em um conjunto predefinido de perguntas, usando a técnica do 5W2H (What, Why, Where, When, Who, How, How much), listadas na Tabela 1. Esse método possibilitou uma análise aprofundada do entendimento dos stakeholders em relação aos tópicos abordados, considerando os serviços e benefícios oferecidos pelo **ID Jovem** [(VAZQUEZ; SIMÕES, 2016)](#anchor_2).
+
+
+Foram utilizadas perguntas abertas, oferecendo aos entrevistados a liberdade de expressar suas opiniões, compartilhar experiências e fornecer sugestões.
+
+### Tabela 1: Roteiro de perguntas para as entrevistas sobre o ID Jovem
+
+| Tipo | Perguntas |
+|------|-----------|
+| **What (O que)** | 1. Qual é o principal objetivo ao utilizar o cartão **ID Jovem**?<br>2. Quais benefícios ou serviços do **ID Jovem** você mais utiliza com frequência?<br>3. Quais programas ou atividades sociais você acessa por meio do **ID Jovem**? |
+| **Why (Por que)** | 4. Por que você optou por usar o **ID Jovem**?<br>5. Por que considera importante que o **ID Jovem** ofereça determinados serviços ou benefícios? |
+| **Who (Quem)** | 6. Quem deve ser considerado ao desenvolver novas funcionalidades ou serviços para o **ID Jovem**?<br>7. Quem você procura em caso de dúvidas ou problemas relacionados ao **ID Jovem**? |
+| **When (Quando)** | 8. Com que frequência você utiliza o **ID Jovem**?<br>9. Quando foi a última vez que fez uso do cartão ou aplicativo do **ID Jovem**? |
+| **Where (Onde)** | 10. Onde você identifica oportunidades de melhoria nos serviços oferecidos pelo **ID Jovem**?<br>11. Onde seria mais conveniente acessar suporte ou informações relacionadas ao **ID Jovem**? |
+| **How (Como)** | 12. Como você avalia a facilidade de uso do cartão ou aplicativo do **ID Jovem**?<br>13. Como o **ID Jovem** poderia ser melhorado para atender melhor aos usuários? |
+| **How much (Quanto)** | 14. Quanto tempo, em média, você utiliza os serviços do **ID Jovem** por sessão?<br>15. Quanto considera útil o **ID Jovem** em comparação com outras iniciativas ou programas voltados à juventude? |
+
+**Autor:** [Arthur](https://github.com/arthurfernandesj) & [Dylan](https://github.com/dylancavalcante), 2025.
+
+## Estruturação da entrevista
+
+A condução eficaz de uma entrevista demanda uma cuidadosa estruturação do processo. Para isso, o roteiro foi desenvolvido com base em princípios metodológicos consolidados e adaptado às particularidades do contexto da pesquisa sobre o **ID Jovem**, como descrito pelo [Guia facetado de técnicas elicitação de requisitos](#anchor_1).
+
+### 1. Cronograma de entrevistas
+
+Inicialmente, foram identificados potenciais candidatos que correspondessem ao [Perfil do usuário](personas.md) para participação na entrevista. Após o convite e confirmação dos entrevistados, organizamos o cronograma das entrevistas, detalhado na Tabela 2.
+
+### Tabela 2: Cronograma das entrevistas sobre o ID Jovem
+
+| Identificador da entrevista | Entrevistadores | Data   | Horário | Entrevistado | Local     |
+|-----------------------------|----------------|--------|---------|--------------|-----------|
+| Entrevista 01               | [Nome](https://github.com/) & [Nome](https://github.com/) | xx/xx | xx:xx   | Nome do Entrevistado | Local |
+| Entrevista 02               | [Nome](https://github.com/) & [Nome](https://github.com/acmposs) | xx/xx | xx:xx   | Nome do Entrevistado | Local |
+
+**Autor:** [Nome](https://github.com/) & [Nome](https://github.com/), 2025.
+
+
+### 2. Materiais de apoio
+
+- Utilizamos um [slide de apresentação](https://www.canva.com/design/DAGB2hD6QRE/5G4JJHLFHVfifDPMHEK1oA/view?utm_content=DAGB2hD6QRE&utm_campaign=designshare&utm_medium=link&utm_source=editor) para aprimorar a condução da entrevista, especialmente considerando que foi realizada remotamente. Essa abordagem não apenas tornou a entrevista mais organizada, mas também proporcionou uma apresentação mais clara e envolvente sobre os serviços e benefícios do **ID Jovem**.
+- Disponibilizamos um documento contendo o [Termo de Consentimento](https://docs.google.com/document/d/1-9clNfHVrAQ4EIl-t1aBRplU4VCoGgPeesqrBWo0SEU/edit?usp=sharing) para garantir que os entrevistados estejam plenamente cientes dos procedimentos envolvidos na entrevista e da forma como os dados seriam utilizados.
+
+### 3. Condução da entrevista
+
+1. **Apresentação:** A entrevista teve início com a apresentação dos entrevistadores e do entrevistado, seguida pela coleta dos dados demográficos conforme listados na Tabela 3. Nesta etapa, foram fornecidas informações aos entrevistados sobre a duração da entrevista, sua finalidade e o uso que seria feito das respostas coletadas sobre a experiência com o **ID Jovem**.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Dados demográficos dos entrevistados </p></font>
+<table>
+  <thead>
+    <tr>
+      <th>Entrevistados</th>
+      <th>Idade</th>
+      <th>Gênero</th>
+      <th>Escolaridade</th>
+      <th>Ocupação</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Nome</td>
+      <td>Idade do entrevistado</td>
+      <td>Gênero do entrevistrado</td>
+      <td>Escolaridade do entrevistrado</td>
+      <td>Ocupação do entrevistrado</td>
+    </tr>
+    <tr>
+      <td>Nome</td>
+      <td>Idade do entrevistado</td>
+      <td>Gênero do entrevistrado</td>
+      <td>Escolaridade do entrevistrado</td>
+      <td>Ocupação do entrevistrado</td>
+    </tr>
+  </tbody>
+</table>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a> & <a href="https://github.com/dylancavalcante">Dylan</a>, 2025.</p></font>
+</div>
+
+2. **Leitura do termo de consentimento:** Um dos entrevistadores solicitou que o entrevistado lesse em voz alta o termo de consentimento. Em caso de concordância, o entrevistado responderia positivamente; caso contrário, os dados demográficos não seriam coletados para esse entrevistado específico. Após a confirmação, o termo foi enviado por e-mail para que o entrevistado pudesse assiná-lo. As figuras 1 e 2 apresentam os termos assinados.
+
+<details>
+  <summary>Termo de consentimento Nome</summary>
+  <p align="center"><strong>Figura 1:</strong> Termo de consentimento Nome</p>
+  <embed src="..\..\imagens\termos_consentimento\tc_neysa.pdf" width="100%" height="500px" />
+  <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/">Nome</a> & <a href="https://github.com/">Nome</a>, 2025.</p></font>
+</details>
+
+<details>
+  <summary>Termo de consentimento Nome</summary>
+  <p align="center"><strong>Figura 2:</strong> Termo de consentimento Nome</p>
+  <embed src="..\..\imagens\termos_consentimento\tc_maria.pdf" width="100%" height="500px" />
+  <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/">Nome</a> & <a href="https://github.com/">Nome</a>, 2025.</p></font>
+</details>
+
+3. **Execução das perguntas e documentação das respostas:** Durante a entrevista, o primeiro entrevistador conduziu a realização das perguntas, enquanto o segundo entrevistador ficou responsável por documentar as respostas fornecidas pelo entrevistado. Essa abordagem permitiu uma divisão clara de tarefas, garantindo uma execução eficiente e organizada do processo. Enquanto o primeiro entrevistador se concentrava em fazer as perguntas de forma clara e objetiva, o segundo entrevistador registrava cuidadosamente as respostas para posterior análise e documentação. Essa divisão de papéis contribuiu para manter o fluxo da entrevista e garantir a precisão na documentação das informações obtidas. As respostas coletadas podem ser observadas nas Tabelas 4 e 5.
+
+
+<!-- Tabela das respostas coletadas 1-->
+<details>
+    <font size="3"><p style="text-align: center"><b>Tabela 4:</b> Respostas coletadas da entrevistada [Nome]</p></font>
+    <summary>Respostas coletadas: [Nome]</summary>
+    <table>
+        <thead>
+            <tr>
+                <th>Questões</th>
+                <th>Respostas</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1. Qual é o principal objetivo ao utilizar o aplicativo ID Jovem?</td>
+                <td>“Acessar benefícios para jovens, como transporte gratuito, entrada em eventos culturais e esportivos, e consultar reservas ou comprovantes.”</td>
+            </tr>
+            <tr>
+                <td>2. Quais recursos do aplicativo você mais utiliza com frequência?</td>
+                <td>“Consulta de transporte gratuito, emissão de comprovantes e verificação de reservas para eventos culturais e esportivos.”</td>
+            </tr>
+            <tr>
+                <td>3. Quais serviços específicos do ID Jovem você busca realizar por meio do aplicativo?</td>
+                <td>“Verificar benefícios disponíveis, emitir comprovantes para transporte e reservar ingressos para eventos.”</td>
+            </tr>
+            <tr>
+                <td>4. Por que você optou por usar o aplicativo ID Jovem em vez de buscar atendimento presencial?</td>
+                <td>“Praticidade e rapidez, evitando filas e deslocamentos. Permite acessar os serviços a qualquer hora sem depender do atendimento presencial.”</td>
+            </tr>
+            <tr>
+                <td>5. Por que acha importante que o aplicativo ID Jovem ofereça determinados serviços?</td>
+                <td>“Centraliza informações, facilita o acesso aos direitos dos jovens e garante praticidade e confiabilidade, além de reduzir a necessidade de atendimento presencial.”</td>
+            </tr>
+            <tr>
+                <td>6. Quais são os usuários que devem ser considerados ao desenvolver novas funcionalidades para o aplicativo?</td>
+                <td>“Jovens com pouco conhecimento técnico, garantindo que todos consigam utilizar os benefícios de forma fácil e segura.”</td>
+            </tr>
+            <tr>
+                <td>7. Quem você procura caso tenha dúvidas ou problemas ao utilizar o aplicativo?</td>
+                <td>“Geralmente amigos, familiares ou colegas, já que o suporte direto do aplicativo nem sempre é claro ou acessível.”</td>
+            </tr>
+            <tr>
+                <td>8. Com que frequência você acessa o aplicativo ID Jovem?</td>
+                <td>“De 3 a 5 vezes por semana, principalmente para verificar benefícios e emitir comprovantes.”</td>
+            </tr>
+            <tr>
+                <td>9. Quando foi a última vez que você utilizou o aplicativo?</td>
+                <td>“Ontem. Hoje ainda não precisei acessar.”</td>
+            </tr>
+            <tr>
+                <td>10. Onde você vê espaço para melhorias no aplicativo ID Jovem em termos de usabilidade, funcionalidades ou serviços oferecidos?</td>
+                <td>“Poderia ter suporte virtual mais acessível, estabilidade melhorada e informações mais claras sobre reservas e comprovantes.”</td>
+            </tr>
+            <tr>
+                <td>11. Onde você considera que seria o local mais conveniente para ter acesso a serviços de suporte técnico relacionados ao aplicativo ID Jovem?</td>
+                <td>“Dentro do próprio aplicativo, com chat, FAQs ou número de contato 0800 antes do login.”</td>
+            </tr>
+            <tr>
+                <td>12. Como você avalia a facilidade de uso do aplicativo ID Jovem?</td>
+                <td>0 muito fácil e 5 muito difícil. A escolha foi 3, indicando que é razoável, mas pode melhorar na navegação e clareza visual.</td>
+            </tr>
+            <tr>
+                <td>13. Como você descreveria sua experiência geral ao utilizar o aplicativo?</td>
+                <td>“Boa, mas ainda há pontos a melhorar, como clareza das informações e estabilidade do sistema.”</td>
+            </tr>
+            <tr>
+                <td>14. Como você acha que o aplicativo poderia ser melhorado?</td>
+                <td>“Investir no desenvolvimento, melhorar a simulação de benefícios, facilitar emissão de comprovantes e garantir que todas as funcionalidades funcionem corretamente.”</td>
+            </tr>
+            <tr>
+                <td>15. Quanto tempo, em média, você passa utilizando o aplicativo ID Jovem por sessão?</td>
+                <td>“Depende da ação: consultar benefícios é rápido (2 a 5 minutos), emitir comprovantes ou reservas pode levar até 20 minutos.”</td>
+            </tr>
+            <tr>
+                <td>16. Quanto você considera útil o aplicativo ID Jovem em comparação com outras formas de atendimento?</td>
+                <td>0 seria não útil e 5 muito útil. Escolheu 4, pois resolve a maioria das demandas de forma prática, sem precisar ir presencialmente ou usar outros canais demorados.</td>
+            </tr>
+        </tbody>
+    </table>
+    <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/">[Nome]</a>, 2025.</p></font>
+</details>
+
+<!-- Tabela das respostas coletadas 2-->
+
+<details>
+    <font size="3"><p style="text-align: center"><b>Tabela 5:</b> Respostas coletadas da entrevistada [Nome]</p></font>
+    <summary>Respostas coletadas: [Nome]</summary>
+    <table>
+        <thead>
+            <tr>
+                <th>Questões</th>
+                <th>Respostas</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1. Qual é o principal objetivo ao utilizar o aplicativo ID Jovem?</td>
+                <td>“Acessar benefícios para jovens, como transporte gratuito, entrada em eventos culturais e esportivos, e consultar reservas ou comprovantes.”</td>
+            </tr>
+            <tr>
+                <td>2. Quais recursos do aplicativo você mais utiliza com frequência?</td>
+                <td>“Consulta de transporte gratuito, emissão de comprovantes e verificação de reservas para eventos culturais e esportivos.”</td>
+            </tr>
+            <tr>
+                <td>3. Quais serviços específicos do ID Jovem você busca realizar por meio do aplicativo?</td>
+                <td>“Verificar benefícios disponíveis, emitir comprovantes para transporte e reservar ingressos para eventos.”</td>
+            </tr>
+            <tr>
+                <td>4. Por que você optou por usar o aplicativo ID Jovem em vez de buscar atendimento presencial?</td>
+                <td>“Praticidade e rapidez, evitando filas e deslocamentos. Permite acessar os serviços a qualquer hora sem depender do atendimento presencial.”</td>
+            </tr>
+            <tr>
+                <td>5. Por que acha importante que o aplicativo ID Jovem ofereça determinados serviços?</td>
+                <td>“Centraliza informações, facilita o acesso aos direitos dos jovens e garante praticidade e confiabilidade, além de reduzir a necessidade de atendimento presencial.”</td>
+            </tr>
+            <tr>
+                <td>6. Quais são os usuários que devem ser considerados ao desenvolver novas funcionalidades para o aplicativo?</td>
+                <td>“Jovens com pouco conhecimento técnico, garantindo que todos consigam utilizar os benefícios de forma fácil e segura.”</td>
+            </tr>
+            <tr>
+                <td>7. Quem você procura caso tenha dúvidas ou problemas ao utilizar o aplicativo?</td>
+                <td>“Geralmente amigos, familiares ou colegas, já que o suporte direto do aplicativo nem sempre é claro ou acessível.”</td>
+            </tr>
+            <tr>
+                <td>8. Com que frequência você acessa o aplicativo ID Jovem?</td>
+                <td>“De 3 a 5 vezes por semana, principalmente para verificar benefícios e emitir comprovantes.”</td>
+            </tr>
+            <tr>
+                <td>9. Quando foi a última vez que você utilizou o aplicativo?</td>
+                <td>“Ontem. Hoje ainda não precisei acessar.”</td>
+            </tr>
+            <tr>
+                <td>10. Onde você vê espaço para melhorias no aplicativo ID Jovem em termos de usabilidade, funcionalidades ou serviços oferecidos?</td>
+                <td>“Poderia ter suporte virtual mais acessível, estabilidade melhorada e informações mais claras sobre reservas e comprovantes.”</td>
+            </tr>
+            <tr>
+                <td>11. Onde você considera que seria o local mais conveniente para ter acesso a serviços de suporte técnico relacionados ao aplicativo ID Jovem?</td>
+                <td>“Dentro do próprio aplicativo, com chat, FAQs ou número de contato 0800 antes do login.”</td>
+            </tr>
+            <tr>
+                <td>12. Como você avalia a facilidade de uso do aplicativo ID Jovem?</td>
+                <td>0 muito fácil e 5 muito difícil. A escolha foi 3, indicando que é razoável, mas pode melhorar na navegação e clareza visual.</td>
+            </tr>
+            <tr>
+                <td>13. Como você descreveria sua experiência geral ao utilizar o aplicativo?</td>
+                <td>“Boa, mas ainda há pontos a melhorar, como clareza das informações e estabilidade do sistema.”</td>
+            </tr>
+            <tr>
+                <td>14. Como você acha que o aplicativo poderia ser melhorado?</td>
+                <td>“Investir no desenvolvimento, melhorar a simulação de benefícios, facilitar emissão de comprovantes e garantir que todas as funcionalidades funcionem corretamente.”</td>
+            </tr>
+            <tr>
+                <td>15. Quanto tempo, em média, você passa utilizando o aplicativo ID Jovem por sessão?</td>
+                <td>“Depende da ação: consultar benefícios é rápido (2 a 5 minutos), emitir comprovantes ou reservas pode levar até 20 minutos.”</td>
+            </tr>
+            <tr>
+                <td>16. Quanto você considera útil o aplicativo ID Jovem em comparação com outras formas de atendimento?</td>
+                <td>0 seria não útil e 5 muito útil. Escolheu 4, pois resolve a maioria das demandas de forma prática, sem precisar ir presencialmente ou usar outros canais demorados.</td>
+            </tr>
+        </tbody>
+    </table>
+    <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/">[Nome]</a>, 2025.</p></font>
+</details>
+
+
+
+4. **Encerramento e agradecimento:** Ao final da entrevista, os entrevistadores conduziram o encerramento agradecendo cordialmente ao entrevistado pela sua participação e contribuição. Esse momento foi crucial para expressar gratidão pela disponibilidade e colaboração do entrevistado, destacando a importância do seu envolvimento para o sucesso do projeto. Além disso, os entrevistadores reforçaram o propósito da pesquisa e a relevância das informações fornecidas pelo entrevistado.
+
+## Entrevista [Nome do Entrevistado]
+
+Na entrevista 1 encontra-se a gravação da entrevista do(a) [Entrevistado]
+
+<div align="center">
+<p style="text-align: center"><a href="" target="_blank"><b>Entrevista 01:</b> Nome</a></p>
+
+<iframe width="560" height="315" src="" title="Primeira Entrevista do Grupo 4 ID Jovem" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/">Nome</a> & <a href="https://github.com/">Nome</a>, 2025.</p></font>
+</div>
+
+## Entrevista [Nome do Entrevistado]
+
+Na entrevista 2 encontra-se a gravação da entrevista do(a) Nome.
+
+<div align="center">
+<p style="text-align: center"><a href="" target="_blank"><b>Entrevista 02:</b> Nome</a></p>
+
+<iframe width="560" height="315" src="" title="Segunda Entrevista do Grupo 4 ID Jovem" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b> Autor:</b> Nome <a href="https://github.com/"></a> & <a href="https://github.com/">Nome</a>, 2025.</p></font>
+</div>
+
+## Requisitos Elicitados
+
+### Legenda
+- RF: Requisito Funcional
+- ET: Requisito Não Funcional
+- N: Numeração do requisito
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 6:</b> Requisitos Funcionais</p></font>
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Implementado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ENT01</td>
+      <td>O aplicativo deve permitir que os usuários acessem e visualizem os benefícios do ID Jovem.</td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>ENT02</td>
+      <td>Deve fornecer ferramentas para consultar transporte gratuito, eventos culturais e esportivos.</td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>ENT03</td>
+      <td>Deve permitir reservas e emissão de comprovantes de acesso aos benefícios.</td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>ENT04</td>
+      <td>Deve fornecer informações sobre pendências ou erros em benefícios.</td>
+      <td>Não</td>
+    </tr>
+    <tr>
+      <td>ENT05</td>
+      <td>Deve fornecer suporte técnico via chat ou número 0800.</td>
+      <td>Não</td>
+    </tr>
+    <tr>
+      <td>ENT06</td>
+      <td>Deve permitir que os usuários atualizem cadastro e preferências pessoais.</td>
+      <td>Não</td>
+    </tr>
+    <tr>
+      <td>ENT07</td>
+      <td>Deve oferecer funcionalidades de simulação de uso de benefícios de forma precisa.</td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>ENT08</td>
+      <td>Deve permitir visualizar valores de benefícios e descontos disponíveis.</td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>ENT09</td>
+      <td>Deve fornecer alertas sobre possíveis irregularidades em benefícios.</td>
+      <td>Não</td>
+    </tr>
+  </tbody>
+</table>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/">Nome</a> & <a href="https://github.com/">Nome</a>, 2025.</p></font>
+</div>
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 7:</b> Requisitos Não Funcionais</p></font>
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Implementado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ENT16</td>
+      <td>O aplicativo deve ser intuitivo e de fácil uso, mesmo para jovens com pouca experiência digital.</td>
+      <td>Não</td>
+    </tr>
+    <tr>
+      <td>ENT17</td>
+      <td>Deve lidar com grande número de usuários simultaneamente.</td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>ENT18</td>
+      <td>Deve permitir tarefas rápidas em até 5 minutos e tarefas complexas em até 20 minutos.</td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>ENT19</td>
+      <td>Deve considerar segurança do usuário, especialmente em informações pessoais.</td>
+      <td>Não</td>
+    </tr>
+    <tr>
+      <td>ENT20</td>
+      <td>Deve possuir interface clara, letras legíveis e navegação intuitiva.</td>
+      <td>Não</td>
+    </tr>
+    <tr>
+      <td>ENT21</td>
+      <td>Deve ter cores e layout que facilitem a utilização do aplicativo.</td>
+      <td>Não</td>
+    </tr>
+    <tr>
+      <td>ENT22</td>
+      <td>Deve permitir acesso rápido às informações em menos de 2 minutos por sessão.</td>
+      <td>Sim</td>
+    </tr>
+  </tbody>
+</table>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/">Nome</a> & <a href="https://github.com/">Nome</a>, 2025.</p></font>
+</div>
+
+## Referências Bibliográficas
+> <a id="QT1" href="#anchor_1">1.</a> Guia facetado de técnicas elicitação de requisitos. Disponível em: <[https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades](https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades)>. Acesso em: 22 set 2025. 
+
+> <a id="QT2" href="#anchor_2">2.</a> VAZQUEZ, C. SIMÕES, G (2016). Engenharia de Requisitos: Software Orientado a Negócio. BRASPORT. Rio de Janeiro, 2016. 
+
+> <a id="QT3" href="#anchor_3">3.</a> SERRANO, M. SERRANO, M (s.d.). Requisitos - Aula 07. UnB GAMA. 
+
+
+## Histórico de Versão
+| Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| `1.0` | 22/09/2025  | Estrutura da do documento da entrevista | [Arthur Fernandes](https://github.com/arthurfernandesj) | 22/09/2025 | [Dylan Cavalcante](https://github.com/dylancavalcante) |

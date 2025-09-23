@@ -19,7 +19,7 @@ Toda a documentação pertinente ao desenvolvimento do projeto está mantida na 
 
 ## 4. Artefatos Planejados 📋
 
-Os artefatos previstos, associados a cada entrega, estão listados a seguir com seus respectivos links na página de documentação. As informações de cada entrega estão descritas em [*6. Histórico de Entregas 📅*](#6-histórico-de-entregas-).
+Os artefatos previstos, associados a cada entrega, estão listados a seguir com seus respectivos links na página de documentação. As informações de cada entrega estão descritas em [*6. Histórico de Entregas*](#6-histórico-de-entregas-).
 
 1. [*Pré-Rastreabilidade* 🔗](#)
 
@@ -36,7 +36,7 @@ Os artefatos previstos, associados a cada entrega, estão listados a seguir com 
 
 <br>
 
-## 6. Histórico de Entregas 📅
+## 6. Histórico de Entregas
 
 <p align="center"><strong>Tabela 2:</strong> <i>Histórico de entregas do projeto</i></p>
 

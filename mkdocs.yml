@@ -96,11 +96,13 @@ nav:
   - Elicitação: 
     - Perfil de Usuário: Elicitação/Perfil_de_Usuário.md
     - Personas: Elicitação/Definicao_de_Personas.md
+
     - Técnicas de Elicitação:
-      - Introspecção: Elicitação/Introspecao.md
-      - Questionário: Elicitação/Questionario.md
       - Brainstorming: Elicitação/Brainstorming.md
-      - Observação: Elicitação/Observacao.md
+      - Introspecção: Elicitação/Introspecção.md
+      - Entrevista: Elicitação/Entrevista.md
+      - Questionário: Elicitação/Questionario.md
+      - Stroytelling: Elicitação/Storytelling.md
     
     - Priorização:
       - $ 100: Elicitação/100_Pontos.md

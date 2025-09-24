@@ -121,71 +121,71 @@ Inicialmente, foram identificados potenciais candidatos que correspondessem ao [
         <tbody>
             <tr>
                 <td>1. Qual é o principal objetivo ao utilizar o aplicativo ID Jovem?</td>
-                <td>“Acessar benefícios para jovens, como transporte gratuito, entrada em eventos culturais e esportivos, e consultar reservas ou comprovantes.”</td>
+                <td>“Principalmente para ter acesso a passagens de ônibus interestadual com desconto e ingressos de cinema com meia-entrada. O objetivo é economizar e conseguir lazer com um valor mais acessível.”</td>
             </tr>
             <tr>
                 <td>2. Quais recursos do aplicativo você mais utiliza com frequência?</td>
-                <td>“Consulta de transporte gratuito, emissão de comprovantes e verificação de reservas para eventos culturais e esportivos.”</td>
+                <td>“Uso bastante para ingressos de cinema e também para passagens de viagem. São os dois que utilizo com mais frequência.”</td>
             </tr>
             <tr>
                 <td>3. Quais serviços específicos do ID Jovem você busca realizar por meio do aplicativo?</td>
-                <td>“Verificar benefícios disponíveis, emitir comprovantes para transporte e reservar ingressos para eventos.”</td>
+                <td>“Cinema e viagens, principalmente. Acho ótimo porque facilita o acesso ao lazer de forma mais justa.”</td>
             </tr>
             <tr>
                 <td>4. Por que você optou por usar o aplicativo ID Jovem em vez de buscar atendimento presencial?</td>
-                <td>“Praticidade e rapidez, evitando filas e deslocamentos. Permite acessar os serviços a qualquer hora sem depender do atendimento presencial.”</td>
+                <td>“Porque é prático, fácil de acessar e aceito em todos os lugares que usei até agora.”</td>
             </tr>
             <tr>
                 <td>5. Por que acha importante que o aplicativo ID Jovem ofereça determinados serviços?</td>
-                <td>“Centraliza informações, facilita o acesso aos direitos dos jovens e garante praticidade e confiabilidade, além de reduzir a necessidade de atendimento presencial.”</td>
+                <td>“Acredito que deve haver mais divulgação. Muitas pessoas não conhecem o programa e poderiam se beneficiar.”</td>
             </tr>
             <tr>
                 <td>6. Quais são os usuários que devem ser considerados ao desenvolver novas funcionalidades para o aplicativo?</td>
-                <td>“Jovens com pouco conhecimento técnico, garantindo que todos consigam utilizar os benefícios de forma fácil e segura.”</td>
+                <td>“Cinema e viagens, principalmente. Acho ótimo porque facilita o acesso ao lazer de forma mais justa."</td>
             </tr>
             <tr>
                 <td>7. Quem você procura caso tenha dúvidas ou problemas ao utilizar o aplicativo?</td>
-                <td>“Geralmente amigos, familiares ou colegas, já que o suporte direto do aplicativo nem sempre é claro ou acessível.”</td>
+                <td>“Na internet, principalmente em sites oficiais e redes sociais, como Instagram, que poderiam alcançar mais jovens.”</td>
             </tr>
             <tr>
                 <td>8. Com que frequência você acessa o aplicativo ID Jovem?</td>
-                <td>“De 3 a 5 vezes por semana, principalmente para verificar benefícios e emitir comprovantes.”</td>
+                <td>“Uso há pouco tempo, comecei recentemente.”</td>
             </tr>
             <tr>
                 <td>9. Quando foi a última vez que você utilizou o aplicativo?</td>
-                <td>“Ontem. Hoje ainda não precisei acessar.”</td>
+                <td>“Recentemente, para comprar ingressos de cinema pela internet.”</td>
             </tr>
             <tr>
-                <td>10. Onde você vê espaço para melhorias no aplicativo ID Jovem em termos de usabilidade, funcionalidades ou serviços oferecidos?</td>
-                <td>“Poderia ter suporte virtual mais acessível, estabilidade melhorada e informações mais claras sobre reservas e comprovantes.”</td>
+                <td>10. Quais aspectos do ID Jovem você acredita que poderiam ser melhorados?</td>
+                <td>“Não tive grandes problemas, mas acho que a usabilidade poderia ser melhorada para facilitar o acesso. No geral, funciona bem.”</td>
             </tr>
             <tr>
                 <td>11. Onde você considera que seria o local mais conveniente para ter acesso a serviços de suporte técnico relacionados ao aplicativo ID Jovem?</td>
-                <td>“Dentro do próprio aplicativo, com chat, FAQs ou número de contato 0800 antes do login.”</td>
+                <td>“ ”</td>
             </tr>
             <tr>
                 <td>12. Como você avalia a facilidade de uso do aplicativo ID Jovem?</td>
-                <td>0 muito fácil e 5 muito difícil. A escolha foi 3, indicando que é razoável, mas pode melhorar na navegação e clareza visual.</td>
+                <td>"É fácil. Já fica cadastrado e só preciso mostrar a carteirinha ou o aplicativo. É bem simples." </td>
             </tr>
             <tr>
                 <td>13. Como você descreveria sua experiência geral ao utilizar o aplicativo?</td>
-                <td>“Boa, mas ainda há pontos a melhorar, como clareza das informações e estabilidade do sistema.”</td>
+                <td>“ ”</td>
             </tr>
             <tr>
                 <td>14. Como você acha que o aplicativo poderia ser melhorado?</td>
-                <td>“Investir no desenvolvimento, melhorar a simulação de benefícios, facilitar emissão de comprovantes e garantir que todas as funcionalidades funcionem corretamente.”</td>
+                <td>“ ”</td>
             </tr>
             <tr>
                 <td>15. Quanto tempo, em média, você passa utilizando o aplicativo ID Jovem por sessão?</td>
-                <td>“Depende da ação: consultar benefícios é rápido (2 a 5 minutos), emitir comprovantes ou reservas pode levar até 20 minutos.”</td>
+                <td>"Poucos minutos, só o tempo de acessar e gerar o documento digital."</td>
             </tr>
             <tr>
                 <td>16. Quanto você considera útil o aplicativo ID Jovem em comparação com outras formas de atendimento?</td>
-                <td>0 seria não útil e 5 muito útil. Escolheu 4, pois resolve a maioria das demandas de forma prática, sem precisar ir presencialmente ou usar outros canais demorados.</td>
+                <td>"Acho muito importante. Ele garante lazer e cultura em um momento em que muitos jovens passam por dificuldades financeiras. É um programa que realmente faz diferença."</td>
             </tr>
         </tbody>
     </table>
-    <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/">[Nome]</a>, 2025.</p></font>
+    <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a>, 2025.</p></font>
 </details>
 
 <!-- Tabela das respostas coletadas 2-->
@@ -203,71 +203,71 @@ Inicialmente, foram identificados potenciais candidatos que correspondessem ao [
         <tbody>
             <tr>
                 <td>1. Qual é o principal objetivo ao utilizar o aplicativo ID Jovem?</td>
-                <td>“Acessar benefícios para jovens, como transporte gratuito, entrada em eventos culturais e esportivos, e consultar reservas ou comprovantes.”</td>
+                <td>“Eu comecei a usar porque queria ter mais acesso ao lazer. É algo caro, como viagens e cinema, e com o ID Jovem consegui aproveitar melhor essas oportunidades..”</td>
             </tr>
             <tr>
                 <td>2. Quais recursos do aplicativo você mais utiliza com frequência?</td>
-                <td>“Consulta de transporte gratuito, emissão de comprovantes e verificação de reservas para eventos culturais e esportivos.”</td>
+                <td>“Uso o aplicativo, mas acabo utilizando mais a carteirinha do ID Jovem.”</td>
             </tr>
             <tr>
                 <td>3. Quais serviços específicos do ID Jovem você busca realizar por meio do aplicativo?</td>
-                <td>“Verificar benefícios disponíveis, emitir comprovantes para transporte e reservar ingressos para eventos.”</td>
+                <td>“Uso principalmente para o cinema — inclusive utilizei este mês. Tenho o ID Jovem há quase 4 anos, e agora, pela primeira vez, vou usar também para uma viagem.”</td>
             </tr>
             <tr>
                 <td>4. Por que você optou por usar o aplicativo ID Jovem em vez de buscar atendimento presencial?</td>
-                <td>“Praticidade e rapidez, evitando filas e deslocamentos. Permite acessar os serviços a qualquer hora sem depender do atendimento presencial.”</td>
+                <td>“Porque acredito que o acesso ao lazer é um direito de todos. Mesmo sendo de baixa renda, eu mereço lazer de qualidade, então utilizo principalmente para esse fim.”</td>
             </tr>
             <tr>
                 <td>5. Por que acha importante que o aplicativo ID Jovem ofereça determinados serviços?</td>
-                <td>“Centraliza informações, facilita o acesso aos direitos dos jovens e garante praticidade e confiabilidade, além de reduzir a necessidade de atendimento presencial.”</td>
+                <td>“Acho importante porque aproxima jovens de baixa renda de atividades culturais, como teatros e outros eventos que não são acessíveis a todos. Isso ajuda a promover inclusão social.”</td>
             </tr>
             <tr>
                 <td>6. Quais são os usuários que devem ser considerados ao desenvolver novas funcionalidades para o aplicativo?</td>
-                <td>“Jovens com pouco conhecimento técnico, garantindo que todos consigam utilizar os benefícios de forma fácil e segura.”</td>
+                <td>“Os jovens de baixa renda, especialmente os que estão no ensino fundamental e médio.”</td>
             </tr>
             <tr>
                 <td>7. Quem você procura caso tenha dúvidas ou problemas ao utilizar o aplicativo?</td>
-                <td>“Geralmente amigos, familiares ou colegas, já que o suporte direto do aplicativo nem sempre é claro ou acessível.”</td>
+                <td>“Normalmente pesquiso na internet, no site do Governo Federal, que costuma ter algumas respostas.”</td>
             </tr>
             <tr>
                 <td>8. Com que frequência você acessa o aplicativo ID Jovem?</td>
-                <td>“De 3 a 5 vezes por semana, principalmente para verificar benefícios e emitir comprovantes.”</td>
+                <td>“Em média, uma vez a cada dois meses, geralmente para ir ao cinema.”</td>
             </tr>
             <tr>
                 <td>9. Quando foi a última vez que você utilizou o aplicativo?</td>
-                <td>“Ontem. Hoje ainda não precisei acessar.”</td>
+                <td>“Foi neste mês.”</td>
             </tr>
             <tr>
                 <td>10. Quais aspectos do ID Jovem você acredita que poderiam ser melhorados?</td>
-                <td>“Poderia ter suporte virtual mais acessível, estabilidade melhorada e informações mais claras sobre reservas e comprovantes.”</td>
+                <td>“O login é complicado, poderia ser simplificado. Também acho que o aplicativo deveria trazer mais informações, pois muitos não sabem da existência do ID Jovem.”</td>
             </tr>
             <tr>
                 <td>11. Onde você considera que seria o local mais conveniente para ter acesso a serviços de suporte técnico relacionados ao aplicativo ID Jovem?</td>
-                <td>“Dentro do próprio aplicativo, com chat, FAQs ou número de contato 0800 antes do login.”</td>
+                <td>“Na internet, mas também por redes sociais, como Instagram e TikTok, para alcançar mais jovens.”</td>
             </tr>
             <tr>
                 <td>12. Como você avalia a facilidade de uso do aplicativo ID Jovem?</td>
-                <td>0 muito fácil e 5 muito difícil. A escolha foi 3, indicando que é razoável, mas pode melhorar na navegação e clareza visual.</td>
+                <td>"No começo foi difícil, porque nem todos aceitavam, mesmo sendo meu direito. Tive que mostrar a lei em alguns lugares. Mas, com o tempo, a aceitação melhorou e hoje está mais fácil."</td>
             </tr>
             <tr>
                 <td>13. Como você descreveria sua experiência geral ao utilizar o aplicativo?</td>
-                <td>“Boa, mas ainda há pontos a melhorar, como clareza das informações e estabilidade do sistema.”</td>
+                <td>“Um canal mais direto de comunicação entre os usuários e os responsáveis pelo aplicativo, para dúvidas e sugestões.”</td>
             </tr>
             <tr>
                 <td>14. Como você acha que o aplicativo poderia ser melhorado?</td>
-                <td>“Investir no desenvolvimento, melhorar a simulação de benefícios, facilitar emissão de comprovantes e garantir que todas as funcionalidades funcionem corretamente.”</td>
+                <td>“Um canal mais direto de comunicação entre os usuários e os responsáveis pelo aplicativo, para dúvidas e sugestões.”</td>
             </tr>
             <tr>
                 <td>15. Quanto tempo, em média, você passa utilizando o aplicativo ID Jovem por sessão?</td>
-                <td>“Depende da ação: consultar benefícios é rápido (2 a 5 minutos), emitir comprovantes ou reservas pode levar até 20 minutos.”</td>
+                <td>"Uns 5 minutos, apenas para fazer login e pegar as informações necessárias. É bem rápido.”</td>
             </tr>
             <tr>
                 <td>16. Quanto você considera útil o aplicativo ID Jovem em comparação com outras formas de atendimento?</td>
-                <td>0 seria não útil e 5 muito útil. Escolheu 4, pois resolve a maioria das demandas de forma prática, sem precisar ir presencialmente ou usar outros canais demorados.</td>
+                <td>"Sim, considero muito útil. Ele é uma porta de entrada para outros programas sociais e mostra que é possível ampliar esse tipo de benefício."</td>
             </tr>
         </tbody>
     </table>
-    <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/">[Nome]</a>, 2025.</p></font>
+    <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a>, 2025.</p></font>
 </details>
 
 

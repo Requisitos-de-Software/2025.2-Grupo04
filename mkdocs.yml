@@ -98,15 +98,20 @@ nav:
   - Elicitação: 
     - Perfil de Usuário: Elicitação/Perfil_de_Usuário.md
     - Personas: Elicitação/Definicao_de_Personas.md
+
     - Técnicas de Elicitação:
-      - Introspecção: Elicitação/Introspecao.md
-      - Questionário: Elicitação/Questionario.md
+      - Analise de Documentos: Elicitação/Analise_de_Documentos.md
+      - Entrevista: Elicitação/Entrevista.md
       - Brainstorming: Elicitação/Brainstorming.md
-      - Observação: Elicitação/Observacao.md
+      - Introspecção: Elicitação/Introspecção.md
+      - Observação: Elicitação/Observação.md
+      - Stroytelling: Elicitação/Storytelling.md
     
     - Priorização:
-      - $ 100: Elicitação/100_Pontos.md
       - First Things First: Elicitação/First_Things_First.md
-      - Three Level Scale: Elicitação/Three_Level_Scale.md
+      - In or Out: Elicitação/In_or_Out.md
+      - Three-Level Scale: Elicitação/Three-Level_Scale.md
+      - $100: Elicitação/100_Test.md
     - Elicitação: Elicitação/Requisitos_Elicitados.md
+
     

@@ -7,7 +7,7 @@ O **Brainstorming** é uma técnica de elicitação de requisitos que tem como o
 
 
 
-### Metodologia
+### Metodologias
 
 
 ### Palavras-chaves

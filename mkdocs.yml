@@ -72,16 +72,23 @@ nav:
           - Inspeção grupo n+1: Entregas/Entregas_01/inspecao01.md
 
       - Entrega 02:
-          - Elicitação:
-            - Perfil de Usuário: Entrega_02/Elicitação/Perfil_de_Usuário.md
-            - Definição de Personas: Entrega_02/Elicitação/Definicao_de_Personas.md
-            - Técnicas de Elicitação:
-              - Introspecção: Entrega_02/Elicitação/Introspecao.md
-              - Questionário: Entrega_02/Elicitação/Questionario.md
-              - Brainstorming: Entrega_02/Elicitação/Brainstorming.md
-              - Observação: Entrega_02/Elicitação/Observacao.md
-            - Priorização: Entrega_02/Elicitação/Priorizacao.md
-            - Requisitos Elicitados: Entrega_02/Elicitação/Requisitos_Elicitados.md
+          - Elicitação: 
+            - Perfil de Usuário: Elicitação/Perfil_de_Usuário.md
+            - Personas: Elicitação/Definicao_de_Personas.md
+
+          - Técnicas de Elicitação:
+            - Analise de Documentos: Elicitação/Analise_de_Documentos.md
+            - Entrevista: Elicitação/Entrevista.md
+            - Brainstorming: Elicitação/Brainstorming.md
+            - Introspecção: Elicitação/Introspecção.md
+            - Observação: Elicitação/Observação.md
+            - Stroytelling: Elicitação/Storytelling.md
+    
+            - Priorização:
+              - First Things First: Elicitação/First_Things_First.md
+              - In or Out: Elicitação/In_or_Out.md
+              - Three-Level Scale: Elicitação/Three-Level_Scale.md
+              - $100: Elicitação/100_Test.md
             
       - Entrega 03:
           - Modelagem:
@@ -95,23 +102,6 @@ nav:
         - Conclusão: Entregas/Entrega-Final/Conclusao.md
         - Anexos: Entregas/Entrega-Final/Anexos.md
 
-  - Elicitação: 
-    - Perfil de Usuário: Elicitação/Perfil_de_Usuário.md
-    - Personas: Elicitação/Definicao_de_Personas.md
-
-    - Técnicas de Elicitação:
-      - Analise de Documentos: Elicitação/Analise_de_Documentos.md
-      - Entrevista: Elicitação/Entrevista.md
-      - Brainstorming: Elicitação/Brainstorming.md
-      - Introspecção: Elicitação/Introspecção.md
-      - Observação: Elicitação/Observação.md
-      - Stroytelling: Elicitação/Storytelling.md
-    
-    - Priorização:
-      - First Things First: Elicitação/First_Things_First.md
-      - In or Out: Elicitação/In_or_Out.md
-      - Three-Level Scale: Elicitação/Three-Level_Scale.md
-      - $100: Elicitação/100_Test.md
-    - Elicitação: Elicitação/Requisitos_Elicitados.md
+  
 
     

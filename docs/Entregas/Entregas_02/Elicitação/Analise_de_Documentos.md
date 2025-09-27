@@ -40,7 +40,7 @@ A **Análise de Documentos** é uma técnica amplamente utilizada na elicitaçã
   - Geração digital do cartão ID Jovem.  
 
 **Site Id Jovem:**  
-![Descrição sobre o aplicativo Id jovem no Site Id Jovem](../assets/Elicitações/SiteIdJovem.png)
+![Descrição sobre o aplicativo Id jovem no Site Id Jovem](../../../assets/Elicitações/SiteIdJovem.png)
 
 *Fonte: Id Jovem Mobile (2025).*
 
@@ -55,7 +55,7 @@ A **Análise de Documentos** é uma técnica amplamente utilizada na elicitaçã
   - Exibição clara dos direitos previstos em lei.  
 
 ###**Descrição App Store:**  
-![Descrição sobre o aplicativo Id jovem na App Store](../assets/Elicitações/AppStorePrint.png)
+![Descrição sobre o aplicativo Id jovem na App Store](../../../assets/Elicitações/AppStorePrint.png)
 *Fonte: App Store (2025).*
 
 

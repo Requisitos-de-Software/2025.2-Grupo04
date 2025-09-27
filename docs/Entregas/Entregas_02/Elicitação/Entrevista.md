@@ -93,7 +93,7 @@ Inicialmente, foram identificados potenciais candidatos que correspondessem ao [
 <details>
   <summary>Termo de consentimento Mariane Ruas de Oliveira</summary>
   <p align="center"><strong>Figura 1:</strong> Termo de consentimento Mariane Ruas de Oliveira</p>
-  <embed src="..\..\imagens\termos_consentimento\tc_neysa.pdf" width="100%" height="500px" />
+  <embed src="..\..\..\imagens\termos_consentimento\tc_neysa.pdf" width="100%" height="500px" />
   <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/">Nome</a> & <a href="https://github.com/">Nome</a>, 2025.</p></font>
 </details>
 

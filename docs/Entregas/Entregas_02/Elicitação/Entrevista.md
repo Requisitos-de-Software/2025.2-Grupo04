@@ -1,3 +1,4 @@
+
 ## Introdução
 
 As entrevistas representam uma das técnicas mais comuns e amplamente empregadas na elicitação de requisitos. Este método envolve interações individuais entre um representante da equipe de desenvolvimento e os stakeholders envolvidos no novo sistema. Reconhecida pela sua capacidade de proporcionar uma compreensão profunda das necessidades e requisitos do software, a técnica de entrevista é considerada essencial para a obtenção e validação desses elementos fundamentais, especialmente em sistemas voltados ao **ID Jovem** [(VAZQUEZ; SIMÕES, 2016)](#anchor_2).
@@ -11,19 +12,20 @@ As entrevistas representam uma das técnicas mais comuns e amplamente empregadas
 
 Durante a entrevista, adotamos uma abordagem estruturada, fundamentada em um conjunto predefinido de perguntas, usando a técnica do 5W2H (What, Why, Where, When, Who, How, How much), listadas na Tabela 1. Esse método possibilitou uma análise aprofundada do entendimento dos stakeholders em relação aos tópicos abordados, considerando os serviços e benefícios oferecidos pelo **ID Jovem** [(VAZQUEZ; SIMÕES, 2016)](#anchor_2).
 
+
 Foram utilizadas perguntas abertas, oferecendo aos entrevistados a liberdade de expressar suas opiniões, compartilhar experiências e fornecer sugestões.
 
 ### Tabela 1: Roteiro de perguntas para as entrevistas sobre o ID Jovem
 
-| Tipo                  | Perguntas                                                                                                                                                                                                                                |
-| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **What (O que)**      | 1. Qual é o principal objetivo ao utilizar o cartão **ID Jovem**?<br>2. Quais benefícios ou serviços do **ID Jovem** você mais utiliza com frequência?<br>3. Quais programas ou atividades sociais você acessa por meio do **ID Jovem**? |
-| **Why (Por que)**     | 4. Por que você optou por usar o **ID Jovem**?<br>5. Por que considera importante que o **ID Jovem** ofereça determinados serviços ou benefícios?                                                                                        |
-| **Who (Quem)**        | 6. Quem você acredita que deve ser prioridade ao pensar em melhorias para o **ID Jovem?**<br>7. Quem você procura em caso de dúvidas ou problemas relacionados ao **ID Jovem**?                                                          |
-| **When (Quando)**     | 8. Com que frequência você utiliza o **ID Jovem**?<br>9. Quando foi a última vez que fez uso do cartão ou aplicativo do **ID Jovem**?                                                                                                    |
-| **Where (Onde)**      | 10. Onde você identifica oportunidades de melhoria nos serviços oferecidos pelo **ID Jovem**?<br>11. Onde seria mais conveniente acessar suporte ou informações relacionadas ao **ID Jovem**?                                            |
-| **How (Como)**        | 12. Como você avalia a facilidade de uso do cartão ou aplicativo do **ID Jovem**?<br>13. Como o **ID Jovem** poderia ser melhorado para atender melhor aos usuários?                                                                     |
-| **How much (Quanto)** | 14. Quanto tempo, em média, você utiliza os serviços do **ID Jovem** por sessão?<br>15. Quanto considera útil o **ID Jovem** em comparação com outras iniciativas ou programas voltados à juventude?                                     |
+| Tipo | Perguntas |
+|------|-----------|
+| **What (O que)** | 1. Qual é o principal objetivo ao utilizar o cartão **ID Jovem**?<br>2. Quais benefícios ou serviços do **ID Jovem** você mais utiliza com frequência?<br>3. Quais programas ou atividades sociais você acessa por meio do **ID Jovem**? |
+| **Why (Por que)** | 4. Por que você optou por usar o **ID Jovem**?<br>5. Por que considera importante que o **ID Jovem** ofereça determinados serviços ou benefícios? |
+| **Who (Quem)** | 6. Quem você acredita que deve ser prioridade ao pensar em melhorias para o **ID Jovem?**<br>7. Quem você procura em caso de dúvidas ou problemas relacionados ao **ID Jovem**? |
+| **When (Quando)** | 8. Com que frequência você utiliza o **ID Jovem**?<br>9. Quando foi a última vez que fez uso do cartão ou aplicativo do **ID Jovem**? |
+| **Where (Onde)** | 10. Onde você identifica oportunidades de melhoria nos serviços oferecidos pelo **ID Jovem**?<br>11. Onde seria mais conveniente acessar suporte ou informações relacionadas ao **ID Jovem**? |
+| **How (Como)** | 12. Como você avalia a facilidade de uso do cartão ou aplicativo do **ID Jovem**?<br>13. Como o **ID Jovem** poderia ser melhorado para atender melhor aos usuários? |
+| **How much (Quanto)** | 14. Quanto tempo, em média, você utiliza os serviços do **ID Jovem** por sessão?<br>15. Quanto considera útil o **ID Jovem** em comparação com outras iniciativas ou programas voltados à juventude? |
 
 **Autor:** [Arthur](https://github.com/arthurfernandesj) & [Dylan](https://github.com/dylancavalcante), 2025.
 
@@ -37,17 +39,18 @@ Inicialmente, foram identificados potenciais candidatos que correspondessem ao [
 
 ### Tabela 2: Cronograma das entrevistas sobre o ID Jovem
 
-| Identificador da entrevista | Entrevistadores                                                                          | Data  | Horário | Entrevistado             | Local    |
-| --------------------------- | ---------------------------------------------------------------------------------------- | ----- | ------- | ------------------------ | -------- |
-| Entrevista 01               | [Arthur Fernandes](https://github.com/arthurfernandesj) & [GIovana](https://github.com/) | 23/09 | 11:05   | Mariane Ruas de Oliveira | UnB-Gama |
-| Entrevista 02               | [Giovana Fontes](https://github.com/) & [Eduarda Domingos](https://github.com/acmposs)   | 25/09 | 15:38   | Noemy da Luz Cardoso     | UnB-Gama |
+| Identificador da entrevista | Entrevistadores | Data   | Horário | Entrevistado | Local     |
+|-----------------------------|----------------|--------|---------|--------------|-----------|
+| Entrevista 01               | [Arthur Fernandes](https://github.com/arthurfernandesj) & [GIovana](https://github.com/) | 23/09 | 11:05   | Mariane Ruas de Oliveira | UnB-Gama  |
+| Entrevista 02               | [Giovana Fontes](https://github.com/) & [Eduarda Domingos](https://github.com/acmposs) | 25/09 | 15:38   | Noemy da Luz Cardoso | UnB-Gama |
 
 **Autor:** [Arthur Fernandes](https://github.com/) & [Dylan](https://github.com/), 2025.
 
+
 ### 2. Materiais de apoio
 
--   Utilizamos um [slide de apresentação](https://www.canva.com/design/DAGB2hD6QRE/5G4JJHLFHVfifDPMHEK1oA/view?utm_content=DAGB2hD6QRE&utm_campaign=designshare&utm_medium=link&utm_source=editor) para aprimorar a condução da entrevista, especialmente considerando que foi realizada remotamente. Essa abordagem não apenas tornou a entrevista mais organizada, mas também proporcionou uma apresentação mais clara e envolvente sobre os serviços e benefícios do **ID Jovem**.
--   Disponibilizamos um documento contendo o [Termo de Consentimento](https://docs.google.com/document/d/1-9clNfHVrAQ4EIl-t1aBRplU4VCoGgPeesqrBWo0SEU/edit?usp=sharing) para garantir que os entrevistados estejam plenamente cientes dos procedimentos envolvidos na entrevista e da forma como os dados seriam utilizados.
+- Utilizamos um [slide de apresentação](https://www.canva.com/design/DAGB2hD6QRE/5G4JJHLFHVfifDPMHEK1oA/view?utm_content=DAGB2hD6QRE&utm_campaign=designshare&utm_medium=link&utm_source=editor) para aprimorar a condução da entrevista, especialmente considerando que foi realizada remotamente. Essa abordagem não apenas tornou a entrevista mais organizada, mas também proporcionou uma apresentação mais clara e envolvente sobre os serviços e benefícios do **ID Jovem**.
+- Disponibilizamos um documento contendo o [Termo de Consentimento](https://docs.google.com/document/d/1-9clNfHVrAQ4EIl-t1aBRplU4VCoGgPeesqrBWo0SEU/edit?usp=sharing) para garantir que os entrevistados estejam plenamente cientes dos procedimentos envolvidos na entrevista e da forma como os dados seriam utilizados.
 
 ### 3. Condução da entrevista
 
@@ -102,6 +105,7 @@ Inicialmente, foram identificados potenciais candidatos que correspondessem ao [
 </details>
 
 3. **Execução das perguntas e documentação das respostas:** Durante a entrevista, o primeiro entrevistador conduziu a realização das perguntas, enquanto o segundo entrevistador ficou responsável por documentar as respostas fornecidas pelo entrevistado. Essa abordagem permitiu uma divisão clara de tarefas, garantindo uma execução eficiente e organizada do processo. Enquanto o primeiro entrevistador se concentrava em fazer as perguntas de forma clara e objetiva, o segundo entrevistador registrava cuidadosamente as respostas para posterior análise e documentação. Essa divisão de papéis contribuiu para manter o fluxo da entrevista e garantir a precisão na documentação das informações obtidas. As respostas coletadas podem ser observadas nas Tabelas 4 e 5.
+
 
 <!-- Tabela das respostas coletadas 1-->
 <details>
@@ -266,6 +270,8 @@ Inicialmente, foram identificados potenciais candidatos que correspondessem ao [
     <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a>, 2025.</p></font>
 </details>
 
+
+
 4. **Encerramento e agradecimento:** Ao final da entrevista, os entrevistadores conduziram o encerramento agradecendo cordialmente ao entrevistado pela sua participação e contribuição. Esse momento foi crucial para expressar gratidão pela disponibilidade e colaboração do entrevistado, destacando a importância do seu envolvimento para o sucesso do projeto. Além disso, os entrevistadores reforçaram o propósito da pesquisa e a relevância das informações fornecidas pelo entrevistado.
 
 ## Entrevista Mariane Ruas de Oliveira
@@ -286,7 +292,8 @@ Na entrevista 1 encontra-se a gravação da entrevista da Mariane Ruas de Olivei
   </font>
 </div>
 
-## Entrevista Noemy da Luz Cardoso
+
+## Entrevista Noemy da Luz Cardoso  
 
 Na entrevista 2 encontra-se a gravação da entrevista da Noemy da Luz Cardoso.
 
@@ -307,10 +314,9 @@ Na entrevista 2 encontra-se a gravação da entrevista da Noemy da Luz Cardoso.
 ## Requisitos Elicitados
 
 ### Legenda
-
--   RF: Requisito Funcional
--   ET: Requisito Não Funcional
--   N: Numeração do requisito
+- RF: Requisito Funcional
+- ET: Requisito Não Funcional
+- N: Numeração do requisito
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 6:</b> Requisitos Funcionais</p></font>
@@ -425,17 +431,15 @@ Na entrevista 2 encontra-se a gravação da entrevista da Noemy da Luz Cardoso.
 </div>
 
 ## Referências Bibliográficas
+> <a id="QT1" href="#anchor_1">1.</a> Guia facetado de técnicas elicitação de requisitos. Disponível em: <[https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades](https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades)>. Acesso em: 22 set 2025. 
 
-> <a id="QT1" href="#anchor_1">1.</a> GUIA FACETADO DE TÉCNICAS DE ELICITAÇÃO DE REQUISITOS. Florianópolis: UFSC, 2017. Disponível em: <a href="https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades">https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades</a>. Acesso em: 22 set. 2025.
+> <a id="QT2" href="#anchor_2">2.</a> VAZQUEZ, C. SIMÕES, G (2016). Engenharia de Requisitos: Software Orientado a Negócio. BRASPORT. Rio de Janeiro, 2016. 
 
-> <a id="QT2" href="#anchor_2">2.</a> VAZQUEZ, Carlos; SIMÕES, Guilherme. <b>Engenharia de Requisitos: software orientado ao negócio</b>. Rio de Janeiro: Brasport, 2016.
+> <a id="QT3" href="#anchor_3">3.</a> SERRANO, M. SERRANO, M (s.d.). Requisitos - Aula 07. UnB GAMA. 
 
-> <a id="QT3" href="#anchor_3">3.</a> SERRANO, Milene; SERRANO, Maurício. <b>Requisitos - Aula 07</b>. Gama, DF: Universidade de Brasília, [s.d.]. Material de aula.
 
 ## Histórico de Versão
-
-| Versão |    Data    |                       Descrição                        |                        Autor(es)                        | Data de revisão |                      Revisor(es)                       |
-| :----: | :--------: | :----------------------------------------------------: | :-----------------------------------------------------: | :-------------: | :----------------------------------------------------: |
-| `1.0`  | 22/09/2025 |        Estrutura da do documento da entrevista         | [Arthur Fernandes](https://github.com/arthurfernandesj) |   22/09/2025    | [Dylan Cavalcante](https://github.com/dylancavalcante) |
-| `1.1`  | 23/09/2025 |                Entrevista com a Mariane                | [Arthur Fernandes](https://github.com/arthurfernandesj) |   23/09/2025    |  [Giovana Fontes](https://github.com/GiovanaFontesS)   |
-| `1.2`  | 28/09/2025 | Correção e padronização das referências bibliográficas |        [Danilo Melo](https://github.com/EngDann)        |
+| Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| `1.0` | 22/09/2025  | Estrutura da do documento da entrevista | [Arthur Fernandes](https://github.com/arthurfernandesj) | 22/09/2025 | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+| `1.1` | 23/09/2025  | Entrevista com a Mariane | [Arthur Fernandes](https://github.com/arthurfernandesj) | 23/09/2025 | [Giovana Fontes](https://github.com/GiovanaFontesS) |

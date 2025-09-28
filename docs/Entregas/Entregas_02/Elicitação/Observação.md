@@ -47,11 +47,32 @@ Podem ser utilizados diferentes tipos de observação, dependendo do nível de i
 - Gravadores de áudio e vídeo (com autorização).  
 - Softwares de análise comportamental e registro de interações.
 
+## Aplicação da Observação no Projeto
+
+Para a realização da técnica de observação em nosso projeto, a equipe estruturou o processo de forma organizada e ética. Primeiramente, foi solicitado o consentimento dos participantes para a coleta de informações, garantindo transparência e respeito à privacidade dos usuários. Durante as sessões, utilizamos planilhas como ferramenta de registro para organizar os dados de maneira clara e sistemática, possibilitando uma análise posterior mais precisa.
+
+Além disso, combinamos a observação com entrevistas breves, o que permitiu esclarecer comportamentos observados e validar certas hipóteses levantadas. Essa combinação enriqueceu o processo, pois possibilitou não apenas registrar as interações reais dos usuários com o aplicativo ID Jovem, mas também compreender suas percepções e justificativas sobre determinadas ações.
+
+Esse método proporcionou uma coleta de dados mais completa, garantindo que os requisitos levantados refletissem de forma mais fiel as dificuldades, necessidades e expectativas dos jovens em relação ao uso do sistema.
+
+## Resultados da observação
+
+A partir da aplicação da técnica de observação no contexto do aplicativo ID Jovem, foi possível identificar pontos relevantes sobre a experiência dos usuários. Durante o acompanhamento, registramos que muitos participantes demonstraram dificuldades em localizar determinadas funcionalidades, principalmente aquelas relacionadas ao acesso de benefícios. Também foi observado que a navegação em algumas telas não era intuitiva, o que gerava retrabalho e confusão.
+
+As entrevistas complementares, realizadas com consentimento, reforçaram essas percepções ao trazer relatos sobre problemas de usabilidade e informações pouco claras no sistema. O uso de planilhas para organizar as observações permitiu agrupar comportamentos recorrentes, como tentativas repetidas de acessar uma mesma função ou demora para compreender a sequência de passos. Com base nesses resultados, foi possível levantar requisitos mais precisos para o projeto, destacando a necessidade de melhorar a clareza das informações apresentadas, simplificar a navegação e tornar certas funcionalidades mais acessíveis. 
+
 ## Referencias 
 
+- VAZQUEZ, C. A.; SIMÕES, G. S. Engenharia de Requisitos: Software Orientado ao Negócio. Rio de Janeiro: Brasport, 2016.
+SERRANO, Milene; SERRANO, Mauricio. Requisitos – Aula 07: Técnicas de Elicitação. Universidade de Brasília, 2023. Material de apoio da disciplina.
+- BRASIL. Ministério da Cidadania. ID Jovem – Identidade Jovem. Disponível em: https://www.gov.br/mds/pt-br/acoes-e-programas/identidade-jovem-id-jovem
+. Acesso em: 27 set. 2025.
+- GOOGLE PLAY. ID Jovem. Disponível em: https://play.google.com/store/apps/details?id=com.idjovem2&hl=pt-BR
+. Acesso em: 27 set. 2025.
 
 
 
 | Versão |    Data    |      Descrição       |                        Autor(es)                        |                       Revisor(es)                       |
 | :----: | :--------: | :------------------: | :-----------------------------------------------------: | :-----------------------------------------------------: |
-| `1.0`  | 27/09/2025 | Criação do documento | [Giovana](https://github.com/GiovanaFontesS) e [](https://github.com/)| [](https://github.com/) |
+| `1.0`  | 27/09/2025 | Criação do documento | [Giovana](https://github.com/GiovanaFontesS) | [Arthur](https://github.com/) |
+| `1.1`  | 28/09/2025 | Alterações adicionais | [Giovana](https://github.com/GiovanaFontesS) | [Arthur](https://github.com/) |

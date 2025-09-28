@@ -15,7 +15,7 @@
 Esta página tem como finalidade analisar o aplicativo **ID Jovem**, escolhido pelo **Grupo 04** para fins de estudo na disciplina de **Requisitos de Software** da **FCTE-UnB** durante o 2º semestre de 2025. O propósito do projeto é realizar a avaliação e a documentação dos requisitos relacionados ao aplicativo ID Jovem. Esse aplicativo é voltado para jovens de baixa renda, permitindo o acesso a benefícios como meia-entrada em eventos culturais, esportivos e de lazer, além da gratuidade ou desconto em viagens interestaduais.  
 
 
-## 🧑‍💻 Integrantes
+## Integrantes
 
 ### Grupo 04
 

@@ -39,7 +39,7 @@ A Análise de Documentos é uma técnica amplamente utilizada na elicitação de
 
 #### 1.1) Documento 1 – Site Oficial do ID Jovem
 
-* **Fonte:** [idjovem.juventude.gov.br](https://idjovem.juventude.gov.br/)
+* **Fonte:** [idjovem.juventude.gov.br](../../../assets/Elicitações/SiteIdJovem.png))
 * **Resumo:** O site oficial do ID Jovem apresenta informações completas sobre o programa, que é uma iniciativa do governo voltada para facilitar o acesso de jovens a direitos e benefícios sociais e culturais. Nele, é possível entender o que é o ID Jovem, como funciona, quais benefícios oferece e quem pode ter acesso. O portal também fornece formas de acesso, incluindo instruções passo a passo para emissão do documento digital, além de orientações de uso, garantindo que os jovens possam usufruir plenamente dos direitos oferecidos pelo programa. Dessa forma, o site funciona como um guia completo, esclarecendo dúvidas e facilitando a utilização do benefício de forma segura e prática.
 
 <p align="center">
@@ -54,7 +54,7 @@ A Análise de Documentos é uma técnica amplamente utilizada na elicitação de
 
 #### 1.2) Documento 2 – Aplicativo (App Store / Google Play)
 
-* **Fonte:** Página do aplicativo nas lojas digitais ([Google Play e App Store](https://play.google.com/store/apps/details?id=com.idjovem2&hl=pt-BR)).
+* **Fonte:** Página do aplicativo nas lojas digitais ([Google Play e App Store](2025.2-Grupo04/docs/assets/Elicitações/AppStorePrint.png)).
 * **Resumo:** A descrição oficial do aplicativo na App Store, o ID Jovem permite que jovens de baixa renda emitam sua carteira digital e acessem benefícios do programa. Com o app, é possível emitir mais de uma carteira, receber alertas, consultar perguntas frequentes, acessar atendimento e permitir que estabelecimentos validem a carteira para concessão de descontos em eventos culturais, esportivos e transporte interestadual.
 
 <p align="center">

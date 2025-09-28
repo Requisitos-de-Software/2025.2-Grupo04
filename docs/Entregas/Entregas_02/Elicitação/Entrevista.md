@@ -279,23 +279,36 @@ Inicialmente, foram identificados potenciais candidatos que correspondessem ao [
 Na entrevista 1 encontra-se a gravação da entrevista da Mariane Ruas de Oliveira
 
 <div align="center">
-<p style="text-align: center"><a href="" target="_blank"><b>Entrevista 01:</b> Mariane Ruas de Oliveira</a></p>
+  <p style="text-align: center">
+    <a href="https://youtu.be/KNDC8x1U8fQ" target="_blank"><b>Entrevista 02:</b> Mariane Ruas de Oliveira</a>
+  </p>
 
-<iframe width="560" height="315" src="" title="Primeira Entrevista do Grupo 4 ID Jovem" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/KNDC8x1U8fQ" title="Segunda Entrevista do Grupo 4 ID Jovem" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/">Nome</a> & <a href="https://github.com/">Nome</a>, 2025.</p></font>
+  <font size="3">
+    <p style="text-align: center">
+      <b> Autor:</b>Arthur Fernandes<a href="https://github.com/"></a> & <a href="https://github.com/">Giovana Fontes</a>, 2025.
+    </p>
+  </font>
 </div>
+
 
 ## Entrevista Noemy da Luz Cardoso  
 
 Na entrevista 2 encontra-se a gravação da entrevista da Noemy da Luz Cardoso.
 
 <div align="center">
-<p style="text-align: center"><a href="" target="_blank"><b>Entrevista 02:</b> Noemy da Luz Cardoso</a></p>
+  <p style="text-align: center">
+    <a href="https://youtu.be/EirTf487u70" target="_blank"><b>Entrevista 02:</b> Noemy da Luz Cardoso</a>
+  </p>
 
-<iframe width="560" height="315" src="" title="Segunda Entrevista do Grupo 4 ID Jovem" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/EirTf487u70" title="Segunda Entrevista do Grupo 4 ID Jovem" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<font size="3"><p style="text-align: center"><b> Autor:</b> Giovana Fontes <a href="https://github.com/"></a> & <a href="https://github.com/">Eduarda Domingos</a>, 2025.</p></font>
+  <font size="3">
+    <p style="text-align: center">
+      <b> Autor:</b> Giovana Fontes <a href="https://github.com/"></a> & <a href="https://github.com/">Eduarda Domingos</a>, 2025.
+    </p>
+  </font>
 </div>
 
 ## Requisitos Elicitados

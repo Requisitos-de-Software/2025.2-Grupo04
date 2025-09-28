@@ -95,6 +95,7 @@ Além disso, a técnica contribuiu para verificar a coerência entre normas lega
 | **Não Funcional** | Confiabilidade: Informações oficiais e atualizadas                          |
 | **Não Funcional** | Performance: Emissão rápida e estável da carteira digital                   |
 | **Não Funcional** | Acessibilidade: Informações claras e de fácil entendimento                  |
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
 
 ---
 

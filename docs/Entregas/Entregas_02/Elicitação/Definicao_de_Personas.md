@@ -41,7 +41,7 @@ A quantidade de personas elaboradas mostrou-se suficiente para representar os se
 
 <p style="text-align: center"><b>Tabela 1</b> - Persona Primária Ana Clara.</p>
 
-| <font size="3"><p style="text-align: center">Figura 1- Persona Primária Ana Clara.</p></font><figure markdown>![Ana Clara](../../../assets/personas/anaClara.png)<figcaption>Autor: [Eduarda](https://github.com/eduardar0) (2025). <a id="TEC2" href="#RP2">[2]</a></a> </figcaption></figure> |
+| <font size="3"><p style="text-align: center">Figura 1- Persona Primária Ana Clara.</p></font><figure markdown>![Ana Clara](../../../assets/personas/anaClara.jpg)<figcaption>Autor: [Eduarda](https://github.com/eduardar0) (2025). <a id="TEC2" href="#RP2">[2]</a></a> </figcaption></figure> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**: Ana Clara |
 | **Status**: Persona Primária. |
@@ -126,7 +126,7 @@ A quantidade de personas elaboradas mostrou-se suficiente para representar os se
 
 ## Referências Bibliográficas
 
-> <a id="QT1" href="#anchor_1">1.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
+> <a id="QT1" href="#anchor_1">1.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Capitulo 8.2: Personas. Pag: 167.
 
 > <a id="QT2" href="#anchor_2">2.</a> Imagem gerada através da aplicação This Person Doesn't Exist. Disponível em: [https://thispersondoesnotexist.com/](https://thispersondoesnotexist.com/). Acesso em: 28 de set. de 2025. 
 

@@ -4,105 +4,103 @@ repo_name: "ID Jovem"
 repo_url: "https://github.com/Requisitos-de-Software/2025.2-Grupo04"
 
 theme:
-  name: material
-  logo: assets/Logo_IDJovem.svg
-  favicon: assets/Logo_IDJovem.svg
-  palette:
-    - scheme: default
-      primary: custom
-      accent: custom
-      toggle:
-        icon: material/weather-sunny
-        name: Mudar para modo escuro
-    - scheme: slate
-      primary: custom
-      accent: custom
-      toggle:
-        icon: material/weather-night
-        name: Mudar para modo claro
+    name: material
+    logo: assets/Logo_IDJovem.svg
+    favicon: assets/Logo_IDJovem.svg
+    palette:
+        - scheme: default
+          primary: custom
+          accent: custom
+          toggle:
+              icon: material/weather-sunny
+              name: Mudar para modo escuro
+        - scheme: slate
+          primary: custom
+          accent: custom
+          toggle:
+              icon: material/weather-night
+              name: Mudar para modo claro
 
-  font:
-    text: Poppins
-    code: Inconsolata
+    font:
+        text: Poppins
+        code: Inconsolata
 
-  features:
-    - navigation.tabs
-    - navigation.top
+    features:
+        - navigation.tabs
+        - navigation.top
 
-  locale: pt_BR
+    locale: pt_BR
 
 plugins:
-  - search
+    - search
 
 markdown_extensions:
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
+    - pymdownx.superfences:
+          custom_fences:
+              - name: mermaid
+                class: mermaid
 
 extra_css:
-  - stylesheets/extra.css
+    - stylesheets/extra.css
 
 nav:
-  - Início: index.md
+    - Início: index.md
 
-  - Planejamento:
-      - Aplicativo: Planejamentos/Aplicativo.md
-      - Aplicativo Avaliado: Planejamentos/Aplicativos_Avaliados.md
-      - Cronograma: Planejamentos/Cronograma.md
-      - Ferramentas: Planejamentos/Ferramentas.md
-      - Metodologias: Planejamentos/Metodologias.md
-      
+    - Planejamento:
+          - Aplicativo: Planejamentos/Aplicativo.md
+          - Aplicativo Avaliado: Planejamentos/Aplicativos_Avaliados.md
+          - Cronograma: Planejamentos/Cronograma.md
+          - Ferramentas: Planejamentos/Ferramentas.md
+          - Metodologias: Planejamentos/Metodologias.md
 
-  - Encontros:
-      - Reunião: Encontros/Reunião.md
-      - Atas:
-        - Ata 01 (01/09): Encontros/atas/ata_01_09.md
-        - Ata 02 (07/09): Encontros/atas/ata_07_09.md
-        - Ata 03 (08/09): Encontros/atas/ata_08_09.md
-        - Ata 04 (15/09): Encontros/atas/ata_15_09.md
-        - Ata 05 (22/09): Encontros/atas/ata_22_09.md
-        - Ata 06 (23/09): Encontros/atas/ata_23_09.md
-        - Ata 07 (27/09): Encontros/atas/ata_27_09.md
-        
-  - Entregas:
-      - Entrega 01:
-          - Pré-Rastreabilidade (RichPicture): Entregas/Entregas_01/RichPicture.md
-          - Apresentação: Entregas/Entregas_01/apresentacao01.md
-          - Verificação e inspeção: Entregas/Entregas_01/Entrega_01.md
-          - Inspeção grupo n+1: Entregas/Entregas_01/inspecao01.md
+    - Encontros:
+          - Reunião: Encontros/Reunião.md
+          - Atas:
+                - Ata 01 (01/09): Encontros/atas/ata_01_09.md
+                - Ata 02 (07/09): Encontros/atas/ata_07_09.md
+                - Ata 03 (08/09): Encontros/atas/ata_08_09.md
+                - Ata 04 (15/09): Encontros/atas/ata_15_09.md
+                - Ata 05 (22/09): Encontros/atas/ata_22_09.md
+                - Ata 06 (23/09): Encontros/atas/ata_23_09.md
+                - Ata 07 (27/09): Encontros/atas/ata_27_09.md
 
-      - Entrega 02:
-          - Elicitação: 
-            - Perfil de Usuário: Entregas/Entregas_02/Elicitação/Perfil_de_Usuário.md
-            - Personas: Entregas/Entregas_02/Elicitação/Definicao_de_Personas.md
+    - Entregas:
+          - Entrega 01:
+                - Pré-Rastreabilidade (RichPicture): Entregas/Entregas_01/RichPicture.md
+                - Apresentação: Entregas/Entregas_01/apresentacao01.md
+                - Verificação e inspeção: Entregas/Entregas_01/Entrega_01.md
+                - Inspeção grupo n+1: Entregas/Entregas_01/inspecao01.md
 
-          - Técnicas de Elicitação:
-            - Analise de Documentos: Entregas/Entregas_02/Elicitação/Analise_de_Documentos.md
-            - Entrevista: Entregas/Entregas_02/Elicitação/Entrevista.md
-            - Brainstorming: Entregas/Entregas_02/Elicitação/Brainstorming.md
-            - Introspecção: Entregas/Entregas_02/Elicitação/Introspecção.md
-            - Observação: Entregas/Entregas_02/Elicitação/Observação.md
-            - Stroytelling: Entregas/Entregas_02/Elicitação/Storytelling.md
-    
-            - Priorização:
-              - First Things First: Entregas/Entregas_02/Elicitação/First_Things_First.md
-              - In or Out: Entregas/Entregas_02/Elicitação/In_or_Out.md
-              - Three-Level Scale: Entregas/Entregas_02/Elicitação/Three-Level_Scale.md
-              - $100: Entregas/Entregas_02/Elicitação/100_Test.md
-            
-      - Entrega 03:
-          - Modelagem:
-            - Diagramas: Entregas/Entregas_03/Modelagem/Diagramas.md
-            - Especificações: Entregas/Entregas_03/Modelagem/Especificacoes.md
-          - Pós-Rastreabilidade:
-            - Matriz de Rastreabilidade: Entregas/Entregas_03/Pós-Rastreabilidade/Matriz.md
-            - Relatórios: Entregas/Entregas_03/Pós-Rastreabilidade/Relatorios.md
+          - Entrega 02:
+                - Elicitação:
+                      - Perfil de Usuário: Entregas/Entregas_02/Elicitação/Perfil_de_Usuário.md
+                      - Personas: Entregas/Entregas_02/Elicitação/Definicao_de_Personas.md
 
-      - Entrega Final:
-        - Conclusão: Entregas/Entrega-Final/Conclusao.md
-        - Anexos: Entregas/Entrega-Final/Anexos.md
+                - Técnicas de Elicitação:
+                      - Analise de Documentos: Entregas/Entregas_02/Elicitação/Analise_de_Documentos.md
+                      - Entrevista: Entregas/Entregas_02/Elicitação/Entrevista.md
+                      - Brainstorming: Entregas/Entregas_02/Elicitação/Brainstorming.md
+                      - Introspecção: Entregas/Entregas_02/Elicitação/Introspecção.md
+                      - Observação: Entregas/Entregas_02/Elicitação/Observação.md
+                      - Stroytelling: Entregas/Entregas_02/Elicitação/Storytelling.md
 
-  
+                - Priorização:
+                      - Tecnicas:
+                            - First Things First: Entregas/Entregas_02/Priorização/Tecnicas/First_Things_First.md
+                            - Moscow: Entregas/Entregas_02/Priorização/Tecnicas/Moscow.md
+                            - $100: Entregas/Entregas_02/Priorização/Tecnicas/100_Dolars.md
+                      - Decisao: Entregas/Entregas_02/Priorização/Decisao.md
+                      - Guia: Entregas/Entregas_02/Priorização/Guia.md
+                      - Tabela: Entregas/Entregas_02/Priorização/Tabela.md
 
-    
+          - Entrega 03:
+                - Modelagem:
+                      - Diagramas: Entregas/Entregas_03/Modelagem/Diagramas.md
+                      - Especificações: Entregas/Entregas_03/Modelagem/Especificacoes.md
+                - Pós-Rastreabilidade:
+                      - Matriz de Rastreabilidade: Entregas/Entregas_03/Pós-Rastreabilidade/Matriz.md
+                      - Relatórios: Entregas/Entregas_03/Pós-Rastreabilidade/Relatorios.md
+
+          - Entrega Final:
+                - Conclusão: Entregas/Entrega-Final/Conclusao.md
+                - Anexos: Entregas/Entrega-Final/Anexos.md

@@ -136,3 +136,17 @@
 | Avaliação final | 25/11 | Todos | - | Professor |
 
 📌 **Entrega da Sprint:** Projeto final (24/11) e Avaliação (25/11).
+
+## 📚 Referências Bibliográficas
+
+1. UNIVERSIDADE DE BRASÍLIA. Plano de Ensino da disciplina de Requisitos de Software [plano de ensino]. Brasília, 2025. [PDF do plano](../assets/Planodeensino.pdf)
+
+
+
+## Histórico de Versões 📅
+
+| Versão |    Data    |                       Descrição                        |                      Autor(es)                      |                       Revisor(es)                       |
+| :----: | :--------: | :----------------------------------------------------: | :-------------------------------------------------: | :-----------------------------------------------------: |
+| `1.0`  | 08/09/2025 |  Criação da página de Cronograma | [Eduarda Domingos](https://github.com/eduardar0), [Letícia Lopes](https://github.com/leticialopes20), [Breno Teixeira](https://github.com/BrenoLTeixeira),  [Danilo Melo](https://github.com/EngDann)  | [Dylan Cavalcante](https://github.com/dylancavalcante), [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| `1.1`  | 22/09/2025 |   Atualização de cronograma, mudança de datas e maior detalhamento    |  [Eduarda Domingos](https://github.com/eduardar0)    | [Dylan Cavalcante](https://github.com/dylancavalcante), [Letícia Lopes](https://github.com/leticialopes20)  |
+| `1.2`  | 28/09/2025 | Correção de tabela de versionamento e de referências Bibliográficas | [Letícia Lopes](https://github.com/leticialopes20) | [Arthur Fernandes](https://github.com/arthurfernandesj),  [Dylan Cavalcante](https://github.com/dylancavalcante)  |

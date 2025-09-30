@@ -130,23 +130,14 @@ Esta tabela consolida os requisitos funcionais identificados nos documentos e na
 
 | ID | Descrição | Fonte/Justificativa |
 | :--- | :--- | :--- |
-| RF-CAD-01 | O sistema deve permitir o cadastro do usuário por meio do CPF. | Análise de Documentos.[[2]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Analise_de_Documentos)
- Requisito fundamental da plataforma. |
-| RF-AUT-01 | O sistema deve fornecer mecanismos de autenticação e login para o usuário. | Análise de Documentos.[[2]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Analise_de_Documentos)
- Essencial para o acesso seguro. |
-| RF-EMI-01 | O sistema deve permitir a geração e emissão da carteira digital ID Jovem. | Análise de Documentos.[[2]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Analise_de_Documentos)
- Funcionalidade central do aplicativo. |
-| RF-BEN-01 | O sistema deve permitir a consulta de benefícios como transporte gratuito e acesso a eventos culturais e esportivos. | Entrevista [[1]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista)
-, Análise de Documentos.[[1]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista)
- Principal funcionalidade utilizada e valorizada pelos usuários. |
-| RF-VAL-01 | O sistema deve permitir a validação da carteira por estabelecimentos conveniados. | Análise de Documentos.[[2]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Analise_de_Documentos)
- Garante a aceitação do benefício no ecossistema. |
-| RF-FAQ-01 | O sistema deve disponibilizar uma seção de perguntas frequentes (FAQ) e informações de atendimento. | Análise de Documentos.[[2]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Analise_de_Documentos)
- Requisito existente para autoatendimento. |
-| **RF-SUP-01 (Derivado)** | O sistema deve prover um canal de comunicação direto (e.g., chat ou formulário de contato) para suporte ao usuário. | Entrevista (Noemy).[[1]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista)
- Responde diretamente à necessidade de um canal para dúvidas e sugestões, mitigando o "vácuo de suporte". |
-| **RF-COM-01 (Derivado)** | O sistema deve apresentar uma seção de "Novidades e Divulgação" para informar sobre o programa, novos parceiros e benefícios. | Entrevista (Mariane, Noemy).[[1]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista)
- Mitiga o ponto de dor da "lacuna de conhecimento", utilizando o próprio app como canal de informação. |
+| RF-CAD-01 | O sistema deve permitir o cadastro do usuário por meio do CPF. | Análise de Documentos.[[2]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Analise_de_Documentos) |
+| RF-AUT-01 | O sistema deve fornecer mecanismos de autenticação e login para o usuário. | Análise de Documentos.[[2]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Analise_de_Documentos)|
+| RF-EMI-01 | O sistema deve permitir a geração e emissão da carteira digital ID Jovem. | Análise de Documentos.[[2]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Analise_de_Documentos) |
+| RF-BEN-01 | O sistema deve permitir a consulta de benefícios como transporte gratuito e acesso a eventos culturais e esportivos. | Entrevista [[1]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista) |
+| RF-VAL-01 | O sistema deve permitir a validação da carteira por estabelecimentos conveniados. | Análise de Documentos.[[2]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Analise_de_Documentos) |
+| RF-FAQ-01 | O sistema deve disponibilizar uma seção de perguntas frequentes (FAQ) e informações de atendimento. | Análise de Documentos.[[2]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Analise_de_Documentos) |
+| **RF-SUP-01 (Derivado)** | O sistema deve prover um canal de comunicação direto (e.g., chat ou formulário de contato) para suporte ao usuário. | Entrevista (Noemy).[[1]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista)|
+| **RF-COM-01 (Derivado)** | O sistema deve apresentar uma seção de "Novidades e Divulgação" para informar sobre o programa, novos parceiros e benefícios. | Entrevista (Mariane, Noemy).[[1]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista) |
 
 <p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
 
@@ -156,18 +147,12 @@ Esta tabela detalha os atributos de qualidade essenciais para o sucesso do aplic
 
 | ID | Categoria | Descrição | Fonte/Justificativa |
 | :--- | :--- | :--- | :--- |
-| RNF-USA-01 | **Usabilidade** | O processo de login deve ser simplificado e otimizado para minimizar o número de passos e a carga cognitiva do usuário. | Entrevista (Noemy).[[1]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista)
- Responde diretamente ao ponto de dor "login complicado", que é uma barreira crítica de acesso. |
-| RNF-USA-02 | **Usabilidade** | A interface do aplicativo deve ser intuitiva, com navegação clara, textos legíveis e um design acessível, mesmo para jovens com pouca experiência digital. | Entrevista [[1]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista)
-, Análise de Documentos.[[2]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Analise_de_Documentos)
- Atende à sugestão de Mariane de "melhorar a usabilidade" e ao requisito de interface simples e acessível. |
-| RNF-PER-01 | **Desempenho** | A geração e exibição do documento digital (carteira) devem ser concluídas em no máximo 5 segundos após a solicitação do usuário. | Entrevista.[[1]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista)
- Suporta o comportamento de uso rápido e utilitário ("poucos minutos por sessão"), garantindo que o usuário não perca tempo na tarefa principal. |
-| RNF-SEG-01 | **Segurança** | Os dados pessoais do usuário, especialmente o CPF, devem ser armazenados e transmitidos utilizando criptografia forte para garantir a proteção contra acessos não autorizados. | Análise de Documentos.[[2]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Analise_de_Documentos)
- Requisito padrão e fundamental para qualquer aplicação governamental que lida com dados sensíveis dos cidadãos. |
+| RNF-USA-01 | **Usabilidade** | O processo de login deve ser simplificado e otimizado para minimizar o número de passos e a carga cognitiva do usuário. | Entrevista (Noemy).[[1]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista) |
+| RNF-USA-02 | **Usabilidade** | A interface do aplicativo deve ser intuitiva, com navegação clara, textos legíveis e um design acessível, mesmo para jovens com pouca experiência digital. | Entrevista [[1]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista) |
+| RNF-PER-01 | **Desempenho** | A geração e exibição do documento digital (carteira) devem ser concluídas em no máximo 5 segundos após a solicitação do usuário. | Entrevista.[[1]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista) |
+| RNF-SEG-01 | **Segurança** | Os dados pessoais do usuário, especialmente o CPF, devem ser armazenados e transmitidos utilizando criptografia forte para garantir a proteção contra acessos não autorizados. | Análise de Documentos.[[2]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Analise_de_Documentos) |
 | RNF-CON-01 | **Confiabilidade** | O aplicativo deve manter uma disponibilidade de serviço de 99.5%, garantindo que o usuário possa acessar sua identidade digital quando necessário. | Derivado do contexto de uso. A falha no acesso à credencial no momento da compra ou embarque invalida completamente o propósito do aplicativo. |
-| RNF-POR-01 | **Portabilidade** | O aplicativo deve ser compatível e funcional nas duas versões mais recentes dos sistemas operacionais Android e iOS. | Análise de Documentos.[[2]](hhttps://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Analise_de_Documentos)
- Garante que o aplicativo funcione para a vasta maioria do público-alvo, que utiliza diferentes dispositivos móveis. |
+| RNF-POR-01 | **Portabilidade** | O aplicativo deve ser compatível e funcional nas duas versões mais recentes dos sistemas operacionais Android e iOS. | Análise de Documentos.[[2]](hhttps://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Analise_de_Documentos)|
 
 <p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
 
@@ -177,32 +162,19 @@ Esta tabela detalha os atributos de qualidade essenciais para o sucesso do aplic
 
 | Categoria | Característica | Descrição | Fonte(s) |
 | :--- | :--- | :--- | :--- |
-| **Persona/Arquétipo** | Sobrevivente Pragmático | Jovem que utiliza o aplicativo de forma transacional para obter benefícios econômicos, com baixa tolerância a ineficiências. | [[1]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista)
- |
-| **Demografia** | Faixa Etária | 15-29 anos (oficial); 21-22 anos (amostra da entrevista). | [[1]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista)
- |
-| | Gênero | Feminino (amostra da entrevista). | [[1]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista)
- |
-| | Escolaridade | Ensino Superior Incompleto (amostra da entrevista). | [[1]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista)
- |
-| | Ocupação | Estudante. | [[1]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista)
- |
-| | Renda | Baixa Renda (critério de elegibilidade do programa). | [[1]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista)
- |
-| **Comportamento Digital** | Competência | Alta familiaridade com o ambiente digital; utiliza apps para compras online. | [[1]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista)
- |
-| | Padrão de Uso | Utilitário, infrequente (e.g., bimestral), com sessões curtas e focadas na tarefa (2-5 minutos). | [[1]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista)
- |
-| **Motivações** | Principal Motivação | Econômica: economizar e acessar atividades de lazer (cinema, viagens) consideradas caras. | [[1]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista)
- |
-| | Valor Percebido | O valor do aplicativo está diretamente ligado ao benefício financeiro tangível que ele proporciona. | [[1]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista)
- |
-| **Pontos de Dor** | Usabilidade | Dificuldade com o processo de login, percebido como "complicado". | [[1]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista)
- |
-| | Divulgação | Falta de conhecimento sobre a existência do programa entre o público-alvo. | [[1]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista)
- |
-| | Suporte | Ausência de um canal de comunicação direto para tirar dúvidas ou fazer sugestões. | [[1]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista)
- |
+| **Persona/Arquétipo** | Sobrevivente Pragmático | Jovem que utiliza o aplicativo de forma transacional para obter benefícios econômicos, com baixa tolerância a ineficiências. | [[1]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista)|
+| **Demografia** | Faixa Etária | 15-29 anos (oficial); 21-22 anos (amostra da entrevista). | [[1]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista)|
+| | Gênero | Feminino (amostra da entrevista). | [[1]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista)|
+| | Escolaridade | Ensino Superior Incompleto (amostra da entrevista). | [[1]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista)|
+| | Ocupação | Estudante. | [[1]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista)|
+| | Renda | Baixa Renda (critério de elegibilidade do programa). | [[1]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista)|
+| **Comportamento Digital** | Competência | Alta familiaridade com o ambiente digital; utiliza apps para compras online. | [[1]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista)|
+| | Padrão de Uso | Utilitário, infrequente (e.g., bimestral), com sessões curtas e focadas na tarefa (2-5 minutos). | [[1]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista)|
+| **Motivações** | Principal Motivação | Econômica: economizar e acessar atividades de lazer (cinema, viagens) consideradas caras. | [[1]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista)|
+| | Valor Percebido | O valor do aplicativo está diretamente ligado ao benefício financeiro tangível que ele proporciona. | [[1]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista)|
+| **Pontos de Dor** | Usabilidade | Dificuldade com o processo de login, percebido como "complicado". | [[1]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista)|
+| | Divulgação | Falta de conhecimento sobre a existência do programa entre o público-alvo. | [[1]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista)|
+| | Suporte | Ausência de um canal de comunicação direto para tirar dúvidas ou fazer sugestões. | [[1]](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista)|
 
 <p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
 
@@ -232,7 +204,8 @@ Para um programa com uma missão social tão importante como o ID Jovem, a aplic
 
 ## Bibliografia 
 
->< VAZQUEZ, C. E.; SIMÕES, G. S. *Engenharia de Requisitos: software orientado ao negócio*. Rio de Janeiro: Brasport, 2016.
+>< VAZQUEZ, C. E.; SIMÕES, G. S. *Engenharia de Requisitos: software orientado ao negócio*. Rio de Janeiro: >< Brasport, 2016.
+
 ---
 ## Histórico de Versão
 

@@ -31,7 +31,7 @@ Ela deseja que o aplicativo seja simples, com **login rápido**, notificações 
 
 ### História 2
 
-**João Pedro**, 22 anos, trabalhador informal, usa o benefício do ID Jovem para visitar sua família em outra cidade.  
+**João Pedro**, 24   anos, trabalhador informal, usa o benefício do ID Jovem para visitar sua família em outra cidade.  
 
 Com a rotina corrida, João precisa de um aplicativo **confiável e estável**, que permita a compra de passagens diretamente pelo sistema ou redirecione para empresas de transporte parceiras.  
 Ele valoriza principalmente a **segurança dos seus dados** e quer que o aplicativo seja **acessível em qualquer dispositivo**, já que alterna entre celular e computador.  

@@ -33,7 +33,7 @@ Para aplicar o MoSCoW ao **ID Jovem**, seguimos as etapas:
 
 ---
 
-## Vantagens  
+### Vantagens  
 
 - Linguagem simples e acessível.  
 - Facilita a participação de todos os stakeholders.  
@@ -43,7 +43,7 @@ Para aplicar o MoSCoW ao **ID Jovem**, seguimos as etapas:
 
 ---
 
-## Desvantagens  
+### Desvantagens  
 
 - Pode ser simplista em contextos mais complexos.  
 - Subjetividade na decisão das classificações.  
@@ -118,68 +118,13 @@ A Tabela 1 apresenta a classificação dos requisitos do **ID Jovem**, considera
 | RT-03      | Testes de usabilidade devem ser conduzidos com jovens na faixa etária de 15 a 29 anos para validar a clareza da interface.                     |               |               |
 
 
-**Fontes:** [Arthur Fernandes](https://github.com/arthurfernandesj), 2025  
+**Fontes:** [Arthur Fernandes](https://github.com/arthurfernandesj), 2025
 
 ---
 
-=======
+## Referências Bibliográficas
 
-## Metodologia de Aplicação  
-
-Para aplicar o MoSCoW ao **ID Jovem**, seguimos as etapas:  
-
-1. **Levantamento:** Reunimos os requisitos obtidos pelas técnicas de elicitação.  
-2. **Discussão:** Avaliamos em conjunto com os stakeholders a relevância de cada requisito.  
-3. **Classificação:** Cada requisito foi categorizado em Must, Should, Could ou Won’t.  
-4. **Validação:** A priorização foi revisada com todos os envolvidos.  
-5. **Revisão contínua:** Considerando que o ID Jovem pode evoluir (novos serviços, integrações e legislações), os requisitos podem ser reavaliados a qualquer momento.  
-
----
-
-## Vantagens  
-
-- Linguagem simples e acessível.  
-- Facilita a participação de todos os stakeholders.  
-- Define claramente o escopo mínimo viável (MVP).  
-- Permite ajustes durante o andamento do projeto.  
-- Ajuda a focar nos itens que realmente agregam valor imediato.  
-
----
-
-## Desvantagens  
-
-- Pode ser simplista em contextos mais complexos.  
-- Subjetividade na decisão das classificações.  
-- Risco de influências políticas sobre critérios técnicos.  
-- Necessidade de que os envolvidos conheçam bem o negócio para uma priorização eficaz.  
-
----
-
-## Priorização de Requisitos do ID Jovem com MoSCoW  
-
-A Tabela 1 apresenta a classificação dos requisitos do **ID Jovem**, considerando sua relevância para o sistema.  
-
-
-| ID   | Requisito                        | Descrição                                                                 | Tipo           | Classificação |
-|:----:|----------------------------------|---------------------------------------------------------------------------|----------------|---------------|
-| RF01 | Cadastro                         | O sistema deve permitir o cadastro do jovem com validação automática do NIS| Funcional      | Must          |
-| RF02 | Login                            | O sistema deve permitir login seguro com CPF e senha                       | Funcional      | Must          |
-| RF03 | Emissão de cartão digital        | O sistema deve emitir o cartão ID Jovem em formato digital com QR Code     | Funcional      | Must          |
-| RF04 | Validação de Benefício           | O sistema deve validar automaticamente se o jovem atende aos critérios     | Funcional      | Must          |
-| RNF01| Acessibilidade                   | A aplicação deve ser acessível a usuários com deficiência                  | Não Funcional  | Must          |
-| RNF02| Compatibilidade                  | O sistema deve ser suportado nos principais sistemas mobile                | Não Funcional  | Should        |
-| RF05 | Histórico de uso                 | O sistema deve disponibilizar histórico de utilizações do benefício        | Funcional      | Should        |
-| RF06 | FAQ                              | O sistema deve disponibilizar perguntas frequentes                         | Funcional      | Should        |
-| RNF03| Facilidade de uso                | A interface deve ser intuitiva e de fácil entendimento                     | Não Funcional  | Should        |
-| RF07 | Integração com carteiras digitais| O cartão ID Jovem deve poder ser adicionado ao Google Wallet / Apple Pay   | Funcional      | Could         |
-| RF08 | Notificações                     | O sistema pode enviar notificações sobre atualizações e lembretes          | Funcional      | Could         |
-| RF09 | Personalização                   | O sistema pode permitir personalização de cores e temas                    | Funcional      | Could         |
-| RF10 | Eventos e promoções culturais    | O sistema pode sugerir eventos culturais disponíveis na região do jovem    | Funcional      | Won’t         |
-
-**Fontes:** [Arthur Fernandes](https://github.com/arthurfernandesj), 2025  
-*Tabela 1 – Priorização dos requisitos do ID Jovem com a técnica MoSCoW*  
-
----
+> WIEGERS, Karl E. **Software Requirements**. 2. ed. Redmond, WA: Microsoft Press, 2003.
 
 ## Histórico de Versões
 
@@ -188,4 +133,3 @@ A Tabela 1 apresenta a classificação dos requisitos do **ID Jovem**, considera
 | `1.0`  | 28/09/2025 | Criação do documento com a descrição da técnica de priorização "MoSCoW" | [Danilo Melo](https://github.com/EngDann) |  [ Arthur Fernandes](https://github.com/arthurfernandesj)|
 | `1.1`  | 29/09/2025 | Atualização da técnica de priorização "MoSCoW e tabela de priorização adicionada" | [Arthur Fernandes](https://github.com/arthurfernandesj) |  [Letícia Lopes](https://github.com/leticialopes20) |
 | `1.2`  | 30/09/2025 | Atualização da tabela de priorização de requisitos | [Letícia Lopes](https://github.com/leticialopes20) |   [Arthur Fernandes](https://github.com/arthurfernandesj)|
-| `1.1`  | 29/09/2025 | Atualização da técnica de priorização "MoSCoW e tabela de priorização adicionada" | [Arthur Fernandes](https://github.com/arthurfernandesj) |  [](https://github.com/)|

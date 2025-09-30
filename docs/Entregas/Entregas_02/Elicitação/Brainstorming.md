@@ -417,9 +417,6 @@ O brainstorming foi realizado em formato de reunião e contou com a presença de
 ## Bibliografia
 > </a> Requisitos de Software. Bilheteria Digital (2023.1). Disponível em: [https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital](https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital). Acesso em: 23 Set. 2025.
 
-> </a> Requisitos de Software. E-Título (2023.1). Disponível em: [https://github.com/Requisitos-de-Software/2023.2-e-Titulo](https://github.com/Requisitos-de-Software/2023.2-e-Titulo). Acesso em: 23 Set. 2025.
-
-
 
 ## Histórico de Versões
 

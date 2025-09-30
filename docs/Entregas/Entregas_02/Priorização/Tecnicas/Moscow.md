@@ -1,34 +1,38 @@
-### **Técnica MoSCoW**
+# MoSCoW
 
-O MoSCoW é uma técnica muito conhecida e considerada simples para a priorização de requisitos. O método consiste em atribuir a cada requisito uma de quatro classificações (M, S, C ou W), cada uma com um significado distinto.
+## Introdução
 
-#### **O que é?**
+O **MoSCoW** é uma técnica de priorização de requisitos que busca organizar e classificar os itens de um projeto de acordo com sua importância e impacto no negócio.  
+Para isso, cada requisito recebe uma das quatro categorias: **Must have**, **Should have**, **Could have** e **Won’t have**, permitindo que equipes de desenvolvimento e stakeholders alcancem um consenso sobre o que deve ser entregue em cada fase do projeto.
 
-O MoSCoW é uma abordagem de priorização que ajuda equipes e stakeholders a chegarem a um entendimento comum sobre a importância de cada requisito em uma determinada entrega. Em vez de usar uma escala numérica, que pode ser ambígua, ele utiliza quatro categorias com nomes claros para classificar o que é indispensável e o que é apenas desejável. Essa clareza ajuda a gerenciar as expectativas dos clientes e a focar os esforços de desenvolvimento no que realmente agrega valor imediato ao negócio.
+A técnica é especialmente útil para projetos que possuem muitas demandas concorrentes, como o sistema **ID Jovem**, pois ajuda a definir o escopo mínimo viável, garantindo que os requisitos críticos sejam implementados primeiro, enquanto funcionalidades desejáveis ou de menor prioridade podem ser postergadas.
 
-#### **Como se usa?**
+Quando bem aplicada, o MoSCoW facilita a comunicação entre os envolvidos, reduz conflitos sobre prioridades e proporciona uma visão clara das expectativas do negócio, servindo como base para o planejamento e execução do projeto.
 
-A aplicação da técnica é direta: para cada item do backlog, a equipe de projeto, em conjunto com os stakeholders, debate e atribui uma das seguintes classificações:
-
--   **M - Must have (Tem que ter):** Refere-se a requisitos críticos e prioritários para o negócio. Um projeto não pode ser considerado um sucesso se um item "Must have" não for entregue. Frequentemente, são requisitos que atendem a normas legais ou que afetam diretamente a credibilidade da empresa.
--   **S - Should have (Deveria ter):** São requisitos importantes, mas que não são estratégicos para a entrega no momento atual. É possível que exista outra forma de atender a essa necessidade ou que sua implementação possa aguardar um pouco mais.
--   **C - Could have (Poderia ter):** Itens desejáveis, mas não necessários do ponto de vista estratégico. Podem aumentar a satisfação do cliente e geralmente são implementados se houver tempo e recursos disponíveis.
--   **W - Won't have (Não terá / Would have):** São os requisitos menos críticos, com baixo retorno sobre o investimento ou que não são adequados para o momento. A decisão de classificar um requisito como "Won't have" deve ter a concordância dos clientes.
-
-#### **Vantagens**
-
--   É uma técnica de fácil compreensão e aplicação.
--   Utiliza uma linguagem simples, o que permite a participação de todos os interessados no projeto.
--   Não exige que os participantes tenham conhecimento prévio sobre a técnica para poder utilizá-la.
-
-#### **Desvantagens**
-
--   Pode ser uma abordagem muito simplista e insuficiente em alguns contextos.
--   Há subjetividade nas priorizações de cada interessado.
--   Pode encorajar decisões baseadas mais em vieses políticos do que técnicos.
--   É fundamental que o interessado que participa da priorização conheça de fato o negócio para que a técnica seja eficaz.
+### Benefícios do MoSCoW
+- Favorece o entendimento comum entre stakeholders sobre a importância dos requisitos.  
+- Permite focar esforços no que agrega maior valor ao negócio.  
+- Facilita a gestão do escopo e o planejamento das entregas.  
+- Utiliza uma linguagem simples e acessível, dispensando conhecimentos técnicos avançados.  
 
 ---
+
+## Metodologia
+
+A priorização pelo MoSCoW foi realizada em conjunto com todos os stakeholders envolvidos no projeto. O facilitador foi [Arthur Fernandes](https://github.com/arthurfernandesj) e o secretário(a) [NOME](https://github.com/).  
+
+O processo seguiu as seguintes etapas:
+
+1. **Preparação:** levantamento inicial dos requisitos do sistema.  
+2. **Discussão:** debate sobre a relevância de cada requisito.  
+3. **Classificação:** atribuição das categorias **M**, **S**, **C** ou **W** para cada requisito.  
+4. **Validação:** revisão conjunta para confirmar que todos os envolvidos concordam com a priorização.  
+5. **Revisão contínua:** reavaliação das prioridades durante o projeto, caso ocorram mudanças nas necessidades do negócio.
+
+Após a atividade, os requisitos priorizados foram formalizados na **Tabela 12**, com base na relevância para o sistema **ID Jovem**. Como referência, utilizamos o livro *Engenharia de Requisitos: Software Orientado ao Negócio* <a id="TEC2" href="#RP2">[2]</a>, adaptando algumas etapas para melhor adequação ao nosso projeto e equipe.
+
+
+
 
 ## 📚 Referências Bibliográficas
 
@@ -40,4 +44,4 @@ A aplicação da técnica é direta: para cada item do backlog, a equipe de proj
 
 | Versão | Data       | Descrição                                                               | Autor(es)                                 | Revisor(es) |
 | ------ | ---------- | ----------------------------------------------------------------------- | ----------------------------------------- | ----------- |
-| `1.0`  | 28/09/2025 | Criação do documento com a descrição da técnica de priorização "MoSCoW" | [Danilo Melo](https://github.com/EngDann) |             |
+| `1.0`  | 28/09/2025 | Criação do documento com a descrição da técnica de priorização "MoSCoW" | [Danilo Melo](https://github.com/EngDann) |  [ Arthur Fernandes](https://github.com/arthurfernandesj)|

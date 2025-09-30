@@ -121,12 +121,11 @@ A quantidade de personas elaboradas mostrou-se suficiente para representar os se
 > <BARBOSA, S. D. J. et al. Personas. In: BARBOSA, S. D. J. et al. **Interação Humano-Computador e Experiência do usuário**. [S. l.]: Autopublicação, 2021. cap. 8.2, p. 167. 
 
 ## Histórico de Versão
-
-| Versão |    Data    |                              Descrição                              |                                      Autor(es)                                       | Data de revisão |                 Revisor(es)                  |
-| :----: | :--------: | :-----------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :-------------: | :------------------------------------------: |
-| `1.0`  | 08/09/2025 |                Versão inicial da página de Personas                 | [Eduarda](https://github.com/eduardar0), [Dylan](https://github.com/dylancavalcante) |   09/09/2025    | [Leticia](https://github.com/leticialopes20) |
-| `1.1`  | 13/09/2025 | Adicionadas mais personas, referências bibliográficas e antipersona | [Eduarda](https://github.com/eduardar0), [Dylan](https://github.com/dylancavalcante) |   13/09/2025    | [Leticia](https://github.com/leticialopes20) |
-| `1.2`  | 28/09/2025 |       Correção e padronização das referências bibliográficas        |                      [Danilo Melo](https://github.com/EngDann)                       |   28/09/2025    |                                            |
-| `1.3`  | 28/09/2025 |       Correção do tamanho das imagens, e centralização              |                      [Eduarda](https://github.com/eduardar0)                         |   28/09/2025    | [Dylan](https://github.com/dylancavalcante) |
-| `1.4`  | 28/09/2025 |       Correção da legenda das imagens              |                      [Eduarda](https://github.com/eduardar0)                         |   28/09/2025    | [Dylan](https://github.com/dylancavalcante) |
+| Versão |    Data    |                              Descrição                              |                                      Autor(es)                                       |                 Revisor(es)                  |
+| :----: | :--------: | :-----------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :------------------------------------------: |
+| `1.0`  | 08/09/2025 |                Versão inicial da página de Personas                 | [Eduarda](https://github.com/eduardar0), [Dylan](https://github.com/dylancavalcante) | [Leticia](https://github.com/leticialopes20) |
+| `1.1`  | 13/09/2025 | Adicionadas mais personas, referências bibliográficas e antipersona | [Eduarda](https://github.com/eduardar0), [Dylan](https://github.com/dylancavalcante) | [Leticia](https://github.com/leticialopes20) |
+| `1.2`  | 28/09/2025 |       Correção e padronização das referências bibliográficas        | [Danilo Melo](https://github.com/EngDann)                                            | [Dylan](https://github.com/dylancavalcante) |
+| `1.3`  | 28/09/2025 |       Correção do tamanho das imagens, e centralização              | [Eduarda](https://github.com/eduardar0)                                              | [Dylan](https://github.com/dylancavalcante) |
+| `1.4`  | 28/09/2025 |                   Correção da legenda das imagens                   | [Eduarda](https://github.com/eduardar0)                                              | [Dylan](https://github.com/dylancavalcante) |
 

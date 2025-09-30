@@ -4,73 +4,75 @@
 
 A **observação** é uma técnica de elicitação de requisitos que busca compreender o comportamento e as necessidades dos usuários no contexto real de uso. Consiste em acompanhar e registrar diretamente as ações dos usuários, seja de forma passiva, apenas observando, ou ativa, com interação controlada. O foco está em identificar padrões, problemas e oportunidades de melhoria que podem não ser verbalizados pelos participantes. Os dados coletados são analisados e organizados para definir requisitos funcionais, não funcionais ou ajustes no design do sistema. A observação é especialmente útil quando os usuários têm dificuldade de expressar suas necessidades ou quando se deseja compreender detalhadamente o contexto de uso, fornecendo insights valiosos para soluções mais alinhadas às expectativas reais.
 
-### Tecnica de Observação 
-"A observação é uma forma de coletar informações sobre como os usuários interagem com sistemas ou processos em seu ambiente natural" (**VAZQUEZ**; SIMÕES, 2016).
+## Definição da Técnica de Observação
 
-"Essa técnica permite capturar comportamentos, hábitos e dificuldades que podem não ser mencionados em entrevistas ou questionários, fornecendo insights reais para a definição de requisitos" (**SERRANO** Milene; **SERRANO** Mauricio, Requisitos – Aula 07*. Universidade de Brasília )
+“A observação é uma forma de coletar informações sobre como os usuários interagem com sistemas ou processos em seu ambiente natural” (VAZQUEZ; SIMÕES, 2016).  
 
-## Objetivo da observação
+“Essa técnica permite capturar comportamentos, hábitos e dificuldades que podem não ser mencionados em entrevistas ou questionários, fornecendo insights reais para a definição de requisitos” (SERRANO, Milene; SERRANO, Mauricio; 2023).  
+
+## Objetivo da Observação
 
 O objetivo da observação no nosso projeto é compreender como os usuários interagem com o aplicativo ID Jovem na prática, identificando dificuldades, comportamentos e padrões de uso que muitas vezes não são percebidos ou relatados diretamente pelos usuários. Essa técnica permite detectar problemas na navegação, funcionalidades pouco intuitivas ou informações de difícil acesso, além de identificar oportunidades de melhoria para tornar o app mais eficiente e acessível. Com isso, a equipe consegue levantar requisitos mais precisos e propor soluções alinhadas às necessidades reais dos jovens que utilizam o sistema.
 
-## Metodologia 
+## Metodologia
 
-A aplicação da observação segue etapas estruturadas, que incluem:  
+A aplicação da observação seguiu etapas estruturadas:  
 
-1. **Planejamento:** definir o que será observado, quem será observado, quando e por quanto tempo.  
-2. **Coleta de dados:** registrar ações e comportamentos dos usuários, por meio de anotações, planilhas, gravações de áudio ou vídeo (com permissão).  
-3. **Análise:** identificar padrões, problemas recorrentes e oportunidades de melhoria.  
-4. **Documentação:** transformar as observações em requisitos funcionais, não funcionais ou ajustes no design do sistema [(VAZQUEZ; SIMÕES, 2016)](#anchor_2).  
+1. **Planejamento:** definição de quem seria observado, em qual contexto e por quanto tempo.  
+2. **Coleta de dados:** registro de ações e comportamentos dos usuários por meio de planilhas, anotações e, quando autorizado, gravações de áudio ou vídeo.  
+3. **Análise:** identificação de padrões de comportamento, problemas recorrentes e oportunidades de melhoria.  
+4. **Documentação:** transformação das observações em requisitos funcionais, não funcionais ou ajustes no design do sistema (VAZQUEZ; SIMÕES, 2016).  
 
-Podem ser utilizados diferentes tipos de observação, dependendo do nível de interação com os usuários:  
+Foram utilizadas diferentes formas de observação:  
 
-- **Passiva:** o observador apenas acompanha as atividades, sem interagir.  
-- **Ativa:** há pequenas interações ou questionamentos durante a observação.  
-- **Participante:** o observador se envolve nas atividades, participando diretamente do processo.
+- **Passiva:** acompanhamento das atividades sem interação.  
+- **Ativa:** pequenas interações ou questionamentos durante a observação.  
+- **Participante:** envolvimento direto do observador nas atividades.  
 
+## Vantagens
 
-## **Vantagens**  
+- Compreensão do comportamento real do usuário no ambiente de uso.  
+- Identificação de necessidades e problemas não verbalizados.  
+- Geração de dados concretos para definição de requisitos alinhados ao contexto.  
 
-- Permite compreender o comportamento real do usuário no ambiente de uso.  
-- Revela necessidades e problemas que os usuários podem não conseguir expressar.  
-- Fornece dados concretos para a definição de requisitos mais precisos e alinhados ao contexto. 
+## Limitações
 
-## **Limitações** 
+- Demanda tempo e planejamento detalhado.  
+- Possível influência no comportamento do usuário (efeito observador).  
+- Interpretação das ações pode ser subjetiva, exigindo análise cuidadosa.  
 
-- Pode ser demorada e exigir planejamento detalhado.  
-- Há risco de influenciar o comportamento dos usuários (efeito observador).  
-- Nem todas as ações observadas são facilmente interpretáveis, exigindo análise cuidadosa.
+## Ferramentas Utilizadas
 
-## Ferramentas de uso 
-
-- Planilhas e blocos de anotação.  
+- Planilhas digitais (Google Planilhas).  
+- Blocos de anotações.  
 - Gravadores de áudio e vídeo (com autorização).  
-- Softwares de análise comportamental e registro de interações.
+- Softwares de análise comportamental.  
 
 ## Aplicação da Observação no Projeto
 
-Para a realização da técnica de observação em nosso projeto, a equipe estruturou o processo de forma organizada e ética. Primeiramente, foi solicitado o consentimento dos participantes para a coleta de informações, garantindo transparência e respeito à privacidade dos usuários. Durante as sessões, utilizamos planilhas como ferramenta de registro para organizar os dados de maneira clara e sistemática, possibilitando uma análise posterior mais precisa.
+A equipe estruturou o processo de forma organizada e ética, solicitando consentimento dos participantes antes da coleta de informações, garantindo transparência e respeito à privacidade. Durante as sessões, foram utilizadas planilhas digitais como principal ferramenta de registro, organizando os dados de maneira clara e sistemática para facilitar a análise.  
 
-Além disso, combinamos a observação com entrevistas breves, o que permitiu esclarecer comportamentos observados e validar certas hipóteses levantadas. Essa combinação enriqueceu o processo, pois possibilitou não apenas registrar as interações reais dos usuários com o aplicativo ID Jovem, mas também compreender suas percepções e justificativas sobre determinadas ações.
+Além disso, a observação foi complementada por entrevistas breves, que ajudaram a esclarecer comportamentos registrados e validar hipóteses levantadas. Essa combinação enriqueceu o processo, permitindo tanto o registro das interações reais com o aplicativo ID Jovem quanto a compreensão das percepções dos usuários.  
 
-Esse método proporcionou uma coleta de dados mais completa, garantindo que os requisitos levantados refletissem de forma mais fiel as dificuldades, necessidades e expectativas dos jovens em relação ao uso do sistema.
+## Resultados da Observação
 
-## Resultados da observação
+A aplicação da técnica permitiu identificar dificuldades recorrentes, como problemas em localizar determinadas funcionalidades — especialmente no acesso a benefícios — e falhas na navegação, considerada pouco intuitiva por alguns usuários. Essas questões geraram retrabalho e confusão durante o uso.  
 
-A partir da aplicação da técnica de observação no contexto do aplicativo ID Jovem, foi possível identificar pontos relevantes sobre a experiência dos usuários. Durante o acompanhamento, registramos que muitos participantes demonstraram dificuldades em localizar determinadas funcionalidades, principalmente aquelas relacionadas ao acesso de benefícios. Também foi observado que a navegação em algumas telas não era intuitiva, o que gerava retrabalho e confusão.
+As entrevistas complementares reforçaram esses achados, trazendo relatos sobre usabilidade comprometida e informações pouco claras no sistema. O uso de planilhas possibilitou agrupar comportamentos repetitivos, como tentativas de acessar a mesma função mais de uma vez ou demora em compreender a sequência de passos.  
 
-As entrevistas complementares, realizadas com consentimento, reforçaram essas percepções ao trazer relatos sobre problemas de usabilidade e informações pouco claras no sistema. O uso de planilhas para organizar as observações permitiu agrupar comportamentos recorrentes, como tentativas repetidas de acessar uma mesma função ou demora para compreender a sequência de passos. Com base nesses resultados, foi possível levantar requisitos mais precisos para o projeto, destacando a necessidade de melhorar a clareza das informações apresentadas, simplificar a navegação e tornar certas funcionalidades mais acessíveis. 
+## Conclusão
 
+A técnica de observação, associada às entrevistas, contribuiu significativamente para levantar requisitos mais precisos e alinhados ao uso real do aplicativo ID Jovem. O processo permitiu identificar falhas críticas de usabilidade e oportunidades de melhoria, fornecendo à equipe subsídios concretos para propor soluções que tornem o sistema mais acessível, claro e eficiente para os jovens usuários.  
 
+---
 
-=======
 ## Referências Bibliográficas
 
-> <a id="RP1" href="#TEC1">1.</a> VAZQUEZ, C. A.; SIMÕES, G. S. Engenharia de Requisitos: Software Orientado ao Negócio. Rio de Janeiro: Brasport, 2016.
+> <a id="RP1" href="#TEC1">1.</a> VAZQUEZ, C. A.; SIMÕES, G. S. Engenharia de Requisitos: Software Orientado ao Negócio. Rio de Janeiro: Brasport, 2016.  
 
-> <a id="RP2" href="#TEC2">2.</a> SERRANO, Milene; SERRANO, Mauricio. Requisitos – Aula 07: Técnicas de Elicitação. Universidade de Brasília, 2023. Material de apoio da disciplina.
+> <a id="RP2" href="#TEC2">2.</a> SERRANO, Milene; SERRANO, Mauricio. Requisitos – Aula 07: Técnicas de Elicitação. Universidade de Brasília, 2023. Material de apoio da disciplina.  
 
-> <a id="RP3" href="#TEC3">3.</a> BRASIL. Ministério da Cidadania. ID Jovem – Identidade Jovem. Disponível em: [https://www.gov.br/mds/pt-br/acoes-e-programas/identidade-jovem-id-jovem](https://www.gov.br/mds/pt-br/acoes-e-programas/identidade-jovem-id-jovem). Acesso em: 27 Set. 2025.
+> <a id="RP3" href="#TEC3">3.</a> BRASIL. Ministério da Cidadania. ID Jovem – Identidade Jovem. Disponível em: [https://www.gov.br/mds/pt-br/acoes-e-programas/identidade-jovem-id-jovem](https://www.gov.br/mds/pt-br/acoes-e-programas/identidade-jovem-id-jovem). Acesso em: 27 Set. 2025.  
 
 
 ## Histórico de Versão

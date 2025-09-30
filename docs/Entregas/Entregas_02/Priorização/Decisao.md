@@ -44,15 +44,15 @@ A combinação do **MoSCoW** para uma classificação macro e essencialista, seg
 
 ---
 
-## 📚 Referências Bibliográficas
+## Referências Bibliográficas
 
 > SERRANO, Milene; SERRANO, Maurício. **Requisitos – Aula 07**. Gama, DF: Universidade de Brasília, [s.d.]. Material de aula.
 
 > WIEGERS, Karl E. **Software Requirements**. 2. ed. Redmond, WA: Microsoft Press, 2003.
 
-## 📝 Histórico de Versões
+## Histórico de Versões
 
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
-| ------ | ---- | --------- | --------- | ----------- |
-
-| `1.0` | 28/09/2025 | Elaboração do relatório de decisão e justificativa das técnicas escolhidas | [Danilo Melo](https://github.com/EngDann) | |
+| Versão |    Data    |      Descrição       |                        Autor(es)                        |                       Revisor(es)                       |
+| :----: | :--------: | :------------------: | :-----------------------------------------------------: | :-----------------------------------------------------: |
+| `1.0`  | 28/09/2025 | Elaboração do relatório de decisão e justificativa das técnicas escolhidas | [Danilo Melo](https://github.com/EngDann) |  [ Arthur Fernandes](https://github.com/arthurfernandesj)|
+| `1.1`  | 29/09/2025 | Atualização do histórico de versão | [Arthur Fernandes](https://github.com/arthurfernandesj) |  [Leticia Lopes](https://github.com/leticialopes20)|

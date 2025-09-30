@@ -121,6 +121,8 @@ APP STORE; GOOGLE PLAY. Aplicativo ID Jovem. Disponível em: [https://apps.apple
 
 ---
 
+## Histórico de Versão
+
 | Versão |    Data    |       Descrição      |                                          Autor(es)                                         |                  Revisor(es)                  |
 | :----: | :--------: | :------------------: | :----------------------------------------------------------------------------------------: | :-------------------------------------------: |
 |  `1.0` | 25/09/2025 | Criação do documento | [Dylan](https://github.com/dylancavalcante) e [Giovana](https://github.com/GiovanaFontesS) | [Arthur](https://github.com/arthurfernandesj) |

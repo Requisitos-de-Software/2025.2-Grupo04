@@ -70,7 +70,7 @@ SERRANO, Milene; SERRANO, Mauricio. Requisitos – Aula 07: Técnicas de Elicita
 - GOOGLE PLAY. ID Jovem. Disponível em: https://play.google.com/store/apps/details?id=com.idjovem2&hl=pt-BR
 . Acesso em: 27 set. 2025.
 
-
+## Histórico de Versão
 
 | Versão |    Data    |      Descrição       |                        Autor(es)                        |                       Revisor(es)                       |
 | :----: | :--------: | :------------------: | :-----------------------------------------------------: | :-----------------------------------------------------: |

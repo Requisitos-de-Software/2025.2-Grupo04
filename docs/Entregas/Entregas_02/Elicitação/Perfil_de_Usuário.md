@@ -232,6 +232,7 @@ UNIVERSIDADE DE BRASÍLIA. Grupo 04 – Projeto de Requisitos de Software. **Rel
 UNIVERSIDADE DE BRASÍLIA. Grupo 04 – Projeto de Requisitos de Software. **Relatório de Elicitação de Requisitos: Entrevista – Identidade Jovem (ID Jovem)**. Brasília, 2025. Disponível em: [https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista). Acesso em: 28 set. 2025.
 
 ---
+## Histórico de Versão
 
 | Versão |    Data    |       Descrição      |                                          Autor(es)                                         |                  Revisor(es)                  |
 | :----: | :--------: | :------------------: | :----------------------------------------------------------------------------------------: | :-------------------------------------------: |

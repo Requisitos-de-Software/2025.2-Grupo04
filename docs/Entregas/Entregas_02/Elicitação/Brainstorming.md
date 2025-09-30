@@ -399,12 +399,13 @@ O brainstorming foi realizado em formato de reunião e contou com a presença de
 ## Gravação
 
 <div align="center">
-<p style="text-align: center"><a href="" target="blanket"><b>Vídeo 1:</b> Sessão de Brainstorm ID Jovem</a></p>
+<p style="text-align: center"><a href="https://youtu.be/XtIwqZYCB9M" target="_blank"><b>Vídeo 1:</b> Sessão de Brainstorm ID Jovem</a></p>
 
-<iframe width="560" height="315" src="" title="Sessão de Brainstorm ID Jovem" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XtIwqZYCB9M" title="Sessão de Brainstorm ID Jovem" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center"><b>Fontes:</b> <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, 2025</p></font>
 </div>
+
 
 
 ## Referências Bibliográficas

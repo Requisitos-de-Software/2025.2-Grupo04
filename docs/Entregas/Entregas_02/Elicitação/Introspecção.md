@@ -65,11 +65,23 @@ A analogia entre a engenharia de requisitos de software e a jornada de autodesen
 
 ## Referências Bibliográficas
 
-1.  VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. *Engenharia de Requisitos: Software Orientado ao Negócio*. Rio de Janeiro: Brasport, 2016.
-2.  BRASIL. Governo Federal. *Programa Identidade Jovem*. Disponível em: [https://idjovem.juventude.gov.br/](https://idjovem.juventude.gov.br/). Acesso em: 28 set. 2025.
-3.  BRASIL. Governo Federal. *Obter a Carteira de Identidade Jovem*. Disponível em: [https://www.gov.br/pt-br/servicos/obter-a-carteira-de-identidade-jovem](https://www.gov.br/pt-br/servicos/obter-a-carteira-de-identidade-jovem). Acesso em: 28 set. 2025.
-4.  UBES. *ID Jovem*. Disponível em: [https://www.ubes.org.br/2019/id-jovem/](https://www.ubes.org.br/2019/id-jovem/). Acesso em: 28 set. 2025.
-5.  BRASIL. *Decreto nº 8.537, de 5 de outubro de 2015*. Regulamenta a Lei nº 12.852, de 5 de agosto de 2013, e a Lei nº 12.933, de 26 de dezembro de 2013, para dispor sobre o benefício da meia-entrada para acesso a eventos artístico-culturais e esportivos e para estabelecer os procedimentos e os critérios para a reserva de vagas a jovens de baixa renda nos veículos do sistema de transporte coletivo interestadual. Disponível em: (https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/decreto/d8537.htm.) Acesso em: 28 set. 2025.
+> < VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. *Engenharia de Requisitos: Software Orientado ao Negócio*. Rio de Janeiro: Brasport, 2016.
+
+> < BRASIL. Governo Federal. *Programa Identidade Jovem*. Disponível em: [https://idjovem.juventude.gov.br/](https://idjovem.juventude.gov.br/). Acesso em: 28 set. 2025.
+
+> < BRASIL. Governo Federal. *Obter a Carteira de Identidade Jovem*. Disponível em: [https://www.gov.br/pt-br/servicos/obter-a-carteira-de-identidade-jovem](https://www.gov.br/pt-br/>< 
+
+> < servicos/obter-a-carteira-de-identidade-jovem). Acesso em: 28 set. 2025.
+
+> < UBES. *ID Jovem*. Disponível em: [https://www.ubes.org.br/2019/id-jovem/](https://www.ubes.org.br/2019/id-jovem/). Acesso em: 28 set. 2025.
+
+> < BRASIL. *Decreto nº 8.537, de 5 de outubro de 2015*. Regulamenta a Lei nº 12.852, de 5 de agosto de 2013, e a Lei nº 12.933, de 26 de dezembro de 2013, para dispor sobre o benefício
+
+> < do sistema de transporte coletivo interestadual. Disponível em: (https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/decreto/d8537.htm.) Acesso em: 28 set. 2025.
+
+## Bibliografia 
+
+> < UBES. *ID Jovem*. Disponível em: [https://www.ubes.org.br/2019/id-jovem/](https://www.ubes.org.br/2019/id-jovem/). Acesso em: 28 set. 2025.
 
 ## Histórico de Versão
 

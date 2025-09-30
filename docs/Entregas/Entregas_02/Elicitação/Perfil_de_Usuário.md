@@ -225,12 +225,14 @@ Para um programa com uma missão social tão importante como o ID Jovem, a aplic
 ---
 ## Referências Bibliográficas
 
-VAZQUEZ, C. E.; SIMÕES, G. S. *Engenharia de Requisitos: software orientado ao negócio*. Rio de Janeiro: Brasport, 2016.
 
-UNIVERSIDADE DE BRASÍLIA. Grupo 04 – Projeto de Requisitos de Software. **Relatório de Elicitação de Requisitos: Análise de Documentos – Identidade Jovem (ID Jovem)**. Brasília, 2025. Disponível em: [https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Analise_de_Documentos](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Analise_de_Documentos). Acesso em: 28 set. 2025.
+>< UNIVERSIDADE DE BRASÍLIA. Grupo 04 – Projeto de Requisitos de Software. **Relatório de Elicitação de Requisitos: Análise de Documentos – Identidade Jovem (ID Jovem)**. Brasília, 2025. Disponível em: [https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Analise_de_Documentos](https://requisitos-de-software.github.io/2025.>< 2-Grupo04/><Entregas/Entregas_02/Elicitação/Analise_de_Documentos). Acesso em: 28 set. 2025.
 
-UNIVERSIDADE DE BRASÍLIA. Grupo 04 – Projeto de Requisitos de Software. **Relatório de Elicitação de Requisitos: Entrevista – Identidade Jovem (ID Jovem)**. Brasília, 2025. Disponível em: [https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista). Acesso em: 28 set. 2025.
+>< UNIVERSIDADE DE BRASÍLIA. Grupo 04 – Projeto de Requisitos de Software. **Relatório de Elicitação de Requisitos: Entrevista – Identidade Jovem (ID Jovem)**. Brasília, 2025. >< Disponível em: [https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitação/Entrevista](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas Entregas_02/><Elicitação/Entrevista). Acesso em: 28 set. 2025.
 
+## Bibliografia 
+
+>< VAZQUEZ, C. E.; SIMÕES, G. S. *Engenharia de Requisitos: software orientado ao negócio*. Rio de Janeiro: Brasport, 2016.
 ---
 ## Histórico de Versão
 

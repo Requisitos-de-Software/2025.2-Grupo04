@@ -115,9 +115,10 @@ A quantidade de personas elaboradas mostrou-se suficiente para representar os se
 
 ## Referências Bibliográficas
 
-> <a id="QT1" href="#anchor_1">1.</a> BARBOSA, S. D. J. et al. Personas. In: BARBOSA, S. D. J. et al. **Interação Humano-Computador e Experiência do usuário**. [S. l.]: Autopublicação, 2021. cap. 8.2, p. 167.
+> <THIS PERSON DOES NOT EXIST. [Gerador de imagens de rostos humanos]. [S. l.: s. n.], [20--?]. Disponível em: <a href="https://thispersondoesnotexist.com/">https://thispersondoesnotexist.com/</a>. Acesso em: 28 set. 2025.
 
-> <a id="QT2" href="#anchor_2">2.</a> THIS PERSON DOES NOT EXIST. [Gerador de imagens de rostos humanos]. [S. l.: s. n.], [20--?]. Disponível em: <a href="https://thispersondoesnotexist.com/">https://thispersondoesnotexist.com/</a>. Acesso em: 28 set. 2025.
+## Bibliografia 
+> <BARBOSA, S. D. J. et al. Personas. In: BARBOSA, S. D. J. et al. **Interação Humano-Computador e Experiência do usuário**. [S. l.]: Autopublicação, 2021. cap. 8.2, p. 167. 
 
 ## Histórico de Versão
 

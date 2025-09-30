@@ -169,7 +169,16 @@ A técnica foi aplicada de forma individual, sendo que cada participante aplicou
 
 <p font-size: 10pt;>Fonte: <a href="https://github.com/leticialopes20"><i>Letícia Lopes</i></span></a></p>
 
-##Gravação da Técnica
+## Gravação
+
+<div align="center">
+<p style="text-align: center"><a href="https://youtu.be/8k1RkCJvzxo" target="_blank"><b>Vídeo 1:</b> Técnica de Priorização - 100 Dólares</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8k1RkCJvzxo" title="Sessão de Técnica de Priorização - 100 Dólares" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fontes:</b> <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, 2025</p></font>
+</div>
+
 
 ## 📚 Referências Bibliográficas
 

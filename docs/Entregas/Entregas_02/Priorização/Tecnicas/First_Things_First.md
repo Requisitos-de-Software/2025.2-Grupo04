@@ -30,7 +30,15 @@ O processo é estruturado em uma planilha e envolve diferentes papéis: um geren
 -   Pode não ser adequada para projetos com um backlog muito extenso, sendo recomendada para listas que não ultrapassam a casa das dezenas.
 
 ---
+## Gravação
 
+<div align="center">
+<p style="text-align: center"><a href="https://youtu.be/ywmlErJ7bdA" target="_blank"><b>Vídeo 1:</b> Técnica de Priorização - In or Out</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ywmlErJ7bdA" title="Sessão de Técnica de Priorização - In or Out" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fontes:</b> <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, 2025</p></font>
+</div>
 ## 📚 Referências Bibliográficas
 
 > SERRANO, Milene; SERRANO, Maurício. **Requisitos – Aula 07**. Gama, DF: Universidade de Brasília, [s.d.]. Material de aula.

@@ -107,19 +107,24 @@ Assim, a técnica se mostra fundamental para fornecer uma base sólida ao proces
 
 ---
 
-## **Referências Bibliográficas**
+## Referências Bibliográficas
 
-SERRANO, Milene; SERRANO, Mauricio. Requisitos – Aula 07. Universidade de Brasília, 2016.
+>< BRASIL. ID Jovem. Disponível em: [https://idjovem.juventude.gov.br](https://idjovem.juventude.gov.br). Acesso em: 26 set. 2025.
 
-UNIVERSIDADE FEDERAL DE SANTA CATARINA. Técnicas de elicitação de requisitos: Análise de Documentos. Disponível em: [https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-analise-de-documentos](https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-analise-de-documentos). Acesso em: 26 set. 2025.
+>< APP STORE; GOOGLE PLAY. Aplicativo ID Jovem. Disponível em: [https://apps.apple.com](https://apps.apple.com) e [https://play.google.com](https://play.google.com). Acesso em: 26 set. 2025.
 
-VAZQUEZ, Flávio; SIMÕES, Giovani. Elicitação de Requisitos no Projeto ID Jovem. 2016.
+## Bibliografia 
 
-BRASIL. ID Jovem. Disponível em: [https://idjovem.juventude.gov.br](https://idjovem.juventude.gov.br). Acesso em: 26 set. 2025.
+>< SERRANO, Milene; SERRANO, Mauricio. Requisitos – Aula 07. Universidade de Brasília, 2016.
 
-APP STORE; GOOGLE PLAY. Aplicativo ID Jovem. Disponível em: [https://apps.apple.com](https://apps.apple.com) e [https://play.google.com](https://play.google.com). Acesso em: 26 set. 2025.
+>< UNIVERSIDADE FEDERAL DE SANTA CATARINA. Técnicas de elicitação de requisitos: Análise de Documentos. Disponível em: [https://retraining.inf.ufsc.br/guia/app/classificacoes/><a tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-analise-de-documentos] Acesso em: 26 set. 2025.
+
+>< VAZQUEZ, Flávio; SIMÕES, Giovani. Elicitação de Requisitos no Projeto ID Jovem. 2016.
+
 
 ---
+
+## Histórico de Versão
 
 | Versão |    Data    |       Descrição      |                                          Autor(es)                                         |                  Revisor(es)                  |
 | :----: | :--------: | :------------------: | :----------------------------------------------------------------------------------------: | :-------------------------------------------: |

@@ -427,11 +427,11 @@ Na entrevista 2 encontra-se a gravação da entrevista da Noemy da Luz Cardoso.
 
 ## Referências Bibliográficas
 
-> <a id="QT1" href="#anchor_1">1.</a> GUIA FACETADO DE TÉCNICAS DE ELICITAÇÃO DE REQUISITOS. Florianópolis: UFSC, 2017. Disponível em: <a href="https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades">https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades</a>. Acesso em: 22 set. 2025.
+> < GUIA FACETADO DE TÉCNICAS DE ELICITAÇÃO DE REQUISITOS. Florianópolis: UFSC, 2017. Disponível em: <a href="https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades">https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades</a>. Acesso em: 22 set. 2025.
 
-> <a id="QT2" href="#anchor_2">2.</a> VAZQUEZ, Carlos; SIMÕES, Guilherme. <b>Engenharia de Requisitos: software orientado ao negócio</b>. Rio de Janeiro: Brasport, 2016.
+> < VAZQUEZ, Carlos; SIMÕES, Guilherme. <b>Engenharia de Requisitos: software orientado ao negócio</b>. Rio de Janeiro: Brasport, 2016.
 
-> <a id="QT3" href="#anchor_3">3.</a> SERRANO, Milene; SERRANO, Maurício. <b>Requisitos - Aula 07</b>. Gama, DF: Universidade de Brasília, [s.d.]. Material de aula.
+> < SERRANO, Milene; SERRANO, Maurício. <b>Requisitos - Aula 07</b>. Gama, DF: Universidade de Brasília, [s.d.]. Material de aula.
 
 ## Histórico de Versão
 

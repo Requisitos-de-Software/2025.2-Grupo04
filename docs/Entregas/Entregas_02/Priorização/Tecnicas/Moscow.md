@@ -122,6 +122,14 @@ A Tabela 1 apresenta a classificação dos requisitos do **ID Jovem**, considera
 
 ---
 
+## Gravação
+
+[![Assista à gravação](https://img.youtube.com/vi/dIxnYHoZO44/hqdefault.jpg)](https://youtu.be/dIxnYHoZO44)
+
+**Vídeo 1:** Técnica de Priorização - Moscow  
+
+**Fontes:** [Giovana Fontes](https://github.com/GiovanaFontesS), 2025
+
 ## Referências Bibliográficas
 
 > WIEGERS, Karl E. **Software Requirements**. 2. ed. Redmond, WA: Microsoft Press, 2003.

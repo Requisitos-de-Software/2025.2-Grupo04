@@ -61,6 +61,7 @@ A partir da aplicação da técnica de observação no contexto do aplicativo ID
 
 As entrevistas complementares, realizadas com consentimento, reforçaram essas percepções ao trazer relatos sobre problemas de usabilidade e informações pouco claras no sistema. O uso de planilhas para organizar as observações permitiu agrupar comportamentos recorrentes, como tentativas repetidas de acessar uma mesma função ou demora para compreender a sequência de passos. Com base nesses resultados, foi possível levantar requisitos mais precisos para o projeto, destacando a necessidade de melhorar a clareza das informações apresentadas, simplificar a navegação e tornar certas funcionalidades mais acessíveis. 
 
+<<<<<<< HEAD
 ## Referencias 
 
 - VAZQUEZ, C. A.; SIMÕES, G. S. Engenharia de Requisitos: Software Orientado ao Negócio. Rio de Janeiro: Brasport, 2016.
@@ -71,6 +72,21 @@ SERRANO, Milene; SERRANO, Mauricio. Requisitos – Aula 07: Técnicas de Elicita
 . Acesso em: 27 set. 2025.
 
 
+=======
+## Referências Bibliográficas
+
+>< VAZQUEZ, C. A.; SIMÕES, G. S. Engenharia de Requisitos: Software Orientado ao Negócio. Rio de Janeiro: Brasport, 2016.
+
+>< SERRANO, Milene; SERRANO, Mauricio. Requisitos – Aula 07: Técnicas de Elicitação. Universidade de Brasília, 2023. Material de apoio da disciplina.
+
+>< BRASIL. Ministério da Cidadania. ID Jovem – Identidade Jovem. Disponível em: https://www.gov.br/mds/pt-br/acoes-e-programas/identidade-jovem-id-jovem
+
+>< Acesso em: 27 set. 2025.
+
+>< GOOGLE PLAY. ID Jovem. Disponível em: https://play.google.com/store/apps/details?id=com.idjovem2&hl=pt-BR. Acesso em: 27 set. 2025.
+
+## Histórico de Versão
+>>>>>>> 23367fafb781d9915fb4448912694da2a7b3ca07
 
 | Versão |    Data    |      Descrição       |                        Autor(es)                        |                       Revisor(es)                       |
 | :----: | :--------: | :------------------: | :-----------------------------------------------------: | :-----------------------------------------------------: |

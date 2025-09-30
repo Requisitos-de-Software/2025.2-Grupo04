@@ -2,9 +2,7 @@
 
 ## Escolha do Aplicativo
 
-No começo do projeto, cada membro do grupo criou um rich picture, totalizando sete representações visuais. Posteriormente, realizamos uma [reunião](../Encontros/atas/ata_01_09.md) para avaliar os rich pictures com base em determinados critérios. Durante essa reunião, decidimos utilizar o aplicativo **ID Jovem** para o desenvolvimento do projeto. Os rich pictures produzidos por cada integrante e selecionados para análise estão disponíveis em  [Aplicativos Avaliados](../Planejamentos/Aplicativos_Avaliados.md). Além disso, também fizemos uma pesquisa mais detalhada no site do governo e na própria documentação do programa, a fim de compreender melhor suas funcionalidades, como quem pode utilizar, de que forma solicitar os serviços disponíveis, como o aplicativo funciona, entre outros aspectos. Esse levantamento foi essencial para que tivéssemos uma visão mais ampla e embasada do aplicativo antes de escolher definitivamente.
-
-
+No começo do projeto, cada membro do grupo criou um rich picture, totalizando sete representações visuais. Posteriormente, realizamos uma [reunião](../Encontros/atas/ata_01_09.md) para avaliar os rich pictures com base em determinados critérios. Durante essa reunião, decidimos utilizar o aplicativo **ID Jovem** para o desenvolvimento do projeto. Os rich pictures produzidos por cada integrante e selecionados para análise estão disponíveis em [Aplicativos Avaliados](../Planejamentos/Aplicativos_Avaliados.md). Além disso, também fizemos uma pesquisa mais detalhada no site do governo e na própria documentação do programa, a fim de compreender melhor suas funcionalidades, como quem pode utilizar, de que forma solicitar os serviços disponíveis, como o aplicativo funciona, entre outros aspectos. Esse levantamento foi essencial para que tivéssemos uma visão mais ampla e embasada do aplicativo antes de escolher definitivamente.
 
 ### Critérios de escolha
 
@@ -46,16 +44,17 @@ Com o objetivo de verificar a viabilidade legal do desenvolvimento do projeto, d
 
 ## Referências Bibliográficas
 
-> <a id="REF1" href="#anchor_1">1.</a> REQUISITOS DE SOFTWARE. _Aplicativo – Bilheteria Digital (2023.1)_. Disponível em: <<https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/planejamento/aplicativo.md/>>. Acesso em: 07/09/2025.
+> <a id="REF1" href="#anchor_1">1.</a> APLICATIVO. In: REQUISITOS DE SOFTWARE. Projeto 2023.1-BilheteriaDigital. [S.l.]: GitHub, 2023. Disponível em: <a href="https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/planejamento/aplicativo.md">https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/planejamento/aplicativo.md</a>. Acesso em: 7 set. 2025.
 
-> <a id="REF2" href="#anchor_2">2.</a> Aplicativo ID Jovem. Disponível em: <<https://play.google.com/store/apps/details?id=com.idjovem2&pcampaignid=web_share>>. Acesso em: 07/09/2025.
+> <a id="REF2" href="#anchor_2">2.</a> CAIXA ECONÔMICA FEDERAL. <b>ID Jovem</b>. [S.l.], 2025. Aplicativo móvel. Disponível em: <a href="https://play.google.com/store/apps/details?id=com.idjovem2">https://play.google.com/store/apps/details?id=com.idjovem2</a>. Acesso em: 7 set. 2025.
 
-> <a id="REF4" href="#anchor_4">4.</a> Site ID Jovem. Disponível em <<https://idjovem.juventude.gov.br/>>. Acesso em: 07/09/2025.
+> <a id="REF4" href="#anchor_4">3.</a> BRASIL. Secretaria Nacional de Juventude. <b>ID Jovem</b>. Brasília, DF: Secretaria-Geral da Presidência da República, 2025. Disponível em: <a href="https://idjovem.juventude.gov.br/">https://idjovem.juventude.gov.br/</a>. Acesso em: 7 set. 2025.
 
 ## Histórico de Versões
 
-| Versão |    Data    |      Descrição       |                        Autor(es)                        |                       Revisor(es)                       |
-| :----: | :--------: | :------------------: | :-----------------------------------------------------: | :-----------------------------------------------------: |
-| `1.0`  | 07/09/2025 | Criação do documento | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
-| `1.2`  | 16/09/2025 | Mudança na descrição da escolha do aplicativo | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Giovana](https://github.com/GiovanaFontesS) |
-| `1.3`  | 16/09/2025 | Aletrações adicionais ditas na apresentação | [Giovana](https://github.com/GiovanaFontesS) | []() |
+| Versão |    Data    |                       Descrição                        |                        Autor(es)                        |                       Revisor(es)                       |
+| :----: | :--------: | :----------------------------------------------------: | :-----------------------------------------------------: | :-----------------------------------------------------: |
+| `1.0`  | 07/09/2025 |                  Criação do documento                  | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| `1.2`  | 16/09/2025 |     Mudança na descrição da escolha do aplicativo      | [Arthur Fernandes](https://github.com/arthurfernandesj) |      [Giovana](https://github.com/GiovanaFontesS)       |
+| `1.3`  | 16/09/2025 |      Aletrações adicionais ditas na apresentação       |      [Giovana](https://github.com/GiovanaFontesS)       |                          []()                           |
+| `1.4`  | 28/09/2025 | Correção e padronização das referências bibliográficas |        [Danilo Melo](https://github.com/EngDann)        |                                                         |

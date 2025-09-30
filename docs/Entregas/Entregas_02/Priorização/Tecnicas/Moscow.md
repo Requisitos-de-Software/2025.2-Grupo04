@@ -1,47 +1,86 @@
 # MoSCoW
 
-## Introdução
+## Introdução  
 
-O **MoSCoW** é uma técnica de priorização de requisitos que busca organizar e classificar os itens de um projeto de acordo com sua importância e impacto no negócio.  
-Para isso, cada requisito recebe uma das quatro categorias: **Must have**, **Should have**, **Could have** e **Won’t have**, permitindo que equipes de desenvolvimento e stakeholders alcancem um consenso sobre o que deve ser entregue em cada fase do projeto.
+O **MoSCoW** é uma técnica amplamente utilizada para **priorização de requisitos em projetos de software**. Sua simplicidade e objetividade permitem alinhar expectativas entre a equipe de desenvolvimento e os stakeholders, garantindo foco nos itens indispensáveis para o sucesso do sistema.  
 
-A técnica é especialmente útil para projetos que possuem muitas demandas concorrentes, como o sistema **ID Jovem**, pois ajuda a definir o escopo mínimo viável, garantindo que os requisitos críticos sejam implementados primeiro, enquanto funcionalidades desejáveis ou de menor prioridade podem ser postergadas.
-
-Quando bem aplicada, o MoSCoW facilita a comunicação entre os envolvidos, reduz conflitos sobre prioridades e proporciona uma visão clara das expectativas do negócio, servindo como base para o planejamento e execução do projeto.
-
-### Benefícios do MoSCoW
-- Favorece o entendimento comum entre stakeholders sobre a importância dos requisitos.  
-- Permite focar esforços no que agrega maior valor ao negócio.  
-- Facilita a gestão do escopo e o planejamento das entregas.  
-- Utiliza uma linguagem simples e acessível, dispensando conhecimentos técnicos avançados.  
+O método organiza os requisitos em quatro classificações (**M, S, C ou W**), proporcionando uma alternativa mais clara à tradicional divisão em níveis de prioridade (baixo, médio, alto). Essa abordagem é especialmente útil em sistemas como o **ID Jovem**, em que é necessário diferenciar o que é crítico (como validação de dados pessoais e emissão do benefício) do que pode ser adicionado posteriormente.  
 
 ---
 
-## Metodologia
+## Técnica MoSCoW  
 
-A priorização pelo MoSCoW foi realizada em conjunto com todos os stakeholders envolvidos no projeto. O facilitador foi [Arthur Fernandes](https://github.com/arthurfernandesj) e o secretário(a) [NOME](https://github.com/).  
+O MoSCoW divide os requisitos em quatro categorias:  
 
-O processo seguiu as seguintes etapas:
+- **M – Must have (Tem que ter):** Requisitos críticos, indispensáveis para o funcionamento do sistema. Sem eles, o projeto não pode ser considerado bem-sucedido.  
+- **S – Should have (Deveria ter):** Requisitos importantes, mas não essenciais na entrega inicial. Sua ausência não inviabiliza o sistema, mas pode impactar a experiência do usuário.  
+- **C – Could have (Poderia ter):** Requisitos desejáveis que aumentam a satisfação do usuário, implementados apenas se houver tempo e recursos.  
+- **W – Won’t have (Não terá):** Requisitos que, em comum acordo com os stakeholders, não serão implementados nesta versão, mas podem ser considerados em futuras releases.  
 
-1. **Preparação:** levantamento inicial dos requisitos do sistema.  
-2. **Discussão:** debate sobre a relevância de cada requisito.  
-3. **Classificação:** atribuição das categorias **M**, **S**, **C** ou **W** para cada requisito.  
-4. **Validação:** revisão conjunta para confirmar que todos os envolvidos concordam com a priorização.  
-5. **Revisão contínua:** reavaliação das prioridades durante o projeto, caso ocorram mudanças nas necessidades do negócio.
+⚠️ Apesar de prática, a técnica pode gerar dúvidas: quando se classifica um requisito como **Won’t**, significa que ele nunca será implementado ou apenas não estará presente na primeira versão? Por isso, recomenda-se que o MoSCoW seja complementado por outras técnicas de priorização.  
 
-Após a atividade, os requisitos priorizados foram formalizados na **Tabela 12**, com base na relevância para o sistema **ID Jovem**. Como referência, utilizamos o livro *Engenharia de Requisitos: Software Orientado ao Negócio* <a id="TEC2" href="#RP2">[2]</a>, adaptando algumas etapas para melhor adequação ao nosso projeto e equipe.
+---
+
+## Metodologia de Aplicação  
+
+Para aplicar o MoSCoW ao **ID Jovem**, seguimos as etapas:  
+
+1. **Levantamento:** Reunimos os requisitos obtidos pelas técnicas de elicitação.  
+2. **Discussão:** Avaliamos em conjunto com os stakeholders a relevância de cada requisito.  
+3. **Classificação:** Cada requisito foi categorizado em Must, Should, Could ou Won’t.  
+4. **Validação:** A priorização foi revisada com todos os envolvidos.  
+5. **Revisão contínua:** Considerando que o ID Jovem pode evoluir (novos serviços, integrações e legislações), os requisitos podem ser reavaliados a qualquer momento.  
+
+---
+
+## Vantagens  
+
+- Linguagem simples e acessível.  
+- Facilita a participação de todos os stakeholders.  
+- Define claramente o escopo mínimo viável (MVP).  
+- Permite ajustes durante o andamento do projeto.  
+- Ajuda a focar nos itens que realmente agregam valor imediato.  
+
+---
+
+## Desvantagens  
+
+- Pode ser simplista em contextos mais complexos.  
+- Subjetividade na decisão das classificações.  
+- Risco de influências políticas sobre critérios técnicos.  
+- Necessidade de que os envolvidos conheçam bem o negócio para uma priorização eficaz.  
+
+---
+
+## Priorização de Requisitos do ID Jovem com MoSCoW  
+
+A Tabela 1 apresenta a classificação dos requisitos do **ID Jovem**, considerando sua relevância para o sistema.  
 
 
+| ID   | Requisito                        | Descrição                                                                 | Tipo           | Classificação |
+|:----:|----------------------------------|---------------------------------------------------------------------------|----------------|---------------|
+| RF01 | Cadastro                         | O sistema deve permitir o cadastro do jovem com validação automática do NIS| Funcional      | Must          |
+| RF02 | Login                            | O sistema deve permitir login seguro com CPF e senha                       | Funcional      | Must          |
+| RF03 | Emissão de cartão digital        | O sistema deve emitir o cartão ID Jovem em formato digital com QR Code     | Funcional      | Must          |
+| RF04 | Validação de Benefício           | O sistema deve validar automaticamente se o jovem atende aos critérios     | Funcional      | Must          |
+| RNF01| Acessibilidade                   | A aplicação deve ser acessível a usuários com deficiência                  | Não Funcional  | Must          |
+| RNF02| Compatibilidade                  | O sistema deve ser suportado nos principais sistemas mobile                | Não Funcional  | Should        |
+| RF05 | Histórico de uso                 | O sistema deve disponibilizar histórico de utilizações do benefício        | Funcional      | Should        |
+| RF06 | FAQ                              | O sistema deve disponibilizar perguntas frequentes                         | Funcional      | Should        |
+| RNF03| Facilidade de uso                | A interface deve ser intuitiva e de fácil entendimento                     | Não Funcional  | Should        |
+| RF07 | Integração com carteiras digitais| O cartão ID Jovem deve poder ser adicionado ao Google Wallet / Apple Pay   | Funcional      | Could         |
+| RF08 | Notificações                     | O sistema pode enviar notificações sobre atualizações e lembretes          | Funcional      | Could         |
+| RF09 | Personalização                   | O sistema pode permitir personalização de cores e temas                    | Funcional      | Could         |
+| RF10 | Eventos e promoções culturais    | O sistema pode sugerir eventos culturais disponíveis na região do jovem    | Funcional      | Won’t         |
 
+**Fontes:** [Arthur Fernandes](https://github.com/arthurfernandesj), 2025  
+*Tabela 1 – Priorização dos requisitos do ID Jovem com a técnica MoSCoW*  
 
-## 📚 Referências Bibliográficas
+---
 
-> SERRANO, Milene; SERRANO, Maurício. **Requisitos – Aula 07**. Gama, DF: Universidade de Brasília, [s.d.]. Material de aula.
+## Histórico de Versões
 
-> WIEGERS, Karl E. **Software Requirements**. 2. ed. Redmond, WA: Microsoft Press, 2003.
-
-## 📝 Histórico de Versões
-
-| Versão | Data       | Descrição                                                               | Autor(es)                                 | Revisor(es) |
-| ------ | ---------- | ----------------------------------------------------------------------- | ----------------------------------------- | ----------- |
+| Versão |    Data    |      Descrição       |                        Autor(es)                        |                       Revisor(es)                       |
+| :----: | :--------: | :------------------: | :-----------------------------------------------------: | :-----------------------------------------------------: |
 | `1.0`  | 28/09/2025 | Criação do documento com a descrição da técnica de priorização "MoSCoW" | [Danilo Melo](https://github.com/EngDann) |  [ Arthur Fernandes](https://github.com/arthurfernandesj)|
+| `1.1`  | 29/09/2025 | Atualização da técnica de priorização "MoSCoW e tabela de priorização adicionada" | [Arthur Fernandes](https://github.com/arthurfernandesj) |  [](https://github.com/)|

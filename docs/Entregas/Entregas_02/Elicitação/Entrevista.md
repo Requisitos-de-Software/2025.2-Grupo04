@@ -87,19 +87,20 @@ Inicialmente, foram identificados potenciais candidatos que correspondessem ao [
 
 2. **Leitura do termo de consentimento:** Um dos entrevistadores solicitou que o entrevistado lesse em voz alta o termo de consentimento. Em caso de concordância, o entrevistado responderia positivamente; caso contrário, os dados demográficos não seriam coletados para esse entrevistado específico. Após a confirmação, o termo foi enviado por e-mail para que o entrevistado pudesse assiná-lo. As figuras 1 e 2 apresentam os termos assinados.
 
-<details>
-  <summary>Termo de consentimento Mariane Ruas de Oliveira</summary>
-  <p align="center"><strong>Figura 1:</strong> Termo de consentimento Mariane Ruas de Oliveira</p>
-  <embed src="..\..\..\imagens\termos_consentimento\tc_neysa.pdf" width="100%" height="500px" />
-  <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/">Nome</a> & <a href="https://github.com/">Nome</a>, 2025.</p></font>
-</details>
+    <details>
+      <summary>Termo de consentimento Mariane Ruas de Oliveira</summary>
+      <p align="center" > <strong> Figura 1:</Strong> Termo de consentimento Mariane Ruas de Oliveira</font> <gitbr></p>
+      <embed src=".." width="100%" height="500px" />
+  <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a> & <a href="https://github.com/dylancavalcante">Dylan</a>, 2025.</p></font>
+    </details>
 
-<details>
-  <summary>Termo de consentimento Noemy da Luz Cardoso</summary>
-  <p align="center"><strong>Figura 2:</strong> Termo de consentimento Noemy da Luz Cardoso</p>
-  <embed src="..\..\imagens\termos_consentimento\tc_maria.pdf" width="100%" height="500px" />
-  <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/">Nome</a> & <a href="https://github.com/">Nome</a>, 2025.</p></font>
-</details>
+    <details>
+      <summary>Termo de consentimento Noemy da Luz Cardoso</summary>
+    <p align="center" > <strong> Figura 2:</Strong> Termo de consentimento Noemy da Luz Cardoso</font> <gitbr></p>
+      <embed src="..\..\imagens\termos_consentimento\tc_maria.pdf" width="100%" height="500px" />
+     <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a> & <a href="https://github.com/dylancavalcante">Dylan</a>, 2025.</p></font>
+    </details>
+
 
 3. **Execução das perguntas e documentação das respostas:** Durante a entrevista, o primeiro entrevistador conduziu a realização das perguntas, enquanto o segundo entrevistador ficou responsável por documentar as respostas fornecidas pelo entrevistado. Essa abordagem permitiu uma divisão clara de tarefas, garantindo uma execução eficiente e organizada do processo. Enquanto o primeiro entrevistador se concentrava em fazer as perguntas de forma clara e objetiva, o segundo entrevistador registrava cuidadosamente as respostas para posterior análise e documentação. Essa divisão de papéis contribuiu para manter o fluxo da entrevista e garantir a precisão na documentação das informações obtidas. As respostas coletadas podem ser observadas nas Tabelas 4 e 5.
 
@@ -157,7 +158,7 @@ Inicialmente, foram identificados potenciais candidatos que correspondessem ao [
             </tr>
             <tr>
                 <td>11. Onde você considera que seria o local mais conveniente para ter acesso a serviços de suporte técnico relacionados ao aplicativo ID Jovem?</td>
-                <td>“ ”</td>
+                <td>“Na internet para alcançar mais jovens.”</td>
             </tr>
             <tr>
                 <td>12. Como você avalia a facilidade de uso do aplicativo ID Jovem?</td>
@@ -165,11 +166,11 @@ Inicialmente, foram identificados potenciais candidatos que correspondessem ao [
             </tr>
             <tr>
                 <td>13. Como você descreveria sua experiência geral ao utilizar o aplicativo?</td>
-                <td>“ ”</td>
+                <td>“Um canal mais direto de comunicação para dúvidas e sugestões”</td>
             </tr>
             <tr>
                 <td>14. Como você acha que o aplicativo poderia ser melhorado?</td>
-                <td>“ ”</td>
+                <td>“Divulgação”</td>
             </tr>
             <tr>
                 <td>15. Quanto tempo, em média, você passa utilizando o aplicativo ID Jovem por sessão?</td>
@@ -251,7 +252,7 @@ Inicialmente, foram identificados potenciais candidatos que correspondessem ao [
             </tr>
             <tr>
                 <td>14. Como você acha que o aplicativo poderia ser melhorado?</td>
-                <td>“Um canal mais direto de comunicação entre os usuários e os responsáveis pelo aplicativo, para dúvidas e sugestões.”</td>
+                <td>“Ter mais divulgação do governo entre os jovens e descontos para nós”</td>
             </tr>
             <tr>
                 <td>15. Quanto tempo, em média, você passa utilizando o aplicativo ID Jovem por sessão?</td>
@@ -438,4 +439,4 @@ Na entrevista 2 encontra-se a gravação da entrevista da Noemy da Luz Cardoso.
 | :----: | :--------: | :----------------------------------------------------: | :-----------------------------------------------------: | :-------------: | :----------------------------------------------------: |
 | `1.0`  | 22/09/2025 |        Estrutura da do documento da entrevista         | [Arthur Fernandes](https://github.com/arthurfernandesj) |   22/09/2025    | [Dylan Cavalcante](https://github.com/dylancavalcante) |
 | `1.1`  | 23/09/2025 |                Entrevista com a Mariane                | [Arthur Fernandes](https://github.com/arthurfernandesj) |   23/09/2025    |  [Giovana Fontes](https://github.com/GiovanaFontesS)   |
-| `1.2`  | 28/09/2025 | Correção e padronização das referências bibliográficas |        [Danilo Melo](https://github.com/EngDann)        |
+| `1.2`  | 28/09/2025 | Correção e padronização das referências bibliográficas |        [Danilo Melo](https://github.com/EngDann)        | 29/09/2025 | [Arthur Fernandes](https://github.com/arthurfernandesj)

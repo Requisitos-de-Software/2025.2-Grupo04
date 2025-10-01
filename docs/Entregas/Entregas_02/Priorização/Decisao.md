@@ -10,10 +10,19 @@ Após análise e deliberação da equipe, foram selecionadas as seguintes técni
 
 1.  **MoSCoW**
 2.  **100 Dólares ($100)**
+3.  **In or Out**
 
 #### **3. Justificativa da Escolha**
 
-A seleção desta combinação de técnicas se baseia em uma estratégia de duas fases, que aproveita os pontos fortes de cada método para atender às necessidades do projeto ID Jovem.
+A seleção desta combinação de técnicas se baseia em uma estratégia de três fases, que aproveita os pontos fortes de cada método para atender às necessidades do projeto ID Jovem.
+
+##### **Por que o In or Out?**
+
+A técnica In or Out foi escolhida como **filtro inicial** para definir rapidamente o escopo mínimo viável (MVP) do projeto.
+
+-   **Definição Rápida do MVP:** O método binário "In/Out" permite uma tomada de decisão ágil sobre o que é absolutamente essencial para a primeira versão do aplicativo.
+-   **Clareza Imediata:** Gera uma divisão clara e compreensível para toda a equipe sobre o que deve ser desenvolvido na release inicial.
+-   **Ideal para Projetos com Prazos Curtos:** Sua simplicidade e velocidade de aplicação são perfeitas para o contexto de prazos definidos do ID Jovem.
 
 ##### **Por que o MoSCoW?**
 
@@ -40,7 +49,7 @@ A técnica "First Things First", embora muito confiável, foi descartada princip
 
 #### **5. Conclusão**
 
-A combinação do **MoSCoW** para uma classificação macro e essencialista, seguida pela técnica dos **100 Dólares** para um refinamento orientado a valor dentro das categorias não críticas, oferece um processo de priorização robusto, ágil e perfeitamente adaptado às restrições e objetivos do projeto ID Jovem.
+A combinação do **In or Out** para definição rápida do MVP, seguido do **MoSCoW** para uma classificação macro e essencialista, e finalizando com a técnica dos **100 Dólares** para um refinamento orientado a valor dentro das categorias não críticas, oferece um processo de priorização robusto, ágil e perfeitamente adaptado às restrições e objetivos do projeto ID Jovem.
 
 ---
 
@@ -54,5 +63,6 @@ A combinação do **MoSCoW** para uma classificação macro e essencialista, seg
 
 | Versão |    Data    |      Descrição       |                        Autor(es)                        |                       Revisor(es)                       |
 | :----: | :--------: | :------------------: | :-----------------------------------------------------: | :-----------------------------------------------------: |
-| `1.0`  | 28/09/2025 | Elaboração do relatório de decisão e justificativa das técnicas escolhidas | [Danilo Melo](https://github.com/EngDann) |  [ Arthur Fernandes](https://github.com/arthurfernandesj)|
-| `1.1`  | 29/09/2025 | Atualização do histórico de versão | [Arthur Fernandes](https://github.com/arthurfernandesj) |  [Leticia Lopes](https://github.com/leticialopes20)|
+| `1.0`  | 28/09/2025 | Elaboração do relatório de decisão e justificativa das técnicas escolhidas | [Danilo Melo](https://github.com/EngDann) |  [Arthur Fernandes](https://github.com/arthurfernandesj)|
+| `1.1`  | 29/09/2025 | Atualização do histórico de versão | [Arthur Fernandes](https://github.com/arthurfernandesj) |  [Letícia Lopes](https://github.com/leticialopes20)|
+| `1.2`  | 30/09/2025 | Adição da técnica In or Out e atualização da justificativa | [Letícia Lopes](https://github.com/leticialopes20) |  [Arthur Fernandes](https://github.com/arthurfernandesj)|

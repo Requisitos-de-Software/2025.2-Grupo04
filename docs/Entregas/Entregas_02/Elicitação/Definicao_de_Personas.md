@@ -8,11 +8,9 @@ O desenvolvimento de um aplicativo eficaz requer uma compreensão profunda dos u
 
 Para definição das personas, a equipe realizou:
 
-1. **Questionário online:**: Para a coleta de dados sobre os usuários do aplicativo, o grupo utilizou duas técnicas principais de elicitação de requisitos: questionários online e entrevistas semiestruturadas. As perguntas elaboradas foram objetivas e abordaram aspectos demográficos (idade, gênero, localização), profissionais (ocupação, escolaridade) e comportamentais (interesses relacionados ao aplicativo, desafios enfrentados no uso do **ID Jovem**, preferências tecnológicas). Essas técnicas permitiram obter informações tanto quantitativas quanto qualitativas dos usuários reais e potenciais.
+1. **Análise dos dados coletados:** Os dados coletados foram analisados para identificar padrões e características comuns entre os usuários. Essa análise revelou insights valiosos sobre necessidades, comportamentos e desafios, que serviram como base para a definição dos perfis de usuário representados pelas personas.
 
-2. **Análise dos dados coletados:** Os dados coletados foram analisados para identificar padrões e características comuns entre os usuários. Essa análise revelou insights valiosos sobre necessidades, comportamentos e desafios, que serviram como base para a definição dos perfis de usuário representados pelas personas.
-
-3. **Estruturação das personas:** Os dados coletados fundamentaram a criação de personas que representam os principais perfis de usuário. Cada persona foi detalhada com características específicas que espelham necessidades, comportamentos e desafios reais no uso do ID Jovem.
+2. **Estruturação das personas:** Os dados coletados fundamentaram a criação de personas que representam os principais perfis de usuário. Cada persona foi detalhada com características específicas que espelham necessidades, comportamentos e desafios reais no uso do ID Jovem.
 
 ## Elenco
 

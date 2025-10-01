@@ -1,12 +1,12 @@
 ### **Matriz Comparativa de Técnicas de Priorização**
 
-| Critério de Avaliação               | MoSCoW | 100 Dólares ($100) | First Things First |
-| ----------------------------------- | ------ | ------------------ | ------------------ |
-| **Facilidade de Aplicação**         | Alta   | Alta               | Baixa              |
-| **Tempo Necessário**                | Baixo  | Baixo a Médio      | Alto               |
-| **Confiabilidade dos Resultados**   | Média  | Baixa a Média      | Alta               |
-| **Adequação ao Tamanho do Projeto** | Alta   | Média              | Baixa              |
-| **Necessidade de Especialização**   | Baixa  | Baixa              | Média              |
+| Critério de Avaliação               | MoSCoW | 100 Dólares ($100) | In or Out |
+| ----------------------------------- | ------ | ------------------ | --------- |
+| **Facilidade de Aplicação**         | Alta   | Alta               | **Muito Alta** |
+| **Tempo Necessário**                | Baixo  | Baixo a Médio      | **Muito Baixo** |
+| **Confiabilidade dos Resultados**   | Média  | Baixa a Média      | Média     |
+| **Adequação ao Tamanho do Projeto** | Alta   | Média              | Alta      |
+| **Necessidade de Especialização**   | Baixa  | Baixa              | **Muito Baixa** |
 
 ### **Justificativas da Análise**
 
@@ -26,13 +26,13 @@
 -   **Adequação ao Tamanho (Média):** Funciona bem para uma lista moderada de itens. Com um backlog muito grande, a distribuição de 100 pontos pode se tornar cognitivamente complexa e menos eficaz.
 -   **Necessidade de Especialização (Baixa):** O método é baseado em um conceito simples de alocação de orçamento e não exige treinamento especializado.
 
-#### **First Things First**
+#### **In or Out**
 
--   **Facilidade de Aplicação (Baixa):** É descrita como uma "técnica mais elaborada" que envolve uma planilha estruturada, múltiplos papéis e cálculos.
--   **Tempo Necessário (Alto):** Por ser "mais elaborada" e envolver várias etapas de estimativa (benefício, penalidade, custo, risco) com diferentes grupos, o processo é inerentemente demorado.
--   **Confiabilidade (Alta):** A abordagem analítica que equilibra benefícios contra custos e riscos produz um resultado mais estruturado, defensável e menos subjetivo.
--   **Adequação ao Tamanho (Baixa):** A fonte afirma diretamente que "Não é recomendado que a lista de requisitos ultrapasse a casa das dezenas".
--   **Necessidade de Especialização (Média):** Exige um facilitador ("Gerente") para guiar o processo e garantir que as estimativas sejam feitas corretamente, o que demanda um conhecimento maior do que as outras técnicas.
+-   **Facilidade de Aplicação (Muito Alta):** É uma técnica de "extrema simplicidade e velocidade" com classificação binária direta.
+-   **Tempo Necessário (Muito Baixo):** O processo é "extremamente straightforward" e pode ser realizado "em uma única sessão de trabalho".
+-   **Confiabilidade (Média):** A qualidade do resultado "depende muito do julgamento e da experiência dos participantes" devido à "falta de nuance" na classificação binária.
+-   **Adequação ao Tamanho (Alta):** Ideal para "fases iniciais do projeto" e para definir rapidamente o escopo mínimo viável (MVP).
+-   **Necessidade de Especialização (Muito Baixa):** A natureza binária do método não requer qualquer conhecimento técnico especializado, sendo acessível a todos os stakeholders.
 
 ---
 
@@ -46,5 +46,6 @@
 
 | Versão |    Data    |      Descrição       |                        Autor(es)                        |                       Revisor(es)                       |
 | :----: | :--------: | :------------------: | :-----------------------------------------------------: | :-----------------------------------------------------: |
-| `1.0`  | 28/09/2025 |  Matriz comparativa entre as técnicas estudadas  | [Danilo Melo](https://github.com/EngDann) |  [ Arthur Fernandes](https://github.com/arthurfernandesj)|
-| `1.1`  | 29/09/2025 | Atualização do histórico de versão | [Arthur Fernandes](https://github.com/arthurfernandesj) |  [Leticia Lopes](https://github.com/leticialopes20)|
+| `1.0`  | 28/09/2025 |  Matriz comparativa entre as técnicas estudadas  | [Danilo Melo](https://github.com/EngDann) |  [Arthur Fernandes](https://github.com/arthurfernandesj)|
+| `1.1`  | 29/09/2025 | Atualização do histórico de versão | [Arthur Fernandes](https://github.com/arthurfernandesj) |  [Letícia Lopes](https://github.com/leticialopes20)|
+| `1.2`  | 30/09/2025 | Substituição de First Things First por In or Out na matriz | [Letícia Lopes](https://github.com/leticialopes20) |  [Arthur Fernandes](https://github.com/arthurfernandesj)|

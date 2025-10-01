@@ -42,15 +42,27 @@ O objetivo dessa página é armazenar o vídeo da apresentação da entrega 2.
 ## Gravação
 
 <div align="center">
-<p style="text-align: center"><a href="" target="_blank"><b>Vídeo 1:</b> Apresentação Entrega 02</a></p>
+  <p style="text-align: center">
+    <a href="https://youtu.be/44OnmJkUOpk" target="_blank"><b>Vídeo 1:</b> Apresentação Entrega 02</a>
+  </p>
 
-<iframe width="560" height="315" src="" title="Sessão Apresentação entrega 02" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/44OnmJkUOpk"
+          title="Sessão Apresentação Entrega 02"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+  </iframe>
 
-<font size="3"><p style="text-align: center"><b>Fontes:</b> <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, 2025</p></font>
+  <font size="3">
+    <p style="text-align: center">
+      <b>Fontes:</b> <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, 2025
+    </p>
+  </font>
 </div>
 
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--------|------|-----------|-----------|-------------|
-| 1.0 | 07/09/2025 | Criação da tabela de lista de verificação  | [Arthur, Breno, Danilo, Dylan, Eduarda, Giovana, Leticia]() | [Arthur, Breno, Danilo, Dylan, Eduarda, Giovana, Leticia ]() |
+| 1.0 | 07/09/2025 | Criação da tabela de lista de verificação  | [Arthur, Breno, Danilo, Dylan, Eduarda, Giovana, Leticia]() | [ Leticia ]() |

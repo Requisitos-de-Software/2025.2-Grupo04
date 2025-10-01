@@ -20,7 +20,7 @@ Esta análise refere-se à **Entrega 2** do Grupo 04, cujo projeto agora se conc
 
 ---
 
-## Lista de Inspeção do Grupo 08
+## Lista de Inspeção do Grupo 05
 
 ### Itens Gerais
 

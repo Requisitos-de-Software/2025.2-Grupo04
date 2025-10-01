@@ -25,7 +25,7 @@ A entrega 1 consiste na base inicial que guiará o time nas próximas entregas. 
 
 Clique [AQUI](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7?usp=sharing) se você quiser verificar os prints das referências
 
-### ✅ Equipe
+###  Equipe
 
 | Item                                                                                                | Avaliação |    Print    |                 Avaliador(es)                 |   Data e Hora    |
 | :-------------------------------------------------------------------------------------------------- | :-------: | :---------: | :-------------------------------------------: | :--------------: |
@@ -36,7 +36,7 @@ Clique [AQUI](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8P
 
 <p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
 
-### ✅ App Selecionado para o Projeto
+###  App Selecionado para o Projeto
 
 | Item                                                                       | Avaliação |    Print    |                Avaliador(es)                 |   Data e Hora    |
 | :------------------------------------------------------------------------- | :-------: | :---------: | :------------------------------------------: | :--------------: |
@@ -46,7 +46,7 @@ Clique [AQUI](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8P
 
  <p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
 
-### ✅ Ferramentas do Projeto
+###  Ferramentas do Projeto
 
 | Item                                                                                                   | Avaliação |    Print     |                Avaliador(es)                 |   Data e Hora    |
 | :----------------------------------------------------------------------------------------------------- | :-------: | :----------: | :------------------------------------------: | :--------------: |
@@ -57,7 +57,7 @@ Clique [AQUI](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8P
 
 <p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
 
-### ✅ Cronograma das Atividades
+###  Cronograma das Atividades
 
 | Item                                                                       | Avaliação |    Print     |                Avaliador(es)                 |   Data e Hora    |
 | :------------------------------------------------------------------------- | :-------: | :----------: | :------------------------------------------: | :--------------: |
@@ -69,7 +69,7 @@ Clique [AQUI](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8P
 
 <p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
 
-### ✅ Rich Picture
+###  Rich Picture
 
 | Item                                                                                   | Avaliação |    Print     |                 Avaliador(es)                 |   Data e Hora    |
 | :------------------------------------------------------------------------------------- | :-------: | :----------: | :-------------------------------------------: | :--------------: |
@@ -87,7 +87,7 @@ Clique [AQUI](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8P
 
 > <a id="RP2" href="#TEC2">2.</a> SALES, André Barros. <b>Sugestão inicial da Lista de Verificação para algumas entregas do projeto</b>. [S. l.: s. n., 2025]. Material de aula. Disponível em: <a href="https://aprender3.unb.br/course/view.php?id=27470">https://aprender3.unb.br/pluginfile.php/3106711/mod_resource/content/58/Lista%20de%20Verifica%C3%A7%C3%A3o%20-%20Plano_de_Ensino%20RE%20012025%20Turma%2003%20v2.pdf</a>. Acesso em: 8 set. 2025.
 
-## Histórico de Versões 📅
+## Histórico de Versões 
 
 | Versão |    Data    |                       Descrição                        |                        Autor(es)                        |                       Revisor(es)                       |
 | :----: | :--------: | :----------------------------------------------------: | :-----------------------------------------------------: | :-----------------------------------------------------: |

@@ -73,6 +73,7 @@ nav:
                 - Inspeção grupo n+1: Entregas/Entregas_01/inspecao01.md
 
           - Entrega 02:
+                - Apresentação: Entregas/Entregas_02/Apresentação.md 
                 - Elicitação:
                       - Perfil de Usuário: Entregas/Entregas_02/Elicitação/Perfil_de_Usuário.md
                       - Personas: Entregas/Entregas_02/Elicitação/Definicao_de_Personas.md
@@ -93,6 +94,7 @@ nav:
                       - Decisão: Entregas/Entregas_02/Priorização/Decisao.md
                       - Guia: Entregas/Entregas_02/Priorização/Guia.md
                       - Tabela: Entregas/Entregas_02/Priorização/Tabela.md
+                - Inspeção grupo n+1: Entregas/Entregas_02/Inspeção02.md
 
           - Entrega 03:
                 - Modelagem:

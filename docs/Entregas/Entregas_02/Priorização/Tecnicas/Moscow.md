@@ -1,14 +1,15 @@
+
 # MoSCoW
 
-## Introdução  
+## Introdução
 
-O **MoSCoW** é uma técnica amplamente utilizada para **priorização de requisitos em projetos de software**. Sua simplicidade e objetividade permitem alinhar expectativas entre a equipe de desenvolvimento e os stakeholders, garantindo foco nos itens indispensáveis para o sucesso do sistema.  
+O **MoSCoW** é uma técnica amplamente utilizada para **priorização de requisitos em projetos de software**. Sua simplicidade e objetividade permitem alinhar expectativas entre a equipe de desenvolvimento e os stakeholders, garantindo foco nos itens indispensáveis para o sucesso do sistema.
 
 O método organiza os requisitos em quatro classificações (**M, S, C ou W**), proporcionando uma alternativa mais clara à tradicional divisão em níveis de prioridade (baixo, médio, alto). Essa abordagem é especialmente útil em sistemas como o **ID Jovem**, em que é necessário diferenciar o que é crítico (como validação de dados pessoais e emissão do benefício) do que pode ser adicionado posteriormente.
 
-## Técnica MoSCoW  
+## Técnica MoSCoW
 
-O MoSCoW divide os requisitos em quatro categorias:  
+O MoSCoW divide os requisitos em quatro categorias:
 
 - **M – Must have (Tem que ter):** Requisitos críticos, indispensáveis para o funcionamento do sistema. Sem eles, o projeto não pode ser considerado bem-sucedido.  
 - **S – Should have (Deveria ter):** Requisitos importantes, mas não essenciais na entrega inicial. Sua ausência não inviabiliza o sistema, mas pode impactar a experiência do usuário.  
@@ -17,7 +18,7 @@ O MoSCoW divide os requisitos em quatro categorias:
 
 Apesar de prática, a técnica pode gerar dúvidas: quando se classifica um requisito como **Won't**, significa que ele nunca será implementado ou apenas não estará presente na primeira versão? Por isso, recomenda-se que o MoSCoW seja complementado por outras técnicas de priorização.
 
-### Vantagens  
+### Vantagens
 
 - Linguagem simples e acessível.  
 - Facilita a participação de todos os stakeholders.  
@@ -25,7 +26,7 @@ Apesar de prática, a técnica pode gerar dúvidas: quando se classifica um requ
 - Permite ajustes durante o andamento do projeto.  
 - Ajuda a focar nos itens que realmente agregam valor imediato.
 
-### Desvantagens  
+### Desvantagens
 
 - Pode ser simplista em contextos mais complexos.  
 - Subjetividade na decisão das classificações.  
@@ -163,9 +164,9 @@ A Tabela 2 apresenta a classificação dos requisitos do **ID Jovem**, considera
 
 ## Gravação
 
-[![Assista à gravação](https://img.youtube.com/vi/dIxnYHoZO44/hqdefault.jpg)](https://youtu.be/dIxnYHoZO44)
+<font size="3"><p style="text-align: center"> [![Assista à gravação](https://img.youtube.com/vi/dIxnYHoZO44/hqdefault.jpg)](https://youtu.be/dIxnYHoZO44)
 
-**Vídeo 1:** Técnica de Priorização - Moscow  
+<font size="3"><p style="text-align: center"> **Vídeo 1:** Técnica de Priorização - Moscow
 
 **Fonte:** [Giovana Fontes](https://github.com/GiovanaFontesS), 2025
 

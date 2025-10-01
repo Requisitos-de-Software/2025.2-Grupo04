@@ -87,4 +87,4 @@ O objetivo dessa página é armazenar o vídeo da apresentação da entrega 2.
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--------|------|-----------|-----------|-------------|
-| 1.0 | 07/09/2025 | Criação da tabela de lista de verificação  | [Arthur, Breno, Danilo, Dylan, Eduarda, Giovana, Leticia]() | [ Leticia ]() |
+| 1.0 | 30/09/2025 | Criação da tabela de lista de verificação  | [Arthur, Breno, Danilo, Dylan, Eduarda, Giovana, Leticia]() | [ Leticia ]() |

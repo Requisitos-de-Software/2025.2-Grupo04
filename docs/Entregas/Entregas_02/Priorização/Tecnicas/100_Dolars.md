@@ -188,8 +188,9 @@ A técnica foi aplicada de forma individual, sendo que cada participante aplicou
 
 <p font-size: 10pt;>Fonte: <a href="https://github.com/leticialopes20"><i>Letícia Lopes</i></span></a></p>
 
-## Gravação
+##Gravação da Técnica
 
+Para acessar a gravação da aplicação da técnica, acesse o vídeo através do link abaixo:
 <div align="center">
 <p style="text-align: center"><a href="https://youtu.be/8k1RkCJvzxo" target="_blank"><b>Vídeo 1:</b> Técnica de Priorização - 100 Dólares</a></p>
 
@@ -199,9 +200,6 @@ A técnica foi aplicada de forma individual, sendo que cada participante aplicou
 </div>
 
 
-Para acessar a gravação da aplicação da técnica, acesse o vídeo através do link abaixo:
-
-[**Aplicação da técnica de $100**](https://youtu.be/8k1RkCJvzxo?feature=shared)
 
 ##  Referências Bibliográficas
 

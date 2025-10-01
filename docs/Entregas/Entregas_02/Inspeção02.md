@@ -26,7 +26,7 @@ Esta análise refere-se à **Entrega 2** do Grupo 04, cujo projeto agora se conc
 
 | Item | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |
 |-|:-:|:-:|:-:|:-:|:-:|
-| **01:** O artefato apresenta uma bibliografia/referência bibliográfica? |  | --- |   | [Dylan](https://github.com/dylancavalcante) | 05/05/2025 \ 20:58 |
+| **01:** O artefato apresenta uma bibliografia/referência bibliográfica? |  | --- |   | [Danilo](https://github.com/EngDann) | 05/05/2025 \ 20:58 |
 | **02:** O artefato apresenta um histórico de versões com id, Item das versões, autores e revisores? |  | --- |   | [Giovana](https://github.com/GiovanaFontesS) | 05/05/2025  20:59 |
 | **03:** As tabelas e imagens apresentam legenda e fonte? |  | --- |   | [Arthur](https://github.com/arthurfernandesj) | 05/05/2025 \ 21:00 |
 | **04:** O artefato apresenta uma introdução? |  | --- |   | [Breno Teixeira](https://github.com/BrenoLTeixeira) | 05/05/2025 \ 21:00 |
@@ -52,7 +52,7 @@ Esta análise refere-se à **Entrega 2** do Grupo 04, cujo projeto agora se conc
 |-|:-:|:-:|:-:|:-:|:-:|
 | **11:** As personas estão bem definidas (nome, idade, contexto, objetivos)? |  | --- |   | [Leticia Lopes](https://github.com/leticialopes20) | 05/05/2025 \ 21:10 |
 | **12:** As personas representam a diversidade do público? |  | --- |   | [Eduarda](https://github.com/eduardar0) | 05/05/2025 \ 21:11 |
-| **13:** As personas têm ligação direta com o perfil de usuário definido? |  | --- |   | [Dylan](https://github.com/dylancavalcante) | 05/05/2025 \ 21:12 |
+| **13:** As personas têm ligação direta com o perfil de usuário definido? |  | --- |   | [Danilo](https://github.com/EngDann) | 05/05/2025 \ 21:12 |
 
 ---
 

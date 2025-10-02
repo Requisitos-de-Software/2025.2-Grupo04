@@ -14,10 +14,17 @@ Esta análise refere-se à **Entrega 2** do Grupo 04, cujo projeto agora se conc
 ---
 
 <p align="center">
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/eDnUZfB7iK8" 
+        title="YouTube video player" frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen>
+</iframe>
 </p>
 
 ---
+
 
 ## Lista de Inspeção do Grupo 05
 

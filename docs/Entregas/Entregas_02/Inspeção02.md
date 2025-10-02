@@ -45,6 +45,8 @@ Clique [AQUI](https://drive.google.com/drive/folders/1EbTCxnj1egWXVko4yy-0jun8lb
 | **05:** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? | Conforme | --- | ![][image5]   | [Leticia Lopes](https://github.com/leticialopes20) | 01/10/2025  20:58 |
 | **06:** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? | Conforme | --- |![][image6]| [Eduarda](https://github.com/eduardar0) | 01/10/2025  21:00 |
 
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
+
 ---
 
 ### Perfil de Usuário
@@ -55,7 +57,7 @@ Clique [AQUI](https://drive.google.com/drive/folders/1EbTCxnj1egWXVko4yy-0jun8lb
 | **08:** O perfil apresenta dados socioeconômicos relevantes? | Não Conforme | --- | ![][image8]  | [Giovana](https://github.com/GiovanaFontesS) | 01/10/2025  21:04 |
 | **09:** O perfil está embasado em fontes confiáveis (ex: IBGE, pesquisas)? | Conforme | --- | ![][image9]  | [Arthur](https://github.com/arthurfernandesj) | 01/10/2025  21:06 |
 | **10:** O perfil está atualizado? | Conforme | --- | ![][image10]  | [Breno Teixeira](https://github.com/BrenoLTeixeira) | 01/10/2025  21:08 |
-
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
 ---
 
 ### Personas
@@ -65,7 +67,7 @@ Clique [AQUI](https://drive.google.com/drive/folders/1EbTCxnj1egWXVko4yy-0jun8lb
 | **11:** As personas estão bem definidas (nome, idade, contexto, objetivos)? | Não Conforme | --- | ![][image11]  | [Leticia Lopes](https://github.com/leticialopes20) | 01/10/2025  21:10 |
 | **12:** As personas representam a diversidade do público? | Não Conforme | --- | ![][image12]  | [Eduarda](https://github.com/eduardar0) | 01/10/2025  21:12 |
 | **13:** As personas têm ligação direta com o perfil de usuário definido? | Não Conforme | --- | ![][image13]  | [Danilo](https://github.com/EngDann) | 01/10/2025  21:14 |
-
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
 ---
 
 ### Elicitação
@@ -76,7 +78,7 @@ Clique [AQUI](https://drive.google.com/drive/folders/1EbTCxnj1egWXVko4yy-0jun8lb
 | **15:** As técnicas escolhidas foram justificadas? | Não Conforme | --- | ![][image15]  | [Arthur](https://github.com/arthurfernandesj) | 01/10/2025  21:18 |
 | **16:** Há registro dos resultados obtidos nas técnicas? | Conforme | --- | ![][image16]  | [Breno Teixeira](https://github.com/BrenoLTeixeira) | 01/10/2025  21:20 |
 | **17:** As técnicas escolhidas são adequadas ao contexto do sistema? | Conforme | --- | ![][image17]  | [Leticia Lopes](https://github.com/leticialopes20) | 01/10/2025  21:22 |
-
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
 ---
 
 ### Documentação
@@ -86,7 +88,7 @@ Clique [AQUI](https://drive.google.com/drive/folders/1EbTCxnj1egWXVko4yy-0jun8lb
 | **18:** Os requisitos funcionais foram documentados de forma clara? | Conforme | --- | ![][image17]  | [Eduarda](https://github.com/eduardar0) | 01/10/2025  21:24 |
 | **19:** Os requisitos não funcionais foram documentados de forma clara? | Conforme | --- | ![][image17]  | [Dylan](https://github.com/dylancavalcante) | 01/10/2025  21:26 |
 | **20:** Existe rastreabilidade entre requisitos e elicitação? | Conforme | --- | ![][image15]  | [Giovana](https://github.com/GiovanaFontesS) | 01/10/2025  21:28 |
-
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
 ---
 
 ### Priorização
@@ -97,7 +99,7 @@ Clique [AQUI](https://drive.google.com/drive/folders/1EbTCxnj1egWXVko4yy-0jun8lb
 | **22:** A técnica escolhida foi justificada? | Conforme | --- | ![][image15]  | [Breno Teixeira](https://github.com/BrenoLTeixeira) | 01/10/2025  21:32 |
 | **23:** Há evidência de aplicação da técnica (ex: tabelas, gráficos)? | Conforme | --- |  ![][image15] | [Leticia Lopes](https://github.com/leticialopes20) | 01/10/2025  21:34 |
 | **24:** A priorização está coerente com os objetivos do sistema? | Conforme | --- | ![][image14]  | [Eduarda](https://github.com/eduardar0) | 01/10/2025  21:36 |
-
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
 ---
 
 <br>

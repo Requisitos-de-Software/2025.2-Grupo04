@@ -1,4 +1,3 @@
-
 # Inspeção do Grupo +1 (Entrega 2)
 
 ## Introdução
@@ -26,12 +25,12 @@ Esta análise refere-se à **Entrega 2** do Grupo 04, cujo projeto agora se conc
 
 | Item | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |
 |-|:-:|:-:|:-:|:-:|:-:|
-| **01:** O artefato apresenta uma bibliografia/referência bibliográfica? |  | --- |   | [Danilo](https://github.com/EngDann) | 05/05/2025 \ 20:58 |
-| **02:** O artefato apresenta um histórico de versões com id, Item das versões, autores e revisores? |  | --- |   | [Giovana](https://github.com/GiovanaFontesS) | 05/05/2025  20:59 |
-| **03:** As tabelas e imagens apresentam legenda e fonte? |  | --- |   | [Arthur](https://github.com/arthurfernandesj) | 05/05/2025 \ 21:00 |
-| **04:** O artefato apresenta uma introdução? |  | --- |   | [Breno Teixeira](https://github.com/BrenoLTeixeira) | 05/05/2025 \ 21:00 |
-| **05:** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? |  | --- |   | [Leticia Lopes](https://github.com/leticialopes20) | 05/05/2025 \ 21:01 |
-| **06:** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? | |  |   | [Eduarda](https://github.com/eduardar0) | 05/05/2025 \ 21:02 |
+| **01:** O artefato apresenta uma bibliografia/referência bibliográfica? | Conforme | --- |   | [Danilo](https://github.com/EngDann) | 01/10/2025 \ 20:50 |
+| **02:** O artefato apresenta um histórico de versões com id, Item das versões, autores e revisores? | Conforme | --- |   | [Giovana](https://github.com/GiovanaFontesS) | 01/10/2025 \ 20:52 |
+| **03:** As tabelas e imagens apresentam legenda e fonte? | Conforme | --- |   | [Arthur](https://github.com/arthurfernandesj) | 01/10/2025 \ 20:54 |
+| **04:** O artefato apresenta uma introdução? | Conforme | --- |   | [Breno Teixeira](https://github.com/BrenoLTeixeira) | 01/10/2025 \ 20:56 |
+| **05:** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? | Conforme | --- |   | [Leticia Lopes](https://github.com/leticialopes20) | 01/10/2025 \ 20:58 |
+| **06:** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? | Conforme | --- |   | [Eduarda](https://github.com/eduardar0) | 01/10/2025 \ 21:00 |
 
 ---
 
@@ -39,10 +38,10 @@ Esta análise refere-se à **Entrega 2** do Grupo 04, cujo projeto agora se conc
 
 | Item | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |
 |-|:-:|:-:|:-:|:-:|:-:|
-| **07:** O perfil do usuário descreve claramente o público-alvo do sistema? |  | --- |   | [Dylan](https://github.com/dylancavalcante) | 05/05/2025 \ 21:05 |
-| **08:** O perfil apresenta dados socioeconômicos relevantes? |  | --- |   | [Giovana](https://github.com/GiovanaFontesS) | 05/05/2025 \ 21:06 |
-| **09:** O perfil está embasado em fontes confiáveis (ex: IBGE, pesquisas)? |  | --- |   | [Arthur](https://github.com/arthurfernandesj) | 05/05/2025 \ 21:07 |
-| **10:** O perfil está atualizado? |  | --- |   | [Breno Teixeira](https://github.com/BrenoLTeixeira) | 05/05/2025 \ 21:08 |
+| **07:** O perfil do usuário descreve claramente o público-alvo do sistema? | Conforme | --- |   | [Dylan](https://github.com/dylancavalcante) | 01/10/2025 \ 21:02 |
+| **08:** O perfil apresenta dados socioeconômicos relevantes? | Não Conforme | --- |   | [Giovana](https://github.com/GiovanaFontesS) | 01/10/2025 \ 21:04 |
+| **09:** O perfil está embasado em fontes confiáveis (ex: IBGE, pesquisas)? | Conforme | --- |   | [Arthur](https://github.com/arthurfernandesj) | 01/10/2025 \ 21:06 |
+| **10:** O perfil está atualizado? | Conforme | --- |   | [Breno Teixeira](https://github.com/BrenoLTeixeira) | 01/10/2025 \ 21:08 |
 
 ---
 
@@ -50,9 +49,9 @@ Esta análise refere-se à **Entrega 2** do Grupo 04, cujo projeto agora se conc
 
 | Item | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |
 |-|:-:|:-:|:-:|:-:|:-:|
-| **11:** As personas estão bem definidas (nome, idade, contexto, objetivos)? |  | --- |   | [Leticia Lopes](https://github.com/leticialopes20) | 05/05/2025 \ 21:10 |
-| **12:** As personas representam a diversidade do público? |  | --- |   | [Eduarda](https://github.com/eduardar0) | 05/05/2025 \ 21:11 |
-| **13:** As personas têm ligação direta com o perfil de usuário definido? |  | --- |   | [Danilo](https://github.com/EngDann) | 05/05/2025 \ 21:12 |
+| **11:** As personas estão bem definidas (nome, idade, contexto, objetivos)? | Não Conforme | --- |   | [Leticia Lopes](https://github.com/leticialopes20) | 01/10/2025 \ 21:10 |
+| **12:** As personas representam a diversidade do público? | Não Conforme | --- |   | [Eduarda](https://github.com/eduardar0) | 01/10/2025 \ 21:12 |
+| **13:** As personas têm ligação direta com o perfil de usuário definido? | Não Conforme | --- |   | [Danilo](https://github.com/EngDann) | 01/10/2025 \ 21:14 |
 
 ---
 
@@ -60,10 +59,10 @@ Esta análise refere-se à **Entrega 2** do Grupo 04, cujo projeto agora se conc
 
 | Item | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |
 |-|:-:|:-:|:-:|:-:|:-:|
-| **14:** O grupo utilizou ao menos três técnicas de elicitação? |  | --- |   | [Giovana](https://github.com/GiovanaFontesS) | 05/05/2025 \ 21:15 |
-| **15:** As técnicas escolhidas foram justificadas? |  | --- |   | [Arthur](https://github.com/arthurfernandesj) | 05/05/2025 \ 21:16 |
-| **16:** Há registro dos resultados obtidos nas técnicas? |  | --- |   | [Breno Teixeira](https://github.com/BrenoLTeixeira) | 05/05/2025 \ 21:17 |
-| **17:** As técnicas escolhidas são adequadas ao contexto do sistema? |  | --- |   | [Leticia Lopes](https://github.com/leticialopes20) | 05/05/2025 \ 21:18 |
+| **14:** O grupo utilizou ao menos três técnicas de elicitação? | Conforme | --- |   | [Giovana](https://github.com/GiovanaFontesS) | 01/10/2025 \ 21:16 |
+| **15:** As técnicas escolhidas foram justificadas? | Não Conforme | --- |   | [Arthur](https://github.com/arthurfernandesj) | 01/10/2025 \ 21:18 |
+| **16:** Há registro dos resultados obtidos nas técnicas? | Conforme | --- |   | [Breno Teixeira](https://github.com/BrenoLTeixeira) | 01/10/2025 \ 21:20 |
+| **17:** As técnicas escolhidas são adequadas ao contexto do sistema? | Conforme | --- |   | [Leticia Lopes](https://github.com/leticialopes20) | 01/10/2025 \ 21:22 |
 
 ---
 
@@ -71,9 +70,9 @@ Esta análise refere-se à **Entrega 2** do Grupo 04, cujo projeto agora se conc
 
 | Item | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |
 |-|:-:|:-:|:-:|:-:|:-:|
-| **18:** Os requisitos funcionais foram documentados de forma clara? |  | --- |   | [Eduarda](https://github.com/eduardar0) | 05/05/2025 \ 21:20 |
-| **19:** Os requisitos não funcionais foram documentados de forma clara? |  | --- |   | [Dylan](https://github.com/dylancavalcante) | 05/05/2025 \ 21:21 |
-| **20:** Existe rastreabilidade entre requisitos e elicitação? |  | --- |   | [Giovana](https://github.com/GiovanaFontesS) | 05/05/2025 \ 21:22 |
+| **18:** Os requisitos funcionais foram documentados de forma clara? | Conforme | --- |   | [Eduarda](https://github.com/eduardar0) | 01/10/2025 \ 21:24 |
+| **19:** Os requisitos não funcionais foram documentados de forma clara? | Conforme | --- |   | [Dylan](https://github.com/dylancavalcante) | 01/10/2025 \ 21:26 |
+| **20:** Existe rastreabilidade entre requisitos e elicitação? | Conforme | --- |   | [Giovana](https://github.com/GiovanaFontesS) | 01/10/2025 \ 21:28 |
 
 ---
 
@@ -81,13 +80,12 @@ Esta análise refere-se à **Entrega 2** do Grupo 04, cujo projeto agora se conc
 
 | Item | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |
 |-|:-:|:-:|:-:|:-:|:-:|
-| **21:** O grupo utilizou ao menos uma técnica de priorização? |  | --- |   | [Arthur](https://github.com/arthurfernandesj) | 05/05/2025 \ 21:25 |
-| **22:** A técnica escolhida foi justificada? |  | --- |   | [Breno Teixeira](https://github.com/BrenoLTeixeira) | 05/05/2025 \ 21:26 |
-| **23:** Há evidência de aplicação da técnica (ex: tabelas, gráficos)? |  | --- |   | [Leticia Lopes](https://github.com/leticialopes20) | 05/05/2025 \ 21:27 |
-| **24:** A priorização está coerente com os objetivos do sistema? |  | --- |   | [Eduarda](https://github.com/eduardar0) | 05/05/2025 \ 21:28 |
+| **21:** O grupo utilizou ao menos uma técnica de priorização? | Conforme | --- |   | [Arthur](https://github.com/arthurfernandesj) | 01/10/2025 \ 21:30 |
+| **22:** A técnica escolhida foi justificada? | Conforme | --- |   | [Breno Teixeira](https://github.com/BrenoLTeixeira) | 01/10/2025 \ 21:32 |
+| **23:** Há evidência de aplicação da técnica (ex: tabelas, gráficos)? | Conforme | --- |   | [Leticia Lopes](https://github.com/leticialopes20) | 01/10/2025 \ 21:34 |
+| **24:** A priorização está coerente com os objetivos do sistema? | Conforme | --- |   | [Eduarda](https://github.com/eduardar0) | 01/10/2025 \ 21:36 |
 
 ---
-
 
 ## Bibliografia
 
@@ -100,3 +98,4 @@ Esta análise refere-se à **Entrega 2** do Grupo 04, cujo projeto agora se conc
 | Versão |    Data    |       Descrição      |                                          Autor(es)                                         |                  Revisor(es)                  |
 | :----: | :--------: | :------------------: | :----------------------------------------------------------------------------------------: | :-------------------------------------------: |
 |  `1.0` | 01/10/2025 | Criação do documento | [Dylan](https://github.com/dylancavalcante) e [Giovana](https://github.com/GiovanaFontesS) | [Arthur](https://github.com/arthurfernandesj) |
+|  `1.1` | 01/10/2025 | Avaliação dos itens | [Breno](https://github.com/dylancavalcante) e [Giovana](https://github.com/GiovanaFontesS) | [Arthur](https://github.com/arthurfernandesj) |

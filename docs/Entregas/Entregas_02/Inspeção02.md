@@ -31,7 +31,7 @@ Esta análise refere-se à **Entrega 2** do Grupo 04, cujo projeto agora se conc
 
 ### Modelo para Lista de Verificação/Inspeção da Entrega 2
 
-Clique [AQUI](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7) se você quiser verificar os prints das referências
+Clique [AQUI](https://drive.google.com/drive/folders/1EbTCxnj1egWXVko4yy-0jun8lbTvskav?usp=drive_link) se você quiser verificar os prints das referências
 
 
 ### Itens Gerais
@@ -83,9 +83,9 @@ Clique [AQUI](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8P
 
 | Item | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |
 |-|:-:|:-:|:-:|:-:|:-:|
-| **18:** Os requisitos funcionais foram documentados de forma clara? | Conforme | --- | ![][image18]  | [Eduarda](https://github.com/eduardar0) | 01/10/2025  21:24 |
-| **19:** Os requisitos não funcionais foram documentados de forma clara? | Conforme | --- | ![][image19]  | [Dylan](https://github.com/dylancavalcante) | 01/10/2025  21:26 |
-| **20:** Existe rastreabilidade entre requisitos e elicitação? | Conforme | --- | ![][image20]  | [Giovana](https://github.com/GiovanaFontesS) | 01/10/2025  21:28 |
+| **18:** Os requisitos funcionais foram documentados de forma clara? | Conforme | --- | ![][image17]  | [Eduarda](https://github.com/eduardar0) | 01/10/2025  21:24 |
+| **19:** Os requisitos não funcionais foram documentados de forma clara? | Conforme | --- | ![][image17]  | [Dylan](https://github.com/dylancavalcante) | 01/10/2025  21:26 |
+| **20:** Existe rastreabilidade entre requisitos e elicitação? | Conforme | --- | ![][image15]  | [Giovana](https://github.com/GiovanaFontesS) | 01/10/2025  21:28 |
 
 ---
 
@@ -93,10 +93,10 @@ Clique [AQUI](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8P
 
 | Item | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |
 |-|:-:|:-:|:-:|:-:|:-:|
-| **21:** O grupo utilizou ao menos uma técnica de priorização? | Conforme | --- | ![][image21]  | [Arthur](https://github.com/arthurfernandesj) | 01/10/2025  21:30 |
-| **22:** A técnica escolhida foi justificada? | Conforme | --- | ![][image22]  | [Breno Teixeira](https://github.com/BrenoLTeixeira) | 01/10/2025  21:32 |
-| **23:** Há evidência de aplicação da técnica (ex: tabelas, gráficos)? | Conforme | --- |  ![][image23] | [Leticia Lopes](https://github.com/leticialopes20) | 01/10/2025  21:34 |
-| **24:** A priorização está coerente com os objetivos do sistema? | Conforme | --- | ![][image24]  | [Eduarda](https://github.com/eduardar0) | 01/10/2025  21:36 |
+| **21:** O grupo utilizou ao menos uma técnica de priorização? | Conforme | --- | ![][image14]  | [Arthur](https://github.com/arthurfernandesj) | 01/10/2025  21:30 |
+| **22:** A técnica escolhida foi justificada? | Conforme | --- | ![][image15]  | [Breno Teixeira](https://github.com/BrenoLTeixeira) | 01/10/2025  21:32 |
+| **23:** Há evidência de aplicação da técnica (ex: tabelas, gráficos)? | Conforme | --- |  ![][image15] | [Leticia Lopes](https://github.com/leticialopes20) | 01/10/2025  21:34 |
+| **24:** A priorização está coerente com os objetivos do sistema? | Conforme | --- | ![][image14]  | [Eduarda](https://github.com/eduardar0) | 01/10/2025  21:36 |
 
 ---
 

@@ -39,11 +39,11 @@ Clique [AQUI](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8P
 | Item | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |
 |-|:-:|:-:|:-:|:-:|:-:|
 | **01:** O artefato apresenta uma bibliografia/referência bibliográfica? | Conforme | --- | ![][image1]  | [Danilo](https://github.com/EngDann) | 01/10/2025  20:50 |
-| **02:** O artefato apresenta um histórico de versões com id, Item das versões, autores e revisores? | Conforme | --- |   | [Giovana](https://github.com/GiovanaFontesS) | 01/10/2025  20:52 |
-| **03:** As tabelas e imagens apresentam legenda e fonte? | Conforme | --- |   | [Arthur](https://github.com/arthurfernandesj) | 01/10/2025  20:54 |
-| **04:** O artefato apresenta uma introdução? | Conforme | --- |   | [Breno Teixeira](https://github.com/BrenoLTeixeira) | 01/10/2025  20:56 |
-| **05:** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? | Conforme | --- |   | [Leticia Lopes](https://github.com/leticialopes20) | 01/10/2025  20:58 |
-| **06:** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? | Conforme | --- |   | [Eduarda](https://github.com/eduardar0) | 01/10/2025  21:00 |
+| **02:** O artefato apresenta um histórico de versões com id, Item das versões, autores e revisores? | Conforme | --- |![][image2]| [Giovana](https://github.com/GiovanaFontesS) | 01/10/2025  20:52 |
+| **03:** As tabelas e imagens apresentam legenda e fonte? | Conforme | --- | ![][image3]  | [Arthur](https://github.com/arthurfernandesj) | 01/10/2025  20:54 |
+| **04:** O artefato apresenta uma introdução? | Conforme | --- | ![][image4]  | [Breno Teixeira](https://github.com/BrenoLTeixeira) | 01/10/2025  20:56 |
+| **05:** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? | Conforme | --- | ![][image5]   | [Leticia Lopes](https://github.com/leticialopes20) | 01/10/2025  20:58 |
+| **06:** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? | Conforme | --- |![][image6]| [Eduarda](https://github.com/eduardar0) | 01/10/2025  21:00 |
 
 ---
 
@@ -51,10 +51,10 @@ Clique [AQUI](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8P
 
 | Item | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |
 |-|:-:|:-:|:-:|:-:|:-:|
-| **07:** O perfil do usuário descreve claramente o público-alvo do sistema? | Conforme | --- |   | [Dylan](https://github.com/dylancavalcante) | 01/10/2025  21:02 |
-| **08:** O perfil apresenta dados socioeconômicos relevantes? | Não Conforme | --- |   | [Giovana](https://github.com/GiovanaFontesS) | 01/10/2025  21:04 |
-| **09:** O perfil está embasado em fontes confiáveis (ex: IBGE, pesquisas)? | Conforme | --- |   | [Arthur](https://github.com/arthurfernandesj) | 01/10/2025  21:06 |
-| **10:** O perfil está atualizado? | Conforme | --- |   | [Breno Teixeira](https://github.com/BrenoLTeixeira) | 01/10/2025  21:08 |
+| **07:** O perfil do usuário descreve claramente o público-alvo do sistema? | Conforme | --- |![][image7]| [Dylan](https://github.com/dylancavalcante) | 01/10/2025  21:02 |
+| **08:** O perfil apresenta dados socioeconômicos relevantes? | Não Conforme | --- | ![][image8]  | [Giovana](https://github.com/GiovanaFontesS) | 01/10/2025  21:04 |
+| **09:** O perfil está embasado em fontes confiáveis (ex: IBGE, pesquisas)? | Conforme | --- | ![][image9]  | [Arthur](https://github.com/arthurfernandesj) | 01/10/2025  21:06 |
+| **10:** O perfil está atualizado? | Conforme | --- | ![][image10]  | [Breno Teixeira](https://github.com/BrenoLTeixeira) | 01/10/2025  21:08 |
 
 ---
 
@@ -62,9 +62,9 @@ Clique [AQUI](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8P
 
 | Item | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |
 |-|:-:|:-:|:-:|:-:|:-:|
-| **11:** As personas estão bem definidas (nome, idade, contexto, objetivos)? | Não Conforme | --- |   | [Leticia Lopes](https://github.com/leticialopes20) | 01/10/2025  21:10 |
-| **12:** As personas representam a diversidade do público? | Não Conforme | --- |   | [Eduarda](https://github.com/eduardar0) | 01/10/2025  21:12 |
-| **13:** As personas têm ligação direta com o perfil de usuário definido? | Não Conforme | --- |   | [Danilo](https://github.com/EngDann) | 01/10/2025  21:14 |
+| **11:** As personas estão bem definidas (nome, idade, contexto, objetivos)? | Não Conforme | --- | ![][image11]  | [Leticia Lopes](https://github.com/leticialopes20) | 01/10/2025  21:10 |
+| **12:** As personas representam a diversidade do público? | Não Conforme | --- | ![][image12]  | [Eduarda](https://github.com/eduardar0) | 01/10/2025  21:12 |
+| **13:** As personas têm ligação direta com o perfil de usuário definido? | Não Conforme | --- | ![][image13]  | [Danilo](https://github.com/EngDann) | 01/10/2025  21:14 |
 
 ---
 
@@ -72,10 +72,10 @@ Clique [AQUI](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8P
 
 | Item | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |
 |-|:-:|:-:|:-:|:-:|:-:|
-| **14:** O grupo utilizou ao menos três técnicas de elicitação? | Conforme | --- |   | [Giovana](https://github.com/GiovanaFontesS) | 01/10/2025  21:16 |
-| **15:** As técnicas escolhidas foram justificadas? | Não Conforme | --- |   | [Arthur](https://github.com/arthurfernandesj) | 01/10/2025  21:18 |
-| **16:** Há registro dos resultados obtidos nas técnicas? | Conforme | --- |   | [Breno Teixeira](https://github.com/BrenoLTeixeira) | 01/10/2025  21:20 |
-| **17:** As técnicas escolhidas são adequadas ao contexto do sistema? | Conforme | --- |   | [Leticia Lopes](https://github.com/leticialopes20) | 01/10/2025  21:22 |
+| **14:** O grupo utilizou ao menos três técnicas de elicitação? | Conforme | --- | ![][image14]   | [Giovana](https://github.com/GiovanaFontesS) | 01/10/2025  21:16 |
+| **15:** As técnicas escolhidas foram justificadas? | Não Conforme | --- | ![][image15]  | [Arthur](https://github.com/arthurfernandesj) | 01/10/2025  21:18 |
+| **16:** Há registro dos resultados obtidos nas técnicas? | Conforme | --- | ![][image16]  | [Breno Teixeira](https://github.com/BrenoLTeixeira) | 01/10/2025  21:20 |
+| **17:** As técnicas escolhidas são adequadas ao contexto do sistema? | Conforme | --- | ![][image17]  | [Leticia Lopes](https://github.com/leticialopes20) | 01/10/2025  21:22 |
 
 ---
 
@@ -83,9 +83,9 @@ Clique [AQUI](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8P
 
 | Item | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |
 |-|:-:|:-:|:-:|:-:|:-:|
-| **18:** Os requisitos funcionais foram documentados de forma clara? | Conforme | --- |   | [Eduarda](https://github.com/eduardar0) | 01/10/2025  21:24 |
-| **19:** Os requisitos não funcionais foram documentados de forma clara? | Conforme | --- |   | [Dylan](https://github.com/dylancavalcante) | 01/10/2025  21:26 |
-| **20:** Existe rastreabilidade entre requisitos e elicitação? | Conforme | --- |   | [Giovana](https://github.com/GiovanaFontesS) | 01/10/2025  21:28 |
+| **18:** Os requisitos funcionais foram documentados de forma clara? | Conforme | --- | ![][image18]  | [Eduarda](https://github.com/eduardar0) | 01/10/2025  21:24 |
+| **19:** Os requisitos não funcionais foram documentados de forma clara? | Conforme | --- | ![][image19]  | [Dylan](https://github.com/dylancavalcante) | 01/10/2025  21:26 |
+| **20:** Existe rastreabilidade entre requisitos e elicitação? | Conforme | --- | ![][image20]  | [Giovana](https://github.com/GiovanaFontesS) | 01/10/2025  21:28 |
 
 ---
 
@@ -93,16 +93,12 @@ Clique [AQUI](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8P
 
 | Item | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |
 |-|:-:|:-:|:-:|:-:|:-:|
-| **21:** O grupo utilizou ao menos uma técnica de priorização? | Conforme | --- |   | [Arthur](https://github.com/arthurfernandesj) | 01/10/2025  21:30 |
-| **22:** A técnica escolhida foi justificada? | Conforme | --- |   | [Breno Teixeira](https://github.com/BrenoLTeixeira) | 01/10/2025  21:32 |
-| **23:** Há evidência de aplicação da técnica (ex: tabelas, gráficos)? | Conforme | --- |   | [Leticia Lopes](https://github.com/leticialopes20) | 01/10/2025  21:34 |
-| **24:** A priorização está coerente com os objetivos do sistema? | Conforme | --- |   | [Eduarda](https://github.com/eduardar0) | 01/10/2025  21:36 |
+| **21:** O grupo utilizou ao menos uma técnica de priorização? | Conforme | --- | ![][image21]  | [Arthur](https://github.com/arthurfernandesj) | 01/10/2025  21:30 |
+| **22:** A técnica escolhida foi justificada? | Conforme | --- | ![][image22]  | [Breno Teixeira](https://github.com/BrenoLTeixeira) | 01/10/2025  21:32 |
+| **23:** Há evidência de aplicação da técnica (ex: tabelas, gráficos)? | Conforme | --- |  ![][image23] | [Leticia Lopes](https://github.com/leticialopes20) | 01/10/2025  21:34 |
+| **24:** A priorização está coerente com os objetivos do sistema? | Conforme | --- | ![][image24]  | [Eduarda](https://github.com/eduardar0) | 01/10/2025  21:36 |
 
 ---
-
-## Bibliografia
-
-> <a id="REF1" href="#anchor_1">1.</a> VICTÓRIA, Ana; et al. Requisitos de Software - 2025.1- e-GDF. Disponível em: https://requisitos-de-software.github.io/2025.1-e-GDF/. Acesso em: 04 mai. 2025.
 
 <br>
 

@@ -43,7 +43,7 @@ A Análise de Documentos é uma técnica amplamente utilizada na elicitação de
 * **Resumo:** O site oficial do ID Jovem apresenta informações completas sobre o programa, que é uma iniciativa do governo voltada para facilitar o acesso de jovens a direitos e benefícios sociais e culturais. Nele, é possível entender o que é o ID Jovem, como funciona, quais benefícios oferece e quem pode ter acesso. O portal também fornece formas de acesso, incluindo instruções passo a passo para emissão do documento digital, além de orientações de uso, garantindo que os jovens possam usufruir plenamente dos direitos oferecidos pelo programa. Dessa forma, o site funciona como um guia completo, esclarecendo dúvidas e facilitando a utilização do benefício de forma segura e prática.
 
 
-<p align="center"> <img src="/docs/assets/Elicitacao/SiteIdJovem.png" alt="Descrição sobre o aplicativo Id Jovem no Site Id Jovem" width="500"/> </p> <p align="center"> Fonte: Id Jovem Mobile (2025). </p>
+<p align="center"> <img src="../../../../assets/Elicitacao/SiteIdJovem.png" alt="Descrição sobre o aplicativo Id Jovem no Site Id Jovem" width="500"/> </p> <p align="center"> Fonte: Id Jovem Mobile (2025). </p>
 
 <
 ---
@@ -54,7 +54,7 @@ A Análise de Documentos é uma técnica amplamente utilizada na elicitação de
 * **Resumo:** A descrição oficial do aplicativo na App Store, o ID Jovem permite que jovens de baixa renda emitam sua carteira digital e acessem benefícios do programa. Com o app, é possível emitir mais de uma carteira, receber alertas, consultar perguntas frequentes, acessar atendimento e permitir que estabelecimentos validem a carteira para concessão de descontos em eventos culturais, esportivos e transporte interestadual.
 
 <p align="center">
-  <img src="/docs/assets/Elicitacao/AppStorePrint.png" alt="Descrição sobre o aplicativo Id Jovem na App Store" width="500"/>
+  <img src="../../../../assets/Elicitacao/AppStorePrint.png" alt="Descrição sobre o aplicativo Id Jovem na App Store" width="500"/>
 </p>
 
 <p align="center">

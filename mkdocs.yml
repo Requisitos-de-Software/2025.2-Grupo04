@@ -73,34 +73,41 @@ nav:
                 - Inspeção grupo n+1: Entregas/Entregas_01/inspecao01.md
 
           - Entrega 02:
+                - Apresentação: Entregas/Entregas_02/Apresentação.md 
                 - Elicitação:
-                      - Perfil de Usuário: Entregas/Entregas_02/Elicitação/Perfil_de_Usuário.md
-                      - Personas: Entregas/Entregas_02/Elicitação/Definicao_de_Personas.md
+                      - Perfil de Usuário: Entregas/Entregas_02/Elicitacao/Perfil_de_Usuário.md
+                      - Personas: Entregas/Entregas_02/Elicitacao/Definicao_de_Personas.md
 
                 - Técnicas de Elicitação:
-                      - Analise de Documentos: Entregas/Entregas_02/Elicitação/Analise_de_Documentos.md
-                      - Entrevista: Entregas/Entregas_02/Elicitação/Entrevista.md
-                      - Brainstorming: Entregas/Entregas_02/Elicitação/Brainstorming.md
-                      - Introspecção: Entregas/Entregas_02/Elicitação/Introspecção.md
-                      - Observação: Entregas/Entregas_02/Elicitação/Observação.md
-                      - Storytelling: Entregas/Entregas_02/Elicitação/Storytelling.md
+                      - Analise de Documentos: Entregas/Entregas_02/Elicitacao/Analise_de_Documentos.md
+                      - Entrevista: Entregas/Entregas_02/Elicitacao/Entrevista.md
+                      - Brainstorming: Entregas/Entregas_02/Elicitacao/Brainstorming.md
+                      - Introspecção: Entregas/Entregas_02/Elicitacao/Introspecção.md
+                      - Observação: Entregas/Entregas_02/Elicitacao/Observação.md
+                      - Storytelling: Entregas/Entregas_02/Elicitacao/Storytelling.md
 
                 - Priorização:
-                      - Tecnicas:
-                            - First Things First: Entregas/Entregas_02/Priorização/Tecnicas/First_Things_First.md
+                      - Técnicas:
+                            - In or Out: Entregas/Entregas_02/Priorização/Tecnicas/InorOut.md
                             - Moscow: Entregas/Entregas_02/Priorização/Tecnicas/Moscow.md
                             - $100: Entregas/Entregas_02/Priorização/Tecnicas/100_Dolars.md
-                      - Decisao: Entregas/Entregas_02/Priorização/Decisao.md
+                      - Decisão: Entregas/Entregas_02/Priorização/Decisao.md
                       - Guia: Entregas/Entregas_02/Priorização/Guia.md
                       - Tabela: Entregas/Entregas_02/Priorização/Tabela.md
+                - Inspeção grupo n+1: Entregas/Entregas_02/Inspeção02.md
 
           - Entrega 03:
                 - Modelagem:
-                      - Diagramas: Entregas/Entregas_03/Modelagem/Diagramas.md
-                      - Especificações: Entregas/Entregas_03/Modelagem/Especificacoes.md
-                - Pós-Rastreabilidade:
-                      - Matriz de Rastreabilidade: Entregas/Entregas_03/Pós-Rastreabilidade/Matriz.md
-                      - Relatórios: Entregas/Entregas_03/Pós-Rastreabilidade/Relatorios.md
+                          - Caso de Uso: Entregas/Entregas_03/Modelagem/Caso-de-Uso.md
+                          - Cenário: Entregas/Entregas_03/Modelagem/Cenario.md
+                          - Léxicos: Entregas/Entregas_03/Modelagem/Lexicos.md
+                          - Especificação Suplementar: Entregas/Entregas_03/Modelagem/Especificacao_de_Requisitos.md
+                          - Requisitos Não Implementados: Entregas/Entregas_03/Modelagem/Requisitos_Funcionais.md
+            
+                - Modelagem-II:
+                              - NFR Framework: Entregas/Entregas_03/Modelagem_II/NFR_Framework.md
+                              - Histórias de Usuário: Entregas/Entregas_03/Modelagem_II/Historias_de_Usuario.md
+                              - Product Backlog: Entregas/Entregas_03/Modelagem_II/Product_Backlog.md
 
           - Entrega Final:
                 - Conclusão: Entregas/Entrega-Final/Conclusao.md

@@ -98,11 +98,16 @@ nav:
 
           - Entrega 03:
                 - Modelagem:
-                      - Diagramas: Entregas/Entregas_03/Modelagem/Diagramas.md
-                      - Especificações: Entregas/Entregas_03/Modelagem/Especificacoes.md
-                - Pós-Rastreabilidade:
-                      - Matriz de Rastreabilidade: Entregas/Entregas_03/Pós-Rastreabilidade/Matriz.md
-                      - Relatórios: Entregas/Entregas_03/Pós-Rastreabilidade/Relatorios.md
+                          - Caso de Uso: Entregas/Entregas_03/Modelagem/Caso-de-Uso.md
+                          - Cenário: Entregas/Entregas_03/Modelagem/Cenario.md
+                          - Léxicos: Entregas/Entregas_03/Modelagem/Lexicos.md
+                          - Especificação Suplementar: Entregas/Entregas_03/Modelagem/Especificacao_de_Requisitos.md
+                          - Requisitos Não Implementados: Entregas/Entregas_03/Modelagem/Requisitos_Funcionais.md
+            
+                - Modelagem-II:
+                              - NFR Framework: Entregas/Entregas_03/Modelagem_II/NFR_Framework.md
+                              - Histórias de Usuário: Entregas/Entregas_03/Modelagem_II/Historias_de_Usuario.md
+                              - Product Backlog: Entregas/Entregas_03/Modelagem_II/Product_Backlog.md
 
           - Entrega Final:
                 - Conclusão: Entregas/Entrega-Final/Conclusao.md

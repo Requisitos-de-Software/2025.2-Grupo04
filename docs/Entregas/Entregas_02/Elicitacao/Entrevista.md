@@ -46,8 +46,7 @@ Inicialmente, foram identificados potenciais candidatos que correspondessem ao [
 
 ### 2. Materiais de apoio
 
--   Utilizamos um [slide de apresentação](https://www.canva.com/design/DAGB2hD6QRE/5G4JJHLFHVfifDPMHEK1oA/view?utm_content=DAGB2hD6QRE&utm_campaign=designshare&utm_medium=link&utm_source=editor) para aprimorar a condução da entrevista, especialmente considerando que foi realizada remotamente. Essa abordagem não apenas tornou a entrevista mais organizada, mas também proporcionou uma apresentação mais clara e envolvente sobre os serviços e benefícios do **ID Jovem**.
--   Disponibilizamos um documento contendo o [Termo de Consentimento](https://docs.google.com/document/d/1-9clNfHVrAQ4EIl-t1aBRplU4VCoGgPeesqrBWo0SEU/edit?usp=sharing) para garantir que os entrevistados estejam plenamente cientes dos procedimentos envolvidos na entrevista e da forma como os dados seriam utilizados.
+-  Disponibilizamos um documento contendo o [Termo de Consentimento](https://docs.google.com/document/d/1-9clNfHVrAQ4EIl-t1aBRplU4VCoGgPeesqrBWo0SEU/edit?usp=sharing) para garantir que os entrevistados estejam plenamente cientes dos procedimentos envolvidos na entrevista e da forma como os dados seriam utilizados.
 
 ### 3. Condução da entrevista
 

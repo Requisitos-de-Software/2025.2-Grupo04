@@ -46,17 +46,17 @@ A tabela a seguir apresenta uma lista de requisitos de software levantados duran
 | Identificação | Descrição | Categoria |
 |---|---|---|
 | IDJ01 | O sistema deve permitir que o jovem emita sua carteira ID Jovem virtual fornecendo NIS, nome completo, data de nascimento e nome da mãe<a id="anchor_3" href="#QT2">[2]</a>. | RF |
-| IDJ02 | O sistema deve permitir que estabelecimentos comerciais e empresas de transporte validem a autenticidade de uma carteira ID Jovem. | RF |
-| IDJ03 | O sistema deve exibir claramente os benefícios do programa, como meia-entrada e vagas em transporte interestadual<a id="anchor_4" href="#QT3">[3]</a>. | RF |
-| IDJ04 | O sistema deve fornecer uma seção de "Dúvidas Frequentes" para esclarecer questões sobre o programa, o CadÚnico e os benefícios. | RF |
-| IDJ05 | O sistema deve ser gratuito para o cidadão. | RNF |
-| IDJ06 | O sistema deve ser compatível com os principais sistemas operacionais móveis (Android e iOS) e navegadores web. | RNF |
+| IDJ02 | O sistema deve permitir que estabelecimentos comerciais e empresas de transporte validem a autenticidade de uma carteira ID Jovem.[9,11] | RF |
+| IDJ03 | O sistema deve exibir claramente os benefícios do programa, como meia-entrada e vagas em transporte interestadual [9,16]<a id="anchor_4" href="#QT3">[3]</a>. | RF |
+| IDJ04 | O sistema deve fornecer uma seção de "Dúvidas Frequentes" para esclarecer questões sobre o programa, o CadÚnico e os benefícios[17]. | RF |
+| IDJ05 | O sistema deve ser gratuito para o cidadão[8]. | RNF |
+| IDJ06 | O sistema deve ser compatível com os principais sistemas operacionais móveis (Android e iOS) e navegadores web[10]. | RNF |
 | IDJ07 | O sistema deve proteger os dados pessoais dos jovens (CPF, NIS) conforme as leis de proteção de dados vigentes. | RNF |
 | IDJ08 | O sistema deve se conectar à base de dados do CadÚnico para verificar a elegibilidade do jovem em tempo real. | RNF |
-| IDJ09 | A interface deve ser intuitiva e acessível para jovens de diferentes níveis de letramento digital. | RI |
+| IDJ09 | A interface deve ser intuitiva e acessível para jovens de diferentes níveis de letramento digital[12,13]. | RI |
 | IDJ10 | A carteira virtual gerada deve conter um QR Code ou outro método de validação rápida. | RI |
 | IDJ11 | O sistema deve enviar notificações ao usuário sobre o vencimento de sua carteira ID Jovem. | RI |
-| IDJ12 | Risco de o jovem não conseguir emitir a carteira devido a dados desatualizados no CadÚnico. | RR |
+| IDJ12 | Risco de o jovem não conseguir emitir a carteira devido a dados desatualizados no CadÚnico[9,18]. | RR |
 | IDJ13 | Risco de indisponibilidade ou lentidão no serviço de consulta à base do CadÚnico, impedindo a emissão da carteira. | RR |
 | IDJ14 | Risco de empresas se recusarem a aceitar o benefício, gerando frustração no usuário e descrédito do programa. | RR |
 | IDJ15 | O processo de emissão deve ser testado com diferentes perfis de jovens (NIS válido, NIS inválido, cadastro desatualizado). | RT |

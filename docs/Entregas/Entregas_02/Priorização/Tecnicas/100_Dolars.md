@@ -118,66 +118,582 @@ A técnica foi aplicada de forma individual, sendo que cada participante aplicou
 
 <div align="center">
 <p style="text-align: center; font-size: 12pt;"><strong>Tabela 2:</strong> Planilha de priorização dos 100 dólares.</p>
-
-| Código | Origem | Descrição | Letícia | Eduarda | Giovana | Noemy | TOTAL |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **RNF-04** | SEG-01 | Os dados pessoais devem ser armazenados e transmitidos utilizando criptografia forte | 6 | 2 | 4 | 12 | **24** |
-| **RNF-11** | BS-05 | O aplicativo deve garantir funcionamento offline para exibição da carteirinha | 2 | 5 | 4 | 12 | **23** |
-| **RNF-18** | INT-01 | O sistema deve ser gratuito para o cidadão | 2 | 6 | 4 | 8 | **20** |
-| **RNF-03** | PER-01 | A geração e exibição do documento digital devem ser concluídas em no máximo 5 segundos | 2 | 2 | 1 | 11 | **16** |
-| **RF-12** | BS-04 | O usuário deve poder emitir sua carteirinha digital do ID Jovem | 1 | 11 | 4 | 0 | **16** |
-| **RF-03** | EMI-01 | O sistema deve permitir a geração e emissão da carteira digital ID Jovem | 3 | 3 | 5 | 4 | **15** |
-| **RF-17** | BS-09 | O aplicativo deve permitir atualização automática dos dados via CadÚnico | 6 | 5 | 4 | 0 | **15** |
-| **RNF-01** | USA-01 | O processo de login deve ser simplificado e otimizado | 5 | 3 | 1 | 5 | **14** |
-| **RF-04** | BEN-01 | O sistema deve permitir a consulta de benefícios | 3 | 3 | 4 | 4 | **14** |
-| **RNF-05** | CON-01 | O aplicativo deve manter uma disponibilidade de serviço de 99.5% | 3 | 1 | 2 | 6 | **12** |
-| **RF-02** | AUT-01 | O sistema deve fornecer mecanismos de autenticação e login | 2 | 2 | 6 | 2 | **12** |
-| **RF-18** | BS-10 | O usuário deve conseguir acessar informações sobre locais onde o ID Jovem é aceito | 5 | 5 | 1 | 1 | **12** |
-| **RF-09** | BS-01 | O usuário deve realizar o login com o acesso unificado do gov.br | 2 | 5 | 2 | 2 | **11** |
-| **RF-01** | CAD-01 | O sistema deve permitir o cadastro do usuário por meio do CPF | 1 | 2 | 5 | 2 | **10** |
-| **RF-07** | SUP-01 | O sistema deve prover um canal de comunicação direto para suporte | 0 | 5 | 1 | 4 | **10** |
-| **RF-20** | BS-12 | O usuário deve poder compartilhar a carteirinha digital em PDF ou imagem | 3 | 0 | 2 | 5 | **10** |
-| **RNF-02** | USA-02 | A interface do aplicativo deve ser intuitiva e acessível | 0 | 1 | 4 | 4 | **9** |
-| **RNF-06** | POR-01 | O aplicativo deve ser compatível com as duas versões mais recentes do Android e iOS | 2 | 3 | 2 | 2 | **9** |
-| **RF-14** | BS-06 | O usuário deve poder verificar a validade da sua carteirinha | 3 | 4 | 2 | 0 | **9** |
-| **RF-15** | BS-07 | O usuário deve ter acesso a um guia/tutorial explicativo | 4 | 1 | 2 | 2 | **9** |
-| **RF-21** | BS-13 | O sistema deve validar em tempo real a autenticidade da carteirinha | 3 | 0 | 4 | 2 | **9** |
-| **RI-02** | RI-02 | A carteira virtual deve conter QR Code para validação rápida | 1 | 0 | 2 | 6 | **9** |
-| **RF-05** | VAL-01 | O sistema deve permitir a validação da carteira por conveniados | 3 | 3 | 2 | 0 | **8** |
-| **RF-06** | FAQ-01 | O sistema deve disponibilizar uma seção de perguntas frequentes | 3 | 1 | 2 | 2 | **8** |
-| **RNF-07** | BS-01 | O aplicativo deve ser leve e compatível com diferentes smartphones | 0 | 5 | 1 | 2 | **8** |
-| **RNF-08** | BS-02 | O aplicativo deve ser intuitivo, com ícones e textos de fácil compreensão | 0 | 5 | 2 | 1 | **8** |
-| **RT-03** | RT-03 | Testes de usabilidade com jovens de 15 a 29 anos | 6 | 1 | 1 | 0 | **8** |
-| **RF-08** | COM-01 | O sistema deve apresentar uma seção de "Novidades e Divulgação" | 3 | 2 | 1 | 1 | **7** |
-| **RF-10** | BS-02 | O usuário deve aceitar um termo de uso em seu primeiro acesso | 2 | 1 | 4 | 0 | **7** |
-| **RF-13** | BS-05 | O usuário deve conseguir visualizar os benefícios disponíveis | 2 | 2 | 1 | 2 | **7** |
-| **RNF-17** | BS-11 | O aplicativo deve estar disponível em português e suporte em outros idiomas | 1 | 0 | 4 | 2 | **7** |
-| **RF-11** | BS-03 | O usuário deve conseguir consultar se está dentro dos critérios | 1 | 2 | 2 | 1 | **6** |
-| **RF-16** | BS-08 | O usuário deve ter acesso a perguntas frequentes e suporte | 0 | 2 | 2 | 2 | **6** |
-| **RNF-12** | BS-06 | O aplicativo deve oferecer recursos de acessibilidade | 0 | 0 | 2 | 4 | **6** |
-| **RNF-13** | BS-07 | O sistema deve integrar-se com o CadÚnico e serviços do governo | 2 | 0 | 1 | 0 | **3** |
-| **RNF-14** | BS-08 | O aplicativo deve proteger os dados em conformidade com a LGPD | 0 | 0 | 5 | 1 | **6** |
-| **RNF-16** | BS-10 | O aplicativo deve funcionar com baixo consumo de internet | 2 | 1 | 1 | 2 | **6** |
-| **RR-02** | RR-02 | Risco de indisponibilidade do serviço de consulta ao CadÚnico | 5 | 0 | 1 | 0 | **6** |
-| **RNF-15** | BS-09 | O aplicativo deve ser compatível com Android e iOS | 0 | 0 | 5 | 0 | **5** |
-| **RT-01** | RT-01 | Teste de emissão com diferentes perfis de jovens | 2 | 2 | 1 | 0 | **5** |
-| **RI-01** | RI-01 | A interface deve ser intuitiva e acessível | 0 | 2 | 2 | 0 | **4** |
-| **RR-03** | RR-03 | Risco de empresas recusarem aceitar o benefício | 2 | 1 | 1 | 0 | **4** |
-| **RNF-10** | BS-04 | O aplicativo deve organizar os menus de forma clara e acessível | 2 | 1 | 0 | 0 | **3** |
-| **RF-24** | INT-02 | O sistema deve permitir que estabelecimentos validem a autenticidade | 2 | 1 | 0 | 0 | **3** |
-| **RF-25** | INT-03 | O sistema deve exibir claramente os benefícios do programa | 1 | 1 | 1 | 0 | **3** |
-| **RR-01** | RR-01 | Risco de dados desatualizados no CadÚnico | 2 | 0 | 1 | 0 | **3** |
-| **RT-02** | RT-02 | Teste de validação por estabelecimentos comerciais | 1 | 2 | 0 | 0 | **3** |
-| **RF-23** | INT-01 | O sistema deve permitir emissão da carteira com dados pessoais | 0 | 0 | 1 | 1 | **2** |
-| **RF-26** | INT-04 | O sistema deve fornecer uma seção de "Dúvidas Frequentes" | 1 | 0 | 1 | 0 | **2** |
-| **RNF-20** | INT-03 | O sistema deve proteger os dados pessoais conforme leis vigentes | 0 | 0 | 2 | 0 | **2** |
-| **RI-03** | RI-03 | O sistema deve enviar notificações sobre vencimento | 0 | 0 | 1 | 1 | **2** |
-| **RF-22** | BS-14 | O aplicativo deve oferecer processo de onboarding adaptado | 1 | 0 | 0 | 0 | **1** |
-| **RNF-09** | BS-03 | O aplicativo deve enviar notificações sobre prazos e eventos | 1 | 0 | 0 | 0 | **1** |
-| **RNF-21** | INT-04 | O sistema deve conectar à base do CadÚnico para verificar elegibilidade | 0 | 0 | 1 | 0 | **1** |
-| **RNF-19** | INT-02 | O sistema deve ser compatível com Android, iOS e navegadores web | 0 | 0 | 0 | 0 | **0** |
-| | | **TOTAL GERAL** | **100** | **100** | **100** | **100** | **400** |
-
+<table>
+    <thead>
+        <tr>
+            <th>Código</th>
+            <th>Origem</th>
+            <th>Descrição</th>
+            <th>Letícia</th>
+            <th>Eduarda</th>
+            <th>Giovana</th>
+            <th>Noemy</th>
+            <th>TOTAL</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>RNF-04</strong></td>
+            <td>SEG-01</td>
+            <td>Os dados pessoais devem ser armazenados e transmitidos utilizando criptografia forte</td>
+            <td>6</td>
+            <td>2</td>
+            <td>4</td>
+            <td>12</td>
+            <td><strong>24</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RNF-11</strong></td>
+            <td>BS-05</td>
+            <td>O aplicativo deve garantir funcionamento offline para exibição da carteirinha</td>
+            <td>2</td>
+            <td>5</td>
+            <td>4</td>
+            <td>12</td>
+            <td><strong>23</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RNF-18</strong></td>
+            <td>INT-01</td>
+            <td>O sistema deve ser gratuito para o cidadão</td>
+            <td>2</td>
+            <td>6</td>
+            <td>4</td>
+            <td>8</td>
+            <td><strong>20</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RNF-03</strong></td>
+            <td>PER-01</td>
+            <td>A geração e exibição do documento digital devem ser concluídas em no máximo 5 segundos</td>
+            <td>2</td>
+            <td>2</td>
+            <td>1</td>
+            <td>11</td>
+            <td><strong>16</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RF-12</strong></td>
+            <td>BS-04</td>
+            <td>O usuário deve poder emitir sua carteirinha digital do ID Jovem</td>
+            <td>1</td>
+            <td>11</td>
+            <td>4</td>
+            <td>0</td>
+            <td><strong>16</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RF-03</strong></td>
+            <td>EMI-01</td>
+            <td>O sistema deve permitir a geração e emissão da carteira digital ID Jovem</td>
+            <td>3</td>
+            <td>3</td>
+            <td>5</td>
+            <td>4</td>
+            <td><strong>15</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RF-17</strong></td>
+            <td>BS-09</td>
+            <td>O aplicativo deve permitir atualização automática dos dados via CadÚnico</td>
+            <td>6</td>
+            <td>5</td>
+            <td>4</td>
+            <td>0</td>
+            <td><strong>15</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RNF-01</strong></td>
+            <td>USA-01</td>
+            <td>O processo de login deve ser simplificado e otimizado</td>
+            <td>5</td>
+            <td>3</td>
+            <td>1</td>
+            <td>5</td>
+            <td><strong>14</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RF-04</strong></td>
+            <td>BEN-01</td>
+            <td>O sistema deve permitir a consulta de benefícios</td>
+            <td>3</td>
+            <td>3</td>
+            <td>4</td>
+            <td>4</td>
+            <td><strong>14</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RNF-05</strong></td>
+            <td>CON-01</td>
+            <td>O aplicativo deve manter uma disponibilidade de serviço de 99.5%</td>
+            <td>3</td>
+            <td>1</td>
+            <td>2</td>
+            <td>6</td>
+            <td><strong>12</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RF-02</strong></td>
+            <td>AUT-01</td>
+            <td>O sistema deve fornecer mecanismos de autenticação e login</td>
+            <td>2</td>
+            <td>2</td>
+            <td>6</td>
+            <td>2</td>
+            <td><strong>12</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RF-18</strong></td>
+            <td>BS-10</td>
+            <td>O usuário deve conseguir acessar informações sobre locais onde o ID Jovem é aceito</td>
+            <td>5</td>
+            <td>5</td>
+            <td>1</td>
+            <td>1</td>
+            <td><strong>12</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RF-09</strong></td>
+            <td>BS-01</td>
+            <td>O usuário deve realizar o login com o acesso unificado do gov.br</td>
+            <td>2</td>
+            <td>5</td>
+            <td>2</td>
+            <td>2</td>
+            <td><strong>11</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RF-01</strong></td>
+            <td>CAD-01</td>
+            <td>O sistema deve permitir o cadastro do usuário por meio do CPF</td>
+            <td>1</td>
+            <td>2</td>
+            <td>5</td>
+            <td>2</td>
+            <td><strong>10</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RF-07</strong></td>
+            <td>SUP-01</td>
+            <td>O sistema deve prover um canal de comunicação direto para suporte</td>
+            <td>0</td>
+            <td>5</td>
+            <td>1</td>
+            <td>4</td>
+            <td><strong>10</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RF-20</strong></td>
+            <td>BS-12</td>
+            <td>O usuário deve poder compartilhar a carteirinha digital em PDF ou imagem</td>
+            <td>3</td>
+            <td>0</td>
+            <td>2</td>
+            <td>5</td>
+            <td><strong>10</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RNF-02</strong></td>
+            <td>USA-02</td>
+            <td>A interface do aplicativo deve ser intuitiva e acessível</td>
+            <td>0</td>
+            <td>1</td>
+            <td>4</td>
+            <td>4</td>
+            <td><strong>9</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RNF-06</strong></td>
+            <td>POR-01</td>
+            <td>O aplicativo deve ser compatível com as duas versões mais recentes do Android e iOS</td>
+            <td>2</td>
+            <td>3</td>
+            <td>2</td>
+            <td>2</td>
+            <td><strong>9</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RF-14</strong></td>
+            <td>BS-06</td>
+            <td>O usuário deve poder verificar a validade da sua carteirinha</td>
+            <td>3</td>
+            <td>4</td>
+            <td>2</td>
+            <td>0</td>
+            <td><strong>9</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RF-15</strong></td>
+            <td>BS-07</td>
+            <td>O usuário deve ter acesso a um guia/tutorial explicativo</td>
+            <td>4</td>
+            <td>1</td>
+            <td>2</td>
+            <td>2</td>
+            <td><strong>9</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RF-21</strong></td>
+            <td>BS-13</td>
+            <td>O sistema deve validar em tempo real a autenticidade da carteirinha</td>
+            <td>3</td>
+            <td>0</td>
+            <td>4</td>
+            <td>2</td>
+            <td><strong>9</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RI-02</strong></td>
+            <td>RI-02</td>
+            <td>A carteira virtual deve conter QR Code para validação rápida</td>
+            <td>1</td>
+            <td>0</td>
+            <td>2</td>
+            <td>6</td>
+            <td><strong>9</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RF-05</strong></td>
+            <td>VAL-01</td>
+            <td>O sistema deve permitir a validação da carteira por conveniados</td>
+            <td>3</td>
+            <td>3</td>
+            <td>2</td>
+            <td>0</td>
+            <td><strong>8</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RF-06</strong></td>
+            <td>FAQ-01</td>
+            <td>O sistema deve disponibilizar uma seção de perguntas frequentes</td>
+            <td>3</td>
+            <td>1</td>
+            <td>2</td>
+            <td>2</td>
+            <td><strong>8</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RNF-07</strong></td>
+            <td>BS-01</td>
+            <td>O aplicativo deve ser leve e compatível com diferentes smartphones</td>
+            <td>0</td>
+            <td>5</td>
+            <td>1</td>
+            <td>2</td>
+            <td><strong>8</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RNF-08</strong></td>
+            <td>BS-02</td>
+            <td>O aplicativo deve ser intuitivo, com ícones e textos de fácil compreensão</td>
+            <td>0</td>
+            <td>5</td>
+            <td>2</td>
+            <td>1</td>
+            <td><strong>8</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RT-03</strong></td>
+            <td>RT-03</td>
+            <td>Testes de usabilidade com jovens de 15 a 29 anos</td>
+            <td>6</td>
+            <td>1</td>
+            <td>1</td>
+            <td>0</td>
+            <td><strong>8</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RF-08</strong></td>
+            <td>COM-01</td>
+            <td>O sistema deve apresentar uma seção de "Novidades e Divulgação"</td>
+            <td>3</td>
+            <td>2</td>
+            <td>1</td>
+            <td>1</td>
+            <td><strong>7</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RF-10</strong></td>
+            <td>BS-02</td>
+            <td>O usuário deve aceitar um termo de uso em seu primeiro acesso</td>
+            <td>2</td>
+            <td>1</td>
+            <td>4</td>
+            <td>0</td>
+            <td><strong>7</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RF-13</strong></td>
+            <td>BS-05</td>
+            <td>O usuário deve conseguir visualizar os benefícios disponíveis</td>
+            <td>2</td>
+            <td>2</td>
+            <td>1</td>
+            <td>2</td>
+            <td><strong>7</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RNF-17</strong></td>
+            <td>BS-11</td>
+            <td>O aplicativo deve estar disponível em português e suporte em outros idiomas</td>
+            <td>1</td>
+            <td>0</td>
+            <td>4</td>
+            <td>2</td>
+            <td><strong>7</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RF-11</strong></td>
+            <td>BS-03</td>
+            <td>O usuário deve conseguir consultar se está dentro dos critérios</td>
+            <td>1</td>
+            <td>2</td>
+            <td>2</td>
+            <td>1</td>
+            <td><strong>6</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RF-16</strong></td>
+            <td>BS-08</td>
+            <td>O usuário deve ter acesso a perguntas frequentes e suporte</td>
+            <td>0</td>
+            <td>2</td>
+            <td>2</td>
+            <td>2</td>
+            <td><strong>6</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RNF-12</strong></td>
+            <td>BS-06</td>
+            <td>O aplicativo deve oferecer recursos de acessibilidade</td>
+            <td>0</td>
+            <td>0</td>
+            <td>2</td>
+            <td>4</td>
+            <td><strong>6</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RNF-14</strong></td>
+            <td>BS-08</td>
+            <td>O aplicativo deve proteger os dados em conformidade com a LGPD</td>
+            <td>0</td>
+            <td>0</td>
+            <td>5</td>
+            <td>1</td>
+            <td><strong>6</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RNF-16</strong></td>
+            <td>BS-10</td>
+            <td>O aplicativo deve funcionar com baixo consumo de internet</td>
+            <td>2</td>
+            <td>1</td>
+            <td>1</td>
+            <td>2</td>
+            <td><strong>6</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RR-02</strong></td>
+            <td>RR-02</td>
+            <td>Risco de indisponibilidade do serviço de consulta ao CadÚnico</td>
+            <td>5</td>
+            <td>0</td>
+            <td>1</td>
+            <td>0</td>
+            <td><strong>6</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RNF-15</strong></td>
+            <td>BS-09</td>
+            <td>O aplicativo deve ser compatível com Android e iOS</td>
+            <td>0</td>
+            <td>0</td>
+            <td>5</td>
+            <td>0</td>
+            <td><strong>5</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RT-01</strong></td>
+            <td>RT-01</td>
+            <td>Teste de emissão com diferentes perfis de jovens</td>
+            <td>2</td>
+            <td>2</td>
+            <td>1</td>
+            <td>0</td>
+            <td><strong>5</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RI-01</strong></td>
+            <td>RI-01</td>
+            <td>A interface deve ser intuitiva e acessível</td>
+            <td>0</td>
+            <td>2</td>
+            <td>2</td>
+            <td>0</td>
+            <td><strong>4</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RR-03</strong></td>
+            <td>RR-03</td>
+            <td>Risco de empresas recusarem aceitar o benefício</td>
+            <td>2</td>
+            <td>1</td>
+            <td>1</td>
+            <td>0</td>
+            <td><strong>4</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RNF-10</strong></td>
+            <td>BS-04</td>
+            <td>O aplicativo deve organizar os menus de forma clara e acessível</td>
+            <td>2</td>
+            <td>1</td>
+            <td>0</td>
+            <td>0</td>
+            <td><strong>3</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RNF-13</strong></td>
+            <td>BS-07</td>
+            <td>O sistema deve integrar-se com o CadÚnico e serviços do governo</td>
+            <td>2</td>
+            <td>0</td>
+            <td>1</td>
+            <td>0</td>
+            <td><strong>3</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RF-24</strong></td>
+            <td>INT-02</td>
+            <td>O sistema deve permitir que estabelecimentos validem a autenticidade</td>
+            <td>2</td>
+            <td>1</td>
+            <td>0</td>
+            <td>0</td>
+            <td><strong>3</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RF-25</strong></td>
+            <td>INT-03</td>
+            <td>O sistema deve exibir claramente os benefícios do programa</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+            <td>0</td>
+            <td><strong>3</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RR-01</strong></td>
+            <td>RR-01</td>
+            <td>Risco de dados desatualizados no CadÚnico</td>
+            <td>2</td>
+            <td>0</td>
+            <td>1</td>
+            <td>0</td>
+            <td><strong>3</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RT-02</strong></td>
+            <td>RT-01</td>
+            <td>Teste de validação por estabelecimentos comerciais</td>
+            <td>1</td>
+            <td>2</td>
+            <td>0</td>
+            <td>0</td>
+            <td><strong>3</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RF-23</strong></td>
+            <td>INT-01</td>
+            <td>O sistema deve permitir emissão da carteira com dados pessoais</td>
+            <td>0</td>
+            <td>0</td>
+            <td>1</td>
+            <td>1</td>
+            <td><strong>2</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RF-26</strong></td>
+            <td>INT-04</td>
+            <td>O sistema deve fornecer uma seção de "Dúvidas Frequentes"</td>
+            <td>1</td>
+            <td>0</td>
+            <td>1</td>
+            <td>0</td>
+            <td><strong>2</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RNF-20</strong></td>
+            <td>INT-03</td>
+            <td>O sistema deve proteger os dados pessoais conforme leis vigentes</td>
+            <td>0</td>
+            <td>0</td>
+            <td>2</td>
+            <td>0</td>
+            <td><strong>2</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RI-03</strong></td>
+            <td>RI-03</td>
+            <td>O sistema deve enviar notificações sobre vencimento</td>
+            <td>0</td>
+            <td>0</td>
+            <td>1</td>
+            <td>1</td>
+            <td><strong>2</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RF-22</strong></td>
+            <td>BS-14</td>
+            <td>O aplicativo deve oferecer processo de onboarding adaptado</td>
+            <td>1</td>
+            <td>0</td>
+            <td>0</td>
+            <td>0</td>
+            <td><strong>1</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RNF-09</strong></td>
+            <td>BS-03</td>
+            <td>O aplicativo deve enviar notificações sobre prazos e eventos</td>
+            <td>1</td>
+            <td>0</td>
+            <td>0</td>
+            <td>0</td>
+            <td><strong>1</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RNF-21</strong></td>
+            <td>INT-04</td>
+            <td>O sistema deve conectar à base do CadÚnico para verificar elegibilidade</td>
+            <td>0</td>
+            <td>0</td>
+            <td>1</td>
+            <td>0</td>
+            <td><strong>1</strong></td>
+        </tr>
+        <tr>
+            <td><strong>RNF-19</strong></td>
+            <td>INT-02</td>
+            <td>O sistema deve ser compatível com Android, iOS e navegadores web</td>
+            <td>0</td>
+            <td>0</td>
+            <td>0</td>
+            <td>0</td>
+            <td><strong>0</strong></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td><strong>TOTAL GERAL</strong></td>
+            <td><strong>100</strong></td>
+            <td><strong>100</strong></td>
+            <td><strong>100</strong></td>
+            <td><strong>100</strong></td>
+            <td><strong>400</strong></td>
+        </tr>
+    </tbody>
+</table>
 <p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/leticialopes20">Letícia Lopes</a>, 2025.</p>
 </div>
 
@@ -195,7 +711,11 @@ Para acessar a gravação da aplicação da técnica, acesse o vídeo através d
 
 ## Referências Bibliográficas
 
-><p><a id="QT1" href="#anchor_1">1.</a> WIEGERS, Karl E. **Software Requirements**. 2. ed. Redmond, WA: Microsoft Press, 2003.</p>
+<p><a id="QT1" href="#anchor_1">1.</a> WIEGERS, Karl E. **Software Requirements**. 2. ed. Redmond, WA: Microsoft Press, 2003.</p>
+
+## Bibliografia
+
+> SERRANO, Milene; SERRANO, Maurício. **Requisitos – Aula 07**. Gama, DF: Universidade de Brasília, [s.d.]. Material de aula.
 
 
 ## Histórico de Versões
@@ -205,4 +725,4 @@ Para acessar a gravação da aplicação da técnica, acesse o vídeo através d
 | `1.0` | 28/09/2025 | Criação do documento com a descrição da técnica de priorização "$100" | [Danilo Melo](https://github.com/EngDann) | [Letícia Lopes](https://github.com/leticialopes20) |
 | `1.1` | 29/09/2025 | Refinamento da descrição da técnica "$100", inclusão das tabelas de requisitos e novos tópicos | [Letícia Lopes](https://github.com/leticialopes20) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
 | `1.2` | 30/09/2025 | Atualização da tabela de Requisitos com novos dados, finalização do documento | [Letícia Lopes](https://github.com/leticialopes20) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
-| `1.3`  | 10/10/2025 | Arrumando citação das Referências | [Breno](https://github.com/BrenoLteixeira) | [Arthur](https://github.com/) |
+| `1.3` | 10/10/2025 | Arrumando citação das Referências | [Breno](https://github.com/BrenoLteixeira) | [Arthur](https://github.com/) |

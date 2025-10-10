@@ -53,7 +53,7 @@ A combinação do **In or Out** para definição rápida do MVP, seguido do **Mo
 
 ---
 
-## Referências Bibliográficas
+## Bibliografia
 
 > SERRANO, Milene; SERRANO, Maurício. **Requisitos – Aula 07**. Gama, DF: Universidade de Brasília, [s.d.]. Material de aula.
 
@@ -66,3 +66,4 @@ A combinação do **In or Out** para definição rápida do MVP, seguido do **Mo
 | `1.0`  | 28/09/2025 | Elaboração do relatório de decisão e justificativa das técnicas escolhidas | [Danilo Melo](https://github.com/EngDann) |  [Arthur Fernandes](https://github.com/arthurfernandesj)|
 | `1.1`  | 29/09/2025 | Atualização do histórico de versão | [Arthur Fernandes](https://github.com/arthurfernandesj) |  [Letícia Lopes](https://github.com/leticialopes20)|
 | `1.2`  | 30/09/2025 | Adição da técnica In or Out e atualização da justificativa | [Letícia Lopes](https://github.com/leticialopes20) |  [Arthur Fernandes](https://github.com/arthurfernandesj)|
+| `1.3`  | 10/10/2025 | Mudando Referencias bibliograficas para Bibliografia | [Breno](https://github.com/BrenoLteixeira) | [Arthur](https://github.com/) |

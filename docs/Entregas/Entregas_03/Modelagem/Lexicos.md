@@ -43,6 +43,11 @@ Os léxicos do sistema ID Jovem foram identificados a partir da utilização do 
 <p><b>Tabela 1:</b> Modelo dos léxicos (Autor: <a href="https://github.com/eduardar0">Eduarda</a>, 2025).</p>
 </div>
 
+
+## Objetos
+
+Os léxicos do tipo objeto referem-se às entidades, elementos ou objetos que são manipulados ou sobre os quais as ações são realizadas dentro do aplicativo ID Jovem. Na Tabela 2, é possível verificar os principais léxicos classificados como objetos que foram identificados no ID Jovem. Esses léxicos incluem elementos como "Usuário", "Carteira Digital", "Benefício", "Notificação", entre outros. Cada um desses léxicos é descrito detalhadamente, incluindo sua noção, que define o objeto e seus relacionamentos com outros objetos, e seu impacto, que descreve as ações possíveis sobre o objeto dentro do sistema.
+
  
 
 ## Referências Bibliográficas

@@ -52,14 +52,18 @@ Os léxicos do tipo objeto referem-se às entidades, elementos ou objetos que s�
 | Léxico               | Sinônimo            | Noção                        | Impacto                                                                                               | Classificação | Rastreabilidade                           | Fonte                                      |
 |----------------------|--------------------|------------------------------|------------------------------------------------------------------------------------------------------|---------------|--------------------------------------------|-------------------------------------------|
 | L01 - Jovem Beneficiário        | Jovem, Participante | Dados do jovem             | Permite cadastro, atualização e acesso à carteira digital do ID Jovem.                                | Objeto        | [RF01, RF02, RF15](/docs/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados.md#rf01)             | Eduarda Rodrigues                          |
-| L02 - Carteira Digital| Carteirinha do ID Jovem    | Identificação digital        | O Jovem Beneficiário pode visualizar, baixar e compartilhar sua carteira digital.                               | Objeto        | [RF03, RF05](#)                      | Eduarda Rodrigues                                  |
+| L02 - Carteira Digital| Carteirinha do ID Jovem    | Identificação digital        | O Jovem Beneficiário pode visualizar, baixar e compartilhar sua carteira digital.                               | Objeto        | [RF03, RF05](/docs/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados.md#rf03)                       | Eduarda Rodrigues                                  |
 | L03 -       |    |             |          | Objeto        | [](#)                      | Giovana                                    |
+| L04 -       |    |             |          | Objeto        | [](#)                      | Giovana                                    |
 | L04 -     |  |         |                    | Objeto        |                        | Arthur                                     |
 | L05 -     |       |  | .       | Objeto        | [](#)                            | Arthur                                      |
-| L06 -         |   |            |                             | Objeto        | [](#)                            | Breno                                      |
-| L07 -       |      |              |                               | Objeto        | [](#)                                  | Breno                        |
-| L08 -        |    |              |       | Objeto        | [](#)                                  | Letícia                                    |
-| ||||||Letícia|
+| L07 -         |   |            |                             | Objeto        | [](#)                            | Breno                                      |
+| L08 -       |      |              |                               | Objeto        | [](#)                                  | Breno                        |
+| L09 -        |    |              |       | Objeto        | [](#)                                  | Letícia                                    |
+| L10 -        |    |              |       | Objeto        | [](#)                                  | Letícia                                    |
+| L11 -        |    |              |       | Objeto        | [](#)                                  | Dylan                                    |
+| L12 -        |    |              |       | Objeto        | [](#)                                  | Dylan                                    |
+
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 2: </b>Léxicos classificados como Objetos - ID Jovem (Fonte: Arthur, Breno, Eduarda, Giovana, Leticia 2025)</p></font>
 </div>
@@ -72,17 +76,17 @@ Os léxicos do tipo objeto referem-se às entidades, elementos ou objetos que s�
 
 ## Verbos
 
-Os léxicos do tipo verbo representam ações ou operações que os Jovem Beneficiário podem executar dentro do aplicativo "ID Jovem". Essas ações detalham as funcionalidades acessíveis para os Jovem Beneficiário, permitindo interações específicas e operações dentro do aplicativo. Na Tabela 3, é possível conferir os principais léxicos classificados como verbos que foram identificados no ID Jovem. Esses léxicos incluem ações como "-----", "-----" e "----", cada uma descrevendo uma interação essencial que os Jovem Beneficiário podem realizar. Além disso, esses léxicos ajudam a definir os fluxos de uso do aplicativo, orientando os Jovem Beneficiário em suas tarefas e melhorando a experiência de navegação e uso dos serviços disponíveis.
-
+Os léxicos do tipo verbo representam ações ou operações que os Jovem Beneficiário podem executar dentro do aplicativo "ID Jovem". Essas ações detalham as funcionalidades acessíveis para os Jovem Beneficiário, permitindo interações específicas e operações dentro do aplicativo. Na Tabela 3, é possível conferir os principais léxicos classificados como verbos que foram identificados no ID Jovem. Esses léxicos incluem ações como "Cadastrar, "Autenticar" entre outros, cada uma descrevendo uma interação essencial que os Jovem Beneficiário podem realizar. Além disso, esses léxicos ajudam a definir os fluxos de uso do aplicativo, orientando os Jovem Beneficiário em suas tarefas e melhorando a experiência de navegação e uso dos serviços disponíveis.
 | Léxico | Sinônimo | Noção | Impacto | Classificação | Rastreabilidade | Fonte |
 |--------|----------|-------|---------|---------------|-----------------|-------|
-|        |          |       |         |               |                 |       |
-|        |          |       |         |               |                 |       |
-|        |          |       |         |               |                 |       |
-|        |          |       |         |               |                 |       |
-|        |          |       |         |               |                 |       |
-|        |          |       |         |               |                 |       |
-|        |          |       |         |               |                 |       |
+| L13 - Cadastrar | Registrar, Incluir | Ação de criar um novo cadastro no sistema ID Jovem | Permite que o Jovem Beneficiário tenha acesso aos benefícios e serviços do programa | Verbo | [RF01](../../Elicitacao/Requisitos_Elicitados.md#rf01) | Eduarda Rodrigues |
+| L14 - Autenticar | Logar, Acessar | Processo de verificação de identidade via Gov.br | Permite o acesso seguro às funcionalidades do aplicativo ID Jovem | Verbo | [RF02](../../Elicitacao/Requisitos_Elicitados.md#rf02) | Eduarda Rodrigues |
+| L15- |  |  |  | Verbo | [](#) | Giovana |
+| L16- |  |  |  | Verbo | [](#) | Arthur |
+| L17- |  |  |  | Verbo | [](#) | Dylan |
+| L18- |  |  |  | Verbo | [](#) | Breno |
+| L19- |  |  |  | Verbo | [](#) | Leticia |
+| L20- |  |  |  | Verbo | [](#) | Leticia |
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 3: </b>Léxicos classificados como Verbos (Autor: Fonte: Arthur, Breno, Eduarda, Giovana, Leticia, 2025, 2024)</p></font>

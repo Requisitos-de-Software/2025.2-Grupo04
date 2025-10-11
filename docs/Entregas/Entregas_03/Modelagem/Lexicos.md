@@ -33,9 +33,15 @@ Cada entrada no Léxico pertence a somente um tipo (Verbo, Objeto, Estado), e a 
 
 ## Léxico Ampliado da Linguagem (LAL) do ID Jovem
 
-| Simbolo | Tipo | Noção (Descrição Conceitual) | Impacto (Reflexos/Consequências) |
-| :-: | :-: | :-: | :-: | 
+Os léxicos do sistema ID Jovem foram identificados a partir da utilização do aplicativo e dos [requisitos elicitados](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/requisitosElicitados/) nas etapas anteriores. Na tabela 1 abaixo, temos um exemplo de como os léxicos serão apresentados e descritos:
 
+| Léxico         | Sinônimo | Noção   | Impacto             | Classificação       | Rastreabilidade | Fonte      |
+| -------------- | -------- | ------- | ------------------- | ------------------- | ------------------- | -----------|  
+| Nome do Léxico | Sinônimo | Símbolo | Descrição do efeito | Verbo/Objeto/Estado | Código do requisito referente ao Léxico |Pessoa responsável |
+
+<div style="text-align: center">
+<p><b>Tabela 1:</b> Modelo dos léxicos (Autor: <a href="https://github.com/eduardar0">Eduarda</a>, 2025).</p>
+</div>
 
  
 

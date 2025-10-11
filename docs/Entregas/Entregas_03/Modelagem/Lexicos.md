@@ -33,10 +33,6 @@ Cada entrada no Léxico pertence a somente um tipo (Verbo, Objeto, Estado), e a 
 
 ## Léxico Ampliado da Linguagem (LAL) do ID Jovem
 
-
-| Simbolo | Tipo | Noção (Descrição Conceitual) | Impacto (Reflexos/Consequências) |
-| :-: | :-: | :-: | :-: | 
-
 Os léxicos do sistema ID Jovem foram identificados a partir da utilização do aplicativo e dos [requisitos elicitados](https://github.com/Requisitos-de-Software/2025.2-Grupo04/blob/main/docs/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados.md) nas etapas anteriores. Na tabela 1 abaixo, temos um exemplo de como os léxicos serão apresentados e descritos:
 
 | Léxico         | Sinônimo | Noção   | Impacto             | Classificação       | Rastreabilidade | Fonte      |
@@ -44,7 +40,7 @@ Os léxicos do sistema ID Jovem foram identificados a partir da utilização do 
 | Nome do Léxico | Sinônimo | Símbolo | Descrição do efeito | Verbo/Objeto/Estado | Código do requisito referente ao Léxico |Pessoa responsável |
 
 <div style="text-align: center">
-<p><b>Tabela 1:</b> Modelo dos léxicos (Autor: <a href="https://github.com/eduardar0">Eduarda</a>, 2025).</p>
+<p><b>Tabela 1:</b> Modelo dos léxicos (Fonte: <a href="https://github.com/eduardar0">Eduarda</a>, 2025).</p>
 </div>
 
 
@@ -69,7 +65,7 @@ Os léxicos do tipo objeto referem-se às entidades, elementos ou objetos que s�
 | L12 -        |    |              |       | Objeto        | [](#)                                  | Dylan                                    |
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 2: </b>Léxicos classificados como Objetos - ID Jovem (Fonte: Arthur, Breno, Eduarda, Giovana, Leticia 2025)</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2: </b>Léxicos classificados como Objetos - ID Jovem (Fonte: Arthur, Breno, Eduarda, Giovana, Leticia, 2025)</p></font>
 </div>
 
 
@@ -77,24 +73,23 @@ Os léxicos do tipo objeto referem-se às entidades, elementos ou objetos que s�
 <font size="3"><p style="text-align: center"></p></font>
 
 </div>
-
 ## Verbos
 
-Os léxicos do tipo verbo representam ações ou operações que os Jovem Beneficiário podem executar dentro do aplicativo "ID Jovem". Essas ações detalham as funcionalidades acessíveis para os Jovem Beneficiário, permitindo interações específicas e operações dentro do aplicativo. Na Tabela 3, é possível conferir os principais léxicos classificados como verbos que foram identificados no ID Jovem. Esses léxicos incluem ações como "Cadastrar, "Autenticar" entre , cada uma descrevendo uma interação essencial que os Jovem Beneficiário podem realizar. Além disso, esses léxicos ajudam a definir os fluxos de uso do aplicativo, orientando os Jovem Beneficiário em suas tarefas e melhorando a experiência de navegação e uso dos serviços disponíveis.
+Os léxicos do tipo verbo representam ações ou operações que os Jovens Beneficiários podem executar dentro do aplicativo "ID Jovem". Essas ações detalham as funcionalidades acessíveis para os Jovens Beneficiários, permitindo interações específicas e operações dentro do aplicativo. Na Tabela 3, é possível conferir os principais léxicos classificados como verbos que foram identificados no ID Jovem. Esses léxicos incluem ações como "Cadastrar" e "Autenticar", cada uma descrevendo uma interação essencial que os Jovens Beneficiários podem realizar. Além disso, esses léxicos ajudam a definir os fluxos de uso do aplicativo, orientando os Jovens Beneficiários em suas tarefas e melhorando a experiência de navegação e uso dos serviços disponíveis.
+
 | Léxico | Sinônimo | Noção | Impacto | Classificação | Rastreabilidade | Fonte |
 |--------|----------|-------|---------|---------------|-----------------|-------|
-| L13 - Cadastrar | Registrar, Incluir | Ação de criar um novo cadastro no sistema ID Jovem | Permite que o Jovem Beneficiário tenha acesso aos benefícios e serviços do programa | Verbo | [RF01](../../Elicitacao/Requisitos_Elicitados.md#rf01) | [Eduarda](https://github.com/eduardar0)  |
-| L14 - Autenticar | Logar, Acessar | Processo de verificação de identidade via Gov.br | Permite o acesso seguro às funcionalidades do aplicativo ID Jovem | Verbo | [RF02](../../Elicitacao/Requisitos_Elicitados.md#rf02) |[Eduarda](https://github.com/eduardar0)   |
-| L15- |  |  |  | Verbo | [](#) | Giovana |
-| L16- |  |  |  | Verbo | [](#) | Arthur |
-| L17- |  |  |  | Verbo | [](#) | Dylan |
-| L18- |  |  |  | Verbo | [](#) | Breno |
-| L19- |  |  |  | Verbo | [](#) | Leticia |
-| L20- |  |  |  | Verbo | [](#) | Leticia |
+| L13 - Cadastrar | Registrar, Incluir | Ação de criar um novo cadastro no sistema ID Jovem | Permite que o Jovem Beneficiário tenha acesso aos benefícios e serviços do programa | Verbo | [RF01](../../Elicitacao/Requisitos_Elicitados.md#rf01) | [Eduarda](https://github.com/eduardar0) |
+| L14 - Autenticar | Logar, Acessar | Processo de verificação de identidade via Gov.br | Permite o acesso seguro às funcionalidades do aplicativo ID Jovem | Verbo | [RF02](../../Elicitacao/Requisitos_Elicitados.md#rf02) | [Eduarda](https://github.com/eduardar0) |
+| L15 |  |  |  | Verbo | [](#) | Giovana |
+| L16 |  |  |  | Verbo | [](#) | Arthur |
+| L17 |  |  |  | Verbo | [](#) | Dylan |
+| L18 |  |  |  | Verbo | [](#) | Breno |
+| L19 |  |  |  | Verbo | [](#) | Leticia |
+| L20 |  |  |  | Verbo | [](#) | Leticia |
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 3: </b>Léxicos classificados como Verbos (Autor: Fonte: Arthur, Breno, Eduarda, Giovana, Leticia, 2025, 2024)</p></font>
-
+<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Léxicos classificados como Verbos (Fonte: Arthur, Breno, Eduarda, Giovana, Leticia, 2025)</p></font>
 </div>
 
 ## Estados
@@ -128,3 +123,5 @@ Os léxicos do tipo estado referem-se às condições, situações ou configura�
 |  `1.0` | 09/10/2025 | Criação do documento | [Dylan](https://github.com/dylancavalcante) | [Arthur](https://github.com/arthurfernandesj) |
 |  `1.1` | 10/10/2025 | Conteúdo introdutório | [Giovana](https://github.com/GiovanaFontesS) |  [Dylan](https://github.com/dylancavalcante) |
 |  `1.2` | 11/10/2025 | Criação das tabelas de: Objetos, verbos e Estados | [Eduarda](https://github.com/eduardar0) |  [Giovana](https://github.com/GiovanaFontesS) |
+|  `1.3` | 11/10/2025 | Fix: tabela quebrada | [Eduarda](https://github.com/eduardar0) | [Dylan](https://github.com/dylancavalcante) |
+

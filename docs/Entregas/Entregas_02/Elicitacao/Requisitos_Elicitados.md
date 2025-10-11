@@ -72,5 +72,5 @@ Autor:
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |:--:|:--:|:--|:--|:--|
 | 1.0 | 09/10/2025 | Criação do artefato consolidado de requisitos | [Dylan Cavalcante](https://github.com/dylancavalcante) | [Leticia Lopes](https://github.com/leticialopes20)|
-
+| 1.1 | 09/10/2025 | Adicionados ids aos requisitos para facilitar a citação dos mesmos| [Eduarda](https://github.com/eduardar0) | [Dylan](https://github.com/dylancavalcante)|
 </center>

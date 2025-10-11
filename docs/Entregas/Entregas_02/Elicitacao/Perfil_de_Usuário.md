@@ -1,10 +1,8 @@
 # Perfil de Usuário - ID Jovem
 
 ## Introdução
-Para compreender as necessidades e o contexto dos usuários do aplicativo **ID Jovem**, a primeira etapa da Engenharia de Requisitos consiste na elaboração de um perfil de usuário detalhado.  
-Este documento visa sintetizar a definição oficial do programa com dados empíricos coletados, a fim de criar um perfil que transcenda a simples demografia, revelando as motivações, os objetivos e os desafios que moldam a interação do usuário com o software.  
-O objetivo é guiar o desenvolvimento e a evolução do aplicativo de forma alinhada às expectativas reais dos seus beneficiários.
-
+Para compreender as necessidades e o contexto dos usuários do aplicativo ID Jovem, é essencial elaborar um perfil de usuário, que consiste em uma descrição detalhada das características dos indivíduos cujos objetivos devem ser apoiados pelo sistema em desenvolvimento (BARBOSA; SILVA, 2010).<a id="anchor_1" href="#FRM1"><sup>1</sup></a> Essa etapa inicial da Engenharia de Requisitos busca conhecer melhor os usuários, de modo a embasar decisões de projeto e garantir que o sistema atenda às suas reais demandas.
+Este documento tem como propósito sintetizar a definição oficial do programa ID Jovem com dados empíricos coletados, a fim de construir um perfil que vá além de aspectos demográficos, revelando as motivações, objetivos e desafios que moldam a interação do usuário com o aplicativo. Assim, pretende-se orientar o desenvolvimento e a evolução da plataforma em consonância com as expectativas e necessidades reais dos beneficiários.
 ---
 
 ## Metodologia
@@ -65,13 +63,14 @@ Autor(es):
 ## Referências Bibliográficas
 
 
->< UNIVERSIDADE DE BRASÍLIA. Grupo 04 – Projeto de Requisitos de Software. **Relatório de Elicitação de Requisitos: Análise de Documentos – Identidade Jovem (ID Jovem)**. Brasília, 2025. Disponível em: [https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Analise_de_Documentos](https://requisitos-de-software.github.io/2025.>< 2-Grupo04/><Entregas/Entregas_02/Elicitacao/Analise_de_Documentos). Acesso em: 28 set. 2025.
+>< UNIVERSIDADE DE BRASÍLIA. Grupo 04 – Projeto de Requisitos de Software. **Relatório de Elicitação de Requisitos: Análise de Documentos – Identidade Jovem (ID Jovem)**. Brasília, 2025. Disponível em: [https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Analise_de_Documentos](https://requisitos-de-software.github.io/2025.>< 2-Grupo04/><Entregas/Entregas_02/Elicitacao/Analise_de_Documentos).
 
->< UNIVERSIDADE DE BRASÍLIA. Grupo 04 – Projeto de Requisitos de Software. **Relatório de Elicitação de Requisitos: Entrevista – Identidade Jovem (ID Jovem)**. Brasília, 2025. >< Disponível em: [https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas Entregas_02/><Elicitação/Entrevista). Acesso em: 28 set. 2025.
+>< UNIVERSIDADE DE BRASÍLIA. Grupo 04 – Projeto de Requisitos de Software. **Relatório de Elicitação de Requisitos: Entrevista – Identidade Jovem (ID Jovem)**. Brasília, 2025. >< Disponível em: [https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas Entregas_02/><Elicitação/Entrevista).
+><<p><a id="FRM1" href="#anchor_1">1.</a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.</p>
 
 ## Bibliografia 
 
->< VAZQUEZ, C. E.; SIMÕES, G. S. *Engenharia de Requisitos: software orientado ao negócio*. Rio de Janeiro: >< Brasport, 2016.
+>< VAZQUEZ, C. E.; SIMÕES, G. S. *Engenharia de Requisitos: software orientado ao negócio*. Rio de Janeiro: >< Brasport, 2016. Acesso em: 28 set. 2025.
 
 ---
 
@@ -81,4 +80,4 @@ Autor(es):
 |-------------|-----------|---------------|----------------|-----------------|
 | 1.0 | 28/09/2025 | Criação e estruturação do documento de perfil de usuário | [Dylan](https://github.com/dylancavalcante) e [Eduarda](https://github.com/eduardar0) | [Arthur](https://github.com/arthurfernandesj)|
 | 1.1 | 09/10/2025 | refatoração da página (adicionar introdução, metodologia e arrumar links quebrados)| [Dylan](https://github.com/dylancavalcante) | [Eduarda](https://github.com/eduardar0) |
-
+| 1.2 | 09/10/2025 | Deixando mais clara a introdução e adicionando referência bibliográfica| [Breno](https://github.com/BrenoLteixeira) | [Eduarda](https://github.com/eduardar0) |

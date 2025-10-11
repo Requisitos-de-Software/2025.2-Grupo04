@@ -70,7 +70,7 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 <tr>
 <td><a href="https://github.com/leticialopes20">Letícia Lopes</a></td>
 <td>11/10/2025</td>
-<td>20:00</td>
+<td>21:00</td>
 </tr>
 </tbody>
 </table>
@@ -78,11 +78,47 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 <font size="2"><p style="text-align: center">Fonte: <i>[Leticia Lopes](https://github.com/leticialopes20)</i> </p></font>
 
 
+###  **Cenário 1: Integração com o CadÚnico para Atualização Automática de Dados**
+
+<font size="3"><p style="text-align: center">Tabela 1: Cenário de Integração com o CadÚnico para Atualização Automática de Dados</p></font>
+
+| **ID**         | [RF07](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf07)                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Objetivo**   | Permitir que o sistema do ID Jovem atualize automaticamente as informações do usuário a partir da base de dados do CadÚnico, evitando divergências e a necessidade de atualizações manuais.                                                                                                                                                                                                                                             |
+| **Contexto**   | O usuário deseja acessar o aplicativo ID Jovem, mas seus dados pessoais (como renda, endereço ou composição familiar) estão desatualizados no sistema. O aplicativo precisa buscar e sincronizar automaticamente as informações mais recentes do CadÚnico.                                                                                                                                                                              |
+| **Atores**     | Usuário do aplicativo ID Jovem, Sistema ID Jovem, Base de Dados CadÚnico.                                                                                                                                                                                                                                                                                                                                                               |
+| **Recursos**   | Aplicativo ID Jovem, conexão à internet, API de integração com o CadÚnico, banco de dados local do sistema.                                                                                                                                                                                                                                                                                                                             |
+| **Episódios**  | 1. O usuário acessa o aplicativo ID Jovem e faz login.<br>2. O sistema verifica a data da última sincronização com o CadÚnico.<br>3. Caso a atualização esteja pendente, o sistema realiza uma consulta automática na base do CadÚnico.<br>4. As informações do usuário (como nome, CPF, NIS, endereço e renda) são atualizadas automaticamente.<br>5. O aplicativo notifica o usuário de que seus dados foram atualizados com sucesso. |
+| **Restrições** | A integração depende da disponibilidade da API do CadÚnico e de autorização prévia do usuário para compartilhamento de dados.                                                                                                                                                                                                                                                                                                           |
+| **Exceções**   | - Falha na conexão com o CadÚnico.<br>- Dados divergentes entre sistemas.<br>- Usuário não encontrado na base do CadÚnico.                                                                                                                                                                                                                                                                                                              |
+| **Autor**      | [Letícia Lopes](https://github.com/leticialopes20)                                                                                                                                                                                                                                                                                                                                                                                                                         |
 
 
+<font size="2"><p style="text-align: center">Fonte: [Letícia Lopes](https://github.com/leticialopes20)</p></font>
 
 
+###  **Cenário 2: Notificações sobre Vencimento e Renovação do Benefício**
 
+<font size="3"><p style="text-align: center">Tabela 2: Cenário de Notificações sobre Vencimento e Renovação do Benefício</p></font>
+
+| **ID**         | [RF08](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf08)                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Objetivo**   | Garantir que o usuário receba notificações automáticas sobre o vencimento do seu benefício ID Jovem e seja orientado sobre o processo de renovação.                                                                                                                                                                                                                                                                                                                      |
+| **Contexto**   | O usuário possui um benefício ativo do ID Jovem e precisa ser informado quando a validade estiver próxima do vencimento para realizar a renovação em tempo hábil.                                                                                                                                                                                                                                                                                                        |
+| **Atores**     | Usuário, Sistema do ID Jovem, Servidor de Notificações.                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Recursos**   | Aplicativo ID Jovem, módulo de notificações push, conexão à internet, base de dados de validade dos benefícios.                                                                                                                                                                                                                                                                                                                                                          |
+| **Episódios**  | 1. O sistema verifica diariamente os benefícios com vencimento próximo (até 30 dias).<br>2. O sistema identifica que o benefício do usuário está prestes a vencer.<br>3. O usuário recebe uma notificação push informando o prazo de validade e instruções para renovação.<br>4. O usuário acessa o app e é redirecionado à seção “Renovar Benefício”.<br>5. Após a renovação, o sistema confirma a atualização da validade e emite uma nova notificação de confirmação. |
+| **Restrições** | As notificações devem ser enviadas com antecedência mínima de 15 dias antes do vencimento. O sistema deve garantir que o envio ocorra apenas para usuários com o benefício ativo.                                                                                                                                                                                                                                                                                        |
+| **Exceções**   | - Falha no envio da notificação.<br>- Usuário sem conexão com a internet.<br>- Erro ao atualizar o status da renovação no sistema.                                                                                                                                                                                                                                                                                                                                       |
+| **Autor**      | [Letícia Lopes](https://github.com/leticialopes20)                                                                                                                                                                                                                                                                                                                                                                                                                               |
+
+<font size="2"><p style="text-align: center">Fonte: [Letícia Lopes](https://github.com/leticialopes20)</p></font>
+
+## Referências Bibliográficas
+
+1. BARBOSA, Simone Diniz Junqueira et al. *Interação humano-computador e experiência do usuário.* Auto publicação, 2021.  
+
+2. SERRANO, Milene; SERRANO, Maurício. *Requisitos – Aula 10.* UnB, 2025, p. 8. Disponível em: [https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf](https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf). Acesso em: 10 de outubro de 2025.
 
 
 
@@ -91,3 +127,4 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 | :----: | :--------: | :------------------: | :----------------------------------------------------------------------------------------: | :-------------------------------------------: |
 | `1.0` | 09/10/2025 | Criação do documento | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Letícia Lopes ](https://github.com/leticialopes20) |
 | `1.1` | 11/10/2025 | Adição do texto da Introdução,Metodologia e Bibliografia | [Letícia Lopes](https://github.com/leticialopes20) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| `1.2` | 11/10/2025 | Adição dos cenários 1 e 2 | [Letícia Lopes](https://github.com/leticialopes20) | [Eduarda Domingos](https://github.com/eduardar0) |

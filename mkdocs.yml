@@ -104,10 +104,10 @@ nav:
                 - Modelagem:
 
                           - Especificação Suplementar: Entregas/Entregas_03/Modelagem/Especificacao_Suplementar.md
-                          - Casos de Uso: Entregas/Entregas_03/Modelagem/Casos_de_Uso.md
-                          - Cenário: Entregas/Entregas_03/Modelagem/Cenario.md
+                          - Casos de Uso: Entregas/Entregas_03/Modelagem/Caso_de_uso.md
+                          - Cenário: Entregas/Entregas_03/Modelagem/Cenarios.md
                           - Léxicos: Entregas/Entregas_03/Modelagem/Lexicos.md
-                          - Requisitos Não Implementados: Entregas/Entregas_03/Modelagem/Requisitos_Funcionais.md
+                          - Requisitos Não Implementados: Entregas/Entregas_03/Modelagem/Requisitos-Implementados.md
             
                 - Modelagem-II:
                               - NFR Framework: Entregas/Entregas_03/Modelagem_II/NFR_Framework.md

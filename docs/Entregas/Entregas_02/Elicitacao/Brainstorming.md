@@ -3,8 +3,7 @@
 
 ## Introdução
 
-O Brainstorming é uma técnica de elicitação de requisitos que busca gerar um grande volume de ideias de forma colaborativa, criativa e espontânea.
-Para isso, reúne-se um grupo de pessoas de diferentes áreas — como usuários, clientes, desenvolvedores e demais stakeholders — para discutir um problema específico ou um tema central do projeto.
+O Brainstorming é uma técnica de elicitação de requisitos que busca gerar um grande volume de ideias de forma colaborativa, criativa e espontânea. Para isso, reúne-se um grupo de pessoas de diferentes áreas — como usuários, clientes, desenvolvedores e demais stakeholders — para discutir um problema específico ou um tema central do projeto <a id="anchor_text_intro_1" href="#QT1">[1]</a>.
 
 Cada participante tem seu momento para contribuir, apresentando opiniões e sugestões sem críticas ou julgamentos imediatos. Essa liberdade incentiva os envolvidos a pensar “fora da caixa”, ampliando o potencial criativo e permitindo que surjam soluções inovadoras.
 O foco inicial está na quantidade de ideias, pois quanto mais contribuições forem geradas, maiores serão as chances de identificar propostas relevantes e criativas.
@@ -12,7 +11,7 @@ O foco inicial está na quantidade de ideias, pois quanto mais contribuições f
 Posteriormente, essas ideias passam por um processo de organização e refinamento, no qual as inapropriadas são descartadas e as mais promissoras são priorizadas, de modo a atender às necessidades do projeto.
 Essa técnica é frequentemente utilizada para definir o principal valor a ser entregue e é especialmente útil nas fases iniciais de desenvolvimento, quando diferentes pontos de vista ajudam a revelar características que poderiam passar despercebidas individualmente.
 
-Quando bem conduzido, o Brainstorming gera maior engajamento dos participantes, fortalece a colaboração entre áreas e proporciona uma compreensão mais ampla das necessidades e expectativas dos usuários, servindo como base para especificações funcionais e insumos de design.
+Quando bem conduzido, o Brainstorming gera maior engajamento dos participantes, fortalece a colaboração entre áreas e proporciona uma compreensão mais ampla das necessidades e expectativas dos usuários, servindo como base para especificações funcionais e insumos de design <a id="anchor_text_intro_2" href="#QT2">[2]</a>.
 
 ### Benefícios do Brainstorming
 - Favorece a exploração de múltiplos pontos de vista.
@@ -24,7 +23,7 @@ Quando bem conduzido, o Brainstorming se mostra especialmente útil nas fases in
 
 
 ### Metodologia
-O brainstorming foi realizado em formato de reunião e contou com a presença de todos os membros do grupo. O moderador foi [Arthur Fernandes](https://github.com/arthurfernandesj) e o secretário [Dylan Cavalcante](https://github.com/dylancavalcante). Durante a atividade, foram feitas 10 perguntas no total, com um tempo inicial de 1 minuto e 20 segundos para elaborar as respostas e 1 minuto para discuti-las, havendo ajustes nos tempos durante a sessão. Após a reunião, o moderador e o secretário analisaram as respostas e, com base nelas, formalizaram os requisitos apresentados na **Tabela 12**. Como referência, utilizamos o livro *Interação humano-computador e experiência de usuário*. Adotamos as regras e a metodologia propostas na obra, mas realizamos algumas adaptações para melhor adequação ao nosso projeto e grupo, como a inclusão de perguntas e a redução no tempo de duração das etapas.
+O brainstorming foi realizado em formato de reunião e contou com a presença de todos os membros do grupo. O moderador foi [Arthur Fernandes](https://github.com/arthurfernandesj) e o secretário [Dylan Cavalcante](https://github.com/dylancavalcante). Durante a atividade, foram feitas 10 perguntas no total, com um tempo inicial de 1 minuto e 20 segundos para elaborar as respostas e 1 minuto para discuti-las, havendo ajustes nos tempos durante a sessão. Após a reunião, o moderador e o secretário analisaram as respostas e, com base nelas, formalizaram os requisitos apresentados na **Tabela 12**. Como referência, utilizamos o livro *Interação humano-computador e experiência de usuário* <a id="anchor_text_metodo_1" href="#QT2">[2]</a>. Adotamos as regras e a metodologia propostas na obra, mas realizamos algumas adaptações para melhor adequação ao nosso projeto e grupo, como a inclusão de perguntas e a redução no tempo de duração das etapas.
 
 <p align="center"><strong>Tabela 1 - Participantes</strong></p>
 
@@ -84,29 +83,29 @@ O brainstorming foi realizado em formato de reunião e contou com a presença de
       </thead>
       <tbody>
          <tr>
-            <td>Proporciona acesso a lazer, como meia-entrada em cinemas, shows e viagens para pessoas de baixa renda.</td>
-            <td>Giovana De Souza Fontes</td>
-        </tr>
+            <td>Proporciona acesso a lazer, como meia-entrada em cinemas, shows e viagens para pessoas de baixa renda.</td>
+            <td>Giovana De Souza Fontes</td>
+        </tr>
          <tr>
-            <td>Permite ao usuário pagar meia-entrada em eventos e ter acesso a vagas gratuitas em ônibus e trens, o que é um grande diferencial para estudantes de outros estados.</td>
-            <td>Danilo De Melo Ribeiro</td>
-        </tr>
+            <td>Permite ao usuário pagar meia-entrada em eventos e ter acesso a vagas gratuitas em ônibus e trens, o que é um grande diferencial para estudantes de outros estados.</td>
+            <td>Danilo De Melo Ribeiro</td>
+        </tr>
          <tr>
-            <td>A praticidade de ter uma carteirinha digital no celular, sem necessidade de um documento físico, garantindo acesso rápido aos benefícios com o QR Code e mais segurança contra perda ou roubo.</td>
-            <td>Eduarda Domingos Rodrigues</td>
-        </tr>
+            <td>A praticidade de ter uma carteirinha digital no celular, sem necessidade de um documento físico, garantindo acesso rápido aos benefícios com o QR Code e mais segurança contra perda ou roubo.</td>
+            <td>Eduarda Domingos Rodrigues</td>
+        </tr>
          <tr>
-            <td>É um acesso mais prático para os jovens terem sua carteirinha digital sem precisar ir ao CRAS para conseguir o documento ou atualizar a renda.</td>
-            <td>Arthur Fernandes Silva De Jesus</td>
-        </tr>
-        <tr>
-            <td>Promove a inclusão social, possibilitando que famílias de baixa renda tenham acesso a eventos culturais, peças teatrais e viagens para outros estados.</td>
-            <td>Breno Lourenco Teixeira</td>
-        </tr>
-        <tr>
-            <td>O ID Jovem é válido em todo o território nacional e qualquer estabelecimento credenciado é obrigado por lei a aceitá-lo.</td>
-            <td>Leticia Maria De Jesus Lopes</td>
-        </tr>
+            <td>É um acesso mais prático para os jovens terem sua carteirinha digital sem precisar ir ao CRAS para conseguir o documento ou atualizar a renda.</td>
+            <td>Arthur Fernandes Silva De Jesus</td>
+        </tr>
+        <tr>
+            <td>Promove a inclusão social, possibilitando que famílias de baixa renda tenham acesso a eventos culturais, peças teatrais e viagens para outros estados.</td>
+            <td>Breno Lourenco Teixeira</td>
+        </tr>
+        <tr>
+            <td>O ID Jovem é válido em todo o território nacional e qualquer estabelecimento credenciado é obrigado por lei a aceitá-lo.</td>
+            <td>Leticia Maria De Jesus Lopes</td>
+        </tr>
       </tbody>
    </table>
 </details>
@@ -124,25 +123,25 @@ O brainstorming foi realizado em formato de reunião e contou com a presença de
       </thead>
       <tbody>
          <tr>
-            <td>O aplicativo possui uma interface simples, com poucos botões e passos diretos. Ele funciona em smartphones básicos com internet limitada, e existem tutoriais online disponíveis.</td>
-            <td>Eduarda Domingos Rodrigues</td>
-        </tr>
+            <td>O aplicativo possui uma interface simples, com poucos botões e passos diretos. Ele funciona em smartphones básicos com internet limitada, e existem tutoriais online disponíveis.</td>
+            <td>Eduarda Domingos Rodrigues</td>
+        </tr>
          <tr>
-            <td>Deve ser simples de utilizar, com um bom trabalho de design de interface e usabilidade.</td>
-            <td>Danilo De Melo Ribeiro</td>
-        </tr>
+            <td>Deve ser simples de utilizar, com um bom trabalho de design de interface e usabilidade.</td>
+            <td>Danilo De Melo Ribeiro</td>
+        </tr>
          <tr>
-            <td>A interface digital deve ser simplificada e o aplicativo deve funcionar offline.</td>
-            <td>Dylan Portela Cavalcante</td>
-        </tr>
+            <td>A interface digital deve ser simplificada e o aplicativo deve funcionar offline.</td>
+            <td>Dylan Portela Cavalcante</td>
+        </tr>
          <tr>
-            <td>Ter uma interface simplificada e promover a inclusão através de oficinas ou cursos gratuitos para ensinar pessoas mais velhas a usar o aplicativo.</td>
-            <td>Breno Lourenco Teixeira</td>
-        </tr>
-        <tr>
-            <td>Um jovem da família que usa o aplicativo poderia atuar como um intermediador, ajudando os mais velhos a utilizá-lo.</td>
-            <td>Leticia Maria De Jesus Lopes</td>
-        </tr>
+            <td>Ter uma interface simplificada e promover a inclusão através de oficinas ou cursos gratuitos para ensinar pessoas mais velhas a usar o aplicativo.</td>
+            <td>Breno Lourenco Teixeira</td>
+        </tr>
+        <tr>
+            <td>Um jovem da família que usa o aplicativo poderia atuar como um intermediador, ajudando os mais velhos a utilizá-lo.</td>
+            <td>Leticia Maria De Jesus Lopes</td>
+        </tr>
       </tbody>
    </table>
 </details>
@@ -160,21 +159,21 @@ O brainstorming foi realizado em formato de reunião e contou com a presença de
       </thead>
       <tbody>
          <tr>
-            <td>Barreiras de usabilidade para pessoas com baixa escolaridade, dificuldades de acesso em zonas rurais, riscos de segurança com dados pessoais e a dependência tecnológica, como a bateria do celular descarregar.</td>
-            <td>Breno Lourenco Teixeira</td>
-        </tr>
+            <td>Barreiras de usabilidade para pessoas com baixa escolaridade, dificuldades de acesso em zonas rurais, riscos de segurança com dados pessoais e a dependência tecnológica, como a bateria do celular descarregar.</td>
+            <td>Breno Lourenco Teixeira</td>
+        </tr>
          <tr>
-            <td>A dependência tecnológica (necessidade de smartphone e internet), problemas técnicos como bugs e o risco de ficar sem o benefício caso a bateria do celular acabe.</td>
-            <td>Eduarda Domingos Rodrigues</td>
-        </tr>
+            <td>A dependência tecnológica (necessidade de smartphone e internet), problemas técnicos como bugs e o risco de ficar sem o benefício caso a bateria do celular acabe.</td>
+            <td>Eduarda Domingos Rodrigues</td>
+        </tr>
          <tr>
-            <td>Pouca implementação de acessibilidade, principalmente para pessoas com deficiência auditiva ou visual, como a falta de um tradutor de Libras.</td>
-            <td>Arthur Fernandes Silva De Jesus</td>
-        </tr>
+            <td>Pouca implementação de acessibilidade, principalmente para pessoas com deficiência auditiva ou visual, como a falta de um tradutor de Libras.</td>
+            <td>Arthur Fernandes Silva De Jesus</td>
+        </tr>
          <tr>
-            <td>Dificuldade no cadastro inicial por depender da atualização do CadÚnico e da agilidade do CRAS, além da dependência de outros sistemas como o Gov.br.</td>
-            <td>Leticia Maria De Jesus Lopes</td>
-        </tr>
+            <td>Dificuldade no cadastro inicial por depender da atualização do CadÚnico e da agilidade do CRAS, além da dependência de outros sistemas como o Gov.br.</td>
+            <td>Leticia Maria De Jesus Lopes</td>
+        </tr>
       </tbody>
    </table>
 </details>
@@ -192,17 +191,17 @@ O brainstorming foi realizado em formato de reunião e contou com a presença de
       </thead>
       <tbody>
          <tr>
-            <td>Melhorar a acessibilidade para pessoas com deficiência auditiva e visual.</td>
-            <td>Arthur Fernandes Silva De Jesus</td>
-        </tr>
+            <td>Melhorar a acessibilidade para pessoas com deficiência auditiva e visual.</td>
+            <td>Arthur Fernandes Silva De Jesus</td>
+        </tr>
          <tr>
-            <td>Acesso com biometria ou reconhecimento facial, uma IA para tirar dúvidas e integração com carteiras digitais como Apple Pay e Google Pay.</td>
-            <td>Eduarda Domingos Rodrigues</td>
-        </tr>
+            <td>Acesso com biometria ou reconhecimento facial, uma IA para tirar dúvidas e integração com carteiras digitais como Apple Pay e Google Pay.</td>
+            <td>Eduarda Domingos Rodrigues</td>
+        </tr>
          <tr>
-            <td>Um sistema de recomendação inteligente que utiliza a localização do usuário para indicar eventos próximos.</td>
-            <td>Leticia Maria De Jesus Lopes</td>
-        </tr>
+            <td>Um sistema de recomendação inteligente que utiliza a localização do usuário para indicar eventos próximos.</td>
+            <td>Leticia Maria De Jesus Lopes</td>
+        </tr>
       </tbody>
    </table>
 </details>
@@ -220,21 +219,21 @@ O brainstorming foi realizado em formato de reunião e contou com a presença de
       </thead>
       <tbody>
          <tr>
-            <td>O aplicativo ajuda a quebrar o tabu da condição financeira, permitindo que as pessoas participem de eventos sem se sentirem envergonhadas.</td>
-            <td>Giovana De Souza Fontes</td>
-        </tr>
+            <td>O aplicativo ajuda a quebrar o tabu da condição financeira, permitindo que as pessoas participem de eventos sem se sentirem envergonhadas.</td>
+            <td>Giovana De Souza Fontes</td>
+        </tr>
          <tr>
-            <td>Ter um FAQ interativo para responder dúvidas comuns dos usuários e um termo de uso simplificado que resuma as obrigações e os benefícios da lei.</td>
-            <td>Eduarda Domingos Rodrigues</td>
-        </tr>
+            <td>Ter um FAQ interativo para responder dúvidas comuns dos usuários e um termo de uso simplificado que resuma as obrigações e os benefícios da lei.</td>
+            <td>Eduarda Domingos Rodrigues</td>
+        </tr>
          <tr>
-            <td>Incluir uma aba ou anexo no aplicativo que direcione o usuário para uma área que explique detalhadamente seus direitos e os benefícios que pode usufruir.</td>
-            <td>Arthur Fernandes Silva De Jesus</td>
-        </tr>
+            <td>Incluir uma aba ou anexo no aplicativo que direcione o usuário para uma área que explique detalhadamente seus direitos e os benefícios que pode usufruir.</td>
+            <td>Arthur Fernandes Silva De Jesus</td>
+        </tr>
          <tr>
-            <td>Adicionar um canal de denúncias ou feedback para que o usuário possa relatar casos em que o benefício foi negado.</td>
-            <td>Breno Lourenco Teixeira</td>
-        </tr>
+            <td>Adicionar um canal de denúncias ou feedback para que o usuário possa relatar casos em que o benefício foi negado.</td>
+            <td>Breno Lourenco Teixeira</td>
+        </tr>
       </tbody>
    </table>
 </details>
@@ -252,21 +251,21 @@ O brainstorming foi realizado em formato de reunião e contou com a presença de
       </thead>
       <tbody>
          <tr>
-            <td>Integração total com o Gov.br para usar informações já cadastradas (CPF, CadÚnico) e reconhecimento de documentos pela câmera para preenchimento automático.</td>
-            <td>Eduarda Domingos Rodrigues</td>
-        </tr>
+            <td>Integração total com o Gov.br para usar informações já cadastradas (CPF, CadÚnico) e reconhecimento de documentos pela câmera para preenchimento automático.</td>
+            <td>Eduarda Domingos Rodrigues</td>
+        </tr>
          <tr>
-            <td>Uma área de perguntas frequentes (FAQ) para que os usuários possam resolver problemas comuns sem precisar contatar o suporte.</td>
-            <td>Danilo De Melo Ribeiro</td>
-        </tr>
+            <td>Uma área de perguntas frequentes (FAQ) para que os usuários possam resolver problemas comuns sem precisar contatar o suporte.</td>
+            <td>Danilo De Melo Ribeiro</td>
+        </tr>
          <tr>
-            <td>Um sistema de notificações que avise o usuário quando uma vaga para o benefício de passagem estiver disponível para um destino desejado.</td>
-            <td>Breno Lourenco Teixeira</td>
-        </tr>
+            <td>Um sistema de notificações que avise o usuário quando uma vaga para o benefício de passagem estiver disponível para um destino desejado.</td>
+            <td>Breno Lourenco Teixeira</td>
+        </tr>
          <tr>
-            <td>Substituir o "Fale Conosco" por e-mail por um chatbot que possa resolver dúvidas em tempo real ou direcionar para um atendente específico.</td>
-            <td>Arthur Fernandes Silva De Jesus</td>
-        </tr>
+            <td>Substituir o "Fale Conosco" por e-mail por um chatbot que possa resolver dúvidas em tempo real ou direcionar para um atendente específico.</td>
+            <td>Arthur Fernandes Silva De Jesus</td>
+        </tr>
       </tbody>
    </table>
 </details>
@@ -284,17 +283,17 @@ O brainstorming foi realizado em formato de reunião e contou com a presença de
       </thead>
       <tbody>
          <tr>
-            <td>A emissão da carteirinha, que é usada para comprovar o direito à meia-entrada e obter descontos em passagens.</td>
-            <td>Breno Lourenco Teixeira</td>
-        </tr>
+            <td>A emissão da carteirinha, que é usada para comprovar o direito à meia-entrada e obter descontos em passagens.</td>
+            <td>Breno Lourenco Teixeira</td>
+        </tr>
          <tr>
-            <td>A geração e exibição da carteira digital com o QR Code.</td>
-            <td>Eduarda Domingos Rodrigues</td>
-        </tr>
+            <td>A geração e exibição da carteira digital com o QR Code.</td>
+            <td>Eduarda Domingos Rodrigues</td>
+        </tr>
          <tr>
-            <td>Gerar a carteirinha com QR Code e também a versão em PDF.</td>
-            <td>Arthur Fernandes Silva De Jesus</td>
-        </tr>
+            <td>Gerar a carteirinha com QR Code e também a versão em PDF.</td>
+            <td>Arthur Fernandes Silva De Jesus</td>
+        </tr>
       </tbody>
    </table>
 </details>
@@ -424,15 +423,13 @@ O brainstorming foi realizado em formato de reunião e contou com a presença de
 
 ## Referências Bibliográficas
 
-> Retraining - Universidade Federal de Santa Catarina. Técnicas de Elicitação de Requisitos: Brainstorming. Disponível em: [https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-brainstorming](https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-brainstorming). Acesso em: 23 Set. 2025.
+<p><a id="QT1" href="#anchor_text_intro_1">1.</a> Retraining - Universidade Federal de Santa Catarina. Técnicas de Elicitação de Requisitos: Brainstorming. Disponível em: <a href="https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-brainstorming">https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-brainstorming</a>. Acesso em: 23 Set. 2025.</p>
 
-> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Disponível em: [https://aprender3.unb.br/pluginfile.php/2844985/mod_resource/content/4/ihc-ux%20cap%207.pdf](https://aprender3.unb.br/pluginfile.php/2844985/mod_resource/content/4/ihc-ux%20cap%207.pdf). Acesso em: 23 Set. 2025.
+<p><a id="QT2" href="#anchor_text_intro_2">2.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Disponível em: <a href="https://aprender3.unb.br/pluginfile.php/2844985/mod_resource/content/4/ihc-ux%20cap%207.pdf">https://aprender3.unb.br/pluginfile.php/2844985/mod_resource/content/4/ihc-ux%20cap%207.pdf</a>. Acesso em: 23 Set. 2025.</p>
 
 
 ## Bibliografia
 > Requisitos de Software. Bilheteria Digital (2023.1). Disponível em: [https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital](https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital). Acesso em: 23 Set. 2025.
-
-
 ## Histórico de Versões
 
 | Versão |    Data    |      Descrição       |                        Autor(es)                        |                       Revisor(es)                       |
@@ -440,3 +437,4 @@ O brainstorming foi realizado em formato de reunião e contou com a presença de
 | `1.0`  | 23/09/2025 | Criação do documento | [Breno Teixeira](https://github.com/BrenoLTeixeira) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
 | `1.1`  | 28/09/2025 | Atualização em Introdução, metodologia e perguntas  | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Leticia Lopes](https://github.com/leticialopes20)|
 | `1.2`  | 29/09/2025 | Adicionado os requisitos, referências e remoção de tabela  | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Leticia Lopes](https://github.com/leticialopes20) |
+| `1.3`  | 10/10/2025 | Arrumando as Referências no texto  | [Breno Teixeira](https://github.com/BrenoLteixeira) |  [Arthur Fernandes](https://github.com/arthurfernandesj) |

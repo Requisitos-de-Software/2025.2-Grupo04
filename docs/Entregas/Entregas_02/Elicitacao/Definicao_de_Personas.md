@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O desenvolvimento de um aplicativo eficaz requer uma compreensão profunda dos usuários que irão interagir com ele. Nesse contexto, as personas desempenham um papel fundamental, persona é um personagem fictício, um arquétipo hipotético de um grupo de usuários reais, permitindo que as equipes de desenvolvimento criem produtos que atendam às necessidades e expectativas de diferentes segmentos de usuários <a id="TEC1" href="#RP1">[1]</a>. Este documento tem como objetivo apresentar as personas desenvolvidas para o projeto de elicitação de requisitos do aplicativo **ID Jovem**, fornecendo insights valiosos sobre os diversos perfis de usuários que serão considerados durante o processo de desenvolvimento.
+O desenvolvimento de um aplicativo eficaz requer uma compreensão profunda dos usuários que irão interagir com ele. Nesse contexto, as personas desempenham um papel fundamental, persona é um personagem fictício, um arquétipo hipotético de um grupo de usuários reais, permitindo que as equipes de desenvolvimento criem produtos que atendam às necessidades e expectativas de diferentes segmentos de usuários<a id="anchor_1" href="#QT1">[1]</a>.apresentar as personas desenvolvidas para o projeto de elicitação de requisitos do aplicativo **ID Jovem**, fornecendo insights valiosos sobre os diversos perfis de usuários que serão considerados durante o processo de desenvolvimento.
 
 ## Metodologia
 
@@ -33,7 +33,7 @@ A quantidade de personas elaboradas mostrou-se suficiente para representar os se
 
 <p style="text-align: center"><b>Tabela 1</b> - Persona Primária Ana Clara.</p>
 
-|<div style="width:100%;text-align:center"><p style="margin:0;font-size:16px">Figura 1- Persona Primária Ana Clara.</p><figure style="display:inline-block;margin:0"><img src="../../../../assets/personas/anaClara.png" alt="Ana Clara" style="width:500px;display:block;margin:0 auto"><br><figcaption>Autor: <a href="https://github.com/eduardar0">Eduarda</a> (2025). <a id="TEC2" href="#RP2">[2]</a></figcaption></figure></div> |
+|<div style="width:100%;text-align:center"><p style="margin:0;font-size:16px">Figura 1- Persona Primária Ana Clara.</p><figure style="display:inline-block;margin:0"><img src="../../../../assets/personas/anaClara.png" alt="Ana Clara" style="width:500px;display:block;margin:0 auto"><br><figcaption>Autor: <a href="https://github.com/eduardar0">Eduarda</a> (2025). <a id="anchor_2" href="#QT2">[2]</a></figcaption>
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**: Ana Clara                                                                                                                                                                                                                                                                         |
 | **Status**: Persona Primária.                                                                                                                                                                                                                                                               |
@@ -49,7 +49,7 @@ A quantidade de personas elaboradas mostrou-se suficiente para representar os se
 
 <p style="text-align: center"><b>Tabela 2</b> - Persona Primária Joao Pedro.</p>
 
-|<div style="width:100%;text-align:center"><p style="margin:0;font-size:16px">Figura 1- Persona Primária Ana Clara.</p><figure style="display:inline-block;margin:0"><img src="../../../../assets/personas/JoaoPedro.jpg" alt="Ana Clara" style="width:500px;display:block;margin:0 auto"><br><figcaption>Autor: <a href="https://github.com/eduardar0">Eduarda</a> (2025). <a id="TEC2" href="#RP2">[2]</a></figcaption></figure></div> |
+|<div style="width:100%;text-align:center"><p style="margin:0;font-size:16px">Figura 1- Persona Primária Ana Clara.</p><figure style="display:inline-block;margin:0"><img src="../../../../assets/personas/JoaoPedro.jpg" alt="Ana Clara" style="width:500px;display:block;margin:0 auto"><br><figcaption>Autor: <a href="https://github.com/eduardar0">Eduarda</a> (2025). <a id="anchor_2" href="#QT2">[2]</a></figcaption>
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**: Joao Pedro                                                                                                                                                                                                                                                                           |
 | **Status**: Persona Primária.                                                                                                                                                                                                                                                                  |
@@ -65,7 +65,7 @@ A quantidade de personas elaboradas mostrou-se suficiente para representar os se
 
 <p style="text-align: center"><b>Tabela 3</b> - Persona Primária Camila Souza.</p>
 
-| <div style="width:100%;text-align:center"><p style="margin:0;font-size:16px">Figura 3- Persona Primária Camila Souza.</p><figure style="display:inline-block;margin:0"><img src="../../../../assets/personas/Camila.jpg" alt="Camila Souza" style="width:500px;display:block;margin:0 auto"><br><figcaption>Fonte: <a href="https://github.com/eduardar0">Eduarda</a> (2025). <a id="TEC2" href="#RP2">[2]</a></figcaption></figure></div> |
+| <div style="width:100%;text-align:center"><p style="margin:0;font-size:16px">Figura 3- Persona Primária Camila Souza.</p><figure style="display:inline-block;margin:0"><img src="../../../../assets/personas/Camila.jpg" alt="Camila Souza" style="width:500px;display:block;margin:0 auto"><br><figcaption>Fonte: <a href="https://github.com/eduardar0">Eduarda</a> (2025). <a id="anchor_2" href="#QT2">[2]</a></figcaption>
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**: Camila                                                                                                                                                                                                                                                                                |
 | **Status**: Persona Primária.                                                                                                                                                                                                                                                                   |
@@ -81,7 +81,7 @@ A quantidade de personas elaboradas mostrou-se suficiente para representar os se
 
 <p style="text-align: center"><b>Tabela 4</b> - Persona Secundária Rafaela Lima.</p>
 
-| <div style="width:100%;text-align:center"><p style="margin:0;font-size:16px">Figura 4- Persona Secundária Rafaela Lima.</p><figure style="display:inline-block;margin:0"><img src="../../../../assets/personas/Rafaela.jpg" alt="Rafaela Lima" style="width:500px;display:block;margin:0 auto"><br><figcaption>Fonte: <a href="https://github.com/eduardar0">Eduarda</a> (2025). <a id="TEC2" href="#RP2">[2]</a></figcaption></figure></div> |
+| <div style="width:100%;text-align:center"><p style="margin:0;font-size:16px">Figura 4- Persona Secundária Rafaela Lima.</p><figure style="display:inline-block;margin:0"><img src="../../../../assets/personas/Rafaela.jpg" alt="Rafaela Lima" style="width:500px;display:block;margin:0 auto"><br><figcaption>Fonte: <a href="https://github.com/eduardar0">Eduarda</a> (2025). <a id="anchor_2" href="#QT2">[2]</a></figcaption>
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**: Rafaela Lima.                                                                                                                                                                                                                                                                          |
 | **Status**: Persona Secundária.                                                                                                                                                                                                                                                                  |
@@ -97,7 +97,7 @@ A quantidade de personas elaboradas mostrou-se suficiente para representar os se
 
 <p style="text-align: center"><b>Tabela 5</b> - Antipersona- Carlos Henrique.</p>
 
-| <div style="width:100%;text-align:center"><p style="margin:0;font-size:16px">Figura 5- Antipersona - Carlos Henrique.</p><figure style="display:inline-block;margin:0"><img src="../../../../assets/personas/Carlos.jpg" alt="Carlos Henrique" style="width:500px;display:block;margin:0 auto"><br><figcaption>Fonte: <a href="https://github.com/eduardar0">Eduarda</a> (2025). <a id="TEC2" href="#RP2">[2]</a></figcaption></figure></div> |
+| <div style="width:100%;text-align:center"><p style="margin:0;font-size:16px">Figura 5- Antipersona - Carlos Henrique.</p><figure style="display:inline-block;margin:0"><img src="../../../../assets/personas/Carlos.jpg" alt="Carlos Henrique" style="width:500px;display:block;margin:0 auto"><br><figcaption>Fonte: <a href="https://github.com/eduardar0">Eduarda</a> (2025).<a id="anchor_2" href="#QT2">[2]</a></figcaption>
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**: Carlos Henrique.                                                                                                                                                                                                                                                                       |
 | **Status**: Antipersona.                                                                                                                                                                                                                                                                         |
@@ -113,10 +113,14 @@ A quantidade de personas elaboradas mostrou-se suficiente para representar os se
 
 ## Referências Bibliográficas
 
-> <THIS PERSON DOES NOT EXIST. [Gerador de imagens de rostos humanos]. [S. l.: s. n.], [20--?]. Disponível em: <a href="https://thispersondoesnotexist.com/">https://thispersondoesnotexist.com/</a>. Acesso em: 28 set. 2025.
+<p><a id="QT1" href="#anchor_1">1.</a> BARBOSA, S. D. J. et al. Personas. In: BARBOSA, S. D. J. et al. <b>Interação Humano-Computador e Experiência do usuário</b>. [S. l.]: Autopublicação, 2021. cap. 8.2, p. 167.</p>
+
+<p><a id="QT2" href="#anchor_2">2.</a> <i>THIS PERSON DOES NOT EXIST.</i> [Gerador de imagens de rostos humanos]. [S. l.: s. n.], [20--?]. Disponível em: <a href="https://thispersondoesnotexist.com/">https://thispersondoesnotexist.com/</a>. Acesso em: 28 set. 2025.</p>
+
 
 ## Bibliografia 
-> <BARBOSA, S. D. J. et al. Personas. In: BARBOSA, S. D. J. et al. **Interação Humano-Computador e Experiência do usuário**. [S. l.]: Autopublicação, 2021. cap. 8.2, p. 167. 
+> <a id="RP1"></a> COOPER, Alan et al. About Face: The Essentials of Interaction Design. 4. ed. Indianapolis: Wiley, 2014. Acesso em: 28 set. 2025.
+
 
 ## Histórico de Versão
 | Versão |    Data    |                              Descrição                              |                                      Autor(es)                                       |                 Revisor(es)                  |
@@ -127,5 +131,4 @@ A quantidade de personas elaboradas mostrou-se suficiente para representar os se
 | `1.3`  | 28/09/2025 |       Correção do tamanho das imagens, e centralização              | [Eduarda](https://github.com/eduardar0)                                              | [Dylan](https://github.com/dylancavalcante) |
 | `1.4`  | 28/09/2025 |                   Correção da legenda das imagens                   | [Eduarda](https://github.com/eduardar0)                                              | [Dylan](https://github.com/dylancavalcante) |
 | `1.5`  | 29/09/2025 |                   Correção das imagens                  | [Arthur Fernandes](https://github.com/arthurfernandesj)                                              | [Eduarda](https://github.com/eduardar0) |
-
-
+| `1.6`  | 10/10/2025 |   Arrumando as referências teóricas      | [Breno](https://github.com/BrenoLTeixeira)                                               | [Eduarda](https://github.com/eduardar0) |

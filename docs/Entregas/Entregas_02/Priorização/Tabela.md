@@ -36,7 +36,7 @@
 
 ---
 
-## Referências Bibliográficas
+## Bibliografia
 
 > SERRANO, Milene; SERRANO, Maurício. **Requisitos – Aula 07**. Gama, DF: Universidade de Brasília, [s.d.]. Material de aula.
 
@@ -48,4 +48,4 @@
 | :----: | :--------: | :------------------: | :-----------------------------------------------------: | :-----------------------------------------------------: |
 | `1.0`  | 28/09/2025 |  Matriz comparativa entre as técnicas estudadas  | [Danilo Melo](https://github.com/EngDann) |  [Arthur Fernandes](https://github.com/arthurfernandesj)|
 | `1.1`  | 29/09/2025 | Atualização do histórico de versão | [Arthur Fernandes](https://github.com/arthurfernandesj) |  [Letícia Lopes](https://github.com/leticialopes20)|
-| `1.2`  | 30/09/2025 | Substituição de First Things First por In or Out na matriz | [Letícia Lopes](https://github.com/leticialopes20) |  [Arthur Fernandes](https://github.com/arthurfernandesj)|
+| `1.3`  | 10/10/2025 | Mudando Referencias bibliograficas para Bibliografia | [Breno](https://github.com/BrenoLteixeira) | [Arthur](https://github.com/) |

@@ -46,9 +46,51 @@ Os léxicos do sistema ID Jovem foram identificados a partir da utilização do 
 
 ## Objetos
 
-Os léxicos do tipo objeto referem-se às entidades, elementos ou objetos que são manipulados ou sobre os quais as ações são realizadas dentro do aplicativo ID Jovem. Na Tabela 2, é possível verificar os principais léxicos classificados como objetos que foram identificados no ID Jovem. Esses léxicos incluem elementos como "Usuário", "Carteira Digital", "Benefício", "Notificação", entre outros. Cada um desses léxicos é descrito detalhadamente, incluindo sua noção, que define o objeto e seus relacionamentos com outros objetos, e seu impacto, que descreve as ações possíveis sobre o objeto dentro do sistema.
+Os léxicos do tipo objeto referem-se às entidades, elementos ou objetos que são manipulados ou sobre os quais as ações são realizadas dentro do aplicativo ID Jovem. Nas tabelas à seguir, é possível verificar os principais léxicos classificados como objetos que foram identificados no ID Jovem. Esses léxicos incluem elementos como "Jovem Beeficiário", "Carteira Digital" entre outros. Cada um desses léxicos é descrito detalhadamente, incluindo sua noção, que define o objeto e seus relacionamentos com outros objetos, e seu impacto, que descreve as ações possíveis sobre o objeto dentro do sistema.
 
- 
+
+| Léxico               | Sinônimo            | Noção                        | Impacto                                                                                               | Classificação | Rastreabilidade                           | Fonte                                      |
+|----------------------|--------------------|------------------------------|------------------------------------------------------------------------------------------------------|---------------|--------------------------------------------|-------------------------------------------|
+| L01 - Jovem Beneficiário        | Jovem, Participante | Dados do jovem             | Permite cadastro, atualização e acesso à carteira digital do ID Jovem.                                | Objeto        | [RF01, RF02, RF15](/docs/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados.md#rf01)             | Eduarda Rodrigues                          |
+| L02 - Carteira Digital| Carteirinha do ID Jovem    | Identificação digital        | O Jovem Beneficiário pode visualizar, baixar e compartilhar sua carteira digital.                               | Objeto        | [RF03, RF05](#)                      | Eduarda Rodrigues                                  |
+| L03 -       |    |             |          | Objeto        | [](#)                      | Giovana                                    |
+| L04 -     |  |         |                    | Objeto        |                        | Arthur                                     |
+| L05 -     |       |  | .       | Objeto        | [](#)                            | Arthur                                      |
+| L06 -         |   |            |                             | Objeto        | [](#)                            | Breno                                      |
+| L07 -       |      |              |                               | Objeto        | [](#)                                  | Breno                        |
+| L08 -        |    |              |       | Objeto        | [](#)                                  | Letícia                                    |
+| ||||||Letícia|
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 2: </b>Léxicos classificados como Objetos - ID Jovem (Fonte: Arthur, Breno, Eduarda, Giovana, Leticia 2025)</p></font>
+</div>
+
+
+<div align="center">
+<font size="3"><p style="text-align: center"></p></font>
+
+</div>
+
+## Verbos
+
+Os léxicos do tipo verbo representam ações ou operações que os Jovem Beneficiário podem executar dentro do aplicativo "ID Jovem". Essas ações detalham as funcionalidades acessíveis para os Jovem Beneficiário, permitindo interações específicas e operações dentro do aplicativo. Na Tabela 3, é possível conferir os principais léxicos classificados como verbos que foram identificados no ID Jovem. Esses léxicos incluem ações como "-----", "-----" e "----", cada uma descrevendo uma interação essencial que os Jovem Beneficiário podem realizar. Além disso, esses léxicos ajudam a definir os fluxos de uso do aplicativo, orientando os Jovem Beneficiário em suas tarefas e melhorando a experiência de navegação e uso dos serviços disponíveis.
+
+| Léxico | Sinônimo | Noção | Impacto | Classificação | Rastreabilidade | Fonte |
+|--------|----------|-------|---------|---------------|-----------------|-------|
+|        |          |       |         |               |                 |       |
+|        |          |       |         |               |                 |       |
+|        |          |       |         |               |                 |       |
+|        |          |       |         |               |                 |       |
+|        |          |       |         |               |                 |       |
+|        |          |       |         |               |                 |       |
+|        |          |       |         |               |                 |       |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 3: </b>Léxicos classificados como Verbos (Autor: Fonte: Arthur, Breno, Eduarda, Giovana, Leticia, 2025, 2024)</p></font>
+
+</div>
+
+
+
 
 ## Referências Bibliográficas
 

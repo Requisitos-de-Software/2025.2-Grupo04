@@ -244,7 +244,7 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 
 ### **Cenário 10: Visualização Geográfica de Parceiros e Eventos**
 
-<font size="3"><p style="text-align: center">Tabela 9: Visualização Geográfica de Parceiros e Eventos</p></font>
+<font size="3"><p style="text-align: center">Tabela 10: Visualização Geográfica de Parceiros e Eventos</p></font>
 
 
 | **ID**         | [RF21](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf21) |
@@ -258,7 +258,7 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 | **Exceções**   | - Falha na obtenção da localização do usuário.<br>- Erro de carregamento do mapa.<br>- API de mapas indisponível.<br>- Nenhum parceiro ou evento encontrado na região. |
 | **Autor**      | [Arthur Fernandes](https://github.com/arthurfernandesj) |
 
- <font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/GiovanaFontesS)</p></font>
+ <font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj)</p></font>
 
 
 

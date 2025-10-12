@@ -59,8 +59,8 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 </tr>
 <tr>
 <td><a href="https://github.com/eduardar0">Eduarda Domingos</a></td>
-<td>00/10/2025</td>
-<td>00:00</td>
+<td>11/10/2025</td>
+<td>22:00</td>
 </tr>
 <tr>
 <td><a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></td>
@@ -112,7 +112,55 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 | **Exceções**   | - Falha no envio da notificação.<br>- Usuário sem conexão com a internet.<br>- Erro ao atualizar o status da renovação no sistema.                                                                                                                                                                                                                                                                                                                                       |
 | **Autor**      | [Letícia Lopes](https://github.com/leticialopes20)                                                                                                                                                                                                                                                                                                                                                                                                                               |
 
+
 <font size="2"><p style="text-align: center">Fonte: [Letícia Lopes](https://github.com/leticialopes20)</p></font>
+
+
+### **Cenário 3: Consulta de Locais e Parceiros que Aceitam o Benefício**
+
+<font size="3"><p style="text-align: center">Tabela 3: Cenário de Consulta de Locais e Parceiros que Aceitam o Benefício</p></font>
+
+| **ID**         | [RF10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf10) |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| **Objetivo**   | Permitir que o Jovem Beneficiário localize estabelecimentos e parceiros que aceitam os benefícios do ID Jovem.          |
+| **Contexto**   | O usuário deseja utilizar seus benefícios (transporte ou meia-entrada) e precisa encontrar locais conveniados próximos a sua localização. |
+| **Atores**     | Jovem Beneficiário, Sistema do ID Jovem, Base de dados de parceiros.                                                      |
+| **Recursos**   | Aplicativo ID Jovem, GPS do dispositivo, conexão à internet, banco de dados atualizado de estabelecimentos parceiros.      |
+| **Episódios**  | 1. O usuário acessa a seção "Locais Parceiros" no aplicativo ID Jovem.<br>2. O sistema solicita permissão de localização do usuário.<br>3. O aplicativo exibe os estabelecimentos conveniados mais próximos da localização atual.<br>4. O usuário pode filtrar os resultados por tipo de benefício (transporte ou cultura).<br>5. O sistema mostra informações detalhadas de cada parceiro: endereço, horário de funcionamento e benefícios aceitos.<br>6. O usuário seleciona um estabelecimento e obtém rotas de acesso. |
+| **Restrições** | A lista de parceiros deve ser atualizada regularmente. O sistema deve funcionar offline com os dados previamente carregados. |
+| **Exceções**   | - GPS desativado ou indisponível.<br>- Sem estabelecimentos parceiros na região do usuário.<br>- Base de dados desatualizada.<br>- Falta de conexão com a internet. |
+| **Autor**      | [Eduarda Domingos](https://github.com/eduardar0)                                                                               |
+
+
+
+
+<font size="2"><p style="text-align: center">Fonte: [Eduarda Domingos](https://github.com/eduardar0)</p></font>
+
+### **Cenário 4: Canal de Suporte via Chat, E-mail ou Formulário de Contato**
+
+<font size="3"><p style="text-align: center">Tabela 4: Cenário de Canal de Suporte via Chat, E-mail ou Formulário de Contato</p></font>
+
+| **ID**         | [RF11](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf11) |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| **Objetivo**   | Oferecer múltiplos canais de suporte para que o Jovem Beneficiário resolva dúvidas e problemas relacionados ao ID Jovem. |
+| **Contexto**   | O usuário enfrenta dificuldades no uso do aplicativo ou tem questões sobre seus benefícios e precisa de assistência. |
+| **Atores**     | Jovem Beneficiário, Sistema de Suporte do ID Jovem, Atendente (humano ou virtual). |
+| **Recursos**   | Aplicativo ID Jovem, módulo de chat integrado, sistema de e-mails, formulário de contato, base de conhecimento. |
+| **Episódios**  | 1. O usuário acessa a seção "Ajuda" ou "Suporte" no aplicativo.<br>2. O sistema apresenta as opções de contato: chat, e-mail e formulário.<br>3. O usuário seleciona o canal preferido para suporte.<br>4. No chat: inicia conversa com atendente virtual/humano em tempo real.<br>5. Por e-mail: preenche dados e descreve o problema para envio.<br>6. Via formulário: preenche campos obrigatórios e detalha a solicitação.<br>7. O sistema registra o ticket e fornece número de protocolo para acompanhamento.<br>8. O usuário recebe resposta pelo canal escolhido dentro do prazo estabelecido. |
+| **Restrições** | Resposta via chat deve ser em até 5 minutos durante horário comercial. E-mails e formulários respondidos em até 48 horas. |
+| **Exceções**   | - Canal de chat indisponível fora do horário comercial.<br>- Falha no envio de e-mail/formulário.<br>- Problema técnico no sistema de suporte.<br>- Dúvida não resolvida pelo atendimento inicial. |
+| **Autor**      | [Eduarda Domingos](https://github.com/eduardar0)                                                                                |
+
+
+
+
+
+
+
+
+
+<font size="2"><p style="text-align: center">Fonte: [Eduarda Domingos](https://github.com/eduardar0)</p></font>
+
 
 ## Referências Bibliográficas
 
@@ -128,3 +176,4 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 | `1.0` | 09/10/2025 | Criação do documento | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Letícia Lopes ](https://github.com/leticialopes20) |
 | `1.1` | 11/10/2025 | Adição do texto da Introdução,Metodologia e Bibliografia | [Letícia Lopes](https://github.com/leticialopes20) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
 | `1.2` | 11/10/2025 | Adição dos cenários 1 e 2 | [Letícia Lopes](https://github.com/leticialopes20) | [Eduarda Domingos](https://github.com/eduardar0) |
+| `1.3` | 11/10/2025 | Adição dos cenários 3 e 4   | [Eduarda Domingos](https://github.com/eduardar0) |[Letícia Lopes](https://github.com/leticialopes20)

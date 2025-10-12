@@ -65,7 +65,7 @@ Os léxicos do tipo objeto referem-se às entidades, elementos ou objetos que s�
 | L12 -        |    |              |       | Objeto        | [](#)                                  | Dylan                                    |
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 2: </b>Léxicos classificados como Objetos - ID Jovem (Fonte: Arthur, Breno, Eduarda, Giovana, Leticia, 2025)</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2: </b>Léxicos classificados como Objetos - ID Jovem (Fonte: Arthur, Breno, Dylan, Eduarda, Giovana, Leticia, 2025)</p></font>
 </div>
 
 
@@ -89,7 +89,7 @@ Os léxicos do tipo verbo representam ações ou operações que os Jovens Benef
 | L20 |  |  |  | Verbo | [](#) | Leticia |
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Léxicos classificados como Verbos (Fonte: Arthur, Breno, Eduarda, Giovana, Leticia, 2025)</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Léxicos classificados como Verbos (Fonte: Arthur, Breno, Dylan, Eduarda, Giovana, Leticia, 2025)</p></font>
 </div>
 
 ## Estados
@@ -108,7 +108,7 @@ Os léxicos do tipo estado referem-se às condições, situações ou configura�
 | L28 |  |  |  | Estado | [](#) | Leticia |
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 4: </b>Léxicos classificados como Estados (Autor: Fonte: Arthur, Breno, Eduarda, Giovana, Leticia, 2025)</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 4: </b>Léxicos classificados como Estados (Autor: Fonte: Arthur, Breno, Dylan, Eduarda, Giovana, Leticia, 2025)</p></font>
 </div>
 
 ## Referência bibliográfica

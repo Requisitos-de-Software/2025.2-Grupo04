@@ -53,14 +53,10 @@ Os léxicos do tipo objeto referem-se às entidades, elementos ou objetos que s�
 |----------------------|--------------------|------------------------------|------------------------------------------------------------------------------------------------------|---------------|--------------------------------------------|-------------------------------------------|
 | L01 - Jovem Beneficiário        | Jovem, Participante | Dados do jovem             | Permite cadastro, atualização e acesso à carteira digital do ID Jovem.                                | Objeto        | [RF01, RF02, RF15](/docs/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados.md#rf01)             | [Eduarda](https://github.com/eduardar0)                           |
 | L02 - Carteira Digital| Carteirinha do ID Jovem    | Identificação digital        | O Jovem Beneficiário pode visualizar, baixar e compartilhar sua carteira digital.                               | Objeto        | [RF03, RF05](/docs/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados.md#rf03)                       | [Eduarda](https://github.com/eduardar0)             |
-| L03 -       |    |             |          | Objeto        | [](#)                      | Giovana                                    |
-| L04 -       |    |             |          | Objeto        | [](#)                      | Giovana                                    |
-| L04 - Transporte Gratuito   | Passagem Livre, Viagem Interestadual  |  Serviço que oferece gratuidade ou desconto no transporte interestadual para jovens cadastrados no ID Jovem | Facilita o deslocamento dos beneficiários entre estados, garantindo o direito de mobilidade previsto pelo programa.     | Objeto        | [RF04](#)                       | [Arthur](https://github.com/arthurfernandesj)                                     |
-| L05 - Estabelecimento Conveniado     |  Parceiro, Local Credenciado     | Empresa, instituição ou ponto de serviço que aceita o ID Jovem como comprovante de benefício. | Permite a utilização dos benefícios de meia-entrada e transporte gratuito, ampliando o alcance do programa. | Objeto        | [RF05](#)                            | [Arthur](https://github.com/arthurfernandesj)                                  |
 | L03 - Cadastro    |  Registro, Inscrição, Conta, Perfil  | Refere-se ao processo de registro e armazenamento das informações do Jovem Beneficiário no sistema ID Jovem, incluindo dados pessoais e de identificação.            |   O cadastro é essencial para liberar o acesso à carteirinha digital e aos benefícios do programa. Sem ele, o usuário não pode autenticar-se nem gerar seu ID Jovem.       | Objeto        | [RF01](../../Elicitacao/Requisitos_Elicitados.md#rf10), [RF19](../../Elicitacao/Requisitos_Elicitados.md#rf13)                     | [Giovana](https://github.com/GiovanaFontesS)                                  |
 | L04 - Elegibilidade      |  Validação, Critério de acesso, Confirmação de direito  |   Representa a verificação automática que o sistema realiza para confirmar se o Jovem Beneficiário cumpre os critérios exigidos para receber o benefício ID Jovem.          |  A elegibilidade garante que apenas jovens com perfil válido possam gerar e utilizar a carteirinha. Essa validação é essencial para evitar uso indevido dos benefícios.        | Objeto        | [RF15](../../Elicitacao/Requisitos_Elicitados.md#rf13)                     | [Giovana](https://github.com/GiovanaFontesS)                                   |
-| L04 -     |  |         |                    | Objeto        |                        | Arthur                                     |
-| L05 -     |       |  | .       | Objeto        | [](#)                            | Arthur                                      |
+| L04 - Transporte Gratuito   | Passagem Livre, Viagem Interestadual  |  Serviço que oferece gratuidade ou desconto no transporte interestadual para jovens cadastrados no ID Jovem | Facilita o deslocamento dos beneficiários entre estados, garantindo o direito de mobilidade previsto pelo programa.     | Objeto        | [RF04](#)                       | [Arthur](https://github.com/arthurfernandesj)                                     |
+| L05 - Estabelecimento Conveniado     |  Parceiro, Local Credenciado     | Empresa, instituição ou ponto de serviço que aceita o ID Jovem como comprovante de benefício. | Permite a utilização dos benefícios de meia-entrada e transporte gratuito, ampliando o alcance do programa. | Objeto        | [RF05](#)                            | [Arthur](https://github.com/arthurfernandesj)                                  |
 | L07 - Benefício | Vantagem, Desconto | Refere-se aos direitos garantidos pelo programa. | O Jovem Beneficiário pode consultar os benefícios disponíveis, visualizar seu histórico de uso e emitir comprovantes de utilização. | Objeto | [RF04](../../Elicitacao/Requisitos_Elicitados.md#rf04), [RF12](../../Elicitacao/Requisitos_Elicitados.md#rf12) | [Breno](https://github.com/BrenoLteixeira) |
 | L08 - Parceiro | Estabelecimento conveniado, Empresa parceira | Entidade que aceita a carteira ID Jovem e concede os benefícios. | O Jovem Beneficiário pode consultar a lista de parceiros, visualizar sua localização e obter informações de contato. | Objeto | [RF10](../../Elicitacao/Requisitos_Elicitados.md#rf10), [RF13](../../Elicitacao/Requisitos_Elicitados.md#rf13) | [Breno](https://github.com/BrenoLteixeira) |
 | L09 - FAQ e Suporte       | Ajuda, Central de Atendimento   |   Seção do aplicativo dedicada a responder dúvidas frequentes e oferecer suporte técnico e informativo ao Jovem Beneficiário.   | Facilita o entendimento do funcionamento do aplicativo, reduzindo erros e aumentando a autonomia do jovem beneficiário.      | Objeto        | [RF06](../../Elicitacao/Requisitos_Elicitados.md#rf06)  | [Letícia](https://github.com/leticialopes20)    |
@@ -85,7 +81,7 @@ Os léxicos do tipo verbo representam ações ou operações que os Jovens Benef
 |--------|----------|-------|---------|---------------|-----------------|-------|
 | L13 - Cadastrar | Registrar, Incluir | Ação de criar um novo cadastro no sistema ID Jovem | Permite que o Jovem Beneficiário tenha acesso aos benefícios e serviços do programa | Verbo | [RF01](../../Elicitacao/Requisitos_Elicitados.md#rf01) | [Eduarda](https://github.com/eduardar0) |
 | L14 - Autenticar | Logar, Acessar | Processo de verificação de identidade via Gov.br | Permite o acesso seguro às funcionalidades do aplicativo ID Jovem | Verbo | [RF02](../../Elicitacao/Requisitos_Elicitados.md#rf02) | [Eduarda](https://github.com/eduardar0) |
-| L15 |  |  |  | Verbo | [](#) | Giovana |
+| L15 - Emitir | Gerar, Produzir, Criar, Disponibilizar | Ação de criar e disponibilizar a carteira digital ID Jovem para o beneficiário após validação dos dados. | Permite que o Jovem Beneficiário tenha acesso à sua carteirinha digital, garantindo o uso dos benefícios do programa. | Verbo | [RF03](../../Elicitacao/Requisitos_Elicitados.md#rf02) | [Giovana](https://github.com/GiovanaFontesS)  |
 | L16 - Compartilhar | Enviar, Exportar | Ação de enviar ou disponibilizar a carteira digital ID Jovem em PDF ou imagem para terceiros. | Permite que o Jovem Beneficiário compartilhe sua carteirinha de forma segura, mantendo a validade do benefício e o controle sobre seus dados. | Verbo | [RF17, RFN05](#) | Arthur |
 | L17 - Atualizar| Editar, Modificar | Ação que permite ao Jovem Beneficiário alterar informações pessoais ou preferências cadastradas. |Garante que os dados do jovem beneficiário permaneçam corretos e sincronizados com o CadÚnico, evitando inconsistências.  | Verbo | [RF19](../../Elicitacao/Requisitos_Elicitados.md#19) | [Dylan](https://github.com/dylancavalcante) |
 | L18 - Consultar | Pesquisar, Verificar, Visualizar | Ação de buscar informações sobre benefícios, parceiros ou o histórico de uso da carteira. | Exibe ao Jovem Beneficiário as informações solicitadas, permitindo-lhe planejar o uso de seus direitos e acompanhar seu uso. | Verbo | [RF04](../../Elicitacao/Requisitos_Elicitados.md#rf04), [RF10](../../Elicitacao/Requisitos_Elicitados.md#rf10), [RF12](../../Elicitacao/Requisitos_Elicitados.md#rf12) | [Breno](https://github.com/BrenoLteixeira) |
@@ -104,7 +100,7 @@ Os léxicos do tipo estado referem-se às condições, situações ou configura�
 |--------|----------|-------|---------|---------------|-----------------|-------|
 | L21 - Elegível | Qualificado, Aptidão | Condição do Jovem Beneficiário que atende aos critérios do programa | Permite o acesso e utilização dos benefícios do ID Jovem | Estado | [RF15](../../Elicitacao/Requisitos_Elicitados.md#rf15) | [Eduarda](https://github.com/eduardar0) |
 | L22 - Ativo | Válido, Vigente | Estado da carteira digital que está dentro do prazo de validade | Permite a utilização dos benefícios em estabelecimentos parceiros | Estado | [RF03](../../Elicitacao/Requisitos_Elicitados.md#rf03) | [Eduarda](https://github.com/eduardar0) |
-| L23 |  |  |  | Estado | [](#) | Giovana |
+| L23- Download Realizado | Salvo, Offline | Estado em que o Jovem Beneficiário possui a carteirinha disponível para uso offline  | Permite utilização do benefício sem conexão com a internet | Estado | [RF09](../../Elicitacao/Requisitos_Elicitados.md#rf03) | Giovana |
 | L24 - Pendência | Alerta, Problema  | Condição do Jovem Beneficiário que indica que há algum problema ou ação necessária relacionada aos benefícios  | Bloqueia ou restringe temporariamente o acesso a determinados benefícios até que a situação seja resolvida  | Estado | [RF18, RF20](#) | Arthur |
 | L25 - Sincronizado| Atualizado, Conectado |Estado em que os dados do Jovem Beneficiário estão alinhados com as informações do Gov.br e CadÚnico. | Garante o funcionamento correto dos serviços e a validade da carteira digital. | Estado | [RF07, RF16](../../Elicitacao/Requisitos_Elicitados.md#rf16) | [Dylan](https://github.com/dylancavalcante)  |
 | L26 - Vencido | Expirado, Inválido | Estado da carteira digital após o término de seu prazo de validade. | Impede o Jovem Beneficiário de utilizar os benefícios e o instrui a realizar a renovação do cadastro. | Estado | [RF08](../../Elicitacao/Requisitos_Elicitados.md#rf08) | [Breno](https://github.com/brenolteixeira)|
@@ -112,8 +108,47 @@ Os léxicos do tipo estado referem-se às condições, situações ou configura�
 | L28 - Personalizado |Configurado, Adaptado  |Estado do aplicativo após o usuário definir suas preferências pessoais e filtros de eventos.  | Melhora a experiência de uso, exibindo conteúdos e benefícios conforme os interesses do Jovem Beneficiário. | Estado | [RF28](../../Elicitacao/Requisitos_Elicitados.md#28) | [Leticia](https://github.com/leticialopes20)  |
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 4: </b>Léxicos classificados como Estados (Autor: Fonte: Arthur, Breno, Dylan, Eduarda, Giovana, Leticia, 2025)</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 4: </b>Léxicos classificados como Estados (Fonte: Arthur, Breno, Dylan, Eduarda, Giovana, Leticia, 2025)</p></font>
 </div>
+
+
+# Ligações entre Léxicos
+
+### Tabela de Ligações
+
+
+| Léxico | Ligações Diretas | Tipo de Ligação |
+|--------|------------------|----------------|
+| L01 - Jovem Beneficiário | L13 - Cadastrar, L14 - Autenticar, L21 - Elegível, L22 - Ativo | Objeto-Verbo, Objeto-Estado |
+| L02 - Carteira Digital | L15 - Emitir, L16 - Compartilhar, L22 - Ativo, L26 - Vencido | Objeto-Verbo, Objeto-Estado |
+| L03 - Cadastro | L13 - Cadastrar, L17 - Atualizar, L21 - Elegível | Objeto-Verbo, Objeto-Estado |
+| L04 - Elegibilidade | L21 - Elegível, L13 - Cadastrar, L15 - Emitir | Objeto-Estado, Objeto-Verbo |
+| L05 - Transporte Gratuito | L18 - Consultar, L07 - Benefício | Objeto-Verbo, Objeto-Objeto |
+| L06 - Estabelecimento Conveniado | L18 - Consultar, L19 - Favoritar, L20 - Denunciar | Objeto-Verbo |
+| L07 - Benefício | L18 - Consultar, L05 - Transporte Gratuito, L08 - Parceiro | Objeto-Verbo, Objeto-Objeto |
+| L08 - Parceiro | L18 - Consultar, L19 - Favoritar, L20 - Denunciar | Objeto-Verbo |
+| L09 - FAQ e Suporte | L18 - Consultar | Objeto-Verbo |
+| L10 - Agenda de Eventos | L18 - Consultar, L19 - Favoritar | Objeto-Verbo |
+| L11 - Notificação | L26 - Vencido, L25 - Sincronizado | Objeto-Estado |
+| L12 - Mapa Interativo | L18 - Consultar, L08 - Parceiro | Objeto-Verbo, Objeto-Objeto |
+| L13 - Cadastrar | L01 - Jovem Beneficiário, L03 - Cadastro, L21 - Elegível | Verbo-Objeto, Verbo-Estado |
+| L14 - Autenticar | L01 - Jovem Beneficiário, L25 - Sincronizado | Verbo-Objeto, Verbo-Estado |
+| L15 - Emitir | L02 - Carteira Digital, L04 - Elegibilidade, L21 - Elegível | Verbo-Objeto, Verbo-Estado |
+| L16 - Compartilhar | L02 - Carteira Digital | Verbo-Objeto |
+| L17 - Atualizar | L03 - Cadastro, L25 - Sincronizado | Verbo-Objeto, Verbo-Estado |
+| L18 - Consultar | L07 - Benefício, L08 - Parceiro, L10 - Agenda de Eventos, L12 - Mapa Interativo | Verbo-Objeto |
+| L19 - Favoritar | L06 - Estabelecimento Conveniado, L08 - Parceiro, L10 - Agenda de Eventos | Verbo-Objeto |
+| L20 - Denunciar | L06 - Estabelecimento Conveniado, L08 - Parceiro, L27 - Em Análise | Verbo-Objeto, Verbo-Estado |
+| L21 - Elegível | L01 - Jovem Beneficiário, L03 - Cadastro, L04 - Elegibilidade, L15 - Emitir | Estado-Objeto, Estado-Verbo |
+| L22 - Ativo | L01 - Jovem Beneficiário, L02 - Carteira Digital | Estado-Objeto |
+| L23 - Download Realizado | L02 - Carteira Digital, L16 - Compartilhar | Estado-Objeto, Estado-Verbo |
+| L24 - Pendência | L01 - Jovem Beneficiário, L17 - Atualizar | Estado-Objeto, Estado-Verbo |
+| L25 - Sincronizado | L14 - Autenticar, L17 - Atualizar, L11 - Notificação | Estado-Verbo, Estado-Objeto |
+| L26 - Vencido | L02 - Carteira Digital, L11 - Notificação | Estado-Objeto |
+| L27 - Em Análise | L20 - Denunciar, L28 - Personalizado | Estado-Verbo, Estado-Estado |
+| L28 - Personalizado | L19 - Favoritar, L27 - Em Análise | Estado-Verbo, Estado-Estado |
+
+<div align="center"> <font size="3"><p style="text-align: center"><b>Tabela 5:</b> Ligações entre Léxicos do ID Jovem (Fonte: Arthur, Breno, Dylan, Eduarda, Giovana, Leticia, 2025, 2025)</p></font> </div>
 
 ## Referência bibliográfica
 > <a id="QT1" href="#anchor_1">1.</a> SERRANO, Milene. Requisitos - Aula 10. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: [Requisitos - Aula 10](https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf). Página 19. Acesso em: 11 de Outubro de 2025.
@@ -136,4 +171,6 @@ Os léxicos do tipo estado referem-se às condições, situações ou configura�
 |  `1.5` | 11/10/2025 | Adicionado L01, L02, L013, L14, L21, L22 | [Eduarda](https://github.com/eduardar0) | [Giovana](https://github.com/GiovanaFontesS) |
 |  `1.6` | 12/10/2025 | Adicionado L07, L08, L018, L26| [Breno](https://github.com/brenolteixeira) | [Eduarda](https://github.com/Eduarar0) |
 |  `1.7` | 12/10/2025 | Adicionado L04, L05, L16, L24| [Arthur](https://github.com/arthurfernandesj) | [Eduarda](https://github.com/Eduarar0)|
-|  `1.8` | 12/10/2025 | Adicionado L09, L10, L11, L12, L15, L17, L19, L20, L25,  L27 e L28| [Dylan](https://github.com/dylancavalcante) | [Eduarda](https://github.com/Eduarar0)|
+|  `1.8` | 12/10/2025 | Adicionado L11, L12, L15, L17, L25| [Dylan](https://github.com/dylancavalcante) | [Eduarda](https://github.com/Eduarar0)|
+|  `1.9` | 12/10/2025 | Adicionado L09, L10, L19, L20, L27 e L28| [Leticia](https://github.com/leticialopes20) | [Eduarda](https://github.com/Eduarar0)|
+|  `2.0` | 12/10/2025 | Adicionado tabela de ligação entre lexicos| [Eduarda](https://github.com/Eduarar0) | [Dylan](https://github.com/dylancavalcante)|

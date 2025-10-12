@@ -7,218 +7,200 @@ A **Especificação Suplementar**, no contexto da engenharia de software, refere
 
 ## Metodologia
 
-A Metodologia utilizada neste artefato foi baseada no modelo FURPS+. "É um sistema para a classificação de requisitos, o acrônimo representa categorias que podem ser usadas na definição de requisitos" <a id="TEC3" href="#RP3">[3]</a>. Dentre elas: Funcionalidade, Usabilidade, Confiabilidade, Desempenho, Suportabilidade, sendo que o "+" engloba outros requisitos não-funcionais: requisitos de design, requisitos de implementação, requisitos de interface, requisitos físicos <a id="TEC3" href="#RP3">[3]</a>.
+A Metodologia utilizada neste artefato foi baseada no modelo FURPS+. "É um sistema para a classificação de requisitos, o acrônimo representa categorias que podem ser usadas na definição de requisitos" <a id="TEC3" href="#RP3">[3]</a>. Dentre elas: Funcionalidade, Usabilidade, Confiabilidade, Desempenho, Suportabilidade. <a id="TEC3" href="#RP3">[3]</a>.
 
-Este artefato foi desenvolvido de maneira assíncrona por cada membro do grupo. Após a conclusão, o material foi enviado ao [nome](https://github.com/) e [nome](https://github.com/), que ficaram responsáveis pela criação e publicação da página no GitHub Pages.
+A Tabela 1 apresenta os membros responsáveis pelo desenvolvimento deste artefato.
 
-A Legenda para identificação dos requisitos em cada acrônimo estão representadas na tabela 1 e na tabela 2.
-
-
-<p style="text-align: center"><strong>Tabela 1 -</strong> Legenda das tabelas FURPS</p>
-
-| Acrônimo | Significado | Tradução | Identificador |
-|:--:|:--:|:--:|:--:|
-| F | Functionality | Funcionalidade | - |
-| U | Usability | Usabilidade | RU |
-| R | Reliability | Confiabilidade | RR |
-| P | Performance | Desempenho | RP |
-| S | Supportability | Suportabilidade | RS |
-
-<p style="text-align: center"><strong>Fonte:</strong> <a href="https://github.com/">Arthur Fernandes</a>, 2025</p>
+<p style="text-align: center"><strong>Tabela 1-</strong> Participantes</p>
+<div align="center">
+<table>
+<thead>
+<tr>
+<th>Nome</th>
+<th>Data</th>
+<th>Hora</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></td>
+<td>12/10/2025</td>
+<td>17:50</td>
+</tr>
+<tr>
+<td><a href="https://github.com/BrenoLTeixeira">Breno Lourenço</a></td>
+<td>12/10/2025</td>
+<td>17:50</td>
+</tr>
+<tr>
+<td><a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></td>
+<td>12/10/2025</td>
+<td>17:50</td>
+</tr>
+<tr>
+<td><a href="https://github.com/eduardar0">Eduarda Domingos</a></td>
+<td>12/10/2025</td>
+<td>17:50</td>
+</tr>
+<tr>
+<td><a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></td>
+<td>12/10/2025</td>
+<td>17:50</td>
+</tr>
+<tr>
+<td><a href="https://github.com/leticialopes20">Letícia Lopes</a></td>
+<td>12/10/2025</td>
+<td>17:50</td>
+</tr>
+</tbody>
+</table>
+</div>
+<font size="2"><p style="text-align: center">Fonte: <i>[Leticia Lopes](https://github.com/leticialopes20)</i> </p></font>
 
 ---
 
-<p style="text-align: center"><strong>Tabela 2 -</strong> Legenda das tabelas +</p>
+## Modelo FURPS
 
-| Acrônimo | Significado | Tradução | Identificador |
-|:--:|:--:|:--:|:--:|
-| +D | Plus: Design constrains | Requisitos de Design | +D |
-| +Im | Plus: Implementation constrains | Requisitos de Implementação | +Im |
-| +In | Plus: Interface constrains | Requisitos de Interface | +In |
-| +P | Plus: Physical constrains | Requisitos Físicos | +P |
+
+
+A Legenda para identificação dos requisitos em cada acrônimo estão representadas na tabela 2.
+
+
+
+<p style="text-align: center"><strong>Tabela 2 -</strong> Legenda do modelo FURPS</p>
+<div align="center">
+<table>
+<thead>
+<tr>
+<th>Acrônimo</th>
+<th>Significado</th>
+<th>Tradução</th>
+<th>Identificador</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>F</td>
+<td>Functionality</td>
+<td><a href="#funcionalidade">Funcionalidade</a></td>
+<td>-</td>
+</tr>
+<tr>
+<td>U</td>
+<td>Usability</td>
+<td><a href="#usabilidade">Usabilidade</a></td>
+<td>RU</td>
+</tr>
+<tr>
+<td>R</td>
+<td>Reliability</td>
+<td><a href="#confiabilidade">Confiabilidade</a></td>
+<td>RR</td>
+</tr>
+<tr>
+<td>P</td>
+<td>Performance</td>
+<td><a href="#desempenho">Desempenho</a></td>
+<td>RP</td>
+</tr>
+<tr>
+<td>S</td>
+<td>Supportability</td>
+<td><a href="#suportabilidade">Suportabilidade</a></td>
+<td>RS</td>
+</tr>
+</tbody>
+</table>
+</div>
+
 
 <p style="text-align: center"><strong>Fonte:</strong> <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a>, 2025</p>
 
-## Funcionalidade
+
+### Funcionalidade
 
 A **funcionalidade** trata do núcleo do sistema, abordando as funções e capacidades que o software precisa oferecer. Os requisitos de funcionalidade especificam o que o sistema deve fazer, englobando tarefas, operações, recursos e comportamentos esperados.
 
-Os requisitos funcionais foram capturados ateriormente com as técnicas de [Brainstorming](), [Introspeção](), [Entrevista](), [Observação](), [Storytelling](), e podem ser consultados em [Técnicas Elicitados](). Os casos de uso também podem ser considerados como requisitos funcionais. 
+Os requisitos funcionais foram capturados ateriormente com as técnicas de [Brainstorming](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/), [Introspeção](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspec%C3%A7%C3%A3o/), [Entrevista](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/), [Observação](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Observa%C3%A7%C3%A3o/), [Storytelling](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Observa%C3%A7%C3%A3o/), e podem ser consultados em [Requisitos Elicitados](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/). 
 
-## Usabilidade
+### Usabilidade
 
 A **usabilidade** no contexto do **aplicativo ID Jovem** refere-se à facilidade com que os jovens conseguem emitir, acessar e utilizar seu documento digital de identificação para obter benefícios, como meia-entrada em eventos culturais, esportivos e transporte interestadual gratuito ou com desconto. Essa usabilidade deve garantir simplicidade, acessibilidade e clareza nas informações apresentadas, considerando a diversidade do público jovem, incluindo pessoas com deficiência.
 
-Esta seção abrange todos os requisitos que influenciam a usabilidade do sistema. Os requisitos não funcionais relacionados à usabilidade estão descritos na **Tabela 3**.
+Esta seção abrange todos os requisitos que influenciam a usabilidade do sistema. Os requisitos não funcionais relacionados à usabilidade estão descritos na Tabela 3.
 
-<p align="center"><strong>Tabela 3 -</strong> Requisitos de Usabilidade do ID Jovem</p>
+#### <p style="text-align: center"><strong>Tabela 3 -</strong>  Requisitos de Usabilidade</p>
 
-| ID | Descrição do requisito |
-|:-:|:-:|
-| RU001 | O aplicativo ID Jovem deve ser fácil e intuitivo, permitindo que o jovem emita ou acesse sua identificação digital em até 5 minutos. |
-| RU002 | O aplicativo deve informar o usuário, ao clicar em links externos (como acesso ao site do Governo Federal ou transportadoras), que será redirecionado para fora do ambiente do ID Jovem. |
-| RU003 | Todas as imagens e ícones significativos devem conter texto alternativo que descreva sua função, garantindo acessibilidade a leitores de tela. |
-| RU004 | Vídeos ou áudios explicativos sobre o uso do ID Jovem não devem iniciar automaticamente e devem oferecer transcrição. |
-| RU005 | O fluxo de navegação deve ser lógico e contínuo, permitindo que o usuário retorne facilmente à tela inicial ou anterior. |
-| RU006 | Os botões e rótulos devem possuir textos curtos e objetivos, como “Emitir ID”, “Consultar Benefício” e “Atualizar Dados”. |
-| RU007 | O aplicativo deve disponibilizar **modo de alto contraste** para usuários com baixa visão. |
-| RU008 | As fontes devem possuir tamanho ajustável pelo usuário e não serem fixas. |
-| RU009 | O contraste entre elementos da interface e o plano de fundo deve atender aos critérios de sucesso **WCAG AA**. |
-| RU010 | O contraste entre textos normais e o plano de fundo deve atender aos critérios de sucesso **WCAG AAA**. |
-| RU011 | O contraste de textos grandes e o plano de fundo também deve atender aos critérios **WCAG AAA**. |
-| RU012 | A hierarquia de conteúdo (título, subtítulo, texto e botões) deve seguir uma estrutura lógica e coerente. |
-| RU013 | Caso sejam utilizados modais (como mensagens de confirmação ou erro), eles devem ser fáceis de fechar e não ocupar toda a tela. |
-| RU014 | O aplicativo deve ser responsivo, permitindo uso tanto na orientação vertical quanto horizontal do dispositivo. |
-| RU015 | Não deve haver rolagem horizontal nas telas do aplicativo. |
-| RU016 | Deve haver espaçamento adequado entre botões e elementos interativos, evitando toques acidentais. |
-| RU017 | O aplicativo deve incluir um campo de busca para localizar rapidamente informações, como pontos de emissão e transportadoras parceiras. |
-| RU018 | O aplicativo deve exibir mensagens de erro e sucesso de forma clara e também oferecer suporte sonoro para usuários cegos. |
-| RU019 | As áreas clicáveis (botões e links) devem ter dimensões mínimas de **44px x 44px**, conforme diretrizes de acessibilidade móvel. |
+|   Código   | Requisito Não Funcional         | Descrição                                                                                         | Justificativa                                                               |      Status      | Autor                                |
+| :--------: | :------------------------------ | :------------------------------------------------------------------------------------------------ | :-------------------------------------------------------------------------- | :--------------: | :----------------------------------- |
+| [RNF01](#) | Processo de login simplificado  | O processo de login deve ser simples, direto e com o menor número de etapas possível.             | Facilitar o acesso dos jovens beneficiários, reduzindo barreiras de uso.    |   Implementado   | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| [RNF02](#) | Interface intuitiva e acessível | A interface deve ser clara, legível e acessível, mesmo para jovens com pouca experiência digital. | Promover inclusão digital e acessibilidade conforme princípios da WCAG 2.1. |   Implementado   | [Arthur Fernandes](https://github.com/arthurfernandesj)|
+| [RNF07](#) | Recursos de acessibilidade | O aplicativo deve possuir alto contraste, leitura de tela, voz e Libras. | Tornar o app acessível a jovens com deficiência visual ou auditiva. |   Implementado   | [Eduarda Domingos](https://github.com/eduardar0)|
+| [RNF13](#) | Navegação consistente           | A navegação entre seções deve ser previsível e coesa.                                             | Facilitar o uso e aprendizado do sistema.                                   | Não implementado | [Eduarda Domingos](https://github.com/eduardar0) |
+| [RNF14](#) | Feedback visual e sonoro        | O aplicativo deve emitir feedback claro a cada interação.                                         | Melhorar a compreensão e confirmar ações realizadas.                        | Não implementado | [Giovana Fontes](https://github.com/GiovanaFontesS) |
+| [RNF18](#) | Personalização de leitura       | O jovem beneficiário deve poder ajustar o tamanho da fonte e o esquema de cores.                  | Garantir conforto visual e legibilidade.                                    | Não implementado | [Giovana Fontes](https://github.com/GiovanaFontesS) |
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a> 2025</p></font>
+<p align="center"><strong>Fontes:</strong> <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a>, <a href="https://github.com/eduardar0">Eduarda Domingos</a>, <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, 2025</p>
 
 
-## Confiabilidade
+
+### Confiabilidade
 
 A **confiabilidade** refere-se à habilidade do sistema de operar continuamente e sem problemas, reduzindo ao máximo as falhas. Isso envolve a capacidade de lidar com falhas, a forma como os erros são gerenciados e a disponibilidade constante do sistema. Refere-se a integridade, conformidade e interoperabilidade do software [3].
 
-Esta seção inclui todos os requisitos que afetam a confiabilidade. Os requisitos de confiabilidade estão representados na tabela 4.
+Esta seção abrange todos os requisitos que influenciam o Confiabilidade do sistema. Os requisitos não funcionais relacionados à confiabilidade estão descritos na Tabela 4.
 
-### Tabela 4 – Requisitos de Confiabilidade
+#### <p style="text-align: center"><strong>Tabela 4 -</strong>  Requisitos de Confiabilidade</p>
 
-<p align="center" > <strong> Tabela 4 - </Strong> Requisitos de Design</font> <gitbr></p>
+|   Código   | Requisito Não Funcional | Descrição                                                                          | Justificativa                                         |      Status      | Autor                                |
+| :--------: | :---------------------- | :--------------------------------------------------------------------------------- | :---------------------------------------------------- | :--------------: | :----------------------------------- |
+| [RNF05](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Proteção de dados pessoais | Os dados do jovem beneficiário devem ser protegidos por criptografia conforme a LGPD. | Garantir a segurança e confidencialidade das informações pessoais. | Implementado | [Letícia Lopes](https://github.com/leticialopes20) |
+| [RNF08](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Alta disponibilidade    | O sistema deve garantir disponibilidade mínima de 99,5%.                           | Evitar falhas de acesso e interrupções nos serviços.  | Não implementado | [Letícia Lopes](https://github.com/leticialopes20) |
+| [RNF11](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Sincronização de dados  | As informações dos benefícios devem estar sempre sincronizadas com a base oficial. | Garantir transparência e atualização das informações. | Não implementado | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+| [RNF15](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Controle de inatividade | O sistema deve ter no máximo 2h de inatividade mensal fora de manutenções.         | Garantir confiabilidade e continuidade de serviço.    | Não implementado | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+| [RNF19](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Registro de validações  | O sistema deve registrar todas as tentativas de validação de carteirinhas.         | Assegurar rastreabilidade e auditoria de ações.       | Não implementado | [Breno Lourenço](https://github.com/BrenoLTeixeira) |
+| [RNF22](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Log de auditoria        | O sistema deve armazenar logs de emissões e validações por 5 anos.                 | Garantir rastreabilidade e controle de histórico.     | Não implementado | [Breno Lourenço](https://github.com/BrenoLTeixeira) |
 
-|ID|Descrição do requisito|
-|:-:|:-:|
-|  | 
-|  | 
-|  | 
-|  | 
-|  | 
-
-<font size="3"><p style="text-align: center"><b>Fonte:</b>Arthur<a href="https://github.com/"></a>, 2025</p></font>
+<p align="center"><strong>Fontes:</strong> <a href="https://github.com/leticialopes20">Letícia Lopes</a>, <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a>, <a href="https://github.com/BrenoLTeixeira">Breno Lourenço</a>, 2025</p>
 
 
-## Desempenho
+### Desempenho
 
 O **desempenho** diz respeito à rapidez e eficiência com que o sistema opera. Os requisitos de desempenho incluem fatores como a velocidade de resposta, a capacidade de processamento de dados e a habilidade do sistema de crescer e se adaptar a Outores demandas.
 
-Esta seção inclui todos os requisitos que afetam o desempenho. Os requisitos de desempenho estão representados na tabela 5.
+Esta seção abrange todos os requisitos que influenciam o desempenho do sistema. Os requisitos não funcionais relacionados à desempenho estão descritos na Tabela 5.
 
-### Tabela 5 – Requisitos de Desempenho
+#### <p style="text-align: center"><strong>Tabela 5 -</strong>  Requisitos de Desempenho </p>
 
-<p align="center" > <strong> Tabela 5 - </Strong> Requisitos de Design</font> <gitbr></p>
+|   Código   | Requisito Não Funcional                | Descrição                                                                                 | Justificativa                                                             |      Status      | Autor                                |
+| :--------: | :------------------------------------- | :---------------------------------------------------------------------------------------- | :------------------------------------------------------------------------ | :--------------: | :----------------------------------- |
+| [RNF03](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Emissão rápida da carteirinha          | A emissão da carteirinha deve ocorrer em até 5 segundos após a solicitação.               | Melhorar a experiência e reduzir o tempo de espera do jovem beneficiário. |   Implementado   | [Giovana Fontes](https://github.com/GiovanaFontesS) |
+| [RNF06](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Operação com baixo consumo de internet | O aplicativo deve funcionar com baixo consumo de dados e em regiões com conexão limitada. | Aumentar o acesso ao serviço por jovens em regiões carentes.              | Não implementado | [Giovana Fontes](https://github.com/GiovanaFontesS) |
+| [RNF10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Carregamento eficiente                 | O tempo de carregamento das páginas não deve exceder 3 segundos em redes lentas.          | Melhorar o desempenho e reduzir frustrações no uso.                       | Não implementado | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| [RNF16](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Validação rápida da carteirinha        | O tempo de resposta da validação via QR Code não deve exceder 2 segundos.                 | Evitar atrasos em fiscalizações ou eventos.                               | Não implementado | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| [RNF20](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Consulta rápida ao CadÚnico            | O retorno da verificação de elegibilidade deve ocorrer em até 3 segundos.                 | Melhorar o tempo de resposta e a satisfação dos jovens beneficiários.     | Não implementado | [Letícia Lopes](https://github.com/leticialopes20) |
+| [RNF23](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Carregamento de dados                  | O aplicativo deve carregar informações de eventos e parceiros em até 3 segundos.          | Garantir desempenho mesmo com alto volume de dados.                       | Não implementado | [Letícia Lopes](https://github.com/leticialopes20) |
 
-|ID|Descrição do requisito|
-|:-:|:-:|
-|  | 
-|  | 
-|  | 
-|  | 
-|  | 
+<p align="center"><strong>Fontes:</strong> <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a>, <a href="https://github.com/leticialopes20">Letícia Lopes</a>, 2025</p>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Breno<a href="https://github.com/"></a>, 2025</p></font>
-
-
-
-## Suportabilidade
+### Suportabilidade
 
 A **suportabilidade** refere-se à facilidade de manter e suportar o sistema ao longo do tempo. Isso envolve requisitos como a frequência e facilidade de atualizações, a manutenção contínua, a disponibilidade de documentação completa e a necessidade de treinamento para os usuários e administradores.
 
-Esta seção inclui todos os requisitos que afetam a suportabilidade. Os requisitos de suportabilidade estão representados na tabela 6.
+Esta seção abrange todos os requisitos que influenciam o Suportabilidade do sistema. Os requisitos não funcionais relacionados à suportabilidade estão descritos na Tabela 6.
 
-### Tabela 6 – Requisitos de Suportabilidade
+#### <p style="text-align: center"><strong>Tabela 6 -</strong>  Requisitos de suportabilidade </p>
 
-<p align="center" > <strong> Tabela 6 - </Strong> Requisitos de Design</font> <gitbr></p>
+|   Código   | Requisito Não Funcional           | Descrição                                                                                          | Justificativa                                                    |      Status      | Autor                                |
+| :--------: | :-------------------------------- | :------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------- | :--------------: | :----------------------------------- |
+| [RNF04](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Compatibilidade com Android e iOS | O aplicativo deve ser gratuito e compatível com sistemas Android e iOS.                            | Garantir o acesso universal à plataforma.                        |   Implementado   | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+| [RNF09](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Design responsivo                 | O design deve se adaptar a diferentes tamanhos de tela e dispositivos.                             | Garantir boa experiência em smartphones, tablets e computadores. |   Implementado   | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+| [RNF12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Compatibilidade retroativa        | O sistema deve funcionar nas duas versões anteriores dos principais navegadores e sistemas móveis. | Ampliar o alcance e evitar incompatibilidades.                   | Não implementado | [Breno Lourenço](https://github.com/BrenoLTeixeira) |
+| [RNF17](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Ciclo de atualização              | A equipe deve liberar atualizações de segurança a cada 3 meses.                                    | Manter o aplicativo seguro e estável.                            | Não implementado | [Breno Lourenço](https://github.com/BrenoLTeixeira) |
+| [RNF21](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Escalabilidade do sistema         | O sistema deve suportar aumento de 50% de beneficiários sem perda de desempenho.                   | Garantir estabilidade com o crescimento da base de usuários.     | Não implementado | [ Eduarda Domingos](https://github.com/eduardar0) |
+| [RNF24](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Compatibilidade com API           | O app deve suportar a API mais recente e as duas versões anteriores do sistema operacional.        | Evitar falhas e garantir funcionamento contínuo.                 | Não implementado | [Eduarda Domingos](https://github.com/eduardar0) |
 
-|ID|Descrição do requisito|
-|:-:|:-:|
-|  | 
-|  | 
-|  | 
-|  | 
-|  | 
-
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Dylan <a href="https://github.com/"></a>, 2025</p></font>
-
-
-## Outros requisitos do Produto (+)
-
-A categoria "+", também conhecida como "Suplementar" ou "Qualidades do Sistema", abrange quaisquer requisitos que não se enquadrem nas categorias anteriores. Isso pode incluir exigências legais, éticas, regulatórias, ambientais ou outros requisitos específicos do projeto.
-
-
-### Requisitos de Design
-
-"Requisitos de design (desenho) – Um requisito de design, freqüentemente chamado de uma restrição de design, especifica ou restringe o design de um sistema. Exemplos podem incluir: linguagens de programação, processo de software, uso de ferramentas de desenvolvimento, biblioteca de classes, etc"  <a id="TEC3" href="#RP3">[3]</a>. Os requisitos de design estão representados na tabela 7.
-
-<p align="center" > <strong> Tabela 7 - </Strong> Requisitos de Design</font> <gitbr></p>
-
-|ID|Descrição do requisito|
-|:-:|:-:|
-|  | 
-|  | 
-|  | 
-|  | 
-|  | 
-
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Eduarda<a href="https://github.com/"></a>, 2025</p></font>
-
-
-
-### Requisitos de Implementação
-
-"Requisitos de implementação – Um requisito de implementação especifica ou restringe o código ou a construção de um sistema. Como exemplos, podemos citar: padrões obrigatórios, linguagens de implementação, políticas de integridade de banco de dados, limites de recursos, ambientes operacionais" <a id="TEC3" href="#RP3">[3]</a>. Os requisitos de implementação estão representados na tabela 8.
-
-<p align="center" > <strong> Tabela 8 - </Strong> Requisitos de Design</font> <gitbr></p>
-
-|ID|Descrição do requisito|
-|:-:|:-:|
-|  | 
-|  | 
-|  | 
-|  | 
-|  | 
-
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Eduarda <a href="https://github.com/"></a>, 2025</p></font>
-
-
-
-
-
-### Requisitos de interface
-
-"Requisitos de interface – especifica ou restringe as funcionalidades inerentes a interface do sistema com usuário" <a id="TEC3" href="#RP3">[3]</a>. Os requisitos de interface estão representados na tabela 9.
-
-<p align="center" > <strong> Tabela 9 - </Strong> Requisitos de Design</font> <gitbr></p>
-
-|ID|Descrição do requisito|
-|:-:|:-:|
-|  | 
-|  | 
-|  | 
-|  | 
-|  | 
-
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Giovana <a href="https://github.com/"></a>, 2025</p></font>
-
-
-
-### Requisitos Físicos
-
-"Requisitos físicos – especifica uma limitação física pelo hardware utilizado, por exemplo: material, forma, tamanho ou peso. Podendo representar requisitos de hardware, como as configurações físicas de rede obrigatórias" <a id="TEC3" href="#RP3">[3]</a>. Os requisitos físicos estão representados na tabela 10.
-
-<p align="center" > <strong> Tabela 10 - </Strong> Requisitos de Design</font> <gitbr></p>
-
-|ID|Descrição do requisito|
-|:-:|:-:|
-|  | 
-|  | 
-|  | 
-|  | 
-|  | 
-
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Leticia <a href="https://github.com/"></a>, 2025</p></font>
-
+<p align="center"><strong>Fontes:</strong> <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a>, <a href="https://github.com/BrenoLTeixeira">Breno Lourenço</a>, <a href="https://github.com/eduardar0">Eduarda Domingos</a>, 2025</p>
 
 ## Referências Bibliográficas
 
@@ -230,6 +212,6 @@ A categoria "+", também conhecida como "Suplementar" ou "Qualidades do Sistema"
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--------|------|-----------|-----------|-------------|
-| 1.0 | 09/10/2025 | Versão inicial da pagina de Especificação Suplementar. | [Arthur Fernandes](https://github.com/arthurfernandesj) | [ Leticia Lopes ](https://github.com/leticialopes20) |
-| 1.1 | 11/10/2025 | Conteúdo introdutório  | [Arthur Fernandes](https://github.com/arthurfernandesj) | [ Giovana ](https://github.com/) |
-| 1.2 | 12/10/2025 | Criação das tabelas de: COnfiabilidade, Desempenho, Suportabilidade e Outros requisitos do Produto  | [Arthur Fernandes](https://github.com/arthurfernandesj) | [ Eduarda ](https://github.com/) |
+| 1.0 | 09/10/2025 | Versão inicial da pagina de Especificação Suplementar. | [Arthur](https://github.com/arthurfernandesj) | [ Leticia ](https://github.com/leticialopes20) |
+| 1.1 | 11/10/2025 | Adição do texto da Introdução,Metodologia e Bibliografia| [Arthur ](https://github.com/arthurfernandesj), [Leticia ](https://github.com/leticialopes20) | [ Giovana](https://github.com/GiovanaFontesS) |
+| 1.2 | 12/10/2025 | Criação das tabelas de: Usabilidade, Confiabilidade, Desempenho, Suportabilidade e de participantes| [Arthur](https://github.com/arthurfernandesj), [Breno](https://github.com/BrenoLTeixeira), [Dylan ](https://github.com/dylancavalcante), [Eduarda](https://github.com/eduardar0), [Giovana](https://github.com/GiovanaFontesS), [Leticia](https://github.com/leticialopes20)| [Arthur](https://github.com/arthurfernandesj), [Breno](https://github.com/BrenoLTeixeira), [Dylan](https://github.com/dylancavalcante), [Eduarda](https://github.com/eduardar0), [Giovana](https://github.com/GiovanaFontesS), [Leticia](https://github.com/leticialopes20)|

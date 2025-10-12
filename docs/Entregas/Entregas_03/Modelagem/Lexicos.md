@@ -16,14 +16,14 @@ O uso do Léxico é justificado por ser uma forma de tratar aspectos abstratos o
 A metodologia para a criação do Léxico, conforme apresentado, exige que cada termo, ou símbolo, seja descrito com dois elementos chave: Noção e Impacto.
 
 ### **Noção (O Que é e O Que Faz):** 
-Define a descrição conceitual do símbolo. Dependendo do tipo de entrada, a Noção pode significar:
+Define a descrição conceitual do símbolo. Dependendo do tipo de entrada, a Noção pode significar: <a id="TEC1" href="#RP1">[1]</a>
 
 * Para um Verbo (ação), quem a realiza, qual ambiente ou procedimento está envolvido.
 * Para um Objeto (entidade), sua definição e as ações que podem ser aplicadas a ele.
 * Para um Estado (condição), o que ele significa e quais ações levam ou provocam o estado.
 
 ### **Impacto (Quais Ações Musculares):** 
-Descreve os reflexos ou consequências daquele símbolo.
+Descreve os reflexos ou consequências daquele símbolo.<a id="TEC1" href="#RP1">[1]</a>
 
 * Para um Verbo, descreve os reflexos no criador, no ambiente, nos outros criadores, e quais novos estados são consequentes.
 * Para um Objeto, as ações que podem ser realizadas para alterar o objeto e o impacto disso no sistema.
@@ -111,10 +111,14 @@ Os léxicos do tipo estado referem-se às condições, situações ou configura�
 <font size="3"><p style="text-align: center"><b>Tabela 4: </b>Léxicos classificados como Estados (Autor: Fonte: Arthur, Breno, Eduarda, Giovana, Leticia, 2025)</p></font>
 </div>
 
+## Referência bibliográfica
+> <a id="QT1" href="#anchor_1">1.</a> SERRANO, Milene. Requisitos - Aula 10. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: [Requisitos - Aula 10](https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf). Página 19. Acesso em: 11 de Outubro de 2025.
 
-## Referências Bibliográficas
+## Bibliografia
 
-< SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 10 [https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf]. Brasília: UnB Gama, [2023]. (Disponível em: Aula 10.pdf, com acesso em: 10 out. 2025.)
+> SERRANO, Milene. Requisitos - Aula 10. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: [Requisitos - Aula 10](https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf). Acesso em: 11 de Outubro de 2025.
+>
+
 
 ## Histórico de Versão
 
@@ -124,4 +128,5 @@ Os léxicos do tipo estado referem-se às condições, situações ou configura�
 |  `1.1` | 10/10/2025 | Conteúdo introdutório | [Giovana](https://github.com/GiovanaFontesS) |  [Dylan](https://github.com/dylancavalcante) |
 |  `1.2` | 11/10/2025 | Criação das tabelas de: Objetos, verbos e Estados | [Eduarda](https://github.com/eduardar0) |  [Giovana](https://github.com/GiovanaFontesS) |
 |  `1.3` | 11/10/2025 | Fix: tabela quebrada | [Eduarda](https://github.com/eduardar0) | [Dylan](https://github.com/dylancavalcante) |
-
+|  `1.4` | 11/10/2025 | Correção da bibliografia/referencia bibliográfica | [Eduarda](https://github.com/eduardar0) | [Dylan](https://github.com/dylancavalcante) |
+|  `1.5` | 11/10/2025 | Adicionado L01, L02, L013, L14, L21, L22 | [Eduarda](https://github.com/eduardar0) | [Giovana](https://github.com/GiovanaFontesS) |

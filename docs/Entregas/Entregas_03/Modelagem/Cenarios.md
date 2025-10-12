@@ -189,6 +189,39 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 
 <font size="2"><p style="text-align: center">Fonte: [Dylan Cavalcante](https://github.com/dylancavalcante)</p></font>
 
+### **Cenário 7: Compartilhamento da Carteirinha em PDF ou Imagem**
+
+<font size="3"><p style="text-align: center">Tabela 7: Cenário de Compartilhamento da Carteirinha em PDF ou Imagem</p></font>
+
+| **ID**         | [RF17](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf17) |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| **Objetivo**   | Permitir que o Jovem Beneficiário compartilhe sua carteirinha digital do ID Jovem em formato PDF ou imagem, facilitando o acesso em diferentes dispositivos ou o envio a terceiros. |
+| **Contexto**   | O Jovem Beneficiário deseja compartilhar a carteirinha digital com organizadores de eventos, empresas de transporte ou outras pessoas para comprovar seu direito ao benefício. |
+| **Atores**     | Jovem Beneficiário, Sistema do ID Jovem, Serviço de Compartilhamento do Dispositivo. |
+| **Recursos**   | Aplicativo ID Jovem (Web, iOS, Android), módulo de exportação, biblioteca de geração de PDF/imagem, permissões do sistema operacional. |
+| **Episódios**  | 1. O Jovem Beneficiário acessa o aplicativo e faz login.<br>2. O sistema valida o acesso e exibe a carteirinha digital do jovem.<br>3. O Jovem Beneficiário seleciona a opção “Compartilhar Carteirinha”.<br>4. O sistema oferece as opções de formato: PDF ou imagem (JPEG/PNG).<br>5. O Jovem Beneficiário escolhe o formato e o canal de envio (e-mail, WhatsApp, drive, etc.).<br>6. O sistema gera o arquivo e utiliza o serviço de compartilhamento nativo do dispositivo.<br>7. O envio é concluído e o sistema exibe uma mensagem de sucesso. |
+| **Restrições** | O compartilhamento só é permitido para usuários com carteirinha válida e ativa. O recurso requer permissões de armazenamento e compartilhamento no dispositivo. |
+| **Exceções**   | - Falha na geração do arquivo PDF/imagem.<br>- Jovem Beneficiário sem carteirinha ativa.<br>- Permissões de compartilhamento negadas.<br>- Interrupção no processo de envio. |
+| **Autor**      | [Giovana Fontes](https://github.com/GiovanaFontesS) |
+
+<font size="2"><p style="text-align: center">Fonte: [Giovana Fontes](https://github.com/GiovanaFontesS)</p></font>
+
+### **Cenário 8: Exibição de Pendências e Erros Relacionados aos Benefícios**
+
+<font size="3"><p style="text-align: center">Tabela 8: Cenário de Exibição de Pendências e Erros Relacionados aos Benefícios</p></font>
+
+| **ID**         | [RF18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf18) |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **Objetivo**   | Fornecer ao Jovem Beneficiário informações claras sobre pendências, inconsistências ou erros detectados em seus benefícios, permitindo a correção proativa de dados. |
+| **Contexto**   | O sistema detecta uma irregularidade ou falha ao validar as informações do jovem (ex: dados desatualizados, benefício suspenso, CPF inválido) e precisa comunicar o usuário. |
+| **Atores**     | Jovem Beneficiário, Sistema do ID Jovem, Banco de Dados de Benefícios, CadÚnico (integração futura). |
+| **Recursos**   | Aplicativo ID Jovem (Web, iOS, Android), módulo de notificações, serviço de validação de dados, conexão à internet. |
+| **Episódios**  | 1. O Jovem Beneficiário acessa o aplicativo e faz login.<br>2. O sistema realiza uma verificação automática dos dados do benefício.<br>3. Caso seja identificada alguma pendência, o sistema exibe uma notificação ao usuário.<br>4. O usuário acessa a seção “Pendências e Erros”.<br>5. O sistema lista as pendências detectadas, indicando o tipo de problema e orientações para resolver.<br>6. O Jovem Beneficiário pode optar por atualizar dados ou entrar em contato com o suporte. |
+| **Restrições** | A exibição de pendências depende da sincronização com o banco de dados e da validação correta das informações cadastrais. |
+| **Exceções**   | - Falha na conexão com o servidor.<br>- Erro ao sincronizar dados com o CadÚnico.<br>- Pendência não identificada corretamente.<br>- Tempo limite de resposta excedido. |
+| **Autor**      | [Giovana Fontes](https://github.com/GiovanaFontesS) |
+
+ <font size="2"><p style="text-align: center">Fonte: [Giovana Fontes](https://github.com/GiovanaFontesS)</p></font>
 
 ## Referências Bibliográficas
 

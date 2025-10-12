@@ -59,6 +59,10 @@ Isso ajudaria Camila a se sentir mais conectada à cidade e aproveitar melhor os
 | ST08 | RF | O usuário deve conseguir verificar histórico de viagens realizadas com o ID Jovem. | Não |
 | ST09 | RNF | O design deve ser acessível e responsivo em diferentes dispositivos. | Sim |
 | ST10 | RNF | O sistema deve garantir segurança e integridade dos dados dos usuários. | Sim |
+| ST11 | RNF | Usabilidade: O fluxo de emissão da carteirinha digital deve ser concluído em no máximo 5 passos | Não |
+| ST11 | RNF | Confiabilidade: O sistema deve manter um log de auditoria de todas as emissões e validações de carteirinhas por 5 anos. | Não |
+| ST13 | RNF | Desempenho: O aplicativo deve carregar as informações de eventos e parceiros em no máximo 3 segundos, mesmo com grande volume de dados. | Não |
+| ST14 | RNF | Suportabilidade: O aplicativo deve ser compatível com a API mais recente e as duas versões anteriores do sistema operacional móvel. | Não |
 
 ## Referências Bibliográficas
 

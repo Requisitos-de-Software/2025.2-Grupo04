@@ -404,6 +404,10 @@ O brainstorming foi realizado em formato de reunião e contou com a presença de
 | BS23          | O aplicativo deve ser compatível com Android e iOS.                                                            | Sim           |
 | BS24          | O aplicativo deve funcionar com baixo consumo de internet, garantindo acessibilidade a jovens em regiões carentes.| Não        |
 | BS25          | O aplicativo deve estar disponível em português e oferecer suporte básico em outros idiomas oficiais do Brasil (como Libras em vídeo). | Não |
+| BS26          | Usabilidade: O aplicativo deve apresentar um feedback visual e sonoro claro para cada interação do usuário. | Não |
+| BS27          | Confiabilidade: O sistema deve ter um tempo máximo de inatividade de 2 horas por mês, fora das janelas de manutenção programada. | Não |
+| BS28          | Desempenho: O tempo de resposta para validação da carteirinha (QR Code) não deve exceder 2 segundos. | Não |
+| BS29          | Suportabilidade: A equipe de desenvolvimento deve disponibilizar atualizações de segurança e correções de bugs em um ciclo de, no máximo, 3 meses | Não |
 
 <p align="center">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a> & <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a>, 2025.</p>
 

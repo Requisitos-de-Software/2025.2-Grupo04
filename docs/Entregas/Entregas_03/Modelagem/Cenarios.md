@@ -65,8 +65,8 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 </tr>
 <tr>
 <td><a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></td>
-<td>00/10/2025</td>
-<td>00:00</td>
+<td>12/10/2025</td>
+<td>02:33</td>
 </tr>
 <tr>
 <td><a href="https://github.com/leticialopes20">Letícia Lopes</a></td>

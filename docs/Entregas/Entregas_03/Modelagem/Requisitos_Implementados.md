@@ -4,6 +4,17 @@
 
 Esta seção apresenta os requisitos funcionais e não funcionais que ainda **não foram implementados** no aplicativo.
 
+## Metodologia
+
+Para identificar os requisitos não implementados, foi realizada uma análise comparativa entre os [requisitos elicitados]((https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf01)) e as funcionalidades disponíveis na versão atual do aplicativo ID Jovem. O processo seguiu as seguintes etapas:
+
+1. **Mapeamento dos Requisitos**: Todos os requisitos funcionais e não funcionais documentados foram revisados
+2. **Verificação de Implementação**: Cada requisito foi testado diretamente no aplicativo para confirmar sua disponibilidade
+3. **Classificação**: Os requisitos foram categorizados como "Implementado" ou "Não Implementado" com base nos testes realizados
+4. **Validação**: A lista foi revisada pela equipe para garantir a precisão das informações
+
+A seleção priorizou requisitos que agregariam valor significativo à experiência do jovem beneficiário e que estão alinhados com as necessidades identificadas durante a fase de elicitação.
+
 # Requisitos Não Implementados
 
 **Legenda:**

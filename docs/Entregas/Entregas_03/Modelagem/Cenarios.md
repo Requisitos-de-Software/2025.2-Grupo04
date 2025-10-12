@@ -162,10 +162,10 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 | **ID**         | [RF13](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf13) |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | **Objetivo**   | Permitir que o sistema apresente uma seção dedicada a novidades e divulgação de novos parceiros, incentivando o engajamento e uso contínuo do aplicativo. |
-| **Contexto**   | O usuário acessa o aplicativo ID Jovem e deseja se manter informado sobre atualizações, novos benefícios e parcerias disponíveis. |
+| **Contexto**   | O jovem beneficiário acessa o aplicativo ID Jovem e deseja se manter informado sobre atualizações, novos benefícios e parcerias disponíveis. |
 | **Atores**     | Jovem Beneficiário, Sistema do ID Jovem, Administrador do Sistema. |
 | **Recursos**   | Aplicativo ID Jovem, conexão à internet, módulo de gerenciamento de conteúdo, banco de dados de parceiros e notícias. |
-| **Episódios**  | 1. O usuário acessa a seção “Novidades e Parceiros” no menu principal do aplicativo.<br>2. O sistema consulta as informações mais recentes cadastradas pelo administrador.<br>3. São exibidas postagens sobre novas parcerias, eventos e benefícios.<br>4. O usuário pode clicar em uma notícia ou parceiro para obter mais detalhes.<br>5. O sistema permite curtir, compartilhar ou salvar as publicações para leitura posterior. |
+| **Episódios**  | 1. O jovem beneficiário acessa a seção “Novidades e Parceiros” no menu principal do aplicativo.<br>2. O sistema consulta as informações mais recentes cadastradas pelo administrador.<br>3. São exibidas postagens sobre novas parcerias, eventos e benefícios.<br>4. O jovem beneficiário pode clicar em uma notícia ou parceiro para obter mais detalhes.<br>5. O sistema permite curtir, compartilhar ou salvar as publicações para leitura posterior. |
 | **Restrições** | As informações devem ser publicadas apenas por administradores autorizados. O conteúdo exibido precisa ser validado e atualizado periodicamente. |
 | **Exceções**   | - Falha ao carregar os dados de novidades.<br>- Ausência de conexão com a internet.<br>- Nenhuma nova publicação disponível.<br>- Erro na atualização da base de parceiros. |
 | **Autor**      | [Dylan Cavalcante](https://github.com/dylancavalcante) |
@@ -179,11 +179,11 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 | **ID**         | [RF12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf12) |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | **Objetivo**   | Permitir que o Jovem Beneficiário visualize o histórico completo de utilização dos benefícios, incluindo passagens e entradas culturais obtidas. |
-| **Contexto**   | O usuário deseja verificar onde e quando utilizou seus benefícios, seja para controle pessoal ou comprovação do uso adequado do programa. |
+| **Contexto**   | O jovem beneficiário deseja verificar onde e quando utilizou seus benefícios, seja para controle pessoal ou comprovação do uso adequado do programa. |
 | **Atores**     | Jovem Beneficiário, Sistema do ID Jovem, Banco de Dados de Transações. |
 | **Recursos**   | Aplicativo ID Jovem (Web, iOS, Android), módulo de histórico de uso, conexão à internet, banco de dados de registros de utilização. |
-| **Episódios**  | 1. O usuário acessa o aplicativo e faz login.<br>2. O sistema valida as credenciais e exibe o menu principal.<br>3. O usuário seleciona a opção “Histórico de Benefícios”.<br>4. O sistema consulta o banco de dados e exibe uma lista detalhada de utilizações (data, local, tipo de benefício, valor e parceiro).<br>5. O usuário pode filtrar os registros por período, tipo de benefício ou local.<br>6. O sistema permite exportar o histórico em formato PDF ou CSV. |
-| **Restrições** | O histórico deve exibir apenas os registros associados ao usuário logado. A consulta depende de conexão ativa com o servidor. |
+| **Episódios**  | 1. O jovem beneficiário acessa o aplicativo e faz login.<br>2. O sistema valida as credenciais e exibe o menu principal.<br>3. O jovem beneficiário seleciona a opção “Histórico de Benefícios”.<br>4. O sistema consulta o banco de dados e exibe uma lista detalhada de utilizações (data, local, tipo de benefício, valor e parceiro).<br>5. O jovem beneficiário pode filtrar os registros por período, tipo de benefício ou local.<br>6. O sistema permite exportar o histórico em formato PDF ou CSV. |
+| **Restrições** | O histórico deve exibir apenas os registros associados aO jovem beneficiário logado. A consulta depende de conexão ativa com o servidor. |
 | **Exceções**   | - Falha na conexão com o banco de dados.<br>- Usuário sem histórico registrado.<br>- Erro ao exportar os dados.<br>- Tempo de resposta do servidor excedido. |
 | **Autor**      | [Dylan Cavalcante](https://github.com/dylancavalcante) |
 
@@ -192,7 +192,7 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 
 ## Referências Bibliográficas
 
-1. BARBOSA, Simone Diniz Junqueira et al. *Interação humano-computador e experiência do usuário.* Auto publicação, 2021.  
+1. BARBOSA, Simone Diniz Junqueira et al. *Interação humano-computador e experiência dO jovem beneficiário.* Auto publicação, 2021.  
 
 2. SERRANO, Milene; SERRANO, Maurício. *Requisitos – Aula 10.* UnB, 2025, p. 8. Disponível em: [https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf](https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf). Acesso em: 10 de outubro de 2025.
 

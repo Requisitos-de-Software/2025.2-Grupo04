@@ -49,44 +49,73 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 
 ---
 
-### UC1 - Consultar Locais parceiros
+### Caso de Uso 1 ([RF07](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf07))
+<font size="3"><p style="text-align: center">Tabela 1: Atualizar Dados via CadÚnico</p></font>
+| [RF07](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf07) | **Descrição** |
+| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome do Caso de Uso** | Atualizar Dados do Beneficiário via CadÚnico |
+| **Rastreabilidade** | [BS09](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/), [IDJ08](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspec%C3%A7%C3%A3o/) |
+| **Ator Principal** | Beneficiário do ID Jovem |
+| **Atores Secundários** | Sistema CadÚnico, Sistema ID Jovem |
+| **Objetivo** | Permitir que o sistema ID Jovem integre-se automaticamente com o CadÚnico para atualizar os dados do perfil do jovem. |
+| **Pré-condições** | - O participante do programa deve estar autenticado no aplicativo ID Jovem.<br>- O jovem deve estar cadastrado no CadÚnico. |
+| **Fluxo Principal de Eventos** | 1. O **beneficiário do ID Jovem** acessa o aplicativo.<br>2. Seleciona a opção “Atualizar meus dados”.<br>3. O sistema solicita autenticação e validação no CadÚnico.<br>4. O sistema recebe os dados atualizados do CadÚnico.<br>5. As informações do **perfil do jovem** são atualizadas automaticamente no ID Jovem.<br>6. O **beneficiário** recebe confirmação da atualização. |
+| **Fluxos Alternativos** | - O jovem opta por atualizar apenas dados específicos.<br>- O sistema exibe histórico de alterações feitas anteriormente via CadÚnico. |
+| **Exceções** | - Falha na conexão com CadÚnico: o sistema exibe mensagem de erro e oferece opção de tentar novamente.<br>- Dados divergentes: o sistema notifica o participante e solicita validação manual.<br>- Jovem não cadastrado no CadÚnico: sistema informa a necessidade de cadastro prévio. |
+| **Pós-condições** | - Os dados do perfil do jovem no ID Jovem foram atualizados com sucesso ou permanecem pendentes até a resolução de erro. |
+| **Autor** | [Leticia Lopes](https://github.com/leticialopes20) |
+<font size="2"><p style="text-align: center"><b>Fonte: <i> [Letícia Lopes](https://github.com/leticialopes20) </i></b></p></font>
 
-<p align="center"><font><strong>Tabela 1:</strong> Consultar Locais e Parceiros</font><br></p>
+### Caso de Uso 2 ([RF08](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf08))
+<font size="3"><p style="text-align: center">Tabela 2: Notificações de Vencimento e Renovação de Benefício</p></font>
+| [RF08](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf08) | **Descrição** |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome do Caso de Uso** | Receber Notificações de Vencimento e Renovação de Benefício |
+| **Rastreabilidade** | [BS11](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/), [ST04](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling/), [IDJ11](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/) |
+| **Ator Principal** | Beneficiário do ID Jovem |
+| **Atores Secundários** | Sistema de Notificações, Sistema ID Jovem |
+| **Objetivo** | Permitir que o **participante do programa** receba notificações sobre o vencimento e a renovação do benefício ID Jovem. |
+| **Pré-condições** | - O jovem deve estar autenticado no aplicativo.<br>- O benefício do participante deve ter data de vencimento registrada no sistema. |
+| **Fluxo Principal de Eventos** | 1. O **beneficiário do ID Jovem** acessa o aplicativo.<br>2. O sistema verifica datas de vencimento dos benefícios cadastrados.<br>3. O sistema envia notificações ao **participante** sobre o vencimento próximo.<br>4. O sistema envia notificações quando a renovação estiver disponível.<br>5. O **beneficiário** visualiza a notificação e realiza a renovação se desejar. |
+| **Fluxos Alternativos** | - O jovem escolhe receber notificações via e-mail ou SMS.<br>- O participante adia a renovação e recebe lembrete posterior. |
+| **Exceções** | - Falha no envio da notificação: sistema registra tentativa e exibe alerta no aplicativo.<br>- Dados de vencimento ausentes ou incorretos: sistema solicita atualização junto ao jovem. |
+| **Pós-condições** | - O **beneficiário** foi notificado sobre vencimento ou renovação do benefício. |
+| **Autor** | [Leticia Lopes](https://github.com/leticialopes20) |
+<font size="2"><p style="text-align: center"><b>Fonte: <i> [Letícia Lopes](https://github.com/leticialopes20) </i></b></p></font> 
 
-| **UC01** | **Consultar Locais e Parceiros** |
-|:--|:--|
-| **Descrição** | Este caso de uso descreve o processo pelo qual o jovem beneficiário consulta estabelecimentos e parceiros que aceitam os benefícios do ID Jovem. |
-| **Ator** | Jovem Beneficiário |
-| **Fluxo básico** | 1. O jovem beneficiário acessa o aplicativo ID Jovem.<br>2. Seleciona a opção "Locais Parceiros".<br>3. O sistema solicita permissão de localização.<br>4. O aplicativo exibe estabelecimentos conveniados próximos.<br>5. O jovem visualiza informações detalhadas de cada parceiro.<br>6. O sistema mostra rotas de acesso aos estabelecimentos selecionados. |
-| **Fluxos alternativos** | 1. Caso de uso "Filtrar por Tipo": O jovem pode filtrar por benefício específico (transporte ou cultura).<br>2. Caso de uso "Buscar por Endereço": O jovem pode buscar estabelecimentos em localização específica. |
-| **Fluxo de exceção** | 1. Se não houver parceiros na região, o sistema sugere expandir a área de busca.<br>2. Se o GPS estiver desativado, o sistema funciona com busca manual por endereço. |
-| **Pré-condições** | O jovem deve estar cadastrado e com a carteira digital ativa. |
-| **Pós-condições** | O jovem beneficiário localizou estabelecimentos parceiros para utilização dos benefícios. |
-| **Data da criação** | 12/10/2025 |
-| **Rastreabilidade** | [RF10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf10) |
+### Caso de Uso 3 ([RF10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf10))
+<font size="3"><p style="text-align: center">Tabela 3: Consultar Locais e Parceiros</p></font>
+| [RF10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf10) | **Descrição** |
+| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome do Caso de Uso** | Consultar Locais e Parceiros |
+| **Rastreabilidade** | [BS10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/), [ST06](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling/) |
+| **Ator Principal** | Jovem Beneficiário |
+| **Atores Secundários** | Sistema de Localização, Sistema ID Jovem |
+| **Objetivo** | Permitir que o jovem beneficiário consulte estabelecimentos e parceiros que aceitam os benefícios do ID Jovem. |
+| **Pré-condições** | - O jovem deve estar cadastrado e com a carteira digital ativa.<br>- O aplicativo deve ter acesso à localização do dispositivo. |
+| **Fluxo Principal de Eventos** | 1. O **jovem beneficiário** acessa o aplicativo ID Jovem.<br>2. Seleciona a opção "Locais Parceiros".<br>3. O sistema solicita permissão de localização.<br>4. O aplicativo exibe estabelecimentos conveniados próximos.<br>5. O **jovem** visualiza informações detalhadas de cada parceiro.<br>6. O sistema mostra rotas de acesso aos estabelecimentos selecionados. |
+| **Fluxos Alternativos** | - O jovem pode filtrar por benefício específico (transporte ou cultura).<br>- O jovem pode buscar estabelecimentos em localização específica. |
+| **Exceções** | - Se não houver parceiros na região, o sistema sugere expandir a área de busca.<br>- Se o GPS estiver desativado, o sistema funciona com busca manual por endereço. |
+| **Pós-condições** | - O **jovem beneficiário** localizou estabelecimentos parceiros para utilização dos benefícios. |
+| **Autor** | [Eduarda Domingos](https://github.com/eduardar0) |
+<font size="2"><p style="text-align: center"><b>Fonte: <i> [Eduarda Domingos](https://github.com/eduardar0) </i></b></p></font>
 
-
-
-<font size="3"><p style="text-align: center">Fonte: [Eduarda Domingos](https://github.com/eduardar0), 2025</p></font>
-
-### UC2 - Consultar Benefícios Disponíveis
-
-
-<p align="center"><font><strong>Tabela 2:</strong> Solicitar Suporte ao Beneficiário</font><br></p>
-
-| **UC02** | **Solicitar Suporte ao Beneficiário** |
-|:--|:--|
-| **Descrição** | Este caso de uso descreve o processo pelo qual o jovem beneficiário solicita suporte através de chat, e-mail ou formulário de contato. |
-| **Ator** | Jovem Beneficiário |
-| **Fluxo básico** | 1. O jovem beneficiário acessa o aplicativo ID Jovem.<br>2. Seleciona a opção "Ajuda" ou "Suporte".<br>3. O sistema apresenta opções de contato (chat, e-mail, formulário).<br>4. O jovem escolhe o canal preferido e descreve o problema.<br>5. O sistema registra a solicitação e gera número de protocolo.<br>6. O jovem recebe confirmação e acompanha o atendimento. |
-| **Fluxos alternativos** | 1. Caso de uso "Chat em Tempo Real": Para dúvidas urgentes, o jovem é atendido imediatamente por chat.<br>2. Caso de uso "FAQ": O sistema sugere soluções na base de conhecimento antes do contato. |
-| **Fluxo de exceção** | 1. Se o canal escolhido estiver indisponível, o sistema oferece alternativas.<br>2. Se houver falha no envio, o sistema salva rascunho para tentativa posterior. |
-| **Pré-condições** | O jovem deve estar autenticado no aplicativo. |
-| **Pós-condições** | A solicitação de suporte foi registrada e o jovem receberá resposta pelo canal escolhido. |
-| **Data da criação** | 12/10/2025 |
-| **Rastreabilidade** | [RF11](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf11) |
-
-<font size="3"><p style="text-align: center">Fonte: [Eduarda Domingos](https://github.com/eduardar0), 2025</p></font>
+### Caso de Uso 4 ([RF11](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf11))
+<font size="3"><p style="text-align: center">Tabela 4: Solicitar Suporte ao Beneficiário</p></font>
+| [RF11](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf11) | **Descrição** |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome do Caso de Uso** | Solicitar Suporte ao Beneficiário |
+| **Rastreabilidade** | [ENT05](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/), [BS08](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/), [IDJ05](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/) |
+| **Ator Principal** | Jovem Beneficiário |
+| **Atores Secundários** | Sistema de Atendimento, Sistema ID Jovem |
+| **Objetivo** | Permitir que o jovem beneficiário solicite suporte através de chat, e-mail ou formulário de contato. |
+| **Pré-condições** | - O jovem deve estar autenticado no aplicativo. |
+| **Fluxo Principal de Eventos** | 1. O **jovem beneficiário** acessa o aplicativo ID Jovem.<br>2. Seleciona a opção "Ajuda" ou "Suporte".<br>3. O sistema apresenta opções de contato (chat, e-mail, formulário).<br>4. O **jovem** escolhe o canal preferido e descreve o problema.<br>5. O sistema registra a solicitação e gera número de protocolo.<br>6. O **jovem beneficiário** recebe confirmação e acompanha o atendimento. |
+| **Fluxos Alternativos** | - Para dúvidas urgentes, o jovem é atendido imediatamente por chat.<br>- O sistema sugere soluções na base de conhecimento antes do contato. |
+| **Exceções** | - Se o canal escolhido estiver indisponível, o sistema oferece alternativas.<br>- Se houver falha no envio, o sistema salva rascunho para tentativa posterior. |
+| **Pós-condições** | - A solicitação de suporte foi registrada e o **jovem beneficiário** receberá resposta pelo canal escolhido. |
+| **Autor** | [Eduarda Domingos](https://github.com/eduardar0) |
+<font size="2"><p style="text-align: center"><b>Fonte: <i> [Eduarda Domingos](https://github.com/eduardar0) </i></b></p></font>
 
 ## Referências Bibliográficas
 
@@ -108,6 +137,7 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 | :----: | :--------: | :------------------: | :----------------------------------------------------------------------------------------: | :-------------------------------------------: |
 |  `1.0` | 09/10/2025 | Criação do documento | [Dylan](https://github.com/dylancavalcante) | [Arthur](https://github.com/arthurfernandesj) |
 |  `1.1` | 10/10/2025 | Conteúdo introdutório | [Giovana](https://github.com/GiovanaFontesS) |  [Dylan](https://github.com/dylancavalcante) |
-|  `1.2` | 10/10/2025 | Mudança bibliografia | [Eduarda](https://github.com/eduardar0) |  [Dylan](https://github.com/dylancavalcante) |
-|  `1.3` | 10/10/2025 | ADD US 01 e 02 | [Eduarda](https://github.com/eduardar0) |  [Dylan](https://github.com/dylancavalcante) |
-|  `1.4` | 10/10/2025 | ADD US 01 e 02 | [Eduarda](https://github.com/eduardar0) |   [Arthur](https://github.com/arthurfernandesj) |
+|  `1.2` | 12/10/2025 | Mudança bibliografia | [Eduarda](https://github.com/eduardar0) |  [Dylan](https://github.com/dylancavalcante) |
+|  `1.3` | 12/10/2025 | Adição de uso de caso 01 e 02 | [Leticia](https://github.com/leticialopes20) | [Arthur](https://github.com/arthurfernandesj) |
+|  `1.4` | 12/10/2025 | Adição de uso de caso 03 e 04 | [Leticia](https://github.com/leticialopes20) | [Arthur](https://github.com/arthurfernandesj) |
+

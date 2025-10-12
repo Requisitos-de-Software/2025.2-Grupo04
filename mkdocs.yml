@@ -108,11 +108,12 @@ nav:
                           - Cenário: Entregas/Entregas_03/Modelagem/Cenarios.md
                           - Léxicos: Entregas/Entregas_03/Modelagem/Lexicos.md
                           - Requisitos Não Implementados: Entregas/Entregas_03/Modelagem/Requisitos_Implementados.md
-            
-                - Modelagem-II:
-                              - NFR Framework: Entregas/Entregas_03/Modelagem_II/NFR_Framework.md
-                              - Histórias de Usuário: Entregas/Entregas_03/Modelagem_II/Historias_de_Usuario.md
-                              - Product Backlog: Entregas/Entregas_03/Modelagem_II/Product_Backlog.md
+                - Apresentação: Entregas/Entregas_03/Apresentação.md
+            #- Entrega 04:
+                #- Modelagem-II:
+                              #- NFR Framework: Entregas/Entregas_03/Modelagem_II/NFR_Framework.md
+                              #- Histórias de Usuário: Entregas/Entregas_03/Modelagem_II/Historias_de_Usuario.md
+                              #- Product Backlog: Entregas/Entregas_03/Modelagem_II/Product_Backlog.md
 
           - Entrega Final:
                 - Conclusão: Entregas/Entrega-Final/Conclusao.md

@@ -57,8 +57,8 @@ Os léxicos do tipo objeto referem-se às entidades, elementos ou objetos que s�
 | L04 -       |    |             |          | Objeto        | [](#)                      | Giovana                                    |
 | L04 -     |  |         |                    | Objeto        |                        | Arthur                                     |
 | L05 -     |       |  | .       | Objeto        | [](#)                            | Arthur                                      |
-| L07 -         |   |            |                             | Objeto        | [](#)                            | Breno                                      |
-| L08 -       |      |              |                               | Objeto        | [](#)                                  | Breno                        |
+| L07 - Benefício | Vantagem, Desconto | Refere-se aos direitos garantidos pelo programa. | O Jovem Beneficiário pode consultar os benefícios disponíveis, visualizar seu histórico de uso e emitir comprovantes de utilização. | Objeto | [RF04](../../Elicitacao/Requisitos_Elicitados.md#rf04), [RF12](../../Elicitacao/Requisitos_Elicitados.md#rf12) | [Breno](https://github.com/BrenoLteixeira) |
+| L08 - Parceiro | Estabelecimento conveniado, Empresa parceira | Entidade que aceita a carteira ID Jovem e concede os benefícios. | O Jovem Beneficiário pode consultar a lista de parceiros, visualizar sua localização e obter informações de contato. | Objeto | [RF10](../../Elicitacao/Requisitos_Elicitados.md#rf10), [RF13](../../Elicitacao/Requisitos_Elicitados.md#rf13) | [Breno](https://github.com/BrenoLteixeira) |
 | L09 -        |    |              |       | Objeto        | [](#)                                  | Letícia                                    |
 | L10 -        |    |              |       | Objeto        | [](#)                                  | Letícia                                    |
 | L11 -        |    |              |       | Objeto        | [](#)                                  | Dylan                                    |
@@ -84,7 +84,7 @@ Os léxicos do tipo verbo representam ações ou operações que os Jovens Benef
 | L15 |  |  |  | Verbo | [](#) | Giovana |
 | L16 |  |  |  | Verbo | [](#) | Arthur |
 | L17 |  |  |  | Verbo | [](#) | Dylan |
-| L18 |  |  |  | Verbo | [](#) | Breno |
+| L18 - Consultar | Pesquisar, Verificar, Visualizar | Ação de buscar informações sobre benefícios, parceiros ou o histórico de uso da carteira. | Exibe ao Jovem Beneficiário as informações solicitadas, permitindo-lhe planejar o uso de seus direitos e acompanhar seu uso. | Verbo | [RF04](../../Elicitacao/Requisitos_Elicitados.md#rf04), [RF10](../../Elicitacao/Requisitos_Elicitados.md#rf10), [RF12](../../Elicitacao/Requisitos_Elicitados.md#rf12) | [Breno](https://github.com/BrenoLteixeira) |
 | L19 |  |  |  | Verbo | [](#) | Leticia |
 | L20 |  |  |  | Verbo | [](#) | Leticia |
 
@@ -103,7 +103,7 @@ Os léxicos do tipo estado referem-se às condições, situações ou configura�
 | L23 |  |  |  | Estado | [](#) | Giovana |
 | L24 |  |  |  | Estado | [](#) | Arthur |
 | L25 |  |  |  | Estado | [](#) | Dylan |
-| L26 |  |  |  | Estado | [](#) | Breno |
+| L26 - Vencido | Expirado, Inválido | Estado da carteira digital após o término de seu prazo de validade. | Impede o Jovem Beneficiário de utilizar os benefícios e o instrui a realizar a renovação do cadastro. | Estado | [RF08](../../Elicitacao/Requisitos_Elicitados.md#rf08) | [Breno](
 | L27 |  |  |  | Estado | [](#) | Leticia |
 | L28 |  |  |  | Estado | [](#) | Leticia |
 
@@ -130,3 +130,4 @@ Os léxicos do tipo estado referem-se às condições, situações ou configura�
 |  `1.3` | 11/10/2025 | Fix: tabela quebrada | [Eduarda](https://github.com/eduardar0) | [Dylan](https://github.com/dylancavalcante) |
 |  `1.4` | 11/10/2025 | Correção da bibliografia/referencia bibliográfica | [Eduarda](https://github.com/eduardar0) | [Dylan](https://github.com/dylancavalcante) |
 |  `1.5` | 11/10/2025 | Adicionado L01, L02, L013, L14, L21, L22 | [Eduarda](https://github.com/eduardar0) | [Giovana](https://github.com/GiovanaFontesS) |
+|  `1.6` | 12/10/2025 | Adicionado L07, L08, L018, L26| [Breno](https://github.com/brenolteixeira) | [Eduarda](https://github.com/Eduarar0) |

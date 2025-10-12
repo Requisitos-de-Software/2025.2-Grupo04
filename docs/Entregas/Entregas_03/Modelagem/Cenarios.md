@@ -3,13 +3,13 @@ Cenários de uso são histórias detalhadas que mostram como as pessoas envolvid
 
 No caso do **ID Jovem**, esses cenários foram elaborados com base em **requisitos funcionais não implementados**, identificados durante a análise das necessidades dos jovens beneficiários, especialmente no que diz respeito à clareza das informações e à confiabilidade da comunicação.
 
-Cada cenário é estruturado com os elementos indicados: título, metas/objetivo, contexto, atores, recursos, exceções e episódios (Serrano; Serrano, 2025).
+Cada cenário é estruturado com os elementos indicados: título, **metas/objetivo**, **contexto**, **atores**, **recursos**, **exceções** e **episódios** (Serrano; Serrano, 2025).
 
 O objetivo é garantir que cada cenário seja *claro, detalhado e útil*, permitindo analisar o comportamento dos jovens beneficiários, suas decisões, os obstáculos que enfrentam e como o aplicativo pode apoiar melhor suas atividades.
 
 ## Metodologia
 
-Para elaborar os cenários do app ID Jovem, adotou-se uma **abordagem centrada na experiência das pessoas que interagem com o sistema**, inspirada nas técnicas de **Interação Humano-Computador (IHC)**  (Barbosa et al., 2021).
+Para elaborar os cenários do app **ID Jovem**, adotamos uma **abordagem centrada na experiência das pessoas que interagem com o sistema**, inspirada nas técnicas de **Interação Humano-Computador (IHC)**  (Barbosa et al., 2021).
 
 A ideia foi criar **narrativas realistas e detalhadas**, capazes de mostrar como os jovens beneficiários interagem com o aplicativo em diferentes situações.
 
@@ -178,3 +178,4 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 | `1.1` | 11/10/2025 | Adição do texto da Introdução,Metodologia e Bibliografia | [Letícia Lopes](https://github.com/leticialopes20) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
 | `1.2` | 11/10/2025 | Adição dos cenários 1 e 2 | [Letícia Lopes](https://github.com/leticialopes20) | [Eduarda Domingos](https://github.com/eduardar0) |
 | `1.3` | 11/10/2025 | Adição dos cenários 3 e 4   | [Eduarda Domingos](https://github.com/eduardar0) |[Letícia Lopes](https://github.com/leticialopes20) |
+| `1.4` | 11/10/2025 | Remoção do termo "usuário"   | [Eduarda Domingos](https://github.com/eduardar0) |[Letícia Lopes](https://github.com/leticialopes20) |

@@ -45,8 +45,8 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 <tbody>
 <tr>
 <td><a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></td>
-<td>00/10/2025</td>
-<td>00:00</td>
+<td>12/10/2025</td>
+<td>13:50</td>
 </tr>
 <tr>
 <td><a href="https://github.com/BrenoLTeixeira">Breno Lourenço</a></td>
@@ -223,6 +223,45 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 
  <font size="2"><p style="text-align: center">Fonte: [Giovana Fontes](https://github.com/GiovanaFontesS)</p></font>
 
+### **Cenário 9: Alertas de Irregularidades no Uso dos Benefícios**
+
+<font size="3"><p style="text-align: center">Tabela 9: Cenário de Exibição de Pendências e Erros Relacionados aos Benefícios</p></font>
+
+
+| **ID**         | [RF20](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf20) |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **Objetivo**   | Alertar o Jovem Beneficiário sobre possíveis irregularidades no uso de seus benefícios, permitindo a correção ou verificação preventiva. |
+| **Contexto**   | O sistema monitora o uso dos benefícios e detecta padrões ou inconsistências que podem indicar uso indevido ou irregularidades. |
+| **Atores**     | Jovem Beneficiário, Sistema do ID Jovem, Banco de Dados de Benefícios, CadÚnico (integração futura). |
+| **Recursos**   | Aplicativo ID Jovem (Web, iOS, Android), módulo de notificações, serviço de monitoramento de benefícios, conexão à internet. |
+| **Episódios**  | 1. O Jovem Beneficiário acessa o aplicativo e faz login.<br>2. O sistema verifica o histórico de uso dos benefícios.<br>3. Caso identifique irregularidades, uma notificação é enviada ao usuário.<br>4. O usuário acessa a seção “Alertas de Irregularidades”.<br>5. O sistema exibe detalhes sobre a possível irregularidade e orientações para regularização.<br>6. O Jovem Beneficiário pode contestar, atualizar dados ou entrar em contato com o suporte. |
+| **Restrições** | A exibição de alertas depende da correta análise dos dados e da sincronização com o banco de dados de benefícios. |
+| **Exceções**   | - Falha na conexão com o servidor.<br>- Erro ao sincronizar dados com o CadÚnico.<br>- Irregularidade não detectada corretamente.<br>- Tempo limite de resposta excedido. |
+| **Autor**      | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+
+ <font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj)</p></font>
+
+
+### **Cenário 10: Visualização Geográfica de Parceiros e Eventos**
+
+<font size="3"><p style="text-align: center">Tabela 9: Visualização Geográfica de Parceiros e Eventos</p></font>
+
+
+| **ID**         | [RF21](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf21) |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **Objetivo**   | Permitir que o Jovem Beneficiário visualize, por meio de um mapa interativo, a localização de parceiros e eventos disponíveis em sua região. |
+| **Contexto**   | O jovem acessa o aplicativo para buscar locais parceiros ou eventos próximos, podendo visualizar as informações de forma geográfica e interativa. |
+| **Atores**     | Jovem Beneficiário, Sistema do ID Jovem, Banco de Dados de Parceiros e Eventos, Serviço de Geolocalização (API de Mapas). |
+| **Recursos**   | Aplicativo ID Jovem (Web, iOS, Android), módulo de mapa interativo, conexão à internet, API de geolocalização (ex: Google Maps, OpenStreetMap). |
+| **Episódios**  | 1. O Jovem Beneficiário acessa o aplicativo e faz login.<br>2. O usuário seleciona a opção “Mapa de Parceiros e Eventos”.<br>3. O sistema solicita permissão de localização ao usuário.<br>4. O mapa interativo é exibido, mostrando os parceiros e eventos próximos.<br>5. O jovem pode filtrar resultados por tipo de parceiro, data ou categoria de evento.<br>6. Ao clicar em um marcador, são exibidas informações detalhadas (nome, endereço, horários, benefícios disponíveis). |
+| **Restrições** | O funcionamento do mapa depende de conexão ativa à internet e do serviço de geolocalização. |
+| **Exceções**   | - Falha na obtenção da localização do usuário.<br>- Erro de carregamento do mapa.<br>- API de mapas indisponível.<br>- Nenhum parceiro ou evento encontrado na região. |
+| **Autor**      | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+
+ <font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/GiovanaFontesS)</p></font>
+
+
+
 ## Referências Bibliográficas
 
 1. BARBOSA, Simone Diniz Junqueira et al. *Interação humano-computador e experiência do usuário.* Auto publicação, 2021.  
@@ -237,6 +276,8 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 | `1.0` | 09/10/2025 | Criação do documento | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Letícia Lopes ](https://github.com/leticialopes20) |
 | `1.1` | 11/10/2025 | Adição do texto da Introdução,Metodologia e Bibliografia | [Letícia Lopes](https://github.com/leticialopes20) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
 | `1.2` | 11/10/2025 | Adição dos cenários 1 e 2 | [Letícia Lopes](https://github.com/leticialopes20) | [Eduarda Domingos](https://github.com/eduardar0) |
-| `1.3` | 11/10/2025 | Adição dos cenários 3 e 4   | [Eduarda Domingos](https://github.com/eduardar0) |[Letícia Lopes](https://github.com/leticialopes20)
-| `1.4` | 12/10/2025 | Adição dos cenários 5 e 6   | [Dylan Cavalcante](https://github.com/dylancavalcante) |[Letícia Lopes](https://github.com/leticialopes20) 
-| `1.5` | 12/10/2025 | Remoção da palavra "usuário" do documento   | [Eduarda Domingos](https://github.com/eduardar0)|[Letícia Lopes](https://github.com/leticialopes20) 
+| `1.3` | 11/10/2025 | Adição dos cenários 3 e 4   | [Eduarda Domingos](https://github.com/eduardar0) |[Letícia Lopes](https://github.com/leticialopes20) |
+| `1.4` | 12/10/2025 | Adição dos cenários 5 e 6   | [Dylan Cavalcante](https://github.com/dylancavalcante) |[Letícia Lopes](https://github.com/leticialopes20)|
+| `1.5` | 12/10/2025 | Remoção da palavra "usuário" do documento   | [Eduarda Domingos](https://github.com/eduardar0)|[Letícia Lopes](https://github.com/leticialopes20)|
+| `1.6` | 12/10/2025 | Adição dos cenários 7 e 8   | [Giovana Fontes](https://github.com/GiovanaFontesS)| [Letícia Lopes](https://github.com/leticialopes20)|
+| `1.7` | 12/10/2025 | Adição dos cenários 9 e 10   | [Arthur Fernandes](https://github.com/arthurfernandes)|[Letícia Lopes](https://github.com/leticialopes20)|

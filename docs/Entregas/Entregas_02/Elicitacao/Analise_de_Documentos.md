@@ -77,10 +77,10 @@ Além disso, a técnica contribuiu para verificar a coerência entre normas lega
 
 | Tipo              | Requisito                                                                   |
 | ----------------- | --------------------------------------------------------------------------- |
-| **Funcional**     | Cadastro do usuário por meio do CPF                                         |
+| **Funcional**     | Cadastro do jovem beneficiário por meio do CPF                                         |
 | **Funcional**     | Geração e emissão da carteira digital ID Jovem                              |
 | **Funcional**     | Integração com bancos de dados governamentais                               |
-| **Funcional**     | Autenticação e login do usuário no aplicativo                               |
+| **Funcional**     | Autenticação e login do jovem beneficiário no aplicativo                               |
 | **Funcional**     | Possibilidade de emissão de mais de uma carteira digital                    |
 | **Funcional**     | Exibição clara das regras de acesso e direitos garantidos                   |
 | **Funcional**     | Disponibilização de perguntas frequentes e atendimento                      |
@@ -91,6 +91,10 @@ Além disso, a técnica contribuiu para verificar a coerência entre normas lega
 | **Não Funcional** | Confiabilidade: Informações oficiais e atualizadas                          |
 | **Não Funcional** | Performance: Emissão rápida e estável da carteira digital                   |
 | **Não Funcional** | Acessibilidade: Informações claras e de fácil entendimento                  |
+| **Não Funcional** | Desempenho: O tempo de carregamento das páginas do site oficial não deve exceder 3 segundos em conexões de internet de baixa velocidade. |
+| **Não Funcional** |Confiabilidade: O aplicativo deve garantir que as informações sobre os benefícios estejam 100% sincronizadas com a base de dados oficial. |
+| **Não Funcional** |Suportabilidade: O sistema deve ser compatível com as duas versões anteriores dos principais navegadores web e sistemas operacionais móveis.|
+| **Não Funcional** |Usabilidade: A navegação entre as seções do site e do aplicativo deve ser consistente e previsível para o jovem beneficiário.| 
 <p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
 
 ---

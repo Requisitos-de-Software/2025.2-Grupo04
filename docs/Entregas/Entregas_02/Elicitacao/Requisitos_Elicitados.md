@@ -23,7 +23,8 @@ A tabela a seguir apresenta os requisitos funcionais (RF) e não funcionais (RNF
 - ENTx: Entrevista  
 - BSx: Brainstorming  
 - ISx: Introspecção  
-- STx: Storytelling  
+- STx: Storytelling
+- IDJx: Introspecção   
 
 ---
 

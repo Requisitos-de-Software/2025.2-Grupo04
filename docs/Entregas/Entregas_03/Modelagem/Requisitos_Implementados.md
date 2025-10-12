@@ -26,6 +26,7 @@ A seleção priorizou requisitos que agregariam valor significativo à experiên
 - BSx: Brainstorming  
 - ISx: Introspecção  
 - STx: Storytelling  
+- IDJx: Introspecção
 
 
 ## Requisitos Funcionais Não Implementados
@@ -50,7 +51,7 @@ A seleção priorizou requisitos que agregariam valor significativo à experiên
 | [RF23](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf23) | 1.0 | O sistema deve fornecer um canal para denúncia ou feedback sobre estabelecimentos que recusam o benefício | [ENT14](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista) |
 | [RF24](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf24) | 1.0 | O sistema deve permitir que o usuário favorite eventos e estabelecimentos para consulta rápida | [ENT15](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista) |
 
-<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/eduardar0">Eduarda Domingos</a></p>
+<p style="text-align: center; font-size: 10pt;">Autor: <a href="https://github.com/eduardar0">Eduarda Domingos</a></p>
 
 ---
 
@@ -59,11 +60,26 @@ A seleção priorizou requisitos que agregariam valor significativo à experiên
 
 | Código | Versão | Descrição | Origem |
 |--------|--------|-----------|---------|
-| [RNF06](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf06)  | 1.0 | O aplicativo deve funcionar com baixo consumo de internet e ser acessível em regiões carentes | [BS24](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming) |
-| [RNF07](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf07)  | 1.0 | O aplicativo deve possuir recursos de acessibilidade (alto contraste, leitura de tela, voz e Libras) | [BS20](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming), [IDJ09](../../Elicitacao/Analise_de_Documentos/) |
-| [RNF08](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf08)  | 1.0 | O sistema deve garantir disponibilidade mínima de 99,5% | [RNF-CON-01](../../Elicitacao/Requisitos_Elicitados/) |
+| [RNF06](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf06) | 1.0 | O aplicativo deve funcionar com baixo consumo de internet e ser acessível em regiões carentes | [BS24](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming) |
+| [RNF07](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf07) | 1.0 | O aplicativo deve possuir recursos de acessibilidade (alto contraste, leitura de tela, voz e Libras) | [BS20](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming), [IDJ09](../../Elicitacao/Analise_de_Documentos/) |
+| [RNF08](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf08) | 1.0 | O sistema deve garantir disponibilidade mínima de 99,5% | [RNF-CON-01](../../Elicitacao/Requisitos_Elicitados/) |
+| [RNF10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf10) | 1.0 | O tempo de carregamento das páginas do site oficial não deve exceder 3 segundos em conexões de internet de baixa velocidade | [ADD - Desempenho](../../Elicitacao/Analise_de_Documentos/) |
+| [RNF11](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf11) | 1.0 | O aplicativo deve garantir que as informações sobre os benefícios estejam 100% sincronizadas com a base de dados oficial | [ADD - Confiabilidade](../../Elicitacao/Analise_de_Documentos/) |
+| [RNF12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf12) | 1.0 | O sistema deve ser compatível com as duas versões anteriores dos principais navegadores web e sistemas operacionais móveis | [ADD - Suportabilidade](../../Elicitacao/Analise_de_Documentos/) |
+| [RNF13](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf13) | 1.0 | A navegação entre as seções do site e do aplicativo deve ser consistente e previsível para o jovem beneficiário | [ADD - Usabilidade](../../Elicitacao/Analise_de_Documentos/) |
+| [RNF14](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf14) | 1.0 | O aplicativo deve apresentar um feedback visual e sonoro claro para cada interação do jovem beneficiário | [BS26](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming) |
+| [RNF15](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf15) | 1.0 | O sistema deve ter um tempo máximo de inatividade de 2 horas por mês, fora das janelas de manutenção programada | [BS27](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming) |
+| [RNF16](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf16) | 1.0 | O tempo de resposta para validação da carteirinha (QR Code) não deve exceder 2 segundos | [BS28](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming) |
+| [RNF17](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf17) | 1.0 | A equipe de desenvolvimento deve disponibilizar atualizações de segurança e correções de bugs em um ciclo de, no máximo, 3 meses | [BS29](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming) |
+| [RNF18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf18) | 1.0 | O aplicativo deve permitir que o jovem beneficiário personalize o tamanho da fonte e o esquema de cores para melhorar a legibilidade | [IDJ18](../../Elicitacao/Analise_de_Documentos/) |
+| [RNF19](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf19) | 1.0 | O sistema deve registrar todas as tentativas de validação da carteira, bem-sucedidas ou não, para fins de auditoria | [IDJ19](../../Elicitacao/Analise_de_Documentos/) |
+| [RNF20](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf20) | 1.0 | A consulta à elegibilidade do CadÚnico deve retornar o resultado em no máximo 3 segundos | [IDJ20](../../Elicitacao/Analise_de_Documentos/) |
+| [RNF21](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf21) | 1.0 | O sistema deve ter capacidade de ser facilmente escalado para atender a um aumento de 50% no número de jovens beneficiários sem degradação do desempenho | [IDJ21](../../Elicitacao/Analise_de_Documentos/) |
+| [RNF22](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf22) | 1.0 | O sistema deve manter um log de auditoria de todas as emissões e validações de carteirinhas por 5 anos | [ST12](../../Elicitacao/Storytelling/) |
+| [RNF23](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf23) | 1.0 | O aplicativo deve carregar as informações de eventos e parceiros em no máximo 3 segundos, mesmo com grande volume de dados | [ST13](../../Elicitacao/Storytelling/) |
+| [RNF24](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf24) | 1.0 | O aplicativo deve ser compatível com a API mais recente e as duas versões anteriores do sistema operacional móvel | [ST14](../../Elicitacao/Storytelling/) |
 
-<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/eduardar0">Eduarda Domingos</a></p>
+<p style="text-align: center; font-size: 10pt;">Autor: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
 
 
 ## Bibliografia
@@ -76,3 +92,4 @@ A seleção priorizou requisitos que agregariam valor significativo à experiên
 | :----: | :--------: | :------------------: | :----------------------------------------------------------------------------------------: | :-------------------------------------------: |
 | `1.0` | 09/10/2025 | Criação do documento | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Letícia Lopes ](https://github.com/leticialopes20) |
 | `1.1` | 12/10/2025 | Adicionados requisitos nao-implementados | [Eduarda Domingos](https://github.com/eduardar0) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| `1.2` | 12/10/2025 | Adicionados requisitos não funcionais nao-implementados | [Dylan Cavalcante](https://github.com/dylancavalcante) | [Eduarda Domingos](https://github.com/eduardar0) |

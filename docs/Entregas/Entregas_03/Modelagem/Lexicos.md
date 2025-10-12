@@ -108,8 +108,47 @@ Os léxicos do tipo estado referem-se às condições, situações ou configura�
 | L28 - Personalizado |Configurado, Adaptado  |Estado do aplicativo após o usuário definir suas preferências pessoais e filtros de eventos.  | Melhora a experiência de uso, exibindo conteúdos e benefícios conforme os interesses do Jovem Beneficiário. | Estado | [RF28](../../Elicitacao/Requisitos_Elicitados.md#28) | [Leticia](https://github.com/leticialopes20)  |
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 4: </b>Léxicos classificados como Estados (Autor: Fonte: Arthur, Breno, Dylan, Eduarda, Giovana, Leticia, 2025)</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 4: </b>Léxicos classificados como Estados (Fonte: Arthur, Breno, Dylan, Eduarda, Giovana, Leticia, 2025)</p></font>
 </div>
+
+
+# Ligações entre Léxicos
+
+### Tabela de Ligações
+
+
+| Léxico | Ligações Diretas | Tipo de Ligação |
+|--------|------------------|----------------|
+| L01 - Jovem Beneficiário | L13 - Cadastrar, L14 - Autenticar, L21 - Elegível, L22 - Ativo | Objeto-Verbo, Objeto-Estado |
+| L02 - Carteira Digital | L15 - Emitir, L16 - Compartilhar, L22 - Ativo, L26 - Vencido | Objeto-Verbo, Objeto-Estado |
+| L03 - Cadastro | L13 - Cadastrar, L17 - Atualizar, L21 - Elegível | Objeto-Verbo, Objeto-Estado |
+| L04 - Elegibilidade | L21 - Elegível, L13 - Cadastrar, L15 - Emitir | Objeto-Estado, Objeto-Verbo |
+| L05 - Transporte Gratuito | L18 - Consultar, L07 - Benefício | Objeto-Verbo, Objeto-Objeto |
+| L06 - Estabelecimento Conveniado | L18 - Consultar, L19 - Favoritar, L20 - Denunciar | Objeto-Verbo |
+| L07 - Benefício | L18 - Consultar, L05 - Transporte Gratuito, L08 - Parceiro | Objeto-Verbo, Objeto-Objeto |
+| L08 - Parceiro | L18 - Consultar, L19 - Favoritar, L20 - Denunciar | Objeto-Verbo |
+| L09 - FAQ e Suporte | L18 - Consultar | Objeto-Verbo |
+| L10 - Agenda de Eventos | L18 - Consultar, L19 - Favoritar | Objeto-Verbo |
+| L11 - Notificação | L26 - Vencido, L25 - Sincronizado | Objeto-Estado |
+| L12 - Mapa Interativo | L18 - Consultar, L08 - Parceiro | Objeto-Verbo, Objeto-Objeto |
+| L13 - Cadastrar | L01 - Jovem Beneficiário, L03 - Cadastro, L21 - Elegível | Verbo-Objeto, Verbo-Estado |
+| L14 - Autenticar | L01 - Jovem Beneficiário, L25 - Sincronizado | Verbo-Objeto, Verbo-Estado |
+| L15 - Emitir | L02 - Carteira Digital, L04 - Elegibilidade, L21 - Elegível | Verbo-Objeto, Verbo-Estado |
+| L16 - Compartilhar | L02 - Carteira Digital | Verbo-Objeto |
+| L17 - Atualizar | L03 - Cadastro, L25 - Sincronizado | Verbo-Objeto, Verbo-Estado |
+| L18 - Consultar | L07 - Benefício, L08 - Parceiro, L10 - Agenda de Eventos, L12 - Mapa Interativo | Verbo-Objeto |
+| L19 - Favoritar | L06 - Estabelecimento Conveniado, L08 - Parceiro, L10 - Agenda de Eventos | Verbo-Objeto |
+| L20 - Denunciar | L06 - Estabelecimento Conveniado, L08 - Parceiro, L27 - Em Análise | Verbo-Objeto, Verbo-Estado |
+| L21 - Elegível | L01 - Jovem Beneficiário, L03 - Cadastro, L04 - Elegibilidade, L15 - Emitir | Estado-Objeto, Estado-Verbo |
+| L22 - Ativo | L01 - Jovem Beneficiário, L02 - Carteira Digital | Estado-Objeto |
+| L23 - Download Realizado | L02 - Carteira Digital, L16 - Compartilhar | Estado-Objeto, Estado-Verbo |
+| L24 - Pendência | L01 - Jovem Beneficiário, L17 - Atualizar | Estado-Objeto, Estado-Verbo |
+| L25 - Sincronizado | L14 - Autenticar, L17 - Atualizar, L11 - Notificação | Estado-Verbo, Estado-Objeto |
+| L26 - Vencido | L02 - Carteira Digital, L11 - Notificação | Estado-Objeto |
+| L27 - Em Análise | L20 - Denunciar, L28 - Personalizado | Estado-Verbo, Estado-Estado |
+| L28 - Personalizado | L19 - Favoritar, L27 - Em Análise | Estado-Verbo, Estado-Estado |
+
+<div align="center"> <font size="3"><p style="text-align: center"><b>Tabela 5:</b> Ligações entre Léxicos do ID Jovem (Fonte: Arthur, Breno, Dylan, Eduarda, Giovana, Leticia, 2025, 2025)</p></font> </div>
 
 ## Referência bibliográfica
 > <a id="QT1" href="#anchor_1">1.</a> SERRANO, Milene. Requisitos - Aula 10. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: [Requisitos - Aula 10](https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf). Página 19. Acesso em: 11 de Outubro de 2025.
@@ -132,4 +171,6 @@ Os léxicos do tipo estado referem-se às condições, situações ou configura�
 |  `1.5` | 11/10/2025 | Adicionado L01, L02, L013, L14, L21, L22 | [Eduarda](https://github.com/eduardar0) | [Giovana](https://github.com/GiovanaFontesS) |
 |  `1.6` | 12/10/2025 | Adicionado L07, L08, L018, L26| [Breno](https://github.com/brenolteixeira) | [Eduarda](https://github.com/Eduarar0) |
 |  `1.7` | 12/10/2025 | Adicionado L04, L05, L16, L24| [Arthur](https://github.com/arthurfernandesj) | [Eduarda](https://github.com/Eduarar0)|
-|  `1.8` | 12/10/2025 | Adicionado L09, L10, L11, L12, L15, L17, L19, L20, L25,  L27 e L28| [Dylan](https://github.com/dylancavalcante) | [Eduarda](https://github.com/Eduarar0)|
+|  `1.8` | 12/10/2025 | Adicionado L11, L12, L15, L17, L25| [Dylan](https://github.com/dylancavalcante) | [Eduarda](https://github.com/Eduarar0)|
+|  `1.9` | 12/10/2025 | Adicionado L09, L10, L19, L20, L27 e L28| [Leticia](https://github.com/leticialopes20) | [Eduarda](https://github.com/Eduarar0)|
+|  `2.0` | 12/10/2025 | Adicionado tabela de ligação entre lexicos| [Eduarda](https://github.com/Eduarar0) | [Dylan](https://github.com/dylancavalcante)|

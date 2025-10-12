@@ -124,6 +124,46 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Eduarda Domingos](https://github.com/eduardar0) </i></b></p></font>
 
+### **Caso de Uso 5 ([RF13](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf13))**
+
+<p align="center">Tabela 5: Visualizar Novidades e Novos Parceiros</p>
+
+| [RF13](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf13) | **Descrição** |
+| :--- | :--- |
+| **Nome do Caso de Uso** | Visualizar Novidades e Novos Parceiros |
+| **Rastreabilidade** | [BS13](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/), [ST05](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling/) |
+| **Ator Principal** | Jovem Beneficiário |
+| **Atores Secundários** | Administrador do Sistema, Sistema ID Jovem |
+| **Objetivo** | Permitir que o Jovem Beneficiário visualize uma seção dedicada a novidades, atualizações e divulgação de novos parceiros para se manter informado. |
+| **Pré-condições** | - O Jovem Beneficiário deve estar com o aplicativo instalado e ter acesso à internet. |
+| **Fluxo Principal de Eventos** | 1. O **Jovem Beneficiário** abre o aplicativo e acessa a seção “Novidades e Parceiros”.<br>2. O **Sistema ID Jovem** consulta e exibe as publicações mais recentes cadastradas pelo **Administrador do Sistema**.<br>3. O **Jovem Beneficiário** visualiza as postagens sobre novas parcerias, eventos e benefícios.<br>4. O **Jovem Beneficiário** clica em uma publicação de interesse para ver mais detalhes.<br>5. O sistema permite que o **Jovem Beneficiário** interaja com a publicação (curta, compartilhe ou salve). |
+| **Fluxos Alternativos** | - Caso não haja novas publicações, o sistema exibe as postagens mais antigas ou uma mensagem indicando a ausência de novidades. |
+| **Exceções** | - Falha ao carregar os dados de novidades devido à falta de conexão com a internet.<br>- Erro na sincronização com a base de dados de parceiros e notícias. |
+| **Pós-condições** | - O Jovem Beneficiário se mantém atualizado sobre as novidades e os parceiros do programa ID Jovem. |
+| **Autor** | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+
+<p align="center" style="font-size: small;">Fonte: <i> <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a> </i></p>
+
+### **Caso de Uso 6 ([RF12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf12))**
+
+<p align="center">Tabela 6: Consultar Histórico de Utilização</p>
+
+| [RF12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf12) | **Descrição** |
+| :--- | :--- |
+| **Nome do Caso de Uso** | Consultar Histórico de Utilização dos Benefícios |
+| **Rastreabilidade** | [BS12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/), [IDJ12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspec%C3%A7%C3%A3o/) |
+| **Ator Principal** | Jovem Beneficiário |
+| **Atores Secundários** | Sistema ID Jovem, Banco de Dados de Transações |
+| **Objetivo** | Permitir que o Jovem Beneficiário acesse o histórico completo de uso de seus benefícios, como passagens e ingressos, para controle pessoal. |
+| **Pré-condições** | - O Jovem Beneficiário deve estar autenticado no aplicativo ID Jovem. |
+| **Fluxo Principal de Eventos** | 1. O **Jovem Beneficiário** faz login no aplicativo.<br>2. O **Jovem Beneficiário** seleciona a opção “Histórico de Benefícios”.<br>3. O **Sistema ID Jovem** consulta o **Banco de Dados de Transações**.<br>4. O sistema exibe uma lista detalhada com data, local, tipo de benefício, valor e parceiro de cada utilização.<br>5. O **Jovem Beneficiário** aplica filtros por período ou tipo de benefício.<br>6. O sistema permite que o **Jovem Beneficiário** exporte o histórico em formato PDF ou CSV. |
+| **Fluxos Alternativos** | - Caso o jovem não possua histórico, o sistema exibirá uma mensagem informativa. |
+| **Exceções** | - Falha na conexão com o banco de dados, impedindo a exibição do histórico.<br>- Erro ao gerar o arquivo para exportação. |
+| **Pós-condições** | - O Jovem Beneficiário tem acesso ao seu histórico de utilização de benefícios e pode exportá-lo, se desejado. |
+| **Autor** | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+
+<p align="center" style="font-size: small;">Fonte: <i> <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a> </i></p>
+
 ### Caso de Uso 7 ([RF17](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf17))
 <font size="3"><p style="text-align: center">Tabela 5: Compartilhar Carteirinha Digital</p></font>
 
@@ -184,3 +224,5 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 |  `1.2` | 12/10/2025 | Mudança bibliografia | [Eduarda](https://github.com/eduardar0) |  [Dylan](https://github.com/dylancavalcante) |
 |  `1.3` | 12/10/2025 | Adição de uso de caso 01 e 02 | [Leticia](https://github.com/leticialopes20) | [Arthur](https://github.com/arthurfernandesj) |
 |  `1.4` | 12/10/2025 | Adição de uso de caso 03 e 04 | [Eduarda](https://github.com/eduardar0) | [Arthur](https://github.com/arthurfernandesj) |
+|  `1.5` | 12/10/2025 | Adição de uso de caso 07 e 08 | [Giovana](https://github.com/GiovanaFontesS) | [Arthur](https://github.com/arthurfernandesj) |
+|  `1.6` | 12/10/2025 | Adição de uso de caso 05 e 06 | [Dylan](https://github.com/dylancavalcante) | [Giovana](https://github.com/GiovanaFontesS) |

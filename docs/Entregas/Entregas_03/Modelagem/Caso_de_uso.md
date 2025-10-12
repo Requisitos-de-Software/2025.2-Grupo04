@@ -124,7 +124,7 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Eduarda Domingos](https://github.com/eduardar0) </i></b></p></font>
 
-### **Caso de Uso 5 ([RF13](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf13))**
+### Caso de Uso 5 ([RF13](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf13))**
 
 <p align="center">Tabela 5: Visualizar Novidades e Novos Parceiros</p>
 
@@ -144,7 +144,7 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 
 <p align="center" style="font-size: small;">Fonte: <i> <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a> </i></p>
 
-### **Caso de Uso 6 ([RF12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf12))**
+### Caso de Uso 6 ([RF12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf12))**
 
 <p align="center">Tabela 6: Consultar Histórico de Utilização</p>
 
@@ -203,7 +203,7 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 <font size="2"><p style="text-align: center"><b>Fonte: <i>[Giovana](https://github.com/GiovanaFontesS)</i></b></p></font>
 
 
-### Caso de Uso 11 ([RF20](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf20))
+### Caso de Uso 09 ([RF20](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf20))
 <font size="3"><p style="text-align: center">Tabela 9: Alertas de Irregularidades no Uso dos Benefícios</p></font>
 
 | [RF20](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf20) | **Descrição** |
@@ -223,7 +223,7 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 <font size="2"><p style="text-align: center"><b>Fonte: <i>[Arthur Fernandes](https://github.com/arthurfernandesj) </i></b></p></font>
 
 
-### Caso de Uso 12 ([RF21](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf21))
+### Caso de Uso 10 ([RF21](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf21))
 <font size="3"><p style="text-align: center">Tabela 10: Visualização Geográfica de Parceiros e Eventos</p></font>
 
 | [RF21](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf21) | **Descrição** |
@@ -242,16 +242,7 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i>[Arthur Fernandes](https://github.com/arthurfernandesj)</i></b></p></font>
 
-
-
-
-
-
-
-
-
 ## Referências Bibliográficas
-
 
 > <a id="TEC1" href="#anchor_2">1.</a> </a> GUIA FACETADO DE TÉCNICAS DE ELICITAÇÃO DE REQUISITOS. Florianópolis: UFSC, 2017. Disponível em: <a href="https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades">https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades</a>. Acesso em: 22 set. 2025.
 
@@ -273,4 +264,4 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 |  `1.4` | 12/10/2025 | Adição de uso de caso 03 e 04 | [Eduarda](https://github.com/eduardar0) | [Arthur](https://github.com/arthurfernandesj) |
 |  `1.5` | 12/10/2025 | Adição de uso de caso 07 e 08 | [Giovana](https://github.com/GiovanaFontesS) | [Arthur](https://github.com/arthurfernandesj) |
 |  `1.6` | 12/10/2025 | Adição de uso de caso 05 e 06 | [Dylan](https://github.com/dylancavalcante) | [Giovana](https://github.com/GiovanaFontesS) |
-|  `1.7` | 12/10/2025 | Adição de uso de caso 11 e 12 | [Arthur](https://github.com/arthurfernandesj) | [Leticia](https://github.com/leticialopes20) | 
+|  `1.7` | 12/10/2025 | Adição de uso de caso 09 e 10 | [Arthur](https://github.com/arthurfernandesj) | [Leticia](https://github.com/leticialopes20) | 

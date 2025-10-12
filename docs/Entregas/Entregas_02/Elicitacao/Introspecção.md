@@ -62,6 +62,11 @@ A tabela a seguir apresenta uma lista de requisitos de software levantados duran
 | IDJ15 | O processo de emissão deve ser testado com diferentes perfis de jovens (NIS válido, NIS inválido, cadastro desatualizado). | RT |
 | IDJ16 | O fluxo de validação da carteira deve ser testado a partir da perspectiva de um estabelecimento comercial. | RT |
 | IDJ17 | Testes de usabilidade devem ser conduzidos com jovens na faixa etária de 15 a 29 anos para validar a clareza da interface. | RT |
+| IDJ18 | Usabilidade: O aplicativo deve permitir que o usuário personalize o tamanho da fonte e o esquema de cores para melhorar a legibilidade. | RNF |
+| IDJ19 | Confiabilidade: O sistema deve registrar todas as tentativas de validação da carteira, bem-sucedidas ou não, para fins de auditoria. | RNF |
+| IDJ20 | Desempenho: A consulta à elegibilidade do CadÚnico deve retornar o resultado em no máximo 3 segundos. | RNF |
+| IDJ21 | Suportabilidade: O sistema deve ter capacidade de ser facilmente escalado para atender a um aumento de 50% no número de usuários sem degradação do desempenho.| RNF |
+
 <p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
 
 ## Conclusão

@@ -66,6 +66,21 @@ A tabela a seguir apresenta os requisitos funcionais (RF) e não funcionais (RNF
 | **RNF07** <a id="rnf07"></a> | O aplicativo deve possuir recursos de acessibilidade (alto contraste, leitura de tela, voz e Libras). | BS20, IDJ09 | RNF | Não |
 | **RNF08** <a id="rnf08"></a> | O sistema deve garantir disponibilidade mínima de 99,5%. | RNF-CON-01 | RNF | Não |
 | **RNF09** <a id="rnf09"></a> | O design deve ser responsivo em diferentes tamanhos de tela e dispositivos. | ST09 | RNF | Sim |
+| **RNF10** | O tempo de carregamento das páginas do site oficial não deve exceder 3 segundos em conexões de internet de baixa velocidade. | ADD - Desempenho | RNF | Não |
+| **RNF11** | O aplicativo deve garantir que as informações sobre os benefícios estejam 100% sincronizadas com a base de dados oficial. | ADD - Confiabilidade | RNF | Não |
+| **RNF12** | O sistema deve ser compatível com as duas versões anteriores dos principais navegadores web e sistemas operacionais móveis. | ADD - Suportabilidade | RNF | Não |
+| **RNF13** | A navegação entre as seções do site e do aplicativo deve ser consistente e previsível para o jovem beneficiário. | ADD - Usabilidade | RNF | Não |
+| **RNF14** | O aplicativo deve apresentar um feedback visual e sonoro claro para cada interação do jovem beneficiário. | BS26 | RNF | Não |
+| **RNF15** | O sistema deve ter um tempo máximo de inatividade de 2 horas por mês, fora das janelas de manutenção programada. | BS27 | RNF | Não |
+| **RNF16** | O tempo de resposta para validação da carteirinha (QR Code) não deve exceder 2 segundos. | BS28 | RNF | Não |
+| **RNF17** | A equipe de desenvolvimento deve disponibilizar atualizações de segurança e correções de bugs em um ciclo de, no máximo, 3 meses. | BS29 | RNF | Não |
+| **RNF18** | O aplicativo deve permitir que o jovem beneficiário personalize o tamanho da fonte e o esquema de cores para melhorar a legibilidade. | IDJ18 | RNF | Não |
+| **RNF19** | O sistema deve registrar todas as tentativas de validação da carteira, bem-sucedidas ou não, para fins de auditoria. | IDJ19 | RNF | Não |
+| **RNF20** | A consulta à elegibilidade do CadÚnico deve retornar o resultado em no máximo 3 segundos. | IDJ20 | RNF | Não |
+| **RNF21** | O sistema deve ter capacidade de ser facilmente escalado para atender a um aumento de 50% no número de jovens beneficiários sem degradação do desempenho. | IDJ21 | RNF | Não |
+| **RNF22** | O sistema deve manter um log de auditoria de todas as emissões e validações de carteirinhas por 5 anos. | ST12 | RNF | Não |
+| **RNF23** | O aplicativo deve carregar as informações de eventos e parceiros em no máximo 3 segundos, mesmo com grande volume de dados. | ST13 | RNF | Não |
+| **RNF24** | O aplicativo deve ser compatível com a API mais recente e as duas versões anteriores do sistema operacional móvel. | ST14 | RNF | Não |
 
 <p align="center" style="font-size:10pt;">
 Autor:  
@@ -81,4 +96,5 @@ Autor:
 | 1.1 | 09/10/2025 | Adicionados ids aos requisitos para facilitar a citação dos mesmos| [Eduarda Rodrigues](https://github.com/eduardar0) | [Dylan Cavalcante](https://github.com/dylancavalcante)|
 | 1.2| 10/10/2025 | Adiciona mais requisitos elicitados em entrevista| [Dylan Cavalcante](https://github.com/dylancavalcante) | [Giovana Fontes](https://github.com/giovanaFontesS)|
 | 1.3| 12/10/2025 |     Remoção de titulo da tabela duplicado| [Breno Teixeira](https://github.com/BrenoLteixeira) | [Giovana Fontes](https://github.com/giovanaFontesS)|
+| 1.2| 10/10/2025 | Adiciona mais requisitos elicitados em várias técnicas de elicitação| [Dylan Cavalcante](https://github.com/dylancavalcante) | [Giovana Fontes](https://github.com/giovanaFontesS)|
 </center>

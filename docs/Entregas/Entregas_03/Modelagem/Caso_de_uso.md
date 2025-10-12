@@ -200,7 +200,54 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 | **Pós-condições** | - As pendências e erros foram exibidos corretamente, permitindo que o jovem beneficiário tome ações corretivas. |
 | **Autor** | [Giovana](https://github.com/GiovanaFontesS) |
 
-<font size="2"><p style="text-align: center"><b>Fonte: <i>[Giovana](https://github.com/GiovanaFontesS)</i></b></p></font>]
+<font size="2"><p style="text-align: center"><b>Fonte: <i>[Giovana](https://github.com/GiovanaFontesS)</i></b></p></font>
+
+
+
+
+### Caso de Uso 11 ([RF20](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf20))
+<font size="3"><p style="text-align: center">Tabela 9: Alertas de Irregularidades no Uso dos Benefícios</p></font>
+
+| [RF20](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf20) | **Descrição** |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome do Caso de Uso** | Alertas de Irregularidades no Uso dos Benefícios |
+| **Rastreabilidade** | [ENT09](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/)|
+| **Ator Principal** | Jovem Beneficiário |
+| **Atores Secundários** | Sistema ID Jovem, Banco de Dados de Benefícios, CadÚnico (integração futura) |
+| **Objetivo** | Alertar o jovem beneficiário sobre possíveis irregularidades no uso de seus benefícios, permitindo que ele realize a correção, atualização de dados ou verificação preventiva. |
+| **Pré-condições** | - O jovem beneficiário deve estar autenticado no aplicativo ID Jovem.<br>- O sistema deve ter acesso ao banco de dados de benefícios e ao histórico de uso.<br>- A conexão com a internet deve estar ativa. |
+| **Fluxo Principal de Eventos** | 1. O **jovem beneficiário** acessa o aplicativo ID Jovem e realiza login.<br>2. O sistema consulta o **histórico de uso dos benefícios** no banco de dados.<br>3. O sistema executa uma análise automática para identificar possíveis irregularidades ou inconsistências.<br>4. Caso sejam detectadas irregularidades, o sistema **gera uma notificação** para o jovem beneficiário.<br>5. O **jovem beneficiário** acessa a seção “Alertas de Irregularidades”.<br>6. O sistema exibe **detalhes da irregularidade** (tipo, data, benefício envolvido e possíveis causas).<br>7. O sistema apresenta **orientações** para correção, atualização de dados ou contato com o suporte.<br>8. O **jovem beneficiário** pode escolher entre **contestar a irregularidade**, **atualizar dados cadastrais** ou **entrar em contato com o suporte**.<br>9. O sistema registra a ação tomada pelo usuário e atualiza o status da irregularidade. |
+| **Fluxos Alternativos** | **4a.** Caso nenhuma irregularidade seja identificada, o sistema exibe a mensagem: “Nenhuma irregularidade encontrada em seus benefícios.”<br>**8a.** Se o jovem escolher contestar, o sistema abre um formulário específico para envio de justificativa e documentação comprobatória.<br>**8b.** Se o jovem optar por contato com o suporte, é redirecionado para o canal de atendimento integrado. |
+| **Exceções** | - Falha na conexão com o servidor impede a verificação de irregularidades.<br>- Erro ao sincronizar dados com o CadÚnico impede a atualização completa do histórico.<br>- Irregularidade não detectada corretamente devido a erro no monitoramento.<br>- Tempo limite de resposta excedido na análise de dados. |
+| **Pós-condições** | - As irregularidades identificadas são exibidas ao **jovem beneficiário**.<br>- As ações de correção, contestação ou atualização são registradas no sistema.<br>- O status das irregularidades é atualizado para “em análise” ou “resolvido”. |
+| **Autor** | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+
+<font size="2"><p style="text-align: center"><b>Fonte: <i>[Arthur Fernandes](https://github.com/arthurfernandesj) </i></b></p></font>
+
+
+### Caso de Uso 12 ([RF21](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf21))
+<font size="3"><p style="text-align: center">Tabela 10: Visualização Geográfica de Parceiros e Eventos</p></font>
+
+| [RF21](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf21) | **Descrição** |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome do Caso de Uso** | Visualização Geográfica de Parceiros e Eventos |
+| **Rastreabilidade** | [ENT10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/)|
+| **Ator Principal** | Jovem Beneficiário |
+| **Atores Secundários** | Sistema ID Jovem, Banco de Dados de Parceiros e Eventos, Serviço de Geolocalização (API de Mapas) |
+| **Objetivo** | Permitir que o jovem beneficiário visualize, por meio de um mapa interativo, a localização de parceiros e eventos disponíveis em sua região, com informações detalhadas e filtros de pesquisa. |
+| **Pré-condições** | - O jovem beneficiário deve estar autenticado no aplicativo ID Jovem.<br>- O dispositivo deve possuir conexão ativa à internet.<br>- O serviço de geolocalização deve estar habilitado e com permissão concedida. |
+| **Fluxo Principal de Eventos** | 1. O **jovem beneficiário** acessa o aplicativo ID Jovem e realiza login.<br>2. O **jovem** seleciona a opção “Mapa de Parceiros e Eventos”.<br>3. O sistema solicita **permissão de acesso à localização** do usuário.<br>4. Após a autorização, o sistema exibe o **mapa interativo**, mostrando os parceiros e eventos próximos à localização atual.<br>5. O **jovem beneficiário** pode **filtrar os resultados** por tipo de parceiro, data, categoria de evento ou distância.<br>6. O sistema atualiza o mapa conforme os filtros aplicados.<br>7. O **jovem** clica em um marcador no mapa.<br>8. O sistema exibe **informações detalhadas** sobre o parceiro ou evento selecionado (nome, endereço, horários, benefícios disponíveis e opções de rota). |
+| **Fluxos Alternativos** | **3a.** Se o jovem negar a permissão de localização, o sistema solicita que ele insira um endereço ou CEP manualmente para realizar a busca.<br>**5a.** O jovem pode redefinir filtros para exibir todos os parceiros e eventos disponíveis.<br>**8a.** Caso o local selecionado tenha integração com outro sistema (ex: compra de ingressos ou reserva), o aplicativo redireciona para a página correspondente. |
+| **Exceções** | - Falha na obtenção da localização do usuário impede a exibição do mapa.<br>- Erro de carregamento do mapa ou indisponibilidade da API de geolocalização.<br>- Nenhum parceiro ou evento encontrado na região consultada.<br>- Perda de conexão com a internet durante o carregamento dos dados. |
+| **Pós-condições** | - O **jovem beneficiário** visualiza no mapa os parceiros e eventos disponíveis em sua região.<br>- Os filtros e preferências de visualização podem ser armazenados para futuras consultas.<br>- O sistema mantém atualizadas as informações exibidas conforme a base de dados de parceiros e eventos. |
+| **Autor** | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+
+<font size="2"><p style="text-align: center"><b>Fonte: <i>[Arthur Fernandes](https://github.com/arthurfernandesj)</i></b></p></font>
+
+
+
+
+
 
 
 ## Referências Bibliográficas
@@ -226,3 +273,5 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 |  `1.4` | 12/10/2025 | Adição de uso de caso 03 e 04 | [Eduarda](https://github.com/eduardar0) | [Arthur](https://github.com/arthurfernandesj) |
 |  `1.5` | 12/10/2025 | Adição de uso de caso 07 e 08 | [Giovana](https://github.com/GiovanaFontesS) | [Arthur](https://github.com/arthurfernandesj) |
 |  `1.6` | 12/10/2025 | Adição de uso de caso 05 e 06 | [Dylan](https://github.com/dylancavalcante) | [Giovana](https://github.com/GiovanaFontesS) |
+|  `1.7` | 12/10/2025 | Adição de uso de caso 11 e 12 | [Arthur](https://github.com/arthurfernandesj) | [Leticia](https://github.com/leticialopes20) |
+

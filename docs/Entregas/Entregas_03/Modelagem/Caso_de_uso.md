@@ -124,9 +124,46 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Eduarda Domingos](https://github.com/eduardar0) </i></b></p></font>
 
+### Caso de Uso 7 ([RF17](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf17))
+<font size="3"><p style="text-align: center">Tabela 5: Compartilhar Carteirinha Digital</p></font>
+
+| [RF17](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf17) | **Descrição** |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome do Caso de Uso** | Compartilhar Carteirinha Digital |
+| **Rastreabilidade** | [IDJ17](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/) [IDJ10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/) |
+| **Ator Principal** | Jovem Beneficiário |
+| **Atores Secundários** | Sistema do ID Jovem, Serviço de Compartilhamento do Dispositivo |
+| **Objetivo** | Permitir que o jovem beneficiário compartilhe sua carteirinha digital em formato PDF ou imagem, facilitando o acesso em diferentes dispositivos ou o envio a terceiros. |
+| **Pré-condições** | - O jovem beneficiário deve estar autenticado no aplicativo.<br>- O usuário deve possuir uma carteirinha digital válida e ativa. |
+| **Fluxo Principal de Eventos** | 1. O **jovem beneficiário** acessa o aplicativo e faz login.<br>2. O sistema valida o acesso e exibe a carteirinha digital.<br>3. O **jovem beneficiário** seleciona a opção “Compartilhar Carteirinha”.<br>4. O sistema apresenta opções de formato: PDF ou imagem (JPEG/PNG).<br>5. O **jovem beneficiário** escolhe o formato e o canal de envio (e-mail, WhatsApp, drive etc.).<br>6. O sistema gera o arquivo e utiliza o serviço de compartilhamento nativo do dispositivo.<br>7. O envio é concluído e o sistema exibe uma mensagem de sucesso. |
+| **Fluxos Alternativos** | - O sistema sugere canais de compartilhamento mais utilizados pelo usuário. |
+| **Exceções** | - Falha na geração do arquivo PDF/imagem.<br>- Jovem beneficiário sem carteirinha ativa.<br>- Permissões de compartilhamento negadas.<br>- Interrupção no processo de envio. |
+| **Pós-condições** | - A carteirinha digital foi compartilhada com sucesso pelo canal escolhido. |
+| **Autor** | [Giovana](https://github.com/GiovanaFontesS) |
+
+<font size="2"><p style="text-align: center"><b>Fonte: <i>[Giovana](https://github.com/GiovanaFontesS)</i></b></p></font>
+
+### Caso de Uso 8 ([RF18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf18))
+<font size="3"><p style="text-align: center">Tabela 6: Exibir Pendências e Erros Relacionados aos Benefícios</p></font>
+
+| [RF18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf18) | **Descrição** |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome do Caso de Uso** | Exibir Pendências e Erros dos Benefícios |
+| **Rastreabilidade** | [IDJ18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/)  [IDJ15](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/) [IDJ12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/) |
+| **Ator Principal** | Jovem Beneficiário |
+| **Atores Secundários** | Sistema do ID Jovem, Banco de Dados de Benefícios, CadÚnico (integração futura) |
+| **Objetivo** | Fornecer informações claras sobre pendências, inconsistências ou erros detectados nos benefícios, permitindo a correção proativa dos dados. |
+| **Pré-condições** | - O jovem beneficiário deve estar autenticado no aplicativo.<br>- O sistema deve ter acesso ao banco de dados de benefícios e à conexão com o CadÚnico. |
+| **Fluxo Principal de Eventos** | 1. O **jovem beneficiário** acessa o aplicativo e faz login.<br>2. O sistema realiza verificação automática dos dados do benefício.<br>3. Caso sejam identificadas pendências, o sistema exibe notificação ao usuário.<br>4. O usuário acessa a seção “Pendências e Erros”.<br>5. O sistema lista as pendências detectadas, indicando o tipo de problema e orientações para resolução.<br>6. O **jovem beneficiário** pode atualizar os dados ou entrar em contato com o suporte. |
+| **Fluxos Alternativos** | - O sistema pode sugerir correção automática para dados desatualizados quando possível. |
+| **Exceções** | - Falha na conexão com o servidor.<br>- Erro na sincronização de dados com o CadÚnico.<br>- Pendência não identificada corretamente.<br>- Tempo limite de resposta excedido. |
+| **Pós-condições** | - As pendências e erros foram exibidos corretamente, permitindo que o jovem beneficiário tome ações corretivas. |
+| **Autor** | [Giovana](https://github.com/GiovanaFontesS) |
+
+<font size="2"><p style="text-align: center"><b>Fonte: <i>[Giovana](https://github.com/GiovanaFontesS)</i></b></p></font>]
+
+
 ## Referências Bibliográficas
-
-
 
 
 > <a id="TEC1" href="#anchor_2">1.</a> </a> GUIA FACETADO DE TÉCNICAS DE ELICITAÇÃO DE REQUISITOS. Florianópolis: UFSC, 2017. Disponível em: <a href="https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades">https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades</a>. Acesso em: 22 set. 2025.

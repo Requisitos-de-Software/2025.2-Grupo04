@@ -55,7 +55,7 @@ A seleção priorizou requisitos que agregariam valor significativo à experiên
 ---
 
 ## Requisitos Não Funcionais Não Implementados
-<font size="3"><p style="text-align: center">Tabela 1:Requisitos Não Funcionais Não Implementados</p></font>
+<font size="3"><p style="text-align: center">Tabela 2:Requisitos Não Funcionais Não Implementados</p></font>
 
 | Código | Versão | Descrição | Origem |
 |--------|--------|-----------|---------|

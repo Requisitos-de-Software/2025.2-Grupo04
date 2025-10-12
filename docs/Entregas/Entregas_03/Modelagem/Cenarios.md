@@ -223,8 +223,6 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 
  <font size="2"><p style="text-align: center">Fonte: [Giovana Fontes](https://github.com/GiovanaFontesS)</p></font>
 
- 
-
 ## Referências Bibliográficas
 
 1. BARBOSA, Simone Diniz Junqueira et al. *Interação humano-computador e experiência do usuário.* Auto publicação, 2021.  

@@ -29,11 +29,6 @@ A tabela a seguir apresenta os requisitos funcionais (RF) e não funcionais (RNF
 
 ## Requisitos
 
-
-**Tabela 01 - Requisitos do ID Jovem**
-
-## Requisitos
-
 **Tabela 01 - Requisitos do ID Jovem**
 
 | ID | Descrição | Rastreabilidade | Categoria | Implementado |
@@ -85,4 +80,5 @@ Autor:
 | 1.0 | 09/10/2025 | Criação do artefato consolidado de requisitos | [Dylan Cavalcante](https://github.com/dylancavalcante) | [Leticia Lopes](https://github.com/leticialopes20)|
 | 1.1 | 09/10/2025 | Adicionados ids aos requisitos para facilitar a citação dos mesmos| [Eduarda Rodrigues](https://github.com/eduardar0) | [Dylan Cavalcante](https://github.com/dylancavalcante)|
 | 1.2| 10/10/2025 | Adiciona mais requisitos elicitados em entrevista| [Dylan Cavalcante](https://github.com/dylancavalcante) | [Giovana Fontes](https://github.com/giovanaFontesS)|
+| 1.3| 12/10/2025 |     Remoção de titulo da tabela duplicado| [Breno Teixeira](https://github.com/BrenoLteixeira) | [Giovana Fontes](https://github.com/giovanaFontesS)|
 </center>

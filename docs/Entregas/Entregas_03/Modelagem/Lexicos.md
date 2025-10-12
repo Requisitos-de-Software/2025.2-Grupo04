@@ -103,7 +103,7 @@ Os léxicos do tipo estado referem-se às condições, situações ou configura�
 | L23 |  |  |  | Estado | [](#) | Giovana |
 | L24 |  |  |  | Estado | [](#) | Arthur |
 | L25 |  |  |  | Estado | [](#) | Dylan |
-| L26 - Vencido | Expirado, Inválido | Estado da carteira digital após o término de seu prazo de validade. | Impede o Jovem Beneficiário de utilizar os benefícios e o instrui a realizar a renovação do cadastro. | Estado | [RF08](../../Elicitacao/Requisitos_Elicitados.md#rf08) | [Breno](https://github.com/brenolteixeira)
+| L26 - Vencido | Expirado, Inválido | Estado da carteira digital após o término de seu prazo de validade. | Impede o Jovem Beneficiário de utilizar os benefícios e o instrui a realizar a renovação do cadastro. | Estado | [RF08](../../Elicitacao/Requisitos_Elicitados.md#rf08) | [Breno](https://github.com/brenolteixeira)|
 | L27 |  |  |  | Estado | [](#) | Leticia |
 | L28 |  |  |  | Estado | [](#) | Leticia |
 

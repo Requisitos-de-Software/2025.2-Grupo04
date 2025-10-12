@@ -368,6 +368,41 @@ Na entrevista 2 encontra-se a gravação da entrevista da Noemy da Luz Cardoso.
       <td>Deve fornecer alertas sobre possíveis irregularidades em benefícios.</td>
       <td>Não</td>
     </tr>
+    <tr>
+        <td>ENT10</td>
+      <td>O sistema deve possuir um <b>mapa interativo</b> que permita ao usuário visualizar geograficamente os estabelecimentos, eventos e pontos de transporte que aceitam o ID Jovem.</td>
+      <td>Não</td>
+    </tr>
+    <tr>
+      <td>ENT11</td>
+      <td>O sistema deve apresentar uma <b>agenda integrada de eventos</b> culturais, esportivos e educacionais, com filtros por categoria, data e gratuidade.</td>
+      <td>Não</td>
+    </tr>
+    <tr>
+      <td>ENT12</td>
+      <td>O sistema deve permitir que o usuário acesse um <b>histórico detalhado de utilização</b> dos benefícios, registrando data, tipo de benefício e local de uso.</td>
+      <td>Não</td>
+    </tr>
+    <tr>
+      <td>ENT13</td>
+      <td>O sistema deve implementar <b>notificações push personalizadas</b> para alertar sobre o vencimento do ID Jovem, novos parceiros e eventos de interesse.</td>
+      <td>Não</td>
+    </tr>
+    <tr>
+      <td>ENT14</td>
+      <td>O sistema deve fornecer um <b>canal para denúncia ou feedback</b> sobre estabelecimentos que se recusaram a aceitar o benefício.</td>
+      <td>Não</td>
+    </tr>
+    <tr>
+      <td>ENT15</td>
+      <td>O sistema deve permitir que o usuário <b>favorite eventos e estabelecimentos</b>, criando uma lista pessoal para consulta rápida.</td>
+      <td>Não</td>
+    </tr>
+    <tr>
+      <td>ENT16</td>
+      <td>O sistema deve integrar uma seção de <b>"Vantagens e Parcerias"</b> com descontos e ofertas exclusivas que vão além dos benefícios legais.</td>
+      <td>Não</td>
+    </tr>
   </tbody>
 </table>
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/">Arthur Fernandes</a> & <a href="https://github.com/"> Dylan Cavalcante</a>, 2025.</p></font>
@@ -385,37 +420,37 @@ Na entrevista 2 encontra-se a gravação da entrevista da Noemy da Luz Cardoso.
   </thead>
   <tbody>
     <tr>
-      <td>ENT16</td>
+      <td>ENT17</td>
       <td>O aplicativo deve ser intuitivo e de fácil uso, mesmo para jovens com pouca experiência digital.</td>
       <td>Não</td>
     </tr>
     <tr>
-      <td>ENT17</td>
+      <td>ENT18</td>
       <td>Deve lidar com grande número de usuários simultaneamente.</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>ENT18</td>
+      <td>ENT19</td>
       <td>Deve permitir tarefas rápidas em até 5 minutos e tarefas complexas em até 20 minutos.</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>ENT19</td>
+      <td>ENT20</td>
       <td>Deve considerar segurança do usuário, especialmente em informações pessoais.</td>
       <td>Não</td>
     </tr>
     <tr>
-      <td>ENT20</td>
+      <td>ENT21</td>
       <td>Deve possuir interface clara, letras legíveis e navegação intuitiva.</td>
       <td>Não</td>
     </tr>
     <tr>
-      <td>ENT21</td>
+      <td>ENT22</td>
       <td>Deve ter cores e layout que facilitem a utilização do aplicativo.</td>
       <td>Não</td>
     </tr>
     <tr>
-      <td>ENT22</td>
+      <td>ENT23</td>
       <td>Deve permitir acesso rápido às informações em menos de 2 minutos por sessão.</td>
       <td>Sim</td>
     </tr>

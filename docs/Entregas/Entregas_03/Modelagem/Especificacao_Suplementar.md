@@ -25,32 +25,32 @@ A Tabela 1 apresenta os membros responsáveis pelo desenvolvimento deste artefat
 <tr>
 <td><a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></td>
 <td>12/10/2025</td>
-<td>00:00</td>
+<td>17:50</td>
 </tr>
 <tr>
 <td><a href="https://github.com/BrenoLTeixeira">Breno Lourenço</a></td>
 <td>12/10/2025</td>
-<td>00:00</td>
+<td>17:50</td>
 </tr>
 <tr>
 <td><a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></td>
 <td>12/10/2025</td>
-<td>00:14</td>
+<td>17:50</td>
 </tr>
 <tr>
 <td><a href="https://github.com/eduardar0">Eduarda Domingos</a></td>
 <td>12/10/2025</td>
-<td>22:00</td>
+<td>17:50</td>
 </tr>
 <tr>
 <td><a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></td>
 <td>12/10/2025</td>
-<td>11:33</td>
+<td>17:50</td>
 </tr>
 <tr>
 <td><a href="https://github.com/leticialopes20">Letícia Lopes</a></td>
 <td>12/10/2025</td>
-<td>21:00</td>
+<td>17:50</td>
 </tr>
 </tbody>
 </table>
@@ -59,17 +59,60 @@ A Tabela 1 apresenta os membros responsáveis pelo desenvolvimento deste artefat
 
 ---
 
+## Modelo FURPS
+
+
+
 A Legenda para identificação dos requisitos em cada acrônimo estão representadas na tabela 2.
 
-<p style="text-align: center"><strong>Tabela 2 -</strong> Legenda do modelo FURPS</p>
 
-| Acrônimo | Significado | Tradução | Identificador |
-|:----:|:----:|:----:|:----:|
-| F | Functionality |[Funcionalidade](#funcionalidade) | - |
-| U | Usability | [Usabilidade](#usabilidade)| RU |
-| R | Reliability |[Confiabilidade](#confiabilidade)  | RR |
-| P | Performance | [Desempenho](#desempenho) | RP |
-| S | Supportability | [Suportabilidade](#suportabilidade) | RS |
+
+<p style="text-align: center"><strong>Tabela 2 -</strong> Legenda do modelo FURPS</p>
+<div align="center">
+<table>
+<thead>
+<tr>
+<th>Acrônimo</th>
+<th>Significado</th>
+<th>Tradução</th>
+<th>Identificador</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>F</td>
+<td>Functionality</td>
+<td><a href="#funcionalidade">Funcionalidade</a></td>
+<td>-</td>
+</tr>
+<tr>
+<td>U</td>
+<td>Usability</td>
+<td><a href="#usabilidade">Usabilidade</a></td>
+<td>RU</td>
+</tr>
+<tr>
+<td>R</td>
+<td>Reliability</td>
+<td><a href="#confiabilidade">Confiabilidade</a></td>
+<td>RR</td>
+</tr>
+<tr>
+<td>P</td>
+<td>Performance</td>
+<td><a href="#desempenho">Desempenho</a></td>
+<td>RP</td>
+</tr>
+<tr>
+<td>S</td>
+<td>Supportability</td>
+<td><a href="#suportabilidade">Suportabilidade</a></td>
+<td>RS</td>
+</tr>
+</tbody>
+</table>
+</div>
+
 
 <p style="text-align: center"><strong>Fonte:</strong> <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a>, 2025</p>
 
@@ -86,7 +129,7 @@ A **usabilidade** no contexto do **aplicativo ID Jovem** refere-se à facilidade
 
 Esta seção abrange todos os requisitos que influenciam a usabilidade do sistema. Os requisitos não funcionais relacionados à usabilidade estão descritos na Tabela 3.
 
-#### <p style="text-align: center"><strong>Tabela 3 -</strong>  Requisitos de Usabilidade do ID Jovem</p>
+#### <p style="text-align: center"><strong>Tabela 3 -</strong>  Requisitos de Usabilidade</p>
 
 |   Código   | Requisito Não Funcional         | Descrição                                                                                         | Justificativa                                                               |      Status      | Autor                                |
 | :--------: | :------------------------------ | :------------------------------------------------------------------------------------------------ | :-------------------------------------------------------------------------- | :--------------: | :----------------------------------- |
@@ -105,18 +148,18 @@ Esta seção abrange todos os requisitos que influenciam a usabilidade do sistem
 
 A **confiabilidade** refere-se à habilidade do sistema de operar continuamente e sem problemas, reduzindo ao máximo as falhas. Isso envolve a capacidade de lidar com falhas, a forma como os erros são gerenciados e a disponibilidade constante do sistema. Refere-se a integridade, conformidade e interoperabilidade do software [3].
 
-Esta seção inclui todos os requisitos que afetam a confiabilidade. Os requisitos de confiabilidade estão representados na tabela 4.
+Esta seção abrange todos os requisitos que influenciam o Confiabilidade do sistema. Os requisitos não funcionais relacionados à confiabilidade estão descritos na Tabela 4.
 
-#### <p style="text-align: center"><strong>Tabela 4 -</strong>  Requisitos de Confiabilidade do ID Jovem</p>
+#### <p style="text-align: center"><strong>Tabela 4 -</strong>  Requisitos de Confiabilidade</p>
 
 |   Código   | Requisito Não Funcional | Descrição                                                                          | Justificativa                                         |      Status      | Autor                                |
 | :--------: | :---------------------- | :--------------------------------------------------------------------------------- | :---------------------------------------------------- | :--------------: | :----------------------------------- |
-| [RNF05](#) | Proteção de dados pessoais | Os dados do jovem beneficiário devem ser protegidos por criptografia conforme a LGPD. | Garantir a segurança e confidencialidade das informações pessoais. | Implementado | [Letícia Lopes](https://github.com/leticialopes20) |
-| [RNF08](#) | Alta disponibilidade    | O sistema deve garantir disponibilidade mínima de 99,5%.                           | Evitar falhas de acesso e interrupções nos serviços.  | Não implementado | [Letícia Lopes](https://github.com/leticialopes20) |
-| [RNF11](#) | Sincronização de dados  | As informações dos benefícios devem estar sempre sincronizadas com a base oficial. | Garantir transparência e atualização das informações. | Não implementado | [Dylan Cavalcante](https://github.com/dylancavalcante) |
-| [RNF15](#) | Controle de inatividade | O sistema deve ter no máximo 2h de inatividade mensal fora de manutenções.         | Garantir confiabilidade e continuidade de serviço.    | Não implementado | [Dylan Cavalcante](https://github.com/dylancavalcante) |
-| [RNF19](#) | Registro de validações  | O sistema deve registrar todas as tentativas de validação de carteirinhas.         | Assegurar rastreabilidade e auditoria de ações.       | Não implementado | [Breno Lourenço](https://github.com/BrenoLTeixeira) |
-| [RNF22](#) | Log de auditoria        | O sistema deve armazenar logs de emissões e validações por 5 anos.                 | Garantir rastreabilidade e controle de histórico.     | Não implementado | [Breno Lourenço](https://github.com/BrenoLTeixeira) |
+| [RNF05](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Proteção de dados pessoais | Os dados do jovem beneficiário devem ser protegidos por criptografia conforme a LGPD. | Garantir a segurança e confidencialidade das informações pessoais. | Implementado | [Letícia Lopes](https://github.com/leticialopes20) |
+| [RNF08](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Alta disponibilidade    | O sistema deve garantir disponibilidade mínima de 99,5%.                           | Evitar falhas de acesso e interrupções nos serviços.  | Não implementado | [Letícia Lopes](https://github.com/leticialopes20) |
+| [RNF11](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Sincronização de dados  | As informações dos benefícios devem estar sempre sincronizadas com a base oficial. | Garantir transparência e atualização das informações. | Não implementado | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+| [RNF15](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Controle de inatividade | O sistema deve ter no máximo 2h de inatividade mensal fora de manutenções.         | Garantir confiabilidade e continuidade de serviço.    | Não implementado | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+| [RNF19](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Registro de validações  | O sistema deve registrar todas as tentativas de validação de carteirinhas.         | Assegurar rastreabilidade e auditoria de ações.       | Não implementado | [Breno Lourenço](https://github.com/BrenoLTeixeira) |
+| [RNF22](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Log de auditoria        | O sistema deve armazenar logs de emissões e validações por 5 anos.                 | Garantir rastreabilidade e controle de histórico.     | Não implementado | [Breno Lourenço](https://github.com/BrenoLTeixeira) |
 
 <p align="center"><strong>Fontes:</strong> <a href="https://github.com/leticialopes20">Letícia Lopes</a>, <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a>, <a href="https://github.com/BrenoLTeixeira">Breno Lourenço</a>, 2025</p>
 
@@ -125,16 +168,18 @@ Esta seção inclui todos os requisitos que afetam a confiabilidade. Os requisit
 
 O **desempenho** diz respeito à rapidez e eficiência com que o sistema opera. Os requisitos de desempenho incluem fatores como a velocidade de resposta, a capacidade de processamento de dados e a habilidade do sistema de crescer e se adaptar a Outores demandas.
 
-#### <p style="text-align: center"><strong>Tabela 5 -</strong>  Requisitos de Desempenho do ID Jovem</p>
+Esta seção abrange todos os requisitos que influenciam o desempenho do sistema. Os requisitos não funcionais relacionados à desempenho estão descritos na Tabela 5.
+
+#### <p style="text-align: center"><strong>Tabela 5 -</strong>  Requisitos de Desempenho </p>
 
 |   Código   | Requisito Não Funcional                | Descrição                                                                                 | Justificativa                                                             |      Status      | Autor                                |
 | :--------: | :------------------------------------- | :---------------------------------------------------------------------------------------- | :------------------------------------------------------------------------ | :--------------: | :----------------------------------- |
-| [RNF03](#) | Emissão rápida da carteirinha          | A emissão da carteirinha deve ocorrer em até 5 segundos após a solicitação.               | Melhorar a experiência e reduzir o tempo de espera do jovem beneficiário. |   Implementado   | [Giovana Fontes](https://github.com/GiovanaFontesS) |
-| [RNF06](#) | Operação com baixo consumo de internet | O aplicativo deve funcionar com baixo consumo de dados e em regiões com conexão limitada. | Aumentar o acesso ao serviço por jovens em regiões carentes.              | Não implementado | [Giovana Fontes](https://github.com/GiovanaFontesS) |
-| [RNF10](#) | Carregamento eficiente                 | O tempo de carregamento das páginas não deve exceder 3 segundos em redes lentas.          | Melhorar o desempenho e reduzir frustrações no uso.                       | Não implementado | [Arthur Fernandes](https://github.com/arthurfernandesj) |
-| [RNF16](#) | Validação rápida da carteirinha        | O tempo de resposta da validação via QR Code não deve exceder 2 segundos.                 | Evitar atrasos em fiscalizações ou eventos.                               | Não implementado | [Arthur Fernandes](https://github.com/arthurfernandesj) |
-| [RNF20](#) | Consulta rápida ao CadÚnico            | O retorno da verificação de elegibilidade deve ocorrer em até 3 segundos.                 | Melhorar o tempo de resposta e a satisfação dos jovens beneficiários.     | Não implementado | [Letícia Lopes](https://github.com/leticialopes20) |
-| [RNF23](#) | Carregamento de dados                  | O aplicativo deve carregar informações de eventos e parceiros em até 3 segundos.          | Garantir desempenho mesmo com alto volume de dados.                       | Não implementado | [Letícia Lopes](https://github.com/leticialopes20) |
+| [RNF03](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Emissão rápida da carteirinha          | A emissão da carteirinha deve ocorrer em até 5 segundos após a solicitação.               | Melhorar a experiência e reduzir o tempo de espera do jovem beneficiário. |   Implementado   | [Giovana Fontes](https://github.com/GiovanaFontesS) |
+| [RNF06](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Operação com baixo consumo de internet | O aplicativo deve funcionar com baixo consumo de dados e em regiões com conexão limitada. | Aumentar o acesso ao serviço por jovens em regiões carentes.              | Não implementado | [Giovana Fontes](https://github.com/GiovanaFontesS) |
+| [RNF10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Carregamento eficiente                 | O tempo de carregamento das páginas não deve exceder 3 segundos em redes lentas.          | Melhorar o desempenho e reduzir frustrações no uso.                       | Não implementado | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| [RNF16](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Validação rápida da carteirinha        | O tempo de resposta da validação via QR Code não deve exceder 2 segundos.                 | Evitar atrasos em fiscalizações ou eventos.                               | Não implementado | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| [RNF20](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Consulta rápida ao CadÚnico            | O retorno da verificação de elegibilidade deve ocorrer em até 3 segundos.                 | Melhorar o tempo de resposta e a satisfação dos jovens beneficiários.     | Não implementado | [Letícia Lopes](https://github.com/leticialopes20) |
+| [RNF23](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Carregamento de dados                  | O aplicativo deve carregar informações de eventos e parceiros em até 3 segundos.          | Garantir desempenho mesmo com alto volume de dados.                       | Não implementado | [Letícia Lopes](https://github.com/leticialopes20) |
 
 <p align="center"><strong>Fontes:</strong> <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a>, <a href="https://github.com/leticialopes20">Letícia Lopes</a>, 2025</p>
 
@@ -142,17 +187,18 @@ O **desempenho** diz respeito à rapidez e eficiência com que o sistema opera. 
 
 A **suportabilidade** refere-se à facilidade de manter e suportar o sistema ao longo do tempo. Isso envolve requisitos como a frequência e facilidade de atualizações, a manutenção contínua, a disponibilidade de documentação completa e a necessidade de treinamento para os usuários e administradores.
 
+Esta seção abrange todos os requisitos que influenciam o Suportabilidade do sistema. Os requisitos não funcionais relacionados à suportabilidade estão descritos na Tabela 6.
 
-#### <p style="text-align: center"><strong>Tabela 6 -</strong>  Requisitos de suportabilidade do ID Jovem</p>
+#### <p style="text-align: center"><strong>Tabela 6 -</strong>  Requisitos de suportabilidade </p>
 
 |   Código   | Requisito Não Funcional           | Descrição                                                                                          | Justificativa                                                    |      Status      | Autor                                |
 | :--------: | :-------------------------------- | :------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------- | :--------------: | :----------------------------------- |
-| [RNF04](#) | Compatibilidade com Android e iOS | O aplicativo deve ser gratuito e compatível com sistemas Android e iOS.                            | Garantir o acesso universal à plataforma.                        |   Implementado   | [Dylan Cavalcante](https://github.com/dylancavalcante) |
-| [RNF09](#) | Design responsivo                 | O design deve se adaptar a diferentes tamanhos de tela e dispositivos.                             | Garantir boa experiência em smartphones, tablets e computadores. |   Implementado   | [Dylan Cavalcante](https://github.com/dylancavalcante) |
-| [RNF12](#) | Compatibilidade retroativa        | O sistema deve funcionar nas duas versões anteriores dos principais navegadores e sistemas móveis. | Ampliar o alcance e evitar incompatibilidades.                   | Não implementado | [Breno Lourenço](https://github.com/BrenoLTeixeira) |
-| [RNF17](#) | Ciclo de atualização              | A equipe deve liberar atualizações de segurança a cada 3 meses.                                    | Manter o aplicativo seguro e estável.                            | Não implementado | [Breno Lourenço](https://github.com/BrenoLTeixeira) |
-| [RNF21](#) | Escalabilidade do sistema         | O sistema deve suportar aumento de 50% de beneficiários sem perda de desempenho.                   | Garantir estabilidade com o crescimento da base de usuários.     | Não implementado | [ Eduarda Domingos](https://github.com/eduardar0) |
-| [RNF24](#) | Compatibilidade com API           | O app deve suportar a API mais recente e as duas versões anteriores do sistema operacional.        | Evitar falhas e garantir funcionamento contínuo.                 | Não implementado | [Eduarda Domingos](https://github.com/eduardar0) |
+| [RNF04](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Compatibilidade com Android e iOS | O aplicativo deve ser gratuito e compatível com sistemas Android e iOS.                            | Garantir o acesso universal à plataforma.                        |   Implementado   | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+| [RNF09](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Design responsivo                 | O design deve se adaptar a diferentes tamanhos de tela e dispositivos.                             | Garantir boa experiência em smartphones, tablets e computadores. |   Implementado   | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+| [RNF12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Compatibilidade retroativa        | O sistema deve funcionar nas duas versões anteriores dos principais navegadores e sistemas móveis. | Ampliar o alcance e evitar incompatibilidades.                   | Não implementado | [Breno Lourenço](https://github.com/BrenoLTeixeira) |
+| [RNF17](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Ciclo de atualização              | A equipe deve liberar atualizações de segurança a cada 3 meses.                                    | Manter o aplicativo seguro e estável.                            | Não implementado | [Breno Lourenço](https://github.com/BrenoLTeixeira) |
+| [RNF21](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Escalabilidade do sistema         | O sistema deve suportar aumento de 50% de beneficiários sem perda de desempenho.                   | Garantir estabilidade com o crescimento da base de usuários.     | Não implementado | [ Eduarda Domingos](https://github.com/eduardar0) |
+| [RNF24](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Compatibilidade com API           | O app deve suportar a API mais recente e as duas versões anteriores do sistema operacional.        | Evitar falhas e garantir funcionamento contínuo.                 | Não implementado | [Eduarda Domingos](https://github.com/eduardar0) |
 
 <p align="center"><strong>Fontes:</strong> <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a>, <a href="https://github.com/BrenoLTeixeira">Breno Lourenço</a>, <a href="https://github.com/eduardar0">Eduarda Domingos</a>, 2025</p>
 

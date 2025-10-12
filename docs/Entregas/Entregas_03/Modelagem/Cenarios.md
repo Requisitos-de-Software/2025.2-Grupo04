@@ -260,6 +260,40 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 
  <font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj)</p></font>
 
+### **Cenário 11: Atualização de Cadastro e Preferências Pessoais**
+
+<font size="3"><p style="text-align: center">Tabela 11: Cenário de Atualização de Cadastro e Preferências Pessoais</p></font>
+
+| **ID**         | [RF19](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf19) |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **Objetivo**   | Permitir que o Jovem Beneficiário atualize suas informações cadastrais (como e-mail e telefone) e defina preferências para receber notificações personalizadas. |
+| **Contexto**   | O Jovem Beneficiário trocou de número de telefone e deseja atualizar seu cadastro para não perder comunicados importantes. Além disso, ele quer receber notificações apenas sobre eventos de música e tecnologia. |
+| **Atores**     | Jovem Beneficiário, Sistema do ID Jovem, Banco de Dados Cadastral. |
+| **Recursos**   | Aplicativo ID Jovem (Web, iOS, Android), módulo de perfil do jovem beneficiário, conexão à internet, sistema de notificações. |
+| **Episódios**  | 1. O Jovem Beneficiário acessa o aplicativo, faz login e navega até a seção “Meu Perfil”.<br>2. O sistema exibe os dados cadastrais atuais (nome, CPF, NIS, e-mail, telefone).<br>3. O jovem beneficiário seleciona a opção “Editar” e atualiza seu número de telefone e e-mail de contato.<br>4. Em seguida, ele acessa a aba “Preferências de Notificação”.<br>5. O sistema exibe uma lista de categorias de interesse (esportes, cultura, música, tecnologia, etc.).<br>6. O jovem beneficiário marca as caixas de “Música” e “Tecnologia” e desmarca as demais.<br>7. Ele salva as alterações e o sistema exibe uma mensagem de confirmação: “Seus dados foram atualizados com sucesso!”. |
+| **Restrições** | A alteração de dados sensíveis como Nome, CPF e NIS não é permitida diretamente no app, devendo ser feita via CadÚnico. O sistema deve validar o formato do e-mail e do telefone. |
+| **Exceções**   | - Falha de conexão ao tentar salvar as alterações.<br>- O formato do e-mail ou telefone inserido é inválido.<br>- O sistema não consegue registrar as novas preferências de notificação.<br>- O jovem beneficiário tenta editar um campo bloqueado (CPF, NIS). |
+| **Autor**      | [Breno Teixeira](https://github.com/BrenoLTeixeira) |
+
+<font size="2"><p style="text-align: center">Fonte: [Breno Teixeira](https://github.com/BrenoLTeixeira)</p></font>
+
+### **Cenário 12: Canal para Denúncia ou Feedback sobre Estabelecimentos**
+
+<font size="3"><p style="text-align: center">Tabela 12: Cenário de Canal para Denúncia ou Feedback sobre Estabelecimentos</p></font>
+
+| **ID**         | [RF23](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf23) |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **Objetivo**   | Oferecer um canal direto no aplicativo para que o Jovem Beneficiário possa denunciar estabelecimentos que recusam o benefício ou fornecer feedback sobre a experiência com parceiros. |
+| **Contexto**   | Um Jovem Beneficiário tenta comprar um ingresso de cinema com 50% de desconto, mas o estabelecimento parceiro se recusa a aceitar a carteira digital do ID Jovem. O jovem quer registrar uma queixa formalmente. |
+| **Atores**     | Jovem Beneficiário, Sistema do ID Jovem, Equipe de Gestão de Parceiros. |
+| **Recursos**   | Aplicativo ID Jovem, formulário de denúncia/feedback, conexão à internet, sistema de tickets para gestão de ocorrências. |
+| **Episódios**  | 1. O Jovem Beneficiário, frustrado, abre o aplicativo e acessa a seção “Ajuda” ou diretamente o perfil do parceiro.<br>2. Ele seleciona a opção “Relatar um problema / Denúncia”.<br>3. O sistema abre um formulário solicitando o nome do estabelecimento, data e hora do ocorrido.<br>4. O jovem beneficiário descreve o que aconteceu no campo de texto e anexa uma foto da bilheteria como evidência.<br>5. Ele submete o formulário.<br>6. O sistema gera um número de protocolo para o jovem acompanhar a denúncia e envia os dados para a equipe de gestão de parceiros para análise e providências. |
+| **Restrições** | A denúncia deve conter um mínimo de informações (nome do local e descrição) para ser processada. O envio de anexos (fotos, vídeos) é opcional, mas recomendado. |
+| **Exceções**   | - Falha no envio do formulário por falta de conexão.<br>- Erro ao fazer o upload do arquivo de anexo.<br>- O estabelecimento não é encontrado na base de dados do aplicativo.<br>- O sistema de tickets está temporariamente indisponível. |
+| **Autor**      | [Breno Teixeira](https://github.com/BrenoLTeixeira) |
+
+<font size="2"><p style="text-align: center">Fonte: [Breno Teixeira](https://github.com/BrenoLTeixeira)</p></font>
+
 
 
 ## Referências Bibliográficas
@@ -281,3 +315,4 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 | `1.5` | 12/10/2025 | Remoção da palavra "usuário" do documento   | [Eduarda Domingos](https://github.com/eduardar0)|[Letícia Lopes](https://github.com/leticialopes20)|
 | `1.6` | 12/10/2025 | Adição dos cenários 7 e 8   | [Giovana Fontes](https://github.com/GiovanaFontesS)| [Letícia Lopes](https://github.com/leticialopes20)|
 | `1.7` | 12/10/2025 | Adição dos cenários 9 e 10   | [Arthur Fernandes](https://github.com/arthurfernandes)|[Letícia Lopes](https://github.com/leticialopes20)|
+| `1.8` | 12/10/2025 | Adição dos cenários 10 e 11   | [Breno Teixeira](https://github.com/brenolteixeira)|[Letícia Lopes](https://github.com/leticialopes20)|

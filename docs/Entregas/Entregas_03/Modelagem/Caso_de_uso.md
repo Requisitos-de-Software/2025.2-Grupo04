@@ -36,14 +36,23 @@ O objetivo do diagrama de casos de uso no contexto do aplicativo ID Jovem é rep
 
 A utilização do diagrama de casos de uso é justificada por sua capacidade de demonstrar de maneira intuitiva e organizada as interações entre usuários e funcionalidades, sem entrar em detalhes de implementação. No caso do ID Jovem, isso facilita a comunicação entre desenvolvedores, analistas e stakeholders, assegurando que todos compreendam claramente como o sistema deve se comportar e quais serviços precisam ser disponibilizados, além de servir como base para levantamento de requisitos, planejamento de testes e documentação do software.
 
-## Diagrama de Casos de Uso ID Jovem 
+## Diagrama de Casos de Uso ID Jovem Requisitos Funcionais Implementados 
 
+![Diagrama visual mostrando os Casos de Uso ID Jovem Requisitos Funcionais Implementados](../../../assets/Diagramas-Casos/Implementados.png)
+
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></p>
+
+---
+## Diagrama de Casos de Uso ID Jovem Requisitos Funcionais Não Implementados 
+
+![Diagrama visual mostrando os Casos de Uso ID Jovem Requisitos Funcionais Não Implementados](../../../assets/Diagramas-Casos/Nao_Implementados.png)
 
 <p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></p>
 
 ---
 ## Legenda do Diagrama 
 
+![Legenda visual mostrando os Diagramas de Casos de Uso ID Jovem Requisitos Funcionais mplementrados e Não Implementados](../../../assets/Diagramas-Casos/Legenda.png)
 
 <p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></p>
 

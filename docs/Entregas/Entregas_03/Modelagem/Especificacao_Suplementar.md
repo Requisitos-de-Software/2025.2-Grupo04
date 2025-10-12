@@ -80,27 +80,156 @@ Esta seção abrange todos os requisitos que influenciam a usabilidade do sistem
 
 ## Confiabilidade
 
+A **confiabilidade** refere-se à habilidade do sistema de operar continuamente e sem problemas, reduzindo ao máximo as falhas. Isso envolve a capacidade de lidar com falhas, a forma como os erros são gerenciados e a disponibilidade constante do sistema. Refere-se a integridade, conformidade e interoperabilidade do software [3].
+
+Esta seção inclui todos os requisitos que afetam a confiabilidade. Os requisitos de confiabilidade estão representados na tabela 4.
+
+### Tabela 4 – Requisitos de Confiabilidade
+
+<p align="center" > <strong> Tabela 4 - </Strong> Requisitos de Design</font> <gitbr></p>
+
+|ID|Descrição do requisito|
+|:-:|:-:|
+|  | 
+|  | 
+|  | 
+|  | 
+|  | 
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b>Arthur<a href="https://github.com/"></a>, 2025</p></font>
+
+
 ## Desempenho
+
+O **desempenho** diz respeito à rapidez e eficiência com que o sistema opera. Os requisitos de desempenho incluem fatores como a velocidade de resposta, a capacidade de processamento de dados e a habilidade do sistema de crescer e se adaptar a Outores demandas.
+
+Esta seção inclui todos os requisitos que afetam o desempenho. Os requisitos de desempenho estão representados na tabela 5.
+
+### Tabela 5 – Requisitos de Desempenho
+
+<p align="center" > <strong> Tabela 5 - </Strong> Requisitos de Design</font> <gitbr></p>
+
+|ID|Descrição do requisito|
+|:-:|:-:|
+|  | 
+|  | 
+|  | 
+|  | 
+|  | 
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Breno<a href="https://github.com/"></a>, 2025</p></font>
+
+
 
 ## Suportabilidade
 
+A **suportabilidade** refere-se à facilidade de manter e suportar o sistema ao longo do tempo. Isso envolve requisitos como a frequência e facilidade de atualizações, a manutenção contínua, a disponibilidade de documentação completa e a necessidade de treinamento para os usuários e administradores.
+
+Esta seção inclui todos os requisitos que afetam a suportabilidade. Os requisitos de suportabilidade estão representados na tabela 6.
+
+### Tabela 6 – Requisitos de Suportabilidade
+
+<p align="center" > <strong> Tabela 6 - </Strong> Requisitos de Design</font> <gitbr></p>
+
+|ID|Descrição do requisito|
+|:-:|:-:|
+|  | 
+|  | 
+|  | 
+|  | 
+|  | 
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Dylan <a href="https://github.com/"></a>, 2025</p></font>
+
+
 ## Outros requisitos do Produto (+)
+
+A categoria "+", também conhecida como "Suplementar" ou "Qualidades do Sistema", abrange quaisquer requisitos que não se enquadrem nas categorias anteriores. Isso pode incluir exigências legais, éticas, regulatórias, ambientais ou outros requisitos específicos do projeto.
+
 
 ### Requisitos de Design
 
+"Requisitos de design (desenho) – Um requisito de design, freqüentemente chamado de uma restrição de design, especifica ou restringe o design de um sistema. Exemplos podem incluir: linguagens de programação, processo de software, uso de ferramentas de desenvolvimento, biblioteca de classes, etc"  <a id="TEC3" href="#RP3">[3]</a>. Os requisitos de design estão representados na tabela 7.
+
+<p align="center" > <strong> Tabela 7 - </Strong> Requisitos de Design</font> <gitbr></p>
+
+|ID|Descrição do requisito|
+|:-:|:-:|
+|  | 
+|  | 
+|  | 
+|  | 
+|  | 
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Eduarda<a href="https://github.com/"></a>, 2025</p></font>
+
+
+
 ### Requisitos de Implementação
+
+"Requisitos de implementação – Um requisito de implementação especifica ou restringe o código ou a construção de um sistema. Como exemplos, podemos citar: padrões obrigatórios, linguagens de implementação, políticas de integridade de banco de dados, limites de recursos, ambientes operacionais" <a id="TEC3" href="#RP3">[3]</a>. Os requisitos de implementação estão representados na tabela 8.
+
+<p align="center" > <strong> Tabela 8 - </Strong> Requisitos de Design</font> <gitbr></p>
+
+|ID|Descrição do requisito|
+|:-:|:-:|
+|  | 
+|  | 
+|  | 
+|  | 
+|  | 
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Eduarda <a href="https://github.com/"></a>, 2025</p></font>
+
+
+
 
 
 ### Requisitos de interface
 
+"Requisitos de interface – especifica ou restringe as funcionalidades inerentes a interface do sistema com usuário" <a id="TEC3" href="#RP3">[3]</a>. Os requisitos de interface estão representados na tabela 9.
+
+<p align="center" > <strong> Tabela 9 - </Strong> Requisitos de Design</font> <gitbr></p>
+
+|ID|Descrição do requisito|
+|:-:|:-:|
+|  | 
+|  | 
+|  | 
+|  | 
+|  | 
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Giovana <a href="https://github.com/"></a>, 2025</p></font>
+
+
+
 ### Requisitos Físicos
+
+"Requisitos físicos – especifica uma limitação física pelo hardware utilizado, por exemplo: material, forma, tamanho ou peso. Podendo representar requisitos de hardware, como as configurações físicas de rede obrigatórias" <a id="TEC3" href="#RP3">[3]</a>. Os requisitos físicos estão representados na tabela 10.
+
+<p align="center" > <strong> Tabela 10 - </Strong> Requisitos de Design</font> <gitbr></p>
+
+|ID|Descrição do requisito|
+|:-:|:-:|
+|  | 
+|  | 
+|  | 
+|  | 
+|  | 
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Leticia <a href="https://github.com/"></a>, 2025</p></font>
+
 
 ## Referências Bibliográficas
 
+
 ## Bibliografia
+
 
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--------|------|-----------|-----------|-------------|
 | 1.0 | 09/10/2025 | Versão inicial da pagina de Especificação Suplementar. | [Arthur Fernandes](https://github.com/arthurfernandesj) | [ Leticia Lopes ](https://github.com/leticialopes20) |
+| 1.1 | 11/10/2025 | Conteúdo introdutório  | [Arthur Fernandes](https://github.com/arthurfernandesj) | [ Giovana ](https://github.com/) |
+| 1.2 | 12/10/2025 | Criação das tabelas de: COnfiabilidade, Desempenho, Suportabilidade e Outros requisitos do Produto  | [Arthur Fernandes](https://github.com/arthurfernandesj) | [ Eduarda ](https://github.com/) |

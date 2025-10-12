@@ -63,10 +63,10 @@ Os léxicos do tipo objeto referem-se às entidades, elementos ou objetos que s�
 | L05 -     |       |  | .       | Objeto        | [](#)                            | Arthur                                      |
 | L07 - Benefício | Vantagem, Desconto | Refere-se aos direitos garantidos pelo programa. | O Jovem Beneficiário pode consultar os benefícios disponíveis, visualizar seu histórico de uso e emitir comprovantes de utilização. | Objeto | [RF04](../../Elicitacao/Requisitos_Elicitados.md#rf04), [RF12](../../Elicitacao/Requisitos_Elicitados.md#rf12) | [Breno](https://github.com/BrenoLteixeira) |
 | L08 - Parceiro | Estabelecimento conveniado, Empresa parceira | Entidade que aceita a carteira ID Jovem e concede os benefícios. | O Jovem Beneficiário pode consultar a lista de parceiros, visualizar sua localização e obter informações de contato. | Objeto | [RF10](../../Elicitacao/Requisitos_Elicitados.md#rf10), [RF13](../../Elicitacao/Requisitos_Elicitados.md#rf13) | [Breno](https://github.com/BrenoLteixeira) |
-| L09 -        |    |              |       | Objeto        | [](#)                                  | Letícia                                    |
-| L10 -        |    |              |       | Objeto        | [](#)                                  | Letícia                                    |
-| L11 -        |    |              |       | Objeto        | [](#)                                  | Dylan                                    |
-| L12 -        |    |              |       | Objeto        | [](#)                                  | Dylan                                    |
+| L09 - FAQ e Suporte       | Ajuda, Central de Atendimento   |   Seção do aplicativo dedicada a responder dúvidas frequentes e oferecer suporte técnico e informativo ao Jovem Beneficiário.   | Facilita o entendimento do funcionamento do aplicativo, reduzindo erros e aumentando a autonomia do jovem beneficiário.      | Objeto        | [RF06](../../Elicitacao/Requisitos_Elicitados.md#rf06)  | [Letícia](https://github.com/leticialopes20)    |
+| L10 - Agenda de Eventos       | Cronograma, Calendário de Atividades   | Cronograma, Calendário de Atividades  | Permite ao Jovem Beneficiário visualizar, filtrar e se planejar para eventos, incentivando o uso do benefício de meia-entrada.      | Objeto  | [RF22](../../Elicitacao/Requisitos_Elicitados.md#rf22)   | [Letícia](https://github.com/leticialopes20)                                    |
+| L11 -  Notificação   |  Alerta, Aviso  |  Mensagem automatizada enviada pelo sistema para informar o Jovem Beneficiário sobre vencimentos, novos parceiros, ou eventos de interesse.  | Mantém o jovem beneficiário atualizado, melhorando o engajamento e evitando a perda de prazos relacionados ao benefício      | Objeto | [RF08](../../Elicitacao/Requisitos_Elicitados.md#rf08)   | [Dylan](https://github.com/dylancavalcante)                                    |
+| L12 - Mapa Interativo | Localizador, Mapa de Parceiros   |Localizador, Mapa de Parceiros |Facilita o planejamento e deslocamento do Jovem Beneficiário até locais onde pode usufruir dos benefícios.       | Objeto        | [RF21](../../Elicitacao/Requisitos_Elicitados.md#rf21)                                  | [Dylan](https://github.com/dylancavalcante)                                   |
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 2: </b>Léxicos classificados como Objetos - ID Jovem (Fonte: Arthur, Breno, Dylan, Eduarda, Giovana, Leticia, 2025)</p></font>
@@ -87,10 +87,10 @@ Os léxicos do tipo verbo representam ações ou operações que os Jovens Benef
 | L14 - Autenticar | Logar, Acessar | Processo de verificação de identidade via Gov.br | Permite o acesso seguro às funcionalidades do aplicativo ID Jovem | Verbo | [RF02](../../Elicitacao/Requisitos_Elicitados.md#rf02) | [Eduarda](https://github.com/eduardar0) |
 | L15 |  |  |  | Verbo | [](#) | Giovana |
 | L16 - Compartilhar | Enviar, Exportar | Ação de enviar ou disponibilizar a carteira digital ID Jovem em PDF ou imagem para terceiros. | Permite que o Jovem Beneficiário compartilhe sua carteirinha de forma segura, mantendo a validade do benefício e o controle sobre seus dados. | Verbo | [RF17, RFN05](#) | Arthur |
-| L17 |  |  |  | Verbo | [](#) | Dylan |
+| L17 - Atualizar| Editar, Modificar | Ação que permite ao Jovem Beneficiário alterar informações pessoais ou preferências cadastradas. |Garante que os dados do jovem beneficiário permaneçam corretos e sincronizados com o CadÚnico, evitando inconsistências.  | Verbo | [RF19](../../Elicitacao/Requisitos_Elicitados.md#19) | [Dylan](https://github.com/dylancavalcante) |
 | L18 - Consultar | Pesquisar, Verificar, Visualizar | Ação de buscar informações sobre benefícios, parceiros ou o histórico de uso da carteira. | Exibe ao Jovem Beneficiário as informações solicitadas, permitindo-lhe planejar o uso de seus direitos e acompanhar seu uso. | Verbo | [RF04](../../Elicitacao/Requisitos_Elicitados.md#rf04), [RF10](../../Elicitacao/Requisitos_Elicitados.md#rf10), [RF12](../../Elicitacao/Requisitos_Elicitados.md#rf12) | [Breno](https://github.com/BrenoLteixeira) |
-| L19 |  |  |  | Verbo | [](#) | Leticia |
-| L20 |  |  |  | Verbo | [](#) | Leticia |
+| L19 - Favoritar| Salvar, Marcar |Ação de adicionar eventos ou estabelecimentos à lista de favoritos do usuário.  | Permite ao Jovem Beneficiário acessar rapidamente locais e eventos de seu interesse, melhorando a navegação e personalização do aplicativo. | Verbo | [RF24](../../Elicitacao/Requisitos_Elicitados.md#24) | [Leticia](https://github.com/leticialopes20)  |
+| L20 - Denunciar | Reportar, Reclamar |Ação de enviar um relato sobre estabelecimentos ou parceiros que negaram o uso do benefício.  |Gera feedback para os administradores e promove o cumprimento adequado dos direitos do Jovem Beneficiário.  | Verbo | [RF20](../../Elicitacao/Requisitos_Elicitados.md#20) | [Leticia](https://github.com/leticialopes20)  |
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 3:</b> Léxicos classificados como Verbos (Fonte: Arthur, Breno, Dylan, Eduarda, Giovana, Leticia, 2025)</p></font>
@@ -106,10 +106,10 @@ Os léxicos do tipo estado referem-se às condições, situações ou configura�
 | L22 - Ativo | Válido, Vigente | Estado da carteira digital que está dentro do prazo de validade | Permite a utilização dos benefícios em estabelecimentos parceiros | Estado | [RF03](../../Elicitacao/Requisitos_Elicitados.md#rf03) | [Eduarda](https://github.com/eduardar0) |
 | L23 |  |  |  | Estado | [](#) | Giovana |
 | L24 - Pendência | Alerta, Problema  | Condição do Jovem Beneficiário que indica que há algum problema ou ação necessária relacionada aos benefícios  | Bloqueia ou restringe temporariamente o acesso a determinados benefícios até que a situação seja resolvida  | Estado | [RF18, RF20](#) | Arthur |
-| L25 |  |  |  | Estado | [](#) | Dylan |
+| L25 - Sincronizado| Atualizado, Conectado |Estado em que os dados do Jovem Beneficiário estão alinhados com as informações do Gov.br e CadÚnico. | Garante o funcionamento correto dos serviços e a validade da carteira digital. | Estado | [RF07, RF16](../../Elicitacao/Requisitos_Elicitados.md#rf16) | [Dylan](https://github.com/dylancavalcante)  |
 | L26 - Vencido | Expirado, Inválido | Estado da carteira digital após o término de seu prazo de validade. | Impede o Jovem Beneficiário de utilizar os benefícios e o instrui a realizar a renovação do cadastro. | Estado | [RF08](../../Elicitacao/Requisitos_Elicitados.md#rf08) | [Breno](https://github.com/brenolteixeira)|
-| L27 |  |  |  | Estado | [](#) | Leticia |
-| L28 |  |  |  | Estado | [](#) | Leticia |
+| L27 - Em Análise |Pendente de Verificação, Em Processamento  | Estado em que os dados ou denúncias enviadas pelo Jovem Beneficiário estão sendo avaliadas pelo sistema ou equipe administrativa. | Impede ações adicionais até que a análise seja concluída, garantindo segurança e verificação de informações. | Estado | [RF27](../../Elicitacao/Requisitos_Elicitados.md#rf27) | [Leticia](https://github.com/leticialopes20)  |
+| L28 - Personalizado |Configurado, Adaptado  |Estado do aplicativo após o usuário definir suas preferências pessoais e filtros de eventos.  | Melhora a experiência de uso, exibindo conteúdos e benefícios conforme os interesses do Jovem Beneficiário. | Estado | [RF28](../../Elicitacao/Requisitos_Elicitados.md#28) | [Leticia](https://github.com/leticialopes20)  |
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 4: </b>Léxicos classificados como Estados (Autor: Fonte: Arthur, Breno, Dylan, Eduarda, Giovana, Leticia, 2025)</p></font>
@@ -136,3 +136,4 @@ Os léxicos do tipo estado referem-se às condições, situações ou configura�
 |  `1.5` | 11/10/2025 | Adicionado L01, L02, L013, L14, L21, L22 | [Eduarda](https://github.com/eduardar0) | [Giovana](https://github.com/GiovanaFontesS) |
 |  `1.6` | 12/10/2025 | Adicionado L07, L08, L018, L26| [Breno](https://github.com/brenolteixeira) | [Eduarda](https://github.com/Eduarar0) |
 |  `1.7` | 12/10/2025 | Adicionado L04, L05, L16, L24| [Arthur](https://github.com/arthurfernandesj) | [Eduarda](https://github.com/Eduarar0)|
+|  `1.8` | 12/10/2025 | Adicionado L09, L10, L11, L12, L15, L17, L19, L20, L25,  L27 e L28| [Dylan](https://github.com/dylancavalcante) | [Eduarda](https://github.com/Eduarar0)|

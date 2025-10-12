@@ -49,39 +49,42 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 
 ---
 
-### UC1 - Cadastrar Jovem Beneficiário
+### UC1 - Consultar Locais parceiros
 
-<p align="center"><font><strong>Tabela 1:</strong> Cadastrar Jovem Beneficiário</font><br></p>
+<p align="center"><font><strong>Tabela 1:</strong> Consultar Locais e Parceiros</font><br></p>
 
-| **UC01** | **Cadastrar Jovem Beneficiário** |
+| **UC01** | **Consultar Locais e Parceiros** |
 |:--|:--|
-| **Descrição** | Este caso de uso descreve o processo pelo qual um jovem realiza seu cadastro no sistema ID Jovem por meio do CPF. |
+| **Descrição** | Este caso de uso descreve o processo pelo qual o jovem beneficiário consulta estabelecimentos e parceiros que aceitam os benefícios do ID Jovem. |
 | **Ator** | Jovem Beneficiário |
-| **Fluxo básico** | 1. O jovem acessa o aplicativo ID Jovem.<br>2. Seleciona a opção "Fazer Cadastro".<br>3. Insere seu CPF para verificação.<br>4. O sistema valida o CPF e elegibilidade.<br>5. O jovem preenche informações pessoais necessárias.<br>6. O sistema confirma o cadastro e gera a carteira digital. |
-| **Fluxos alternativos** | 1. Caso de uso "Validar Elegibilidade": O sistema verifica automaticamente se o jovem atende aos critérios do programa.<br>2. Caso de uso "Integração Gov.br": O sistema pode utilizar dados pré-existentes do Gov.br para agilizar o cadastro. |
-| **Fluxo de exceção** | 1. Se o CPF for inválido ou o jovem não for elegível, o sistema informa a impossibilidade de cadastro. |
-| **Pré-condições** | O jovem deve possuir CPF válido e atender aos critérios de idade (15-29 anos). |
-| **Pós-condições** | O jovem é cadastrado como beneficiário e tem acesso à carteira digital ID Jovem. |
+| **Fluxo básico** | 1. O jovem beneficiário acessa o aplicativo ID Jovem.<br>2. Seleciona a opção "Locais Parceiros".<br>3. O sistema solicita permissão de localização.<br>4. O aplicativo exibe estabelecimentos conveniados próximos.<br>5. O jovem visualiza informações detalhadas de cada parceiro.<br>6. O sistema mostra rotas de acesso aos estabelecimentos selecionados. |
+| **Fluxos alternativos** | 1. Caso de uso "Filtrar por Tipo": O jovem pode filtrar por benefício específico (transporte ou cultura).<br>2. Caso de uso "Buscar por Endereço": O jovem pode buscar estabelecimentos em localização específica. |
+| **Fluxo de exceção** | 1. Se não houver parceiros na região, o sistema sugere expandir a área de busca.<br>2. Se o GPS estiver desativado, o sistema funciona com busca manual por endereço. |
+| **Pré-condições** | O jovem deve estar cadastrado e com a carteira digital ativa. |
+| **Pós-condições** | O jovem beneficiário localizou estabelecimentos parceiros para utilização dos benefícios. |
 | **Data da criação** | 12/10/2025 |
-| **Rastreabilidade** | [RF01](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf01), [RF15](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf15) |
+| **Rastreabilidade** | [RF10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf10) |
+
+
 
 <font size="3"><p style="text-align: center">Fonte: [Eduarda Domingos](https://github.com/eduardar0), 2025</p></font>
 
 ### UC2 - Consultar Benefícios Disponíveis
 
-<p align="center"><font><strong>Tabela 2:</strong> Consultar Benefícios Disponíveis</font><br></p>
 
-| **UC02** | **Consultar Benefícios Disponíveis** |
+<p align="center"><font><strong>Tabela 2:</strong> Solicitar Suporte ao Beneficiário</font><br></p>
+
+| **UC02** | **Solicitar Suporte ao Beneficiário** |
 |:--|:--|
-| **Descrição** | Este caso de uso descreve o processo pelo qual o jovem beneficiário consulta os benefícios disponíveis, como transporte gratuito e meia-entrada em eventos. |
+| **Descrição** | Este caso de uso descreve o processo pelo qual o jovem beneficiário solicita suporte através de chat, e-mail ou formulário de contato. |
 | **Ator** | Jovem Beneficiário |
-| **Fluxo básico** | 1. O jovem beneficiário acessa o aplicativo ID Jovem.<br>2. Seleciona a opção "Benefícios Disponíveis".<br>3. O sistema exibe a lista de benefícios (transporte e cultura).<br>4. O jovem seleciona um benefício para ver detalhes.<br>5. O sistema mostra informações completas sobre condições de uso. |
-| **Fluxos alternativos** | 1. Caso de uso "Filtrar Benefícios": O jovem pode filtrar por tipo de benefício ou localização.<br>2. Caso de uso "Localizar Parceiros": O sistema mostra estabelecimentos que aceitam cada benefício. |
-| **Fluxo de exceção** | 1. Se não houver benefícios disponíveis na região, o sistema informa sobre a indisponibilidade temporária. |
-| **Pré-condições** | O jovem deve estar cadastrado e com a carteira digital ativa. |
-| **Pós-condições** | O jovem beneficiário tem conhecimento dos benefícios disponíveis e como utilizá-los. |
+| **Fluxo básico** | 1. O jovem beneficiário acessa o aplicativo ID Jovem.<br>2. Seleciona a opção "Ajuda" ou "Suporte".<br>3. O sistema apresenta opções de contato (chat, e-mail, formulário).<br>4. O jovem escolhe o canal preferido e descreve o problema.<br>5. O sistema registra a solicitação e gera número de protocolo.<br>6. O jovem recebe confirmação e acompanha o atendimento. |
+| **Fluxos alternativos** | 1. Caso de uso "Chat em Tempo Real": Para dúvidas urgentes, o jovem é atendido imediatamente por chat.<br>2. Caso de uso "FAQ": O sistema sugere soluções na base de conhecimento antes do contato. |
+| **Fluxo de exceção** | 1. Se o canal escolhido estiver indisponível, o sistema oferece alternativas.<br>2. Se houver falha no envio, o sistema salva rascunho para tentativa posterior. |
+| **Pré-condições** | O jovem deve estar autenticado no aplicativo. |
+| **Pós-condições** | A solicitação de suporte foi registrada e o jovem receberá resposta pelo canal escolhido. |
 | **Data da criação** | 12/10/2025 |
-| **Rastreabilidade** | [RF04](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf04), [RF10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf10) |
+| **Rastreabilidade** | [RF11](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf11) |
 
 <font size="3"><p style="text-align: center">Fonte: [Eduarda Domingos](https://github.com/eduardar0), 2025</p></font>
 
@@ -107,3 +110,4 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 |  `1.1` | 10/10/2025 | Conteúdo introdutório | [Giovana](https://github.com/GiovanaFontesS) |  [Dylan](https://github.com/dylancavalcante) |
 |  `1.2` | 10/10/2025 | Mudança bibliografia | [Eduarda](https://github.com/eduardar0) |  [Dylan](https://github.com/dylancavalcante) |
 |  `1.3` | 10/10/2025 | ADD US 01 e 02 | [Eduarda](https://github.com/eduardar0) |  [Dylan](https://github.com/dylancavalcante) |
+|  `1.4` | 10/10/2025 | ADD US 01 e 02 | [Eduarda](https://github.com/eduardar0) |   [Arthur](https://github.com/arthurfernandesj) |

@@ -68,7 +68,7 @@ A seleção priorizou requisitos que agregariam valor significativo à experiên
 
 ## Bibliografia
 
->  CAVALCANTE, Dylan ; et al. Requisitos de Software - 2025.2-ID Jovem. Disponível em:https://github.com/Requisitos-de-Software/2025.2-Grupo04/. Acesso em: 12 Outubro. 2025.
+> CAVALCANTE, Dylan ; et al. Requisitos de Software - 2025.2-ID Jovem. Disponível em:https://github.com/Requisitos-de-Software/2025.2-Grupo04/. Acesso em: 12 Outubro. 2025.
 
 
 ## Histórico de Versão

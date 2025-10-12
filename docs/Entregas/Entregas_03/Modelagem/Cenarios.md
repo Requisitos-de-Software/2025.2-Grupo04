@@ -54,8 +54,8 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 </tr>
 <tr>
 <td><a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></td>
-<td>00/10/2025</td>
-<td>00:00</td>
+<td>12/10/2025</td>
+<td>00:14</td>
 </tr>
 <tr>
 <td><a href="https://github.com/eduardar0">Eduarda Domingos</a></td>
@@ -152,14 +152,41 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 | **Autor**      | [Eduarda Domingos](https://github.com/eduardar0)                                                                                |
 
 
-
-
-
-
-
-
-
 <font size="2"><p style="text-align: center">Fonte: [Eduarda Domingos](https://github.com/eduardar0)</p></font>
+
+### **Cenário 5: Exibição de Novidades e Divulgação de Novos Parceiros**
+
+<font size="3"><p style="text-align: center">Tabela 5: Cenário de Exibição de Novidades e Divulgação de Novos Parceiros</p></font>
+
+| **ID**         | [RF13](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf13) |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| **Objetivo**   | Permitir que o sistema apresente uma seção dedicada a novidades e divulgação de novos parceiros, incentivando o engajamento e uso contínuo do aplicativo. |
+| **Contexto**   | O usuário acessa o aplicativo ID Jovem e deseja se manter informado sobre atualizações, novos benefícios e parcerias disponíveis. |
+| **Atores**     | Jovem Beneficiário, Sistema do ID Jovem, Administrador do Sistema. |
+| **Recursos**   | Aplicativo ID Jovem, conexão à internet, módulo de gerenciamento de conteúdo, banco de dados de parceiros e notícias. |
+| **Episódios**  | 1. O usuário acessa a seção “Novidades e Parceiros” no menu principal do aplicativo.<br>2. O sistema consulta as informações mais recentes cadastradas pelo administrador.<br>3. São exibidas postagens sobre novas parcerias, eventos e benefícios.<br>4. O usuário pode clicar em uma notícia ou parceiro para obter mais detalhes.<br>5. O sistema permite curtir, compartilhar ou salvar as publicações para leitura posterior. |
+| **Restrições** | As informações devem ser publicadas apenas por administradores autorizados. O conteúdo exibido precisa ser validado e atualizado periodicamente. |
+| **Exceções**   | - Falha ao carregar os dados de novidades.<br>- Ausência de conexão com a internet.<br>- Nenhuma nova publicação disponível.<br>- Erro na atualização da base de parceiros. |
+| **Autor**      | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+
+<font size="2"><p style="text-align: center">Fonte: [Dylan Cavalcante](https://github.com/dylancavalcante)</p></font>
+
+### **Cenário 6: Consulta ao Histórico de Utilização dos Benefícios**
+
+<font size="3"><p style="text-align: center">Tabela 6: Cenário de Consulta ao Histórico de Utilização dos Benefícios</p></font>
+
+| **ID**         | [RF12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf12) |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| **Objetivo**   | Permitir que o Jovem Beneficiário visualize o histórico completo de utilização dos benefícios, incluindo passagens e entradas culturais obtidas. |
+| **Contexto**   | O usuário deseja verificar onde e quando utilizou seus benefícios, seja para controle pessoal ou comprovação do uso adequado do programa. |
+| **Atores**     | Jovem Beneficiário, Sistema do ID Jovem, Banco de Dados de Transações. |
+| **Recursos**   | Aplicativo ID Jovem (Web, iOS, Android), módulo de histórico de uso, conexão à internet, banco de dados de registros de utilização. |
+| **Episódios**  | 1. O usuário acessa o aplicativo e faz login.<br>2. O sistema valida as credenciais e exibe o menu principal.<br>3. O usuário seleciona a opção “Histórico de Benefícios”.<br>4. O sistema consulta o banco de dados e exibe uma lista detalhada de utilizações (data, local, tipo de benefício, valor e parceiro).<br>5. O usuário pode filtrar os registros por período, tipo de benefício ou local.<br>6. O sistema permite exportar o histórico em formato PDF ou CSV. |
+| **Restrições** | O histórico deve exibir apenas os registros associados ao usuário logado. A consulta depende de conexão ativa com o servidor. |
+| **Exceções**   | - Falha na conexão com o banco de dados.<br>- Usuário sem histórico registrado.<br>- Erro ao exportar os dados.<br>- Tempo de resposta do servidor excedido. |
+| **Autor**      | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+
+<font size="2"><p style="text-align: center">Fonte: [Dylan Cavalcante](https://github.com/dylancavalcante)</p></font>
 
 
 ## Referências Bibliográficas
@@ -177,3 +204,4 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 | `1.1` | 11/10/2025 | Adição do texto da Introdução,Metodologia e Bibliografia | [Letícia Lopes](https://github.com/leticialopes20) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
 | `1.2` | 11/10/2025 | Adição dos cenários 1 e 2 | [Letícia Lopes](https://github.com/leticialopes20) | [Eduarda Domingos](https://github.com/eduardar0) |
 | `1.3` | 11/10/2025 | Adição dos cenários 3 e 4   | [Eduarda Domingos](https://github.com/eduardar0) |[Letícia Lopes](https://github.com/leticialopes20)
+| `1.4` | 12/10/2025 | Adição dos cenários 5 e 6   | [Dylan Cavalcante](https://github.com/dylancavalcante) |[Letícia Lopes](https://github.com/leticialopes20)

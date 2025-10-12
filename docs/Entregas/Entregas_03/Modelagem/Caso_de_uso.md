@@ -231,3 +231,6 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 |  `1.2` | 12/10/2025 | Mudança bibliografia | [Eduarda](https://github.com/eduardar0) |  [Dylan](https://github.com/dylancavalcante) |
 |  `1.3` | 12/10/2025 | Adição de uso de caso 01 e 02 | [Leticia](https://github.com/leticialopes20) | [Arthur](https://github.com/arthurfernandesj) |
 |  `1.4` | 12/10/2025 | Adição de uso de caso 03 e 04 | [Eduarda](https://github.com/eduardar0) | [Arthur](https://github.com/arthurfernandesj) |
+
+
+|  `1.7` | 12/10/2025 | Adição de uso de caso 11 e 12 | [Arthur](https://github.com/arthurfernandesj) | [Leticia](https://github.com/leticialopes20) |

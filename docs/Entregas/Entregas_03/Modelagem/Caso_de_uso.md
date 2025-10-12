@@ -48,9 +48,9 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 <p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></p>
 
 ---
-
 ### Caso de Uso 1 ([RF07](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf07))
 <font size="3"><p style="text-align: center">Tabela 1: Atualizar Dados via CadÚnico</p></font>
+
 | [RF07](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf07) | **Descrição** |
 | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome do Caso de Uso** | Atualizar Dados do Beneficiário via CadÚnico |
@@ -59,15 +59,17 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 | **Atores Secundários** | Sistema CadÚnico, Sistema ID Jovem |
 | **Objetivo** | Permitir que o sistema ID Jovem integre-se automaticamente com o CadÚnico para atualizar os dados do perfil do jovem. |
 | **Pré-condições** | - O participante do programa deve estar autenticado no aplicativo ID Jovem.<br>- O jovem deve estar cadastrado no CadÚnico. |
-| **Fluxo Principal de Eventos** | 1. O **beneficiário do ID Jovem** acessa o aplicativo.<br>2. Seleciona a opção “Atualizar meus dados”.<br>3. O sistema solicita autenticação e validação no CadÚnico.<br>4. O sistema recebe os dados atualizados do CadÚnico.<br>5. As informações do **perfil do jovem** são atualizadas automaticamente no ID Jovem.<br>6. O **beneficiário** recebe confirmação da atualização. |
+| **Fluxo Principal de Eventos** | 1. O **beneficiário do ID Jovem** acessa o aplicativo.<br>2. Seleciona a opção "Atualizar meus dados".<br>3. O sistema solicita autenticação e validação no CadÚnico.<br>4. O sistema recebe os dados atualizados do CadÚnico.<br>5. As informações do **perfil do jovem** são atualizadas automaticamente no ID Jovem.<br>6. O **beneficiário** recebe confirmação da atualização. |
 | **Fluxos Alternativos** | - O jovem opta por atualizar apenas dados específicos.<br>- O sistema exibe histórico de alterações feitas anteriormente via CadÚnico. |
 | **Exceções** | - Falha na conexão com CadÚnico: o sistema exibe mensagem de erro e oferece opção de tentar novamente.<br>- Dados divergentes: o sistema notifica o participante e solicita validação manual.<br>- Jovem não cadastrado no CadÚnico: sistema informa a necessidade de cadastro prévio. |
 | **Pós-condições** | - Os dados do perfil do jovem no ID Jovem foram atualizados com sucesso ou permanecem pendentes até a resolução de erro. |
 | **Autor** | [Leticia Lopes](https://github.com/leticialopes20) |
+
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Letícia Lopes](https://github.com/leticialopes20) </i></b></p></font>
 
 ### Caso de Uso 2 ([RF08](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf08))
 <font size="3"><p style="text-align: center">Tabela 2: Notificações de Vencimento e Renovação de Benefício</p></font>
+
 | [RF08](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf08) | **Descrição** |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome do Caso de Uso** | Receber Notificações de Vencimento e Renovação de Benefício |
@@ -81,10 +83,12 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 | **Exceções** | - Falha no envio da notificação: sistema registra tentativa e exibe alerta no aplicativo.<br>- Dados de vencimento ausentes ou incorretos: sistema solicita atualização junto ao jovem. |
 | **Pós-condições** | - O **beneficiário** foi notificado sobre vencimento ou renovação do benefício. |
 | **Autor** | [Leticia Lopes](https://github.com/leticialopes20) |
-<font size="2"><p style="text-align: center"><b>Fonte: <i> [Letícia Lopes](https://github.com/leticialopes20) </i></b></p></font> 
+
+<font size="2"><p style="text-align: center"><b>Fonte: <i> [Letícia Lopes](https://github.com/leticialopes20) </i></b></p></font>
 
 ### Caso de Uso 3 ([RF10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf10))
 <font size="3"><p style="text-align: center">Tabela 3: Consultar Locais e Parceiros</p></font>
+
 | [RF10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf10) | **Descrição** |
 | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome do Caso de Uso** | Consultar Locais e Parceiros |
@@ -98,10 +102,12 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 | **Exceções** | - Se não houver parceiros na região, o sistema sugere expandir a área de busca.<br>- Se o GPS estiver desativado, o sistema funciona com busca manual por endereço. |
 | **Pós-condições** | - O **jovem beneficiário** localizou estabelecimentos parceiros para utilização dos benefícios. |
 | **Autor** | [Eduarda Domingos](https://github.com/eduardar0) |
+
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Eduarda Domingos](https://github.com/eduardar0) </i></b></p></font>
 
 ### Caso de Uso 4 ([RF11](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf11))
 <font size="3"><p style="text-align: center">Tabela 4: Solicitar Suporte ao Beneficiário</p></font>
+
 | [RF11](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf11) | **Descrição** |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome do Caso de Uso** | Solicitar Suporte ao Beneficiário |
@@ -115,6 +121,7 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 | **Exceções** | - Se o canal escolhido estiver indisponível, o sistema oferece alternativas.<br>- Se houver falha no envio, o sistema salva rascunho para tentativa posterior. |
 | **Pós-condições** | - A solicitação de suporte foi registrada e o **jovem beneficiário** receberá resposta pelo canal escolhido. |
 | **Autor** | [Eduarda Domingos](https://github.com/eduardar0) |
+
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Eduarda Domingos](https://github.com/eduardar0) </i></b></p></font>
 
 ## Referências Bibliográficas

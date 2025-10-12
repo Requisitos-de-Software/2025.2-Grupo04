@@ -64,6 +64,7 @@ nav:
                 - Ata 06 (23/09): Encontros/atas/ata_23_09.md
                 - Ata 07 (27/09): Encontros/atas/ata_27_09.md
                 - Ata 08 (29/09): Encontros/atas/ata_29_09.md
+                - Ata 09 (06/10): Encontros/atas/ata_08_10.md
 
     - Entregas:
           - Entrega 01:
@@ -71,6 +72,7 @@ nav:
                 - Apresentação: Entregas/Entregas_01/apresentacao01.md
                 - Verificação e inspeção: Entregas/Entregas_01/Entrega_01.md
                 - Inspeção grupo n+1: Entregas/Entregas_01/inspecao01.md
+            
 
           - Entrega 02:
                 - Apresentação: Entregas/Entregas_02/Apresentação.md 
@@ -85,6 +87,7 @@ nav:
                       - Introspecção: Entregas/Entregas_02/Elicitacao/Introspecção.md
                       - Observação: Entregas/Entregas_02/Elicitacao/Observação.md
                       - Storytelling: Entregas/Entregas_02/Elicitacao/Storytelling.md
+                     
                       - Requisitos Elicitados: Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados.md
 
                 - Priorização:
@@ -101,15 +104,10 @@ nav:
                 - Modelagem:
 
                           - Especificação Suplementar: Entregas/Entregas_03/Modelagem/Especificacao_Suplementar.md
-                          - Casos de Uso: Entregas/Entregas_03/Modelagem/Casos_de_Uso.md
-                          - Diagrama de Classes: Entregas/Entregas_03/Modelagem/Diagrama_de_Classes.md
-                          - Protótipos de Baixa Fidelidade: Entregas/Entregas_03/Modelagem/Protótipos_de_Baixa_Fidelidade.md
-                          
-                          - Caso de Uso: Entregas/Entregas_03/Modelagem/Caso-de-uso.md
-                          - Cenário: Entregas/Entregas_03/Modelagem/Cenario.md
+                          - Caso de Uso: Entregas/Entregas_03/Modelagem/Caso_de_uso.md
+                          - Cenário: Entregas/Entregas_03/Modelagem/Cenarios.md
                           - Léxicos: Entregas/Entregas_03/Modelagem/Lexicos.md
-                          - Especificação Suplementar: Entregas/Entregas_03/Modelagem/Especificacao_de_Requisitos.md
-                          - Requisitos Não Implementados: Entregas/Entregas_03/Modelagem/Requisitos_Funcionais.md
+                          - Requisitos Não Implementados: Entregas/Entregas_03/Modelagem/Requisitos_Implementados.md
             
                 - Modelagem-II:
                               - NFR Framework: Entregas/Entregas_03/Modelagem_II/NFR_Framework.md

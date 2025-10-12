@@ -133,7 +133,7 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Eduarda Domingos](https://github.com/eduardar0) </i></b></p></font>
 
-### Caso de Uso 5 ([RF13](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf13))**
+### Caso de Uso 5 ([RF13](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf13))
 
 <p align="center">Tabela 5: Visualizar Novidades e Novos Parceiros</p>
 
@@ -153,7 +153,7 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 
 <p align="center" style="font-size: small;">Fonte: <i> <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a> </i></p>
 
-### Caso de Uso 6 ([RF12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf12))**
+### Caso de Uso 6 ([RF12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf12))
 
 <p align="center">Tabela 6: Consultar Histórico de Utilização</p>
 

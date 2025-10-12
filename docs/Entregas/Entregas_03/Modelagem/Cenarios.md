@@ -206,4 +206,4 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 | `1.2` | 11/10/2025 | Adição dos cenários 1 e 2 | [Letícia Lopes](https://github.com/leticialopes20) | [Eduarda Domingos](https://github.com/eduardar0) |
 | `1.3` | 11/10/2025 | Adição dos cenários 3 e 4   | [Eduarda Domingos](https://github.com/eduardar0) |[Letícia Lopes](https://github.com/leticialopes20)
 | `1.4` | 12/10/2025 | Adição dos cenários 5 e 6   | [Dylan Cavalcante](https://github.com/dylancavalcante) |[Letícia Lopes](https://github.com/leticialopes20) 
-| `1.5` | 12/10/2025 | Remoção da palavra "usuário" do documento   | [Dylan Cavalcante](https://github.com/dylancavalcante) |[Letícia Lopes](https://github.com/leticialopes20) 
+| `1.5` | 12/10/2025 | Remoção da palavra "usuário" do documento   | [Eduarda Domingos](https://github.com/eduardar0)|[Letícia Lopes](https://github.com/leticialopes20) 

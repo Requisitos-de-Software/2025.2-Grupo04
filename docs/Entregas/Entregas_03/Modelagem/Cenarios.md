@@ -184,7 +184,7 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 | **Recursos**   | Aplicativo ID Jovem (Web, iOS, Android), módulo de histórico de uso, conexão à internet, banco de dados de registros de utilização. |
 | **Episódios**  | 1. O jovem beneficiário acessa o aplicativo e faz login.<br>2. O sistema valida as credenciais e exibe o menu principal.<br>3. O jovem beneficiário seleciona a opção “Histórico de Benefícios”.<br>4. O sistema consulta o banco de dados e exibe uma lista detalhada de utilizações (data, local, tipo de benefício, valor e parceiro).<br>5. O jovem beneficiário pode filtrar os registros por período, tipo de benefício ou local.<br>6. O sistema permite exportar o histórico em formato PDF ou CSV. |
 | **Restrições** | O histórico deve exibir apenas os registros associados aO jovem beneficiário logado. A consulta depende de conexão ativa com o servidor. |
-| **Exceções**   | - Falha na conexão com o banco de dados.<br>- Usuário sem histórico registrado.<br>- Erro ao exportar os dados.<br>- Tempo de resposta do servidor excedido. |
+| **Exceções**   | - Falha na conexão com o banco de dados.<br>- Jovem beneficiário sem histórico registrado.<br>- Erro ao exportar os dados.<br>- Tempo de resposta do servidor excedido. |
 | **Autor**      | [Dylan Cavalcante](https://github.com/dylancavalcante) |
 
 <font size="2"><p style="text-align: center">Fonte: [Dylan Cavalcante](https://github.com/dylancavalcante)</p></font>
@@ -192,7 +192,7 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 
 ## Referências Bibliográficas
 
-1. BARBOSA, Simone Diniz Junqueira et al. *Interação humano-computador e experiência dO jovem beneficiário.* Auto publicação, 2021.  
+1. BARBOSA, Simone Diniz Junqueira et al. *Interação humano-computador e experiência do usuário.* Auto publicação, 2021.  
 
 2. SERRANO, Milene; SERRANO, Maurício. *Requisitos – Aula 10.* UnB, 2025, p. 8. Disponível em: [https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf](https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf). Acesso em: 10 de outubro de 2025.
 

@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Esta análise refere-se à **Entrega 2** do Grupo 04, cujo projeto agora se concentra no desenvolvimento do aplicativo *ID Jovem*. A avaliação abrange as técnicas de elicitação de requisitos e de priorização aplicadas, bem como a revisão das escolhas feitas para o projeto.
+Esta análise refere-se à **Entrega 3** do Grupo 04, cujo projeto agora se concentra no desenvolvimento do aplicativo *ID Jovem*. A avaliação abrange as técnicas de elicitação de requisitos e de priorização aplicadas, bem como a revisão das escolhas feitas para o projeto.
 
 ## Links
 
@@ -86,4 +86,4 @@ Clique [AQUI]() se você quiser verificar os prints das referências
 
 | Versão |    Data    |       Descrição      |                                          Autor(es)                                         |                  Revisor(es)                  |
 | :----: | :--------: | :------------------: | :----------------------------------------------------------------------------------------: | :-------------------------------------------: |
-|  `1.0` | 13/10/2025 | Criação do documento da Inspeção 03 | [Arthur](https://github.com/arthurfernandesj) e [Giovana](https://github.com/GiovanaFontesS) | [Arthur](https://github.com/arthurfernandesj) |
+|  `1.0` | 13/10/2025 | Criação do documento da Inspeção 03 | [Arthur](https://github.com/arthurfernandesj) |  [Giovana](https://github.com/GiovanaFontesS) |

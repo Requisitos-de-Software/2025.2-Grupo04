@@ -23,7 +23,8 @@ A tabela a seguir apresenta os requisitos funcionais (RF) e não funcionais (RNF
 - ENTx: Entrevista  
 - BSx: Brainstorming  
 - ISx: Introspecção  
-- STx: Storytelling  
+- STx: Storytelling
+- IDJx: Introspecção   
 
 ---
 
@@ -32,7 +33,7 @@ A tabela a seguir apresenta os requisitos funcionais (RF) e não funcionais (RNF
 **Tabela 01 - Requisitos do ID Jovem**
 
 | ID | Descrição | Rastreabilidade | Categoria | Implementado |
-|:--:|:--|:--|:--:|:--:|
+|:--:|:--|:--|:--:|:--:| 
 | **RF01** <a id="rf01"></a> | O sistema deve permitir o cadastro do Jovem Beneficiário por meio do CPF. | ADD01 | RF | Sim |
 | **RF02** <a id="rf02"></a> | O sistema deve fornecer mecanismos de autenticação e login via Gov.br. | ADD02, BS01, ST01 | RF | Sim |
 | **RF03** <a id="rf03"></a> | O sistema deve permitir a geração e emissão da carteira digital ID Jovem. | ADD03, IDJ01, BS04 | RF | Sim |

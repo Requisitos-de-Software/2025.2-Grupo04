@@ -2,7 +2,7 @@
 
 ## **Introdução**
 
-Casos de uso são ferramentas essenciais na especificação de requisitos funcionais de um sistema, pois permitem descrever de forma clara e estruturada as interações entre os usuários (atores) e o software.   Cada caso de uso detalha um conjunto de passos que representam o cenário principal, bem como possíveis cenários alternativos, com o objetivo de alcançar determinada meta do ator dentro do sistema. Diferentemente de uma abordagem de implementação, os casos de uso focam no “o quê” o sistema deve fazer, e não no “como” será feito, deixando de lado detalhes sobre arquitetura, componentes de hardware ou linguagens de programação. A especificação baseada em casos de uso inclui o **diagrama de casos de uso**, a **descrição dos atores** e a própria **especificação detalhada de cada caso**, fornecendo uma visão completa das funcionalidades esperadas do sistema. <a id="TEC1" href="#RP1">[1]</a>
+Casos de uso são ferramentas essenciais na especificação de requisitos funcionais de um sistema, pois permitem descrever de forma clara e estruturada as interações entre os usuários (atores) e o software.   Cada caso de uso detalha um conjunto de passos que representam o cenário principal, bem como possíveis cenários alternativos, com o objetivo de alcançar determinada meta do ator dentro do sistema. Diferentemente de uma abordagem de implementação, os casos de uso focam no “o quê” o sistema deve fazer, e não no “como” será feito, deixando de lado detalhes sobre arquitetura, componentes de hardware ou linguagens de programação. A especificação baseada em casos de uso inclui o **diagrama de casos de uso**, a **descrição dos atores** e a própria **especificação detalhada de cada caso**, fornecendo uma visão completa das funcionalidades esperadas do sistema. <a id="TEC1" href="#REP1">[1]</a>
 
 
 ## Casos de Uso
@@ -36,14 +36,23 @@ O objetivo do diagrama de casos de uso no contexto do aplicativo ID Jovem é rep
 
 A utilização do diagrama de casos de uso é justificada por sua capacidade de demonstrar de maneira intuitiva e organizada as interações entre usuários e funcionalidades, sem entrar em detalhes de implementação. No caso do ID Jovem, isso facilita a comunicação entre desenvolvedores, analistas e stakeholders, assegurando que todos compreendam claramente como o sistema deve se comportar e quais serviços precisam ser disponibilizados, além de servir como base para levantamento de requisitos, planejamento de testes e documentação do software.
 
-## Diagrama de Casos de Uso ID Jovem 
+## Diagrama de Casos de Uso ID Jovem Requisitos Funcionais Implementados 
 
+![Diagrama visual mostrando os Casos de Uso ID Jovem Requisitos Funcionais Implementados](../../../assets/Diagramas-Casos/Implementados.png)
+
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></p>
+
+---
+## Diagrama de Casos de Uso ID Jovem Requisitos Funcionais Não Implementados 
+
+![Diagrama visual mostrando os Casos de Uso ID Jovem Requisitos Funcionais Não Implementados](../../../assets/Diagramas-Casos/Nao_Implementados.png)
 
 <p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></p>
 
 ---
 ## Legenda do Diagrama 
 
+![Legenda visual mostrando os Diagramas de Casos de Uso ID Jovem Requisitos Funcionais mplementrados e Não Implementados](../../../assets/Diagramas-Casos/Legenda.png)
 
 <p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></p>
 
@@ -124,7 +133,7 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Eduarda Domingos](https://github.com/eduardar0) </i></b></p></font>
 
-### **Caso de Uso 5 ([RF13](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf13))**
+### Caso de Uso 5 ([RF13](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf13))
 
 <p align="center">Tabela 5: Visualizar Novidades e Novos Parceiros</p>
 
@@ -144,7 +153,7 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 
 <p align="center" style="font-size: small;">Fonte: <i> <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a> </i></p>
 
-### **Caso de Uso 6 ([RF12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf12))**
+### Caso de Uso 6 ([RF12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf12))
 
 <p align="center">Tabela 6: Consultar Histórico de Utilização</p>
 
@@ -203,7 +212,7 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 <font size="2"><p style="text-align: center"><b>Fonte: <i>[Giovana](https://github.com/GiovanaFontesS)</i></b></p></font>
 
 
-### Caso de Uso 11 ([RF20](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf20))
+### Caso de Uso 09 ([RF20](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf20))
 <font size="3"><p style="text-align: center">Tabela 9: Alertas de Irregularidades no Uso dos Benefícios</p></font>
 
 | [RF20](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf20) | **Descrição** |
@@ -223,7 +232,7 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 <font size="2"><p style="text-align: center"><b>Fonte: <i>[Arthur Fernandes](https://github.com/arthurfernandesj) </i></b></p></font>
 
 
-### Caso de Uso 12 ([RF21](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf21))
+### Caso de Uso 10 ([RF21](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf21))
 <font size="3"><p style="text-align: center">Tabela 10: Visualização Geográfica de Parceiros e Eventos</p></font>
 
 | [RF21](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf21) | **Descrição** |
@@ -242,16 +251,45 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i>[Arthur Fernandes](https://github.com/arthurfernandesj)</i></b></p></font>
 
+### Caso de Uso 11 ([RF09](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf09))
+<font size="3"><p style="text-align: center">Tabela 11: Baixar Carteirinha para Uso Offline</p></font>
 
+| [RF09](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf09) | **Descrição** |
+| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome do Caso de Uso** | Baixar Carteirinha para Uso Offline |
+| **Rastreabilidade** | [ST03](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling/), [BS19](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/) |
+| **Ator Principal** | Jovem Beneficiário |
+| **Atores Secundários** | Sistema ID Jovem, Armazenamento do Dispositivo |
+| **Objetivo** | Permitir que o **jovem beneficiário** salve uma cópia estática e segura de sua carteira digital no próprio dispositivo, garantindo o acesso e a validação do documento mesmo em locais sem conexão com a internet. |
+| **Pré-condições** | - O **jovem beneficiário** deve estar autenticado no aplicativo.<br>- A carteira digital do jovem deve estar ativa e válida.<br>- O aplicativo deve ter permissão para acessar o armazenamento do dispositivo. |
+| **Fluxo Principal de Eventos** | 1. O **jovem beneficiário** acessa sua carteira digital dentro do aplicativo.<br>2. Ele seleciona a opção "Baixar" ou "Salvar Offline".<br>3. O **Sistema ID Jovem** gera uma versão da carteirinha em formato de imagem ou PDF.<br>4. O sistema salva o arquivo no armazenamento interno do dispositivo (galeria de fotos ou pasta de downloads).<br>5. O sistema exibe uma mensagem de confirmação: "Sua carteirinha foi salva com sucesso e pode ser acessada offline." |
+| **Fluxos Alternativos** | **2a.** Caso o jovem já possua uma versão salva, o sistema pergunta se ele deseja substituí-la pela versão mais atualizada.<br>**3a.** O sistema pode oferecer a escolha entre os formatos de arquivo (Imagem ou PDF) antes de salvar. |
+| **Exceções** | - O dispositivo não possui espaço de armazenamento suficiente. O sistema informa o erro.<br>- O **jovem beneficiário** nega a permissão de acesso ao armazenamento. O sistema informa que a funcionalidade não pode ser concluída.<br>- A conexão com a internet falha durante o processo de geração do arquivo. O sistema exibe uma mensagem de erro e sugere tentar novamente. |
+| **Pós-condições** | - Uma cópia da carteira digital está armazenada localmente no dispositivo do **jovem beneficiário**.<br>- O aplicativo pode ser configurado para exibir a versão offline da carteira quando não houver conexão com a internet. |
+| **Autor** | [Breno Teixeira](https://github.com/BrenoLTeixeira) |
 
+<font size="2"><p style="text-align: center"><b>Fonte: <i> [Breno Teixeira](https://github.com/BrenoLTeixeira) </i></b></p></font>
 
+### Caso de Uso 12 ([RF19](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf19))
+<font size="3"><p style="text-align: center">Tabela 12: Gerenciar Cadastro e Preferências</p></font>
 
+| [RF19](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf19) | **Descrição** |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome do Caso de Uso** | Gerenciar Cadastro e Preferências |
+| **Rastreabilidade** | [ENT06](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/) |
+| **Ator Principal** | Jovem Beneficiário |
+| **Atores Secundários** | Sistema ID Jovem, Banco de Dados Cadastral |
+| **Objetivo** | Permitir que o **jovem beneficiário** modifique suas informações de contato (e-mail, telefone) e configure suas preferências para o recebimento de notificações personalizadas sobre eventos e parceiros. |
+| **Pré-condições** | - O **jovem beneficiário** deve estar autenticado no aplicativo. |
+| **Fluxo Principal de Eventos** | 1. O **jovem beneficiário** acessa a seção "Meu Perfil" no menu do aplicativo.<br>2. O sistema exibe os dados cadastrais atuais.<br>3. O jovem seleciona "Editar Dados" e atualiza seu e-mail e/ou telefone de contato.<br>4. Em seguida, ele navega para a aba "Preferências de Notificação".<br>5. O sistema exibe uma lista de categorias de interesse (ex: Esportes, Cultura, Shows).<br>6. O **jovem beneficiário** seleciona as categorias sobre as quais deseja receber notificações.<br>7. O jovem salva as alterações e o sistema valida os dados e armazena as novas informações, exibindo uma mensagem de sucesso. |
+| **Fluxos Alternativos** | **3a.** O **jovem beneficiário** altera apenas suas preferências de notificação, sem modificar os dados de contato, e salva com sucesso.<br>**7a.** O jovem entra no modo de edição, mas decide não fazer alterações e seleciona "Cancelar". O sistema descarta as mudanças e volta à tela de visualização do perfil. |
+| **Exceções** | - O formato do e-mail ou telefone inserido é inválido. O sistema exibe uma mensagem de erro e não permite salvar.<br>- O **jovem beneficiário** tenta editar um campo bloqueado (Nome, CPF, NIS). O sistema informa que esses dados só podem ser alterados via CadÚnico.<br>- Falha de conexão com a internet ao tentar salvar. O sistema informa o erro e mantém os dados inseridos para uma nova tentativa. |
+| **Pós-condições** | - As informações de contato e/ou as preferências de notificação do **jovem beneficiário** estão atualizadas no sistema. |
+| **Autor** | [Breno Teixeira](https://github.com/BrenoLTeixeira) |
 
-
-
+<font size="2"><p style="text-align: center"><b>Fonte: <i> [Breno Teixeira](https://github.com/BrenoLTeixeira) </i></b></p></font>
 
 ## Referências Bibliográficas
-
 
 > <a id="REP1" href="#TEC1">1.</a> </a> GUIA FACETADO DE TÉCNICAS DE ELICITAÇÃO DE REQUISITOS. Florianópolis: UFSC, 2017. Disponível em: <a href="https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades">https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades</a>. Acesso em: 10 out. 2025.
 
@@ -273,4 +311,5 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 |  `1.4` | 12/10/2025 | Adição de uso de caso 03 e 04 | [Eduarda](https://github.com/eduardar0) | [Arthur](https://github.com/arthurfernandesj) |
 |  `1.5` | 12/10/2025 | Adição de uso de caso 07 e 08 | [Giovana](https://github.com/GiovanaFontesS) | [Arthur](https://github.com/arthurfernandesj) |
 |  `1.6` | 12/10/2025 | Adição de uso de caso 05 e 06 | [Dylan](https://github.com/dylancavalcante) | [Giovana](https://github.com/GiovanaFontesS) |
-|  `1.7` | 12/10/2025 | Adição de uso de caso 11 e 12 | [Arthur](https://github.com/arthurfernandesj) | [Leticia](https://github.com/leticialopes20) | 
+|  `1.7` | 12/10/2025 | Adição de uso de caso 09 e 10 | [Arthur](https://github.com/arthurfernandesj) | [Leticia](https://github.com/leticialopes20) | 
+|  `1.8` | 12/10/2025 | Adição de uso de caso 11 e 12 | [Breno](https://github.com/Brenolteixeira) | [Leticia](https://github.com/leticialopes20) | 

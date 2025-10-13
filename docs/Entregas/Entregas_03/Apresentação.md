@@ -15,17 +15,8 @@ A verificação foi realizada utilizando uma lista de critérios de avaliação,
 
 ## Verificação dos Cenários
 
-### Tabela 01: Lista de verificação dos Cenários
 
-| ID  | Descrição |
-|-----|-----------|
-| 01  | Os cenários abordam de forma adequada os principais fluxos de interação entre os atores e o sistema? |
-| 02  | Os cenários foram elaborados com uma linguagem clara e acessível, evitando ambiguidades e garantindo compreensão por todos os envolvidos? |
-| 03  | As especificações dos cenários estão suficientemente claras e detalhadas para orientar o desenvolvimento, contemplando todos os elementos necessários e possíveis variações? |
-
-*Autor(a): Giovana Fontes*
-
-### Tabela 02: Verificação dos Cenários
+### Tabela 01: Verificação dos Cenários
 
 | ID  | Descrição | Avaliação | Data | Responsável |
 |-----|-----------|-----------|------|-------------|
@@ -33,21 +24,13 @@ A verificação foi realizada utilizando uma lista de critérios de avaliação,
 | 02  | Os cenários foram elaborados com linguagem clara e acessível, evitando ambiguidades e garantindo compreensão por todos os envolvidos? |  | 12/10/2025 | Letícia |
 | 03  | As especificações dos cenários estão suficientemente detalhadas e claras para orientar o desenvolvimento, abrangendo todos os elementos necessários e possíveis variações? |  | 12/10/2025 | Eduarda |
 
+<font size="2"><p style="text-align: center">Fonte: [Giovana Fontes](https://github.com/GiovanaFontesS) e [Dylan Cavalcante](https://github.com/dylancavalcante)</p></font>
+
 ---
 
 ## Verificação dos Casos de Uso
 
-### Tabela 03: Lista de verificação dos Casos de Uso
-
-| ID  | Descrição |
-|-----|-----------|
-| 01  | Os relacionamentos entre os casos de uso (inclusão, extensão e generalização) estão claramente indicados e seguem a notação padrão UML? |
-| 02  | Os casos de uso estão bem descritos, incluindo seus fluxos principais e alternativos? |
-| 03  | Os diagramas de caso de uso representam corretamente as interações entre os atores e o sistema? |
-
-*Autor(a): Giovana Fontes*
-
-### Tabela 04: Verificação dos Casos de Uso
+### Tabela 02: Verificação dos Casos de Uso
 
 | ID  | Descrição | Avaliação | Data | Responsável |
 |-----|-----------|-----------|------|-------------|
@@ -55,21 +38,12 @@ A verificação foi realizada utilizando uma lista de critérios de avaliação,
 | 02  | Os casos de uso estão bem descritos, incluindo seus fluxos principais e alternativos? |  | 12/10/2025 | Arthur |
 | 03  | Os diagramas de caso de uso representam corretamente as interações entre os atores e o sistema? |  | 12/10/2025 | Breno |
 
+<font size="2"><p style="text-align: center">Fonte: [Giovana Fontes](https://github.com/GiovanaFontesS) e [Dylan Cavalcante](https://github.com/dylancavalcante)</p></font>
 ---
 
 ## Verificação dos Léxicos
 
-### Tabela 05: Lista de verificação dos Léxicos
-
-| ID  | Descrição |
-|-----|-----------|
-| 01  | Os léxicos possuem impacto nas classificações dos termos? |
-| 02  | Os léxicos estão atualizados e refletem as mudanças nos requisitos do sistema? |
-| 03  | As definições dos léxicos são claras e compreensíveis para todos os stakeholders envolvidos? |
-
-*Autor(a): Giovana Fontes*
-
-### Tabela 06: Verificação dos Léxicos
+### Tabela 03: Verificação dos Léxicos
 
 | ID  | Descrição | Avaliação | Observações | Responsável |
 |-----|-----------|-----------|-------------|-------------|
@@ -77,27 +51,22 @@ A verificação foi realizada utilizando uma lista de critérios de avaliação,
 | 02  | Os léxicos estão atualizados e refletem as mudanças nos requisitos do sistema? |  |  | Letícia |
 | 03  | As definições dos léxicos são claras e compreensíveis para todos os stakeholders envolvidos? |  |  | Eduarda |
 
+<font size="2"><p style="text-align: center">Fonte: [Giovana Fontes](https://github.com/GiovanaFontesS) e [Dylan Cavalcante](https://github.com/dylancavalcante)</p></font>
+
 ---
 
 ## Verificação da Especificação Suplementar
 
-### Tabela 07: Lista de verificação da Especificação Suplementar
 
-| ID  | Descrição |
-|-----|-----------|
-| 01  | O documento especifica claramente os requisitos não funcionais (como desempenho, segurança e usabilidade), incluindo seus critérios de aceitação? |
-| 02  | O documento define restrições, dependências e premissas que possam impactar a implementação dos requisitos de software? |
-| 03  | O documento especifica requisitos relacionados ao ambiente de uso ou à sustentabilidade ambiental? |
-
-*Autor(a): Giovana Fontes*
-
-### Tabela 08: Verificação da Especificação Suplementar
+### Tabela 04: Verificação da Especificação Suplementar
 
 | ID  | Descrição | Avaliação | Data | Responsável |
 |-----|-----------|-----------|------|-------------|
 | 01  | O documento especifica claramente os requisitos não funcionais (como desempenho, segurança e usabilidade), incluindo seus critérios de aceitação? |  | 12/10/2025 | Giovana |
 | 02  | O documento define restrições, dependências e premissas que possam impactar a implementação dos requisitos de software? |  | 12/10/2025 | Arthur |
 | 03  | O documento especifica requisitos relacionados ao ambiente de uso ou à sustentabilidade ambiental? |  | 12/10/2024 | Breno |
+
+<font size="2"><p style="text-align: center">Fonte: [Giovana Fontes](https://github.com/GiovanaFontesS) e [Dylan Cavalcante](https://github.com/dylancavalcante)</p></font>
 
 
 ## Histórico de Versões

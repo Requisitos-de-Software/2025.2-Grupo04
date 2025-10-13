@@ -77,4 +77,6 @@ A verificação foi realizada utilizando uma lista de critérios de avaliação,
 | 1.0 | 12/10/2025 | Criação do Documento para psotagem da apresetação  | [Giovana](https://github.com/GiovanaFontesS) | [ Leticia ](https://github.com/leticialopes20) |
 | 1.2 | 12/10/2025 | Criação de lista de verificação | [Giovana](https://github.com/GiovanaFontesS) | [ Leticia ](https://github.com/leticialopes20) |
 | 1.3 | 12/10/2025 | Adiciona autores| [Dylan](https://github.com/dylancavalcante) | [ Leticia ](https://github.com/leticialopes20) |
+| 1.4 | 12/10/2025 | Refatora itens de verificação| [Dylan](https://github.com/dylancavalcante) | [ Leticia ](https://github.com/leticialopes20) |
+
 

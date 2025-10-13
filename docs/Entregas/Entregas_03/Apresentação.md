@@ -39,6 +39,7 @@ A verificação foi realizada utilizando uma lista de critérios de avaliação,
 | 03  | Os diagramas de caso de uso representam corretamente as interações entre os atores e o sistema? |  | 12/10/2025 | Breno |
 
 <font size="2"><p style="text-align: center">Fonte: [Giovana Fontes](https://github.com/GiovanaFontesS) e [Dylan Cavalcante](https://github.com/dylancavalcante)</p></font>
+
 ---
 
 ## Verificação dos Léxicos

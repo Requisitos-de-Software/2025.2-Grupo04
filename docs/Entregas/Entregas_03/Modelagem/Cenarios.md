@@ -50,8 +50,8 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 </tr>
 <tr>
 <td><a href="https://github.com/BrenoLTeixeira">Breno Lourenço</a></td>
-<td>00/10/2025</td>
-<td>00:00</td>
+<td>12/10/2025</td>
+<td>15:50</td>
 </tr>
 <tr>
 <td><a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></td>

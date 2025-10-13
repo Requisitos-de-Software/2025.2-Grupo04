@@ -64,7 +64,7 @@ A verificação foi realizada utilizando uma lista de critérios de avaliação,
 | ID  | Descrição | Avaliação | Data | Responsável |
 |-----|-----------|-----------|------|-------------|
 | 01  | O documento especifica claramente os requisitos não funcionais (como desempenho, segurança e usabilidade), incluindo seus critérios de aceitação? |  | 12/10/2025 | Giovana |
-| 02  | O documento define restrições, dependências e premissas que possam impactar a implementação dos requisitos de software? |  | 12/10/2025 | Arthur |
+| 02  | Os requisitos de usabilidade estão detalhados, incluindo fluxos de navegação, feedback ao usuário e acessibilidade? |  | 12/10/2025 | Arthur |
 | 03  | O documento descreve os requisitos de funcionalidade do sistema, incluindo casos de uso e funcionalidades essenciais? |  | 12/10/2024 | Breno |
 
 <font size="2"><p style="text-align: center">Fonte: [Giovana Fontes](https://github.com/GiovanaFontesS) e [Dylan Cavalcante](https://github.com/dylancavalcante)</p></font>

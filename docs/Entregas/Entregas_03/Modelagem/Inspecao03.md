@@ -64,7 +64,7 @@ Clique [AQUI]() se você quiser verificar os prints das referências
 | Item | Avaliação | Observação | Responsável |
 |------|:-:|:-:|:-:|
 | **01:** Os léxicos possuem impacto nas classificações dos termos? |  | --- | [Giovana](https://github.com/GiovanaFontesS) |
-| **02:** Os léxicos estão atualizados e refletem as mudanças nos requisitos do sistema? |  | --- | [[Breno](https://github.com/BrenoLTeixeira) |
+| **02:** Os léxicos estão atualizados e refletem as mudanças nos requisitos do sistema? |  | --- | [Breno](https://github.com/BrenoLTeixeira) |
 | **03:** As definições dos léxicos são claras e compreensíveis para todos os stakeholders envolvidos? |  | --- | [Eduarda](https://github.com/eduardar0) |
 
 <font size="2"><p style="text-align: center">Fonte:  <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a>  e <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></p></font>

@@ -70,6 +70,50 @@ A verificação foi realizada utilizando uma lista de critérios de avaliação,
 <font size="2"><p style="text-align: center">Fonte: [Giovana Fontes](https://github.com/GiovanaFontesS) e [Dylan Cavalcante](https://github.com/dylancavalcante)</p></font>
 
 
+## Gravação (Entrega 3)
+
+<div align="center">
+  <p style="text-align: center">
+    <a href="https://youtu.be/HX4N1TOkEvI" target="_blank"><b>Vídeo 1:</b> Apresentação Entrega 03</a>
+  </p>
+
+  <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/HX4N1TOkEvI"
+          title="Apresentação Entrega 03"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+  </iframe>
+
+  <font size="3">
+    <p style="text-align: center">
+      <b>Fontes:</b> <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, 2025
+    </p>
+  </font>
+</div>
+
+## Gravação (Lista de verificação)
+
+<div align="center">
+  <p style="text-align: center">
+    <a href="https://youtu.be/wxl6ToMOSMQ" target="_blank"><b>Vídeo 2:</b> Verificação da Equipe - Entrega 03</a>
+  </p>
+
+  <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/wxl6ToMOSMQ"
+          title="Verificação da Equipe - Entrega 03"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+  </iframe>
+
+  <font size="3">
+    <p style="text-align: center">
+      <b>Fontes:</b> <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, 2025
+    </p>
+  </font>
+</div>
+
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
@@ -78,5 +122,6 @@ A verificação foi realizada utilizando uma lista de critérios de avaliação,
 | 1.2 | 12/10/2025 | Criação de lista de verificação | [Giovana](https://github.com/GiovanaFontesS) | [ Leticia ](https://github.com/leticialopes20) |
 | 1.3 | 12/10/2025 | Adiciona autores| [Dylan](https://github.com/dylancavalcante) | [ Leticia ](https://github.com/leticialopes20) |
 | 1.4 | 12/10/2025 | Refatora itens de verificação| [Dylan](https://github.com/dylancavalcante) | [ Leticia ](https://github.com/leticialopes20) |
+| 1.5 | 12/10/2025 | Adicionar gravações | [Giovana](https://github.com/GiovanaFontesS) | [ Leticia ](https://github.com/leticialopes20) |
 
 

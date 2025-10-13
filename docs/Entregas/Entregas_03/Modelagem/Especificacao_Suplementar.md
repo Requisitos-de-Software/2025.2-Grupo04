@@ -28,7 +28,7 @@ A Tabela 1 apresenta os membros responsáveis pelo desenvolvimento deste artefat
 <td>17:50</td>
 </tr>
 <tr>
-<td><a href="https://github.com/BrenoLTeixeira">Breno Lourenço</a></td>
+<td><a href="https://github.com/BrenoLTeixeira">Breno Teixeira</a></td>
 <td>12/10/2025</td>
 <td>17:50</td>
 </tr>
@@ -158,10 +158,10 @@ Esta seção abrange todos os requisitos que influenciam o Confiabilidade do sis
 | [RNF08](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Alta disponibilidade    | O sistema deve garantir disponibilidade mínima de 99,5%.                           | Evitar falhas de acesso e interrupções nos serviços.  | Não implementado | [Letícia Lopes](https://github.com/leticialopes20) |
 | [RNF11](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Sincronização de dados  | As informações dos benefícios devem estar sempre sincronizadas com a base oficial. | Garantir transparência e atualização das informações. | Não implementado | [Dylan Cavalcante](https://github.com/dylancavalcante) |
 | [RNF15](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Controle de inatividade | O sistema deve ter no máximo 2h de inatividade mensal fora de manutenções.         | Garantir confiabilidade e continuidade de serviço.    | Não implementado | [Dylan Cavalcante](https://github.com/dylancavalcante) |
-| [RNF19](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Registro de validações  | O sistema deve registrar todas as tentativas de validação de carteirinhas.         | Assegurar rastreabilidade e auditoria de ações.       | Não implementado | [Breno Lourenço](https://github.com/BrenoLTeixeira) |
-| [RNF22](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Log de auditoria        | O sistema deve armazenar logs de emissões e validações por 5 anos.                 | Garantir rastreabilidade e controle de histórico.     | Não implementado | [Breno Lourenço](https://github.com/BrenoLTeixeira) |
+| [RNF19](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Registro de validações  | O sistema deve registrar todas as tentativas de validação de carteirinhas.         | Assegurar rastreabilidade e auditoria de ações.       | Não implementado | [Breno Teixeira](https://github.com/BrenoLTeixeira) |
+| [RNF22](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Log de auditoria        | O sistema deve armazenar logs de emissões e validações por 5 anos.                 | Garantir rastreabilidade e controle de histórico.     | Não implementado | [Breno Teixeira](https://github.com/BrenoLTeixeira) |
 
-<p align="center"><strong>Fontes:</strong> <a href="https://github.com/leticialopes20">Letícia Lopes</a>, <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a>, <a href="https://github.com/BrenoLTeixeira">Breno Lourenço</a>, 2025</p>
+<p align="center"><strong>Fontes:</strong> <a href="https://github.com/leticialopes20">Letícia Lopes</a>, <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a>, <a href="https://github.com/BrenoLTeixeira">Breno Teixeira</a>, 2025</p>
 
 
 ### Desempenho
@@ -195,12 +195,12 @@ Esta seção abrange todos os requisitos que influenciam o Suportabilidade do si
 | :--------: | :-------------------------------- | :------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------- | :--------------: | :----------------------------------- |
 | [RNF04](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Compatibilidade com Android e iOS | O aplicativo deve ser gratuito e compatível com sistemas Android e iOS.                            | Garantir o acesso universal à plataforma.                        |   Implementado   | [Dylan Cavalcante](https://github.com/dylancavalcante) |
 | [RNF09](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Design responsivo                 | O design deve se adaptar a diferentes tamanhos de tela e dispositivos.                             | Garantir boa experiência em smartphones, tablets e computadores. |   Implementado   | [Dylan Cavalcante](https://github.com/dylancavalcante) |
-| [RNF12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Compatibilidade retroativa        | O sistema deve funcionar nas duas versões anteriores dos principais navegadores e sistemas móveis. | Ampliar o alcance e evitar incompatibilidades.                   | Não implementado | [Breno Lourenço](https://github.com/BrenoLTeixeira) |
-| [RNF17](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Ciclo de atualização              | A equipe deve liberar atualizações de segurança a cada 3 meses.                                    | Manter o aplicativo seguro e estável.                            | Não implementado | [Breno Lourenço](https://github.com/BrenoLTeixeira) |
+| [RNF12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Compatibilidade retroativa        | O sistema deve funcionar nas duas versões anteriores dos principais navegadores e sistemas móveis. | Ampliar o alcance e evitar incompatibilidades.                   | Não implementado | [Breno Teixeira](https://github.com/BrenoLTeixeira) |
+| [RNF17](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Ciclo de atualização              | A equipe deve liberar atualizações de segurança a cada 3 meses.                                    | Manter o aplicativo seguro e estável.                            | Não implementado | [Breno Teixeira](https://github.com/BrenoLTeixeira) |
 | [RNF21](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Escalabilidade do sistema         | O sistema deve suportar aumento de 50% de beneficiários sem perda de desempenho.                   | Garantir estabilidade com o crescimento da base de usuários.     | Não implementado | [ Eduarda Domingos](https://github.com/eduardar0) |
 | [RNF24](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Compatibilidade com API           | O app deve suportar a API mais recente e as duas versões anteriores do sistema operacional.        | Evitar falhas e garantir funcionamento contínuo.                 | Não implementado | [Eduarda Domingos](https://github.com/eduardar0) |
 
-<p align="center"><strong>Fontes:</strong> <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a>, <a href="https://github.com/BrenoLTeixeira">Breno Lourenço</a>, <a href="https://github.com/eduardar0">Eduarda Domingos</a>, 2025</p>
+<p align="center"><strong>Fontes:</strong> <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a>, <a href="https://github.com/BrenoLTeixeira">Breno Teixeira</a>, <a href="https://github.com/eduardar0">Eduarda Domingos</a>, 2025</p>
 
 ## Referências Bibliográficas
 

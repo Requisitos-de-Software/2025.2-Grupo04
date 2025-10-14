@@ -31,7 +31,7 @@ Esta análise refere-se à **Entrega 3** do Grupo 04, cujo projeto agora se conc
 
 # Lista de Verificação/Inspeção
 
-Clique [AQUI]() se você quiser verificar os prints das referências
+
 
 ---
 

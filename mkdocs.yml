@@ -110,11 +110,11 @@ nav:
                           - Requisitos Não Implementados: Entregas/Entregas_03/Modelagem/Requisitos_Implementados.md
                 - Apresentação: Entregas/Entregas_03/Apresentação.md
                 - Inspeção grupo n+1: Entregas/Entregas_03/Modelagem/Inspecao03.md
-            #- Entrega 04:
-                #- Modelagem-II:
-                              #- NFR Framework: Entregas/Entregas_03/Modelagem_II/NFR_Framework.md
-                              #- Histórias de Usuário: Entregas/Entregas_03/Modelagem_II/Historias_de_Usuario.md
-                              #- Product Backlog: Entregas/Entregas_03/Modelagem_II/Product_Backlog.md
+          - Entrega 04:
+                - Modelagem-II:
+                              - NFR Framework: Entregas/Entregas_04/Modelagem_II/NFR_Framework.md
+                              - Histórias de Usuário: Entregas/Entregas_04/Modelagem_II/Historias_de_Usuario.md
+                              - Product Backlog: Entregas/Entregas_04/Modelagem_II/Product_Backlog.md
 
           - Entrega Final:
                 - Conclusão: Entregas/Entrega-Final/Conclusao.md

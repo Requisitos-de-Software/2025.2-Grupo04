@@ -35,11 +35,3 @@ Os artefatos previstos, associados a cada entrega, estão listados a seguir com 
 | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Breno Lourenço](https://github.com/BrenoLTeixeira) | [Dylan Cavalcante](https://github.com/dylancavalcante) | [Eduarda Domingos](https://github.com/eduardar0) | [Giovana Fontes](https://github.com/GiovanaFontesS) | [Leticia Lopes](https://github.com/leticialopes20) |
 
 <br>
-
-## 6. Histórico de Entregas
-
-<p align="center"><strong>Tabela 2:</strong> <i>Histórico de entregas do projeto</i></p>
-
-| Item | Escopo | Artefatos | Data | Gravação | Autor(es) | Revisor(es) |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| **Entrega** `1` | *Pré-Rastreabilidade* | `Planejamento` e `Rich Map` | 11/09/2025 | [[https://img.youtube.com/vi/mn22MRRCZZ4/hqdefault.jpg]]() | [Todos](), [Todos]()| 

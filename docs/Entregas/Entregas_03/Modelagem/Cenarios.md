@@ -1,30 +1,30 @@
 ## Introdução
-Cenários de uso são histórias detalhadas que mostram como as pessoas envolvidas interagem com um sistema em situações reais ou possíveis. Eles ajudam a entender *o que os atores fazem, por que faz e quais recursos precisa* para atingir seus objetivos (Barbosa et al., 2021).
+Cenários de uso são histórias detalhadas que mostram como as pessoas envolvidas interagem com um sistema em situações reais ou possíveis. Eles ajudam a entender *o que os atores fazem, por que faz e quais recursos precisa* para atingir seus objetivos.<a id="TEC1" href="#RP1"> [Barbosa et al., 2021]</a>
 
 No caso do **ID Jovem**, esses cenários foram elaborados com base em **requisitos funcionais não implementados**, identificados durante a análise das necessidades dos jovens beneficiários, especialmente no que diz respeito à clareza das informações e à confiabilidade da comunicação.
 
-Cada cenário é estruturado com os elementos indicados: título, **metas/objetivo**, **contexto**, **atores**, **recursos**, **exceções** e **episódios** (Serrano; Serrano, 2025).
+Cada cenário é estruturado com os elementos indicados: título, **metas/objetivo**, **contexto**, **atores**, **recursos**, **exceções** e **episódios** <a id="TEC2" href="#RP2">[Serrano; Serrano, 2025]</a>
 
 O objetivo é garantir que cada cenário seja *claro, detalhado e útil*, permitindo analisar o comportamento dos jovens beneficiários, suas decisões, os obstáculos que enfrentam e como o aplicativo pode apoiar melhor suas atividades.
 
 ## Metodologia
 
-Para elaborar os cenários do app **ID Jovem**, adotamos uma **abordagem centrada na experiência das pessoas que interagem com o sistema**, inspirada nas técnicas de **Interação Humano-Computador (IHC)**  (Barbosa et al., 2021).
+Para elaborar os cenários do app **ID Jovem**, adotamos uma **abordagem centrada na experiência das pessoas que interagem com o sistema**, inspirada nas técnicas de **Interação Humano-Computador (IHC)** . <a id="TEC1" href="#RP1"> [Barbosa et al., 2021]</a>
 
 A ideia foi criar **narrativas realistas e detalhadas**, capazes de mostrar como os jovens beneficiários interagem com o aplicativo em diferentes situações.
 
 ### *1) Construção de cenários narrativos*
 
-Seguimos os elementos indicados pela professora **Milene Serrano** — *título, metas/objetivo, contexto, atores, recursos, exceções e episódios* — para criar narrativas realistas e detalhadas das interações dos jovens beneficiários com o aplicativo.
+Seguimos os elementos indicados pela professora **Milene Serrano** — *título, metas/objetivo, contexto, atores, recursos, exceções e episódios* — para criar narrativas realistas e detalhadas das interações dos jovens beneficiários com o aplicativo. <a id="TEC2" href="#RP2"> [Serrano; Serrano, 2025]</a>
 
 
 ### *2) Planejamento e avaliação*
 
-Registramos como os jovens beneficiários **tomam decisões**, **verificam resultados** e **lidam com eventos raros ou imprevistos** (Barbosa et al., 2021).
+Registramos como os jovens beneficiários **tomam decisões**, **verificam resultados** e **lidam com eventos raros ou imprevistos** <a id="TEC1" href="#RP1"> [Barbosa et al., 2021]</a>
 
 ### *3) Questionamento sistemático*
 
-Aplicamos perguntas do tipo **"o que?"**, **"como?"** e **"por que?"** para cada elemento do cenário, seguindo a *Tabela 8.2: Perguntas para refinar cenários* do livro *Interação Humano-Computador (IHC)*, garantindo que lacunas fossem identificadas e informações importantes não fossem omitidas (Carroll et al., 1994; Barbosa et al., 2021).
+Aplicamos perguntas do tipo **"o que?"**, **"como?"** e **"por que?"** para cada elemento do cenário, seguindo a *Tabela 8.2: Perguntas para refinar cenários* do livro *Interação Humano-Computador (IHC)*, garantindo que lacunas fossem identificadas e informações importantes não fossem omitidas. <a id="TEC1" href="#RP1"> [Carroll et al., 1994; Barbosa et al., 2021]</a>
 
 Conforme solicitado pelo docente da disciplina de Requisitos de Software, cada membro da equipe ficou responsável por **desenvolver e apresentar dois cenários completos**.
 
@@ -50,8 +50,8 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 </tr>
 <tr>
 <td><a href="https://github.com/BrenoLTeixeira">Breno Lourenço</a></td>
-<td>00/10/2025</td>
-<td>00:00</td>
+<td>12/10/2025</td>
+<td>15:50</td>
 </tr>
 <tr>
 <td><a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></td>
@@ -298,9 +298,9 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 
 ## Referências Bibliográficas
 
-1. BARBOSA, Simone Diniz Junqueira et al. *Interação humano-computador e experiência do usuário.* Auto publicação, 2021.  
+> <a id="RP1" href="#TEC1">1.</a> BARBOSA, Simone Diniz Junqueira et al. *Interação humano-computador e experiência do usuário.* Auto publicação, 2021.  
 
-2. SERRANO, Milene; SERRANO, Maurício. *Requisitos – Aula 10.* UnB, 2025, p. 8. Disponível em: [https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf](https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf). Acesso em: 10 de outubro de 2025.
+> <a id="RP2" href="#TEC2">2.</a> SERRANO, Milene; SERRANO, Maurício. *Requisitos – Aula 10.* UnB, 2025, p. 8. Disponível em: [https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf](https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf). Acesso em: 10 de outubro de 2025.
 
 
 

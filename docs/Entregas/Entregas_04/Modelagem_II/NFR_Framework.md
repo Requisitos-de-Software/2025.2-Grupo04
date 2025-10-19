@@ -165,7 +165,7 @@ A Tabela 1 ilustra o modelo adotado para a elaboração dos cartões de especifi
 </table>
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj) </p></font>
+<font size="2"><p style="text-align: center">Autor: [Arthur Fernandes](https://github.com/arthurfernandesj) </p></font>
 
 
 O cartão facilitou a **rastreabilidade, clareza e consistência** das informações, além de permitir uma análise comparativa entre alternativas e apoiar a comunicação com os stakeholders durante a modelagem dos requisitos.
@@ -222,7 +222,7 @@ Essa validação assegurou que os **requisitos não funcionais** fossem não ape
     <tr>
       <td><a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></td>
       <td>19/10/2025</td>
-      <td>00:00</td>
+      <td>19:30</td>
     </tr>
     <tr>
       <td><a href="https://github.com/"></a></td>
@@ -253,7 +253,7 @@ Essa validação assegurou que os **requisitos não funcionais** fossem não ape
 </table>
 </div>
 
-<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></p>
+<p style="text-align: center; font-size: 10pt;">Autor: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></p>
 
 ### **Requisitos Não-Funcionais**
 
@@ -261,7 +261,7 @@ Essa validação assegurou que os **requisitos não funcionais** fossem não ape
 
 | **Código** | **Versão** | **Descrição**                                                                                          | **Origem** |
 |------------|------------|--------------------------------------------------------------------------------------------------------|------------|
-| RNF-- | 1.0 |-------------------------- | |
+| RNF01 | 1.0 | O aplicativo deve ser intuitivo e de fácil uso, mesmo para jovens com pouca experiência digital. | ENT17 |
 | RNF-- | 1.0 | --------------------------|  |
 | RNF-- | 1.0 | -------------------------- |  |
 | RNF-- | 1.0 | -------------------------- | |
@@ -276,18 +276,67 @@ Essa validação assegurou que os **requisitos não funcionais** fossem não ape
 | RNF-- | 1.0 | -------------------------- |  |
 | RNF-- | 1.0 | -------------------------- | |
 
-<font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj)</p></font>
+<font size="2"><p style="text-align: center">Autor: [Arthur Fernandes](https://github.com/arthurfernandesj)</p></font>
 
 
 
 ## Cartão Especificação
 
 
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 9:</b> Requisito Não Funcional – ENT17</p></font>
+
+<a name="ENT17"></a>
+
+<center>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2">Requisito Não Funcional – RFN01</th></tr>
+  <tr><td><strong>Classificação</strong></td><td>Usabilidade</td></tr>
+  <tr><td><strong>Descrição</strong></td><td>O aplicativo deve ser intuitivo e de fácil uso, mesmo para jovens com pouca experiência digital.</td></tr>
+  <tr><td><strong>Justificativa</strong></td><td>Um design intuitivo garante que todos os jovens, independentemente de sua familiaridade com tecnologia, consigam utilizar o aplicativo de forma eficiente e sem frustração.</td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td>ENT17</td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td>Usuários novatos devem conseguir completar tarefas básicas sem orientação adicional e sem erros críticos.</td></tr>
+  <tr><td><strong>Dependências</strong></td><td>Interface gráfica do aplicativo, fluxos de navegação e testes de usabilidade.</td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>10</td></tr>
+  <tr><td><strong>Conflitos</strong></td><td>Nenhum</td></tr>
+  <tr><td><strong>História</strong></td><td>19/10/2025</td></tr>
+</table>
+</center>
+
+</div>
+
+<font size="2"><p style="text-align: center">Autor: [Arthur Fernandes](https://github.com/arthurfernandesj)</p></font>
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 10:</b> Requisito Não Funcional – RNF05</p></font>
+
+<a name="RNF05"></a>
+
+<center>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2">Requisito Não Funcional – RNF05</th></tr>
+  <tr><td><strong>Classificação</strong></td><td>Segurança</td></tr>
+  <tr><td><strong>Descrição</strong></td><td>Os dados pessoais do Jovem Beneficiário devem ser protegidos com criptografia conforme a LGPD.</td></tr>
+  <tr><td><strong>Justificativa</strong></td><td>A segurança dos dados é essencial para proteger as informações sensíveis do jovem, garantindo conformidade com a Lei Geral de Proteção de Dados (LGPD) e evitando o uso indevido de informações pessoais.</td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td>RNF-SEG-01, BS22, ENT19</td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td>Todos os dados pessoais armazenados e transmitidos devem utilizar criptografia AES-256, com autenticação e controle de acesso baseados em tokens seguros.</td></tr>
+  <tr><td><strong>Dependências</strong></td><td>Sistema de autenticação, banco de dados seguro e integração com o Gov.br.</td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>10</td></tr>
+  <tr><td><strong>Conflitos</strong></td><td>Pode impactar o desempenho em dispositivos com hardware limitado.</td></tr>
+  <tr><td><strong>História</strong></td><td>19/10/2025</td></tr>
+</table>
+</center>
+
+</div>
+
+<font size="2"><p style="text-align: center">Autor: [Arthur Fernandes](https://github.com/arthurfernandesj)</p></font>
+
+
 
 ## Referências Bibliográficas
-
 
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :----------------------------------------------------------------------------------------: | :-------------------------------------------: |
 | `1.0` | 19/10/2025 | Criação inicial do documento de NFR | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Dylan Cavalvante ](https://github.com/dylancavalcante) |
+| `1.1` | 19/10/2025 |  | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Dylan Cavalvante ](https://github.com/dylancavalcante) |

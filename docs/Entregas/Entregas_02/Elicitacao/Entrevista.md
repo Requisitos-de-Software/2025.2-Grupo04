@@ -411,50 +411,58 @@ Na entrevista 2 encontra-se a gravação da entrevista da Noemy da Luz Cardoso.
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 7:</b> Requisitos Não Funcionais</p></font>
 <table>
-  <thead>
-    <tr>
-      <th>ID</th>
-      <th>Descrição</th>
-      <th>Implementado</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>ENT17</td>
-      <td>O aplicativo deve ser intuitivo e de fácil uso, mesmo para jovens com pouca experiência digital.</td>
-      <td>Não</td>
-    </tr>
-    <tr>
-      <td>ENT18</td>
-      <td>Deve lidar com grande número de usuários simultaneamente.</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>ENT19</td>
-      <td>Deve permitir tarefas rápidas em até 5 minutos e tarefas complexas em até 20 minutos.</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>ENT20</td>
-      <td>Deve considerar segurança do usuário, especialmente em informações pessoais.</td>
-      <td>Não</td>
-    </tr>
-    <tr>
-      <td>ENT21</td>
-      <td>Deve possuir interface clara, letras legíveis e navegação intuitiva.</td>
-      <td>Não</td>
-    </tr>
-    <tr>
-      <td>ENT22</td>
-      <td>Deve ter cores e layout que facilitem a utilização do aplicativo.</td>
-      <td>Não</td>
-    </tr>
-    <tr>
-      <td>ENT23</td>
-      <td>Deve permitir acesso rápido às informações em menos de 2 minutos por sessão.</td>
-      <td>Sim</td>
-    </tr>
-  </tbody>
+  <thead>
+    <tr>
+      <th>Código</th>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Implementado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>RFN01</td>
+      <td>ENT17</td>
+      <td>O aplicativo deve ser intuitivo e de fácil uso, mesmo para jovens com pouca experiência digital.</td>
+      <td>Não</td>
+    </tr>
+    <tr>
+      <td>RFN02</td>
+      <td>ENT18</td>
+      <td>Deve lidar com grande número de usuários simultaneamente.</td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>RFN03</td>
+      <td>ENT19</td>
+      <td>Deve permitir tarefas rápidas em até 5 minutos e tarefas complexas em até 20 minutos.</td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>RFN04</td>
+      <td>ENT20</td>
+      <td>Deve considerar segurança do usuário, especialmente em informações pessoais.</td>
+      <td>Não</td>
+    </tr>
+    <tr>
+      <td>RFN05</td>
+      <td>ENT21</td>
+      <td>Deve possuir interface clara, letras legíveis e navegação intuitiva.</td>
+      <td>Não</td>
+    </tr>
+    <tr>
+      <td>RFN06</td>
+      <td>ENT22</td>
+      <td>Deve ter cores e layout que facilitem a utilização do aplicativo.</td>
+      <td>Não</td>
+    </tr>
+    <tr>
+      <td>RFN07</td>
+      <td>ENT23</td>
+      <td>Deve permitir acesso rápido às informações em menos de 2 minutos por sessão.</td>
+      <td>Sim</td>
+    </tr>
+  </tbody>
 </table>
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/">Arthur Fernandes</a> & <a href="https://github.com/">Dylan Cavalcante</a>, 2025.</p></font>
 </div>

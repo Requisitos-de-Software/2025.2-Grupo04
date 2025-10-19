@@ -32,8 +32,79 @@ Como (papel), eu quero (ação) para (benefício).
 - Passo 5 – Validar e detalhar
 A história é validada com o Product Owner e a equipe, podendo ser ajustada ou subdividida se estiver muito ampla. Também são definidos os critérios de aceitação, que servem para testar se a história foi corretamente implementada.
 
+### Participantes
+
+
+<p style="text-align: center"><strong>Tabela 1-</strong> Participantes</p>
+<div align="center">
+<table>
+<thead>
+<tr>
+<th>Nome</th>
+<th>Data</th>
+<th>Hora</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></td>
+<td>00/10/2025</td>
+<td>00:00</td>
+</tr>
+<tr>
+<td><a href="https://github.com/BrenoLTeixeira">Breno Teixeira</a></td>
+<td>00/10/2025</td>
+<td>00:00</td>
+</tr>
+<tr>
+<td><a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></td>
+<td>19/10/2025</td>
+<td>19:08</td>
+</tr>
+<tr>
+<td><a href="https://github.com/eduardar0">Eduarda Domingos</a></td>
+<td>00/10/2025</td>
+<td>00:00</td>
+</tr>
+<tr>
+<td><a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></td>
+<td>00/10/2025</td>
+<td>00:00</td>
+</tr>
+<tr>
+<td><a href="https://github.com/leticialopes20">Letícia Lopes</a></td>
+<td>00/10/2025</td>
+<td>00:00</td>
+</tr>
+</tbody>
+</table>
+</div>
+<font size="2"><p style="text-align: center">Fonte: <i>[Dylan Cavalcante](https://github.com/dylancavalcante)</i> </p></font>
+
+
+
+## Sumário
+
+- [H01 – Integração com o CadÚnico  (RF07)](#h01)
+- [H02 – Emitir notificações sobre vencimento, renovação do benefício (RF08)](#h02)
+- [H03 – Disponibilizar informações sobre locais e parceiros que aceitam o benefício (RF10)](#h03)
+- [H04 – Fornecer canal de suporte via chat, e-mail ou formulário de contato (RF11)](#h04)
+- [H05 – Permitir que o Jovem Beneficiário visualize o histórico de utilização dos benefícios (RF12)](#h05)
+- [H06 – Seção de "Vantagens e Parcerias" com novidades, divulgação sobre o programa e ofertas exclusivas (RF13)](#h06)
+- [H07 – Permitir compartilhar a carteirinha em PDF ou imagem (RF17)](#h07)
+- [H08 – Fornecer informações sobre pendências ou erros relacionados aos benefícios do usuário (RF18)](#h08)
+- [H09 – Permitir que os usuários atualizem seu cadastro e definam preferências pessoais (RF19)](#h09)
+- [H10 – Fornecer alertas sobre possíveis irregularidades no uso dos benefícios (RF20)](#h10)
+- [H11 – Possuir um mapa interativo para visualizar geograficamente parceiros e eventos (RF21)](#h11)
+- [H12 – Apresentar uma agenda integrada de eventos com filtros de busca (RF22)](#h12)
+- [H13 – Fornecer um canal para denúncia ou feedback sobre estabelecimentos que recusam o benefício (RF23)](#h13)
+- [H14 –  Permitir que o usuário favorite eventos e estabelecimentos para consulta rápida (RF24)](#h14)
+
+---
 
 ## Tabela Padrão 
+
+A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das histórias de usuário do projeto. Ela padroniza os principais elementos necessários, como a descrição da necessidade, critérios de aceitação, prioridade, status de validação, entre outros. O objetivo é garantir consistência, rastreabilidade e clareza em todas as histórias documentadas.
 
 <font size="3"><p style="text-align: center">Tabela 1: Tabela de Padronização das Historia de usuário</p></font>
 
@@ -47,90 +118,243 @@ A história é validada com o Product Owner e a equipe, podendo ser ajustada ou 
 | **Status** | Validada ou não pelo usuário |
 | **Autor** | [Giovana Fontes](https://github.com/GiovanaFontesS) |
 
-<font size="2"><p style="text-align: center">Fonte: [Giovana Fontes ](https://github.com/GiovanaFontesS)</p></font>
+<font size="2"><p style="text-align: center">Autor: [Giovana Fontes ](https://github.com/GiovanaFontesS)</p></font>
 
 
 # **Histórias de Usuário**
 
-## [US01](#) – Cadastro do Jovem Beneficiário
+### <a name="h01"></a> História 01: Integração com o CadÚnico 
 
 <font size="3"><p style="text-align: center">Tabela 1: US01</p></font>
 
 | **ID** | [US01](#) |
 |--------|-------|
-| **Rastreabilidade** | [RF01](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf01) |
-| **Tema** | Cadastro de Jovem Beneficiário |
-| **Descrição** | Permitir que o sistema cadastre o Jovem Beneficiário utilizando o CPF como identificação única. |
-| **Critérios de Aceitação** | - O usuário consegue inserir o CPF no sistema.<br>- O sistema valida se o CPF já está cadastrado.<br>- Cadastro é confirmado com sucesso após validação. |
-| **Prioridade Usuário** | Alta |
-| **Status** | Validada pelo usuário |
-| **Autor** | [Giovana Fontes](https://github.com/GiovanaFontesS) |
+| **Rastreabilidade** | [RF07](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf07) |
+| **Tema** |  |
+| **Descrição** |  |
+| **Critérios de Aceitação** |  |
+| **Prioridade Usuário** |  |
+| **Status** |  |
+| **Autor** | [Seu nome](https://github.com/seu-usuario) |
 
-<font size="2"><p style="text-align: center">Fonte: [Giovana Fontes ](https://github.com/GiovanaFontesS)</p></font>
+<font size="2"><p style="text-align: center">Autor: [Seu nome ](https://github.com/seu-usuario)</p></font>
 
-## [US02](#) – Autenticação e Login via Gov.br
+### <a name="h02"></a> História 02: Emitir notificações sobre vencimento e renovação do benefício 
 
 <font size="3"><p style="text-align: center">Tabela 2: US02</p></font>
 
 | **ID** | [US02](#) |
-|--------|------|
-| **Rastreabilidade** |  [RF02](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf02) |
-| **Tema** | Autenticação e Login |
-| **Descrição** | Permitir que o usuário faça login no sistema utilizando sua conta Gov.br de forma segura. |
-| **Critérios de Aceitação** | - Usuário consegue acessar a tela de login.<br>- Sistema autentica corretamente com a conta Gov.br.<br>- Mensagens de erro são exibidas em caso de login inválido.<br>- Usuário é redirecionado para a tela inicial após login bem-sucedido. |
-| **Prioridade Usuário** | Alta |
-| **Status** | Validada pelo usuário |
-| **Autor** | [Giovana Fontes](https://github.com/GiovanaFontesS) |
+|--------|-------|
+| **Rastreabilidade** | [RF08](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf08) |
+| **Tema** |  |
+| **Descrição** |  |
+| **Critérios de Aceitação** |  |
+| **Prioridade Usuário** |  |
+| **Status** |  |
+| **Autor** | [Seu nome](https://github.com/seu-usuario) |
 
-<font size="2"><p style="text-align: center">Fonte: [Giovana Fontes ](https://github.com/GiovanaFontesS)</p></font>
+<font size="2"><p style="text-align: center">Autor: [Seu nome ](https://github.com/seu-usuario)</p></font>
 
-## [US03](#) – Geração e Emissão da Carteira Digital ID Jovem
+### <a name="h03"></a> História 03: Disponibilizar informações sobre locais e parceiros que aceitam o benefício
 
 <font size="3"><p style="text-align: center">Tabela 3: US03</p></font>
 
 | **ID** | [US03](#) |
-|--------|------|
-| **Rastreabilidade** | [RF03](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf03) |
-| **Tema** | Emissão da Carteira Digital |
-| **Descrição** | Permitir que o usuário gere e emita sua carteira digital ID Jovem diretamente pelo sistema. |
-| **Critérios de Aceitação** | - Usuário consegue iniciar o processo de geração da carteira.<br>- Sistema valida os dados do usuário antes de emitir.<br>- Carteira digital é emitida corretamente.<br>- Usuário recebe confirmação de emissão bem-sucedida. |
-| **Prioridade Usuário** | Alta |
-| **Status** | Validada pelo usuário |
-| **Autor** | [Giovana Fontes](https://github.com/GiovanaFontesS) |
+|--------|-------|
+| **Rastreabilidade** | [RF10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf10) |
+| **Tema** |  |
+| **Descrição** |  |
+| **Critérios de Aceitação** |  |
+| **Prioridade Usuário** |  |
+| **Status** |  |
+| **Autor** | [Seu nome](https://github.com/seu-usuario) |
 
-<font size="2"><p style="text-align: center">Fonte: [Giovana Fontes ](https://github.com/GiovanaFontesS)</p></font>
+<font size="2"><p style="text-align: center">Autor: [Seu nome ](https://github.com/seu-usuario)</p></font>
 
-## [US04](#) – Consulta de Benefícios do ID Jovem
+### <a name="h04"></a> História 04: Fornecer canal de suporte via chat, e-mail ou formulário de contato
 
 <font size="3"><p style="text-align: center">Tabela 4: US04</p></font>
 
 | **ID** | [US04](#) |
-|--------|------|
-| **Rastreabilidade** | [RF04](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf04) |
-| **Tema** | Consulta de Benefícios |
-| **Descrição** | Permitir que o usuário consulte seus benefícios, como transporte gratuito e meia-entrada em eventos, diretamente pelo sistema. |
-| **Critérios de Aceitação** | - Usuário consegue acessar a tela de consulta de benefícios.<br>- Sistema exibe corretamente os benefícios disponíveis para o usuário.<br>- Informações são atualizadas em tempo real.<br>- Benefícios são apresentados de forma clara e organizada. |
-| **Prioridade Usuário** | Alta |
-| **Status** | Validada pelo usuário |
-| **Autor** | [Giovana Fontes](https://github.com/GiovanaFontesS) |
+|--------|-------|
+| **Rastreabilidade** | [RF11](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf11) |
+| **Tema** |  |
+| **Descrição** |  |
+| **Critérios de Aceitação** |  |
+| **Prioridade Usuário** |  |
+| **Status** |  |
+| **Autor** | [Seu nome](https://github.com/seu-usuario) |
 
-<font size="2"><p style="text-align: center">Fonte: [Giovana Fontes ](https://github.com/GiovanaFontesS)</p></font>
+<font size="2"><p style="text-align: center">Autor: [Seu nome ](https://github.com/seu-usuario)</p></font>
 
-## [US05](#) – Validação da Carteira Digital em Estabelecimentos
+### <a name="h05"></a> História 05: Permitir que o Jovem Beneficiário visualize o histórico de utilização dos benefícios 
+
 <font size="3"><p style="text-align: center">Tabela 5: US05</p></font>
 
 | **ID** | [US05](#) |
-|--------|------|
-| **Rastreabilidade** | [RF05](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf05) |
-| **Tema** | Validação da Carteira Digital |
-| **Descrição** | Permitir que o sistema valide a carteira digital do usuário em estabelecimentos conveniados de forma rápida e segura. |
-| **Critérios de Aceitação** | - Usuário apresenta a carteira digital para validação.<br>- Sistema confirma a autenticidade da carteira.<br>- Estabelecimento recebe confirmação de validação.<br>- Mensagens de erro são exibidas em caso de falha na validação. |
-| **Prioridade Usuário** | Alta |
-| **Status** | Validada pelo usuário |
-| **Autor** | [Giovana Fontes](https://github.com/GiovanaFontesS) |
+|--------|-------|
+| **Rastreabilidade** | [RF12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf12) |
+| **Tema** | Permitir que o Jovem Beneficiário visualize o histórico de utilização dos benefícios  |
+| **Descrição** | Eu, como Jovem Beneficiário, desejo visualizar um histórico de onde e quando utilizei meus benefícios (como viagens interestaduais e meia-entrada), para poder acompanhar meu uso e ter um registro das minhas atividades. |
+| **Critérios de Aceitação** | - O histórico deve exibir uma lista cronológica das utilizações. 
+|                             |  - Cada item da lista deve detalhar o tipo de benefício usado (ex: Meia-entrada, Vaga gratuita em transporte). 
+|                             | - Cada item deve registrar a data e, se possível, a empresa ou evento onde foi utilizado. 
+|                             | - O histórico deve ser de fácil acesso a partir do menu principal ou do perfil do jovem beneficiário. |
+| **Prioridade Usuário** | média |
+| **Status** | Aguardando validação |
+| **Autor** | [Dylan Cavalcante](https://github.com/dylancavalcante) |
 
-<font size="2"><p style="text-align: center">Fonte: [Giovana Fontes ](https://github.com/GiovanaFontesS)</p></font>
+<font size="2"><p style="text-align: center">Autor: [Dylan Cavalcante](https://github.com/dylancavalcante)</p></font>
 
+### <a name="h06"></a> História 06: Seção de "Vantagens e Parcerias" com novidades, divulgação sobre o programa e ofertas exclusivas 
+
+<font size="3"><p style="text-align: center">Tabela 6: US06</p></font>
+
+| **ID** | [US06](#) |
+|--------|-------|
+| **Rastreabilidade** | [RF13](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf13) |
+| **Tema** | Seção de "Vantagens e Parcerias" com novidades, divulgação sobre o programa e ofertas exclusivas |
+| **Descrição** | Eu, como Jovem Beneficiário, desejo acessar uma seção de "Vantagens e Parcerias" para descobrir novidades sobre o programa, cursos profissionalizantes, e ofertas exclusivas de parceiros. |
+| **Critérios de Aceitação** | - A seção deve ser claramente visível no menu principal do aplicativo. 
+|                             | - O conteúdo deve ser dividido em categorias (ex: 'Novidades do Programa', 'Cursos e Capacitação', 'Ofertas de Parceiros'). 
+|                             | - O conteúdo deve ser atualizado regularmente. 
+|                             | - As ofertas e notícias devem ser relevantes para o público do ID Jovem. |
+| **Prioridade Usuário** | média|
+| **Status** | Aguardando validação |
+| **Autor** | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+
+<font size="2"><p style="text-align: center">Autor: [Dylan Cavalcante](https://github.com/dylancavalcante)</p></font>
+
+### <a name="h07"></a> História 07: Permitir compartilhar a carteirinha em PDF ou imagem
+
+<font size="3"><p style="text-align: center">Tabela 7: US07</p></font>
+
+| **ID** | [US07](#) |
+|--------|-------|
+| **Rastreabilidade** | [RF17](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf17) |
+| **Tema** |  |
+| **Descrição** |  |
+| **Critérios de Aceitação** |  |
+| **Prioridade Usuário** |  |
+| **Status** |  |
+| **Autor** | [Seu nome](https://github.com/seu-usuario) |
+
+<font size="2"><p style="text-align: center">Autor: [Seu nome ](https://github.com/seu-usuario)</p></font>
+
+### <a name="h08"></a> História 08: Fornecer informações sobre pendências ou erros relacionados aos benefícios do jovem beneficiário
+
+<font size="3"><p style="text-align: center">Tabela 8: US08</p></font>
+
+| **ID** | [US08](#) |
+|--------|-------|
+| **Rastreabilidade** | [RF18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf18) |
+| **Tema** |  |
+| **Descrição** |  |
+| **Critérios de Aceitação** |  |
+| **Prioridade Usuário** |  |
+| **Status** |  |
+| **Autor** | [Seu nome](https://github.com/seu-usuario) |
+
+<font size="2"><p style="text-align: center">Autor: [Seu nome ](https://github.com/seu-usuario)</p></font>
+
+### <a name="h09"></a> História 09: Permitir que o jovem beneficiário atualize seu cadastro e defina preferências pessoais 
+
+<font size="3"><p style="text-align: center">Tabela 9: US09</p></font>
+
+| **ID** | [US09](#) |
+|--------|-------|
+| **Rastreabilidade** | [RF19](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf19) |
+| **Tema** |  |
+| **Descrição** |  |
+| **Critérios de Aceitação** |  |
+| **Prioridade Usuário** |  |
+| **Status** |  |
+| **Autor** | [Seu nome](https://github.com/seu-usuario) |
+
+<font size="2"><p style="text-align: center">Autor: [Seu nome ](https://github.com/seu-usuario)</p></font>
+
+### <a name="h10"></a> História 10: Fornecer alertas sobre possíveis irregularidades no uso dos benefícios 
+
+<font size="3"><p style="text-align: center">Tabela 10: US10</p></font>
+
+| **ID** | [US10](#) |
+|--------|-------|
+| **Rastreabilidade** | [RF20](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf20) |
+| **Tema** |  |
+| **Descrição** |  |
+| **Critérios de Aceitação** |  |
+| **Prioridade Usuário** |  |
+| **Status** |  |
+| **Autor** | [Seu nome](https://github.com/seu-usuario) |
+
+<font size="2"><p style="text-align: center">Autor: [Seu nome ](https://github.com/seu-usuario)</p></font>
+
+### <a name="h11"></a> História 11: Possuir um mapa interativo para visualizar geograficamente parceiros e eventos
+
+<font size="3"><p style="text-align: center">Tabela 11: US11</p></font>
+
+| **ID** | [US11](#) |
+|--------|-------|
+| **Rastreabilidade** | [RF21](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf21) |
+| **Tema** |  |
+| **Descrição** |  |
+| **Critérios de Aceitação** |  |
+| **Prioridade Usuário** |  |
+| **Status** |  |
+| **Autor** | [Seu nome](https://github.com/seu-usuario) |
+
+<font size="2"><p style="text-align: center">Autor: [Seu nome ](https://github.com/seu-usuario)</p></font>
+
+### <a name="h12"></a> História 12: Apresentar uma agenda integrada de eventos com filtros de busca 
+
+<font size="3"><p style="text-align: center">Tabela 12: US12</p></font>
+
+| **ID** | [US12](#) |
+|--------|-------|
+| **Rastreabilidade** | [RF22](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf22) |
+| **Tema** |  |
+| **Descrição** |  |
+| **Critérios de Aceitação** |  |
+| **Prioridade Usuário** |  |
+| **Status** |  |
+| **Autor** | [Seu nome](https://github.com/seu-usuario) |
+
+<font size="2"><p style="text-align: center">Autor: [Seu nome ](https://github.com/seu-usuario)</p></font>
+
+### <a name="h13"></a> História 13: Fornecer um canal para denúncia ou feedback sobre estabelecimentos que recusam o benefício
+
+<font size="3"><p style="text-align: center">Tabela 13: US13</p></font>
+
+| **ID** | [US13](#) |
+|--------|-------|
+| **Rastreabilidade** | [RF23](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf23) |
+| **Tema** |  |
+| **Descrição** |  |
+| **Critérios de Aceitação** |  |
+| **Prioridade Usuário** |  |
+| **Status** |  |
+| **Autor** | [Seu nome](https://github.com/seu-usuario) |
+
+<font size="2"><p style="text-align: center">Autor: [Seu nome ](https://github.com/seu-usuario)</p></font>
+
+### <a name="h14"></a> História 14: Permitir que o jovem beneficiário favorite eventos e estabelecimentos para consulta rápida 
+
+<font size="3"><p style="text-align: center">Tabela 14: US14</p></font>
+
+| **ID** | [US14](#) |
+|--------|-------|
+| **Rastreabilidade** | [RF24](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf24) |
+| **Tema** | Permitir que o jovem beneficiário favorite eventos e estabelecimentos para consulta rápida  |
+| **Descrição** | Eu, como Jovem Beneficiário, desejo salvar (favoritar) eventos e estabelecimentos parceiros do meu interesse para poder consultá-los rapidamente no futuro em uma lista dedicada. |
+| **Critérios de Aceitação** | - Deve haver um botão ou ícone (ex: estrela, coração) visível na página de detalhes de cada evento/estabelecimento para favoritá-lo. 
+|                             | - Deve existir uma seção "Meus Favoritos" no aplicativo, acessível pelo menu ou perfil do jovem beneficiário. 
+|                             | - Ao clicar no botão de favoritar, o item deve ser adicionado à lista "Meus Favoritos". 
+|                             | - O jovem beneficiário deve poder remover um item da lista de favoritos a qualquer momento. |
+| **Prioridade Usuário** | baixa |
+| **Status** | Aguardando validação |
+| **Autor** | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+
+<font size="2"><p style="text-align: center">Autor: [Dylan Cavalcante](https://github.com/dylancavalcante)</p></font>
 
 ##  Referências Bibliográficas
 
@@ -143,4 +367,4 @@ A história é validada com o Product Owner e a equipe, podendo ser ajustada ou 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--------|------|-----------|-----------|-------------|
 | 1.0 | 19/10/2025 | Criação do Documento: Introdução, Metodologia, justificativa de uso e objetivo  | [Giovana Fontes](https://github.com/GiovanaFontesS) | [ Leticia ](https://github.com/leticialopes20) |
-| 1.1 | 19/10/2025 | Historia de usuario [US01](#), [US02](#), [US03](#), [US04](#), [US05](#) | [Giovana Fontes](https://github.com/GiovanaFontesS) | [ Leticia ](https://github.com/leticialopes20) |
+| 1.1 | 19/10/2025 | Historia de usuario [US05](#), [US06](#), [US14](#) | [Dylan Cavalcante](https://github.com/dylancavalcante) | [ Leticia ](https://github.com/leticialopes20) |

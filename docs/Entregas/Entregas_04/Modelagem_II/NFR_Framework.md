@@ -120,7 +120,7 @@ Essa identificação foi baseada em entrevistas com stakeholders, análise de me
 
 ### 2. Modelagem com o NFR Framework
 
-A modelagem foi realizada utilizando a notação proposta por [*Chung et al. (2000)*](https://aprender3.unb.br/pluginfile.php/3096155/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf), representando os softgoals em uma estrutura hierárquica com relacionamentos de contribuição entre eles. Foram utilizados os seguintes tipos de contribuição:
+A modelagem foi realizada utilizando a notação proposta por [*Chung et al. (2000)*](), representando os softgoals em uma estrutura hierárquica com relacionamentos de contribuição entre eles. Foram utilizados os seguintes tipos de contribuição:
 
 - **MAKE (++)**
 - **HELP (+)**
@@ -165,7 +165,7 @@ A Tabela 1 ilustra o modelo adotado para a elaboração dos cartões de especifi
 </table>
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj) </p></font>
 
 
 O cartão facilitou a **rastreabilidade, clareza e consistência** das informações, além de permitir uma análise comparativa entre alternativas e apoiar a comunicação com os stakeholders durante a modelagem dos requisitos.

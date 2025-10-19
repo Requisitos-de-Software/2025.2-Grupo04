@@ -142,5 +142,5 @@ A história é validada com o Product Owner e a equipe, podendo ser ajustada ou 
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--------|------|-----------|-----------|-------------|
-| 1.0 | 19/10/2025 | Criação do Documento: Introdução, Metodologia e Backlog  | [Giovana Fontes](https://github.com/GiovanaFontesS) | [ Leticia ](https://github.com/leticialopes20) |
+| 1.0 | 19/10/2025 | Criação do Documento: Introdução, Metodologia, justificativa de uso e objetivo  | [Giovana Fontes](https://github.com/GiovanaFontesS) | [ Leticia ](https://github.com/leticialopes20) |
 | 1.1 | 19/10/2025 | Historia de usuario [US01](#), [US02](#), [US03](#), [US04](#), [US05](#) | [Giovana Fontes](https://github.com/GiovanaFontesS) | [ Leticia ](https://github.com/leticialopes20) |

@@ -43,6 +43,7 @@ A história é validada com o Product Owner e a equipe, podendo ser ajustada ou 
 <th>Nome</th>
 <th>Data</th>
 <th>Hora</th>
+<th>Histórias</th>
 </tr>
 </thead>
 <tbody>
@@ -50,31 +51,37 @@ A história é validada com o Product Owner e a equipe, podendo ser ajustada ou 
 <td><a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></td>
 <td>00/10/2025</td>
 <td>00:00</td>
+<td><a href="#h0X">USXX</a> e <a href="#h0X">USXX</a></td>
 </tr>
 <tr>
 <td><a href="https://github.com/BrenoLTeixeira">Breno Teixeira</a></td>
 <td>00/10/2025</td>
 <td>00:00</td>
+<td><a href="#h0X">USXX</a> e <a href="#h0X">USXX</a></td>
 </tr>
 <tr>
 <td><a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></td>
 <td>19/10/2025</td>
 <td>19:08</td>
+<td><a href="#h05">US05</a>, <a href="#h06">US06</a> e <a href="#h14">US14</a></td>
 </tr>
 <tr>
 <td><a href="https://github.com/eduardar0">Eduarda Domingos</a></td>
 <td>00/10/2025</td>
 <td>00:00</td>
+<td><a href="#h0X">USXX</a> e <a href="#h0X">USXX</a></td>
 </tr>
 <tr>
 <td><a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></td>
-<td>00/10/2025</td>
-<td>00:00</td>
+<td>20/10/2025</td>
+<td>07:23</td>
+<td><a href="#h07">US07</a> e <a href="#h08">US08</a></td>
 </tr>
 <tr>
 <td><a href="https://github.com/leticialopes20">Letícia Lopes</a></td>
 <td>00/10/2025</td>
 <td>00:00</td>
+<td><a href="#h0X">USXX</a>, <a href="#h0X">USXX</a> e <a href="#h0X">USXX</a></td>
 </tr>
 </tbody>
 </table>

@@ -52,8 +52,8 @@ A história é validada com o Product Owner e a equipe, podendo ser ajustada ou 
     <tr>
       <td align="center"><a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></td>
       <td align="center"><a href="#h10">US10</a>, <a href="#h11">US11</a></td>
-      <td align="center">00/10/2025</td>
-      <td align="center">00:00</td>
+      <td align="center">20/10/2025</td>
+      <td align="center">19:46</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/BrenoLTeixeira">Breno Teixeira</a></td>
@@ -269,37 +269,39 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 | **Status** | Aguardando validação |
 | **Autor** | [Breno Teixeira](https://github.com/BrenoLTeixeira) |
 
-<font size="2"><p style="text-align: center">Fonte: [Breno Teixeira](https://github.com/BrenoLTeixeira)</p></font>
-
-### <a name="h10"></a> **História 10: Fornecer alertas sobre possíveis irregularidades no uso dos benefícios** <font size="3"><p style="text-align: center">Tabela 12: História de fornecimento de alertas sobre possíveis irregularidades no uso dos benefícios</p></font>
+### <a name="h10"></a> **História 10: Fornecer alertas sobre possíveis irregularidades no uso dos benefícios**  
+<font size="3"><p style="text-align: center">Tabela 12: História de fornecimento de alertas sobre possíveis irregularidades no uso dos benefícios</p></font>
 
 | **ID** | US10 |
 |--------|-------|
 | **Rastreabilidade** | [RF20](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf20) |
-| **Tema** |  |
-| **Descrição** |  |
-| **Critérios de Aceitação** |  |
-| **Prioridade Usuário** |  |
-| **Status** |  |
-| **Autor** | [Seu nome](https://github.com/seu-usuario) |
+| **Tema** | Segurança e Conformidade no uso de benefícios |
+| **Descrição** | Eu, como Jovem Beneficiário, desejo receber alertas sobre possíveis irregularidades no uso dos meus benefícios, para que eu possa evitar problemas legais e garantir que estou utilizando corretamente meus direitos. |
+| **Critérios de Aceitação** | - O sistema deve identificar padrões de uso incorreto ou suspeito.<br>- Alertas devem ser enviados via aplicativo ou e-mail em tempo real.<br>- Cada alerta deve conter instruções claras sobre como regularizar a situação.<br>- O sistema deve evitar falsos positivos em mais de 5% dos casos. |
+| **Prioridade Usuário** | Alta |
+| **Status** | Aguardando validação |
+| **Autor** | [Arthur Fernandes](https://github.com/arthurfernandesj) |
 
-<font size="2"><p style="text-align: center">Fonte: [Seu nome ](https://github.com/seu-usuario)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj)</p></font>
 
-### <a name="h11"></a> **História 11: Possuir um mapa interativo para visualizar geograficamente parceiros e eventos**
+---
 
+### <a name="h11"></a> **História 11: Possuir um mapa interativo para visualizar geograficamente parceiros e eventos**  
 <font size="3"><p style="text-align: center">Tabela 13: História de visualização de parceiros e eventos geograficamente por mapa interativo</p></font>
 
 | **ID** | US11 |
 |--------|-------|
 | **Rastreabilidade** | [RF21](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf21) |
-| **Tema** |  |
-| **Descrição** |  |
-| **Critérios de Aceitação** |  |
-| **Prioridade Usuário** |  |
-| **Status** |  |
-| **Autor** | [Seu nome](https://github.com/seu-usuario) |
+| **Tema** | Usabilidade e Visualização de Benefícios |
+| **Descrição** | Eu, como Jovem Beneficiário, desejo visualizar parceiros e eventos em um mapa interativo, para localizar facilmente onde posso utilizar meus benefícios e participar de atividades do programa. |
+| **Critérios de Aceitação** | - O mapa deve exibir todos os parceiros e eventos cadastrados.<br>- Deve ser possível filtrar por tipo de benefício, data ou localidade.<br>- Clicar em um ponto do mapa deve exibir informações detalhadas sobre o parceiro ou evento.<br>- O mapa deve ser responsivo e funcionar corretamente em dispositivos móveis. |
+| **Prioridade Usuário** | Média |
+| **Status** | Aguardando validação |
+| **Autor** | [Arthur Fernandes](https://github.com/arthurfernandesj) |
 
-<font size="2"><p style="text-align: center">Fonte: [Seu nome ](https://github.com/seu-usuario)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Arthur](https://github.com/arthurfernandesj)</p></font>
+
+
 
 ### <a name="h12"></a> **História 12: Apresentar uma agenda integrada de eventos com filtros de busca** <font size="3"><p style="text-align: center">Tabela 14: História de apresentação de uma agenda integrada de eventos com filtros de busca</p></font>
 
@@ -361,3 +363,4 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 | 1.3 | 20/10/2025 |Adição das Historias de usuario [US01](#h01), [US02](#h02), [US12](#h12), refatoração do documento/edição de  hiperlinks| [ Letícia Lopes](https://github.com/leticialopes20)| [Dylan Cavalcante](https://github.com/dylancavalcante) |  
 | 1.4 | 20/10/2025 |Adição das Historias de usuario [US03](#h03), [US04](#h04)|[Eduarda Rodrigues](https://github.com/eduardar0)| [Dylan Cavalcante](https://github.com/dylancavalcante) |
 | 1.5 | 20/10/2025 | Adição das Histórias de Usuário [US09](#h09) e [US13](#h13) | [Breno Teixeira](https://github.com/BrenoLTeixeira) | [Eduarda Rodrigues](https://github.com/eduardar0) |
+| 1.6 | 20/10/2025 | Adição das Histórias de Usuário [US10](#h09) e [US11](#h13) | [Arthur Fernandes](https://github.com/arthurfernandesj) | [ Letícia Lopes](https://github.com/leticialopes20) |

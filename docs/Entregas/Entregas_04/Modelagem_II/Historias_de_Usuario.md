@@ -70,8 +70,8 @@ A história é validada com o Product Owner e a equipe, podendo ser ajustada ou 
     <tr>
       <td align="center"><a href="https://github.com/eduardar0">Eduarda Domingos</a></td>
       <td align="center"><a href="#h03">US03</a>, <a href="#h04">US04</a></td>
-      <td align="center">00/10/2025</td>
-      <td align="center">00:00</td>
+      <td align="center">20/10/2025</td>
+      <td align="center">16:30</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></td>
@@ -373,3 +373,4 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 | 1.1 | 19/10/2025 | Adição das Historias de usuario [US05](#h05), [US06](#h06), [US14](#h14) | [Dylan Cavalcante](https://github.com/dylancavalcante) | [ Letícia Lopes](https://github.com/leticialopes20) |
 | 1.2 | 20/10/2025 | Adição das Historias de usuario [US07](#h07) e [US08](#h08) | [Giovana Fontes](https://github.com/GiovanaFontesS) | [ Letícia Lopes](https://github.com/leticialopes20) |  
 | 1.3 | 20/10/2025 |Adição das Historias de usuario [US01](#h01), [US02](#h02), [US12](#h12), refatoração do documento/edição de  hiperlinks| [ Letícia Lopes](https://github.com/leticialopes20)| [Dylan Cavalcante](https://github.com/dylancavalcante) |  
+| 1.4 | 20/10/2025 |Adição das Historias de usuario [US03](#h03), [US04](#h04)|[Eduarda Rodrigues](https://github.com/eduardar0)| [Dylan Cavalcante](https://github.com/dylancavalcante) |  

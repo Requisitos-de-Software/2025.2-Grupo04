@@ -246,8 +246,8 @@ Essa validação assegurou que os requisitos não funcionais fossem não apenas 
     </tr>
     <tr>
       <td><a href="https://github.com/leticialopes20">Letícia Lopes</a></td>
-      <td>xx/10/2025</td>
-      <td>00:00</td>
+      <td>20/10/2025</td>
+      <td>19:30</td>
     </tr>
   </tbody>
 </table>
@@ -705,6 +705,11 @@ Essa validação assegurou que os requisitos não funcionais fossem não apenas 
 <font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/brenolteixeira">Breno Lourenço </a></p></font>
 
 
+
+
+
+
+
 ## Referências Bibliográficas
 
 > 1.</a> SILVA, Reinaldo Antônio da. NFR4ES: um catálogo de requisitos não-funcionais para sistemas embarcados. 2019. 154 f. Dissertação (Mestrado em Ciência da Computação) – Universidade Federal de Pernambuco, Recife, 2019.
@@ -718,4 +723,5 @@ Essa validação assegurou que os requisitos não funcionais fossem não apenas 
 | `1.0` | 19/10/2025 | Criação inicial do documento de NFR | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Dylan Cavalvante ](https://github.com/dylancavalcante) |
 | `1.1` | 19/10/2025 | Adição de Cartões de Especificação [RNF06](#RNF06), [RNF07](#RNF07), [RNF08](#RNF08)  | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Dylan Cavalvante ](https://github.com/dylancavalcante) |
 |`1.2` | 20/10/2025 |Adição de Cartões de Especificação [RNF10](#RNF10), [RNF11](#RNF11), [RNF12](#RNF12)  | [Giovana Fontes](https://github.com/GiovanaFontesS) |[Letícia Lopes](https://github.com/leticialopes20)
-|`1.3` | 20/10/2025 | Adição de tabelas para todos os RNFS, adição de todos os RNFS na tabela 3, adição de hiperlinks na página | [Letícia Lopes](https://github.com/leticialopes20) | [Arthur Fernandes](https://github.com/arthurfernandesj)
+|`1.3` | 20/10/2025 | Adição de todos os RNFS na tabela 3, adição de hiperlinks na página | [Letícia Lopes](https://github.com/leticialopes20) | [Arthur Fernandes](https://github.com/arthurfernandesj)
+|`1.4` | 20/10/2025 | Adição de Cartões de Especificação [RNF13](#RNF13), [RNF14](#RNF14), [RNF15](#RNF15) | [Letícia Lopes](https://github.com/leticialopes20) | [Arthur Fernandes](https://github.com/arthurfernandesj)

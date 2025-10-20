@@ -171,15 +171,15 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 
 | **ID** | US03 |
 |--------|-------|
-| **Rastreabilidade** | [RF10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf10) |
-| **Tema** |  |
-| **Descrição** |  |
-| **Critérios de Aceitação** |  |
-| **Prioridade Usuário** |  |
-| **Status** |  |
-| **Autor** | [Seu nome](https://github.com/seu-usuario) |
+| **Rastreabilidade** | [RF10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf10) ([ENT05](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/), [BS08](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/)) |
+| **Tema** | Consulta de Parceiros |
+| **Descrição** | Como jovem beneficiário, eu quero consultar os locais e parceiros que aceitam o ID Jovem, para saber onde posso utilizar meus benefícios de forma prática e planejada.  |
+| **Critérios de Aceitação** | -Usuário consegue acessar a lista de parceiros <br>- Sistema exibe informações completas dos estabelecimentos (nome, endereço, horário)<br> - Funcionalidade funciona em dispositivos móveis<br>- Busca por localização ou categoria disponível<br>- Informações atualizadas e precisas|
+| **Prioridade Usuário** |Alta  |
+| **Status** | Aguardadando validação |
+| **Autor** | [Eduarda](https://github.com/eduardar0) |
 
-<font size="2"><p style="text-align: center">Fonte: [Seu nome ](https://github.com/seu-usuario)</p></font>
+<font size="2"><p style="text-align: center">Fonte:[Eduarda](https://github.com/eduardar0)</p></font>
 
 ### <a name="h04"></a> **História 04: Fornecer canal de suporte via chat, e-mail ou formulário de contato**
 
@@ -188,14 +188,14 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 | **ID** | US04 |
 |--------|-------|
 | **Rastreabilidade** | [RF11](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf11) |
-| **Tema** |  |
-| **Descrição** |  |
-| **Critérios de Aceitação** |  |
-| **Prioridade Usuário** |  |
-| **Status** |  |
-| **Autor** | [Seu nome](https://github.com/seu-usuario) |
+| **Tema** | 	Canal de Suporte |
+| **Descrição** | Como usuário do ID Jovem, eu quero ter acesso a um canal de suporte eficiente, para resolver minhas dúvidas e problemas de forma rápida e satisfatória.  |
+| **Critérios de Aceitação** |- Usuário consegue acessar o canal de suporte <br>- Múltiplas opções disponíveis (chat, e-mail, formulário)<br>- Sistema fornece confirmação de recebimento<br>- Tempo de resposta dentro do esperado<br>- Funcionalidade funciona em dispositivos móveis<br>- Histórico de atendimento disponível  |
+| **Prioridade Usuário** | Alta  |
+| **Status** | Aguardando Validação |
+| **Autor** | [Eduarda](https://github.com/eduardar0) |
 
-<font size="2"><p style="text-align: center">Fonte: [Seu nome ](https://github.com/seu-usuario)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Eduarda](https://github.com/eduardar0)</p></font>
 
 ### <a name="h05"></a> **História 05: Permitir que o Jovem Beneficiário visualize o histórico de utilização dos benefícios** 
 

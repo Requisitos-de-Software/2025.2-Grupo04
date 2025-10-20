@@ -359,68 +359,66 @@ Essa validação assegurou que os requisitos não funcionais fossem não apenas 
 <font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj)</p></font>
 <div align="center">
 
-<font size="3"><p style="text-align: center"><b>Tabela 7:</b> Requisito Não Funcional – RNF10</p></font>
-
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 7:</b> Tempo de carregamento das páginas do site oficial</p></font>
 
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
   <tr><th colspan="2"><a name="RNF10"></a>Requisito Não Funcional – <a href="#rnf10">RNF10</a></th></tr>
-  <tr><td><strong>Classificação</strong></td><td></td></tr>
-  <tr><td><strong>Descrição</strong></td><td></td></tr>
-  <tr><td><strong>Justificativa</strong></td><td></td></tr>
-  <tr><td><strong>Origem do Requisito</strong></td><td></td></tr>
-  <tr><td><strong>Critério de Aceitação</strong></td><td></td></tr>
-  <tr><td><strong>Dependências</strong></td><td></td></tr>
-  <tr><td><strong>Prioridade</strong></td><td></td></tr>
-  <tr><td><strong>Conflitos</strong></td><td></td></tr>
-  <tr><td><strong>História</strong></td><td></td></tr>
+  <tr><td><strong>Classificação</strong></td><td>Desempenho</td></tr>
+  <tr><td><strong>Descrição</strong></td><td>O tempo de carregamento das páginas do site oficial não deve exceder 3 segundos em conexões de internet de baixa velocidade.</td></tr>
+  <tr><td><strong>Justificativa</strong></td><td>Garantir uma boa experiência ao usuário, mesmo com conexões limitadas, aumentando a acessibilidade do sistema.</td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Analise_de_Documentos">ADD - Desempenho</a></td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td>As páginas devem carregar completamente em até 3 segundos em conexões de até 2 Mbps.</td></tr>
+  <tr><td><strong>Dependências</strong></td><td>Otimização de imagens, cache de navegador e compressão de arquivos.</td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>8</td></tr>
+  <tr><td><strong>Conflitos</strong></td><td>Recursos gráficos muito pesados podem impactar o desempenho.</td></tr>
+  <tr><td><strong>História</strong></td><td>20/10/2025</td></tr>
 </table>
 </center>
 
 </div>
-
 <font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></p></font>
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 8:</b> Requisito Não Funcional – RNF11</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 8:</b> Sincronização de informações sobre os benefícios</p></font>
 
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
   <tr><th colspan="2"><a name="RNF11"></a>Requisito Não Funcional – <a href="#rnf11">RNF11</a></th></tr>
-  <tr><td><strong>Classificação</strong></td><td></td></tr>
-  <tr><td><strong>Descrição</strong></td><td></td></tr>
-  <tr><td><strong>Justificativa</strong></td><td></td></tr>
-  <tr><td><strong>Origem do Requisito</strong></td><td></td></tr>
-  <tr><td><strong>Critério de Aceitação</strong></td><td></td></tr>
-  <tr><td><strong>Dependências</strong></td><td></td></tr>
-  <tr><td><strong>Prioridade</strong></td><td></td></tr>
-  <tr><td><strong>Conflitos</strong></td><td></td></tr>
-  <tr><td><strong>História</strong></td><td></td></tr>
+  <tr><td><strong>Classificação</strong></td><td>Confiabilidade</td></tr>
+  <tr><td><strong>Descrição</strong></td><td>O aplicativo deve garantir que as informações sobre os benefícios estejam 100% sincronizadas com a base de dados oficial.</td></tr>
+  <tr><td><strong>Justificativa</strong></td><td>Evita inconsistências e garante que o usuário sempre tenha acesso a informações oficiais e atualizadas.</td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Analise_de_Documentos">ADD - Confiabilidade</a></td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td>As informações devem ser atualizadas automaticamente a cada modificação na base oficial, com atraso máximo de 5 minutos.</td></tr>
+  <tr><td><strong>Dependências</strong></td><td>API oficial de dados e conexão estável com o servidor governamental.</td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>9</td></tr>
+  <tr><td><strong>Conflitos</strong></td><td>Possíveis atrasos em caso de falha de rede ou servidor instável.</td></tr>
+  <tr><td><strong>História</strong></td><td>20/10/2025</td></tr>
 </table>
 </center>
 
 </div>
-
 <font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></p></font>
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 9:</b> Requisito Não Funcional – RNF12</p></font>
-
+<font size="3"><p style="text-align: center"><b>Tabela 9:</b> Compatibilidade com versões anteriores de navegadores e sistemas operacionais</p></font>
 
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
   <tr><th colspan="2"><a name="RNF12"></a>Requisito Não Funcional – <a href="#rnf12">RNF12</a></th></tr>
-  <tr><td><strong>Classificação</strong></td><td></td></tr>
-  <tr><td><strong>Descrição</strong></td><td></td></tr>
-  <tr><td><strong>Justificativa</strong></td><td></td></tr>
-  <tr><td><strong>Origem do Requisito</strong></td><td></td></tr>
-  <tr><td><strong>Critério de Aceitação</strong></td><td></td></tr>
-  <tr><td><strong>Dependências</strong></td><td></td></tr>
-  <tr><td><strong>Prioridade</strong></td><td></td></tr>
-  <tr><td><strong>Conflitos</strong></td><td></td></tr>
-  <tr><td><strong>História</strong></td><td></td></tr>
+  <tr><td><strong>Classificação</strong></td><td>Suportabilidade</td></tr>
+  <tr><td><strong>Descrição</strong></td><td>O sistema deve ser compatível com as duas versões anteriores dos principais navegadores web e sistemas operacionais móveis.</td></tr>
+  <tr><td><strong>Justificativa</strong></td><td>Garante que usuários com dispositivos mais antigos também consigam acessar e utilizar o sistema sem limitações.</td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Analise_de_Documentos">ADD - Suportabilidade</a></td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td>Compatibilidade confirmada com as duas versões anteriores de navegadores (Chrome, Firefox, Safari) e sistemas Android/iOS.</td></tr>
+  <tr><td><strong>Dependências</strong></td><td>Bibliotecas responsivas e testes de compatibilidade entre plataformas.</td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>7</td></tr>
+  <tr><td><strong>Conflitos</strong></td><td>Novas funcionalidades podem ser limitadas por compatibilidade retroativa.</td></tr>
+  <tr><td><strong>História</strong></td><td>20/10/2025</td></tr>
 </table>
 </center>
+
 
 </div>
 

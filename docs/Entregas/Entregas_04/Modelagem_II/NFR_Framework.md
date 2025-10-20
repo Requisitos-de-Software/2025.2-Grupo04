@@ -225,9 +225,9 @@ Essa validação assegurou que os **requisitos não funcionais** fossem não ape
       <td>19:30</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/"></a></td>
-      <td>xx/10/2025</td>
-      <td>00:00</td>
+      <td><a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></td>
+      <td>20/10/2025</td>
+      <td>07:10</td>
     </tr>
     <tr>
       <td><a href="https://github.com/"> </a></td>
@@ -262,8 +262,8 @@ Essa validação assegurou que os **requisitos não funcionais** fossem não ape
 | **Código** | **Versão** | **Descrição**                                                                                          | **Origem** |
 |------------|------------|--------------------------------------------------------------------------------------------------------|------------|
 | RNF01 | 1.0 | O aplicativo deve ser intuitivo e de fácil uso, mesmo para jovens com pouca experiência digital. | ENT17 |
-| RNF-- | 1.0 | --------------------------|  |
-| RNF-- | 1.0 | -------------------------- |  |
+| RNF02 | 1.0 | A interface deve ser intuitiva, acessível, com layout claro e legível, mesmo para jovens com pouca experiência digital.| ENT16, ENT20, ENT21 |
+| RNF03 | 1.0 | 	A emissão da carteira deve ocorrer em até 5 segundos após a solicitação. | RNF-PER-01 |
 | RNF-- | 1.0 | -------------------------- | |
 | RNF-- | 1.0 | --------------------------|  |
 | RNF-- | 1.0 | -------------------------- |  |
@@ -331,6 +331,53 @@ Essa validação assegurou que os **requisitos não funcionais** fossem não ape
 
 <font size="2"><p style="text-align: center">Autor: [Arthur Fernandes](https://github.com/arthurfernandesj)</p></font>
 
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 11:</b> Requisito Não Funcional – RNF02</p></font>
+
+<a name="RNF02"></a>
+
+<center>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2">Requisito Não Funcional – RNF02</th></tr>
+  <tr><td><strong>Classificação</strong></td><td>Usabilidade / Acessibilidade</td></tr>
+  <tr><td><strong>Descrição</strong></td><td>A interface deve ser intuitiva, acessível, com layout claro e legível, mesmo para jovens com pouca experiência digital.</td></tr>
+  <tr><td><strong>Justificativa</strong></td><td>Garantir que o aplicativo possa ser utilizado por todos os jovens, independentemente do nível de familiaridade com tecnologia, promovendo inclusão digital.</td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td>ID Jovem</td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td>Usuários com pouca experiência digital devem conseguir navegar e executar as principais funções sem dificuldades ou suporte adicional.</td></tr>
+  <tr><td><strong>Dependências</strong></td><td>Design da interface, componentes visuais, diretrizes de acessibilidade e testes de usabilidade.</td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>9</td></tr>
+  <tr><td><strong>Conflitos</strong></td><td>Nenhum</td></tr>
+  <tr><td><strong>História</strong></td><td>20/10/2025</td></tr>
+</table>
+</center>
+
+</div>
+
+<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></p></font>
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 12:</b> Requisito Não Funcional – RNF03</p></font>
+
+<a name="RNF03"></a>
+
+<center>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2">Requisito Não Funcional – RNF03</th></tr>
+  <tr><td><strong>Classificação</strong></td><td>Desempenho</td></tr>
+  <tr><td><strong>Descrição</strong></td><td>A emissão da carteira deve ocorrer em até 5 segundos após a solicitação.</td></tr>
+  <tr><td><strong>Justificativa</strong></td><td>Reduzir o tempo de espera do usuário melhora a experiência e garante agilidade no uso do aplicativo.</td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td>ID Jovem</td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td>O tempo médio de resposta da funcionalidade de emissão deve ser ≤ 5 segundos em 95% das requisições testadas.</td></tr>
+  <tr><td><strong>Dependências</strong></td><td>Serviço de backend, conexão de rede e infraestrutura de servidores.</td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>10</td></tr>
+  <tr><td><strong>Conflitos</strong></td><td>Limitações de desempenho em redes instáveis podem impactar o tempo de resposta.</td></tr>
+  <tr><td><strong>História</strong></td><td>20/10/2025</td></tr>
+</table>
+</center>
+
+</div>
+
+<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></p></font>
 
 
 ## Referências Bibliográficas
@@ -340,3 +387,4 @@ Essa validação assegurou que os **requisitos não funcionais** fossem não ape
 | :----: | :--------: | :------------------: | :----------------------------------------------------------------------------------------: | :-------------------------------------------: |
 | `1.0` | 19/10/2025 | Criação inicial do documento de NFR | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Dylan Cavalvante ](https://github.com/dylancavalcante) |
 | `1.1` | 19/10/2025 |  | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Dylan Cavalvante ](https://github.com/dylancavalcante) |
+|`1.2` | 20/10/2025 | NRF RNF02 e RNF03 | [Giovana Fontes](https://github.com/GiovanaFontesS) | [Arthur Fernandes](https://github.com/arthurfernandesj)

@@ -175,7 +175,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 | **Tema** | Consulta de Parceiros |
 | **Descrição** | Como jovem beneficiário, eu quero consultar os locais e parceiros que aceitam o ID Jovem, para saber onde posso utilizar meus benefícios de forma prática e planejada.  |
 | **Critérios de Aceitação** | -Usuário consegue acessar a lista de parceiros <br>- Sistema exibe informações completas dos estabelecimentos (nome, endereço, horário)<br> - Funcionalidade funciona em dispositivos móveis<br>- Busca por localização ou categoria disponível<br>- Informações atualizadas e precisas|
-| **Prioridade Usuário** |Alta  |
+| **Prioridade Usuário** |Média  |
 | **Status** | Aguardadando validação |
 | **Autor** | [Eduarda](https://github.com/eduardar0) |
 

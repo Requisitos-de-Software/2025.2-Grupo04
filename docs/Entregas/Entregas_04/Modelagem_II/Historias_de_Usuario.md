@@ -68,8 +68,8 @@ A história é validada com o Product Owner e a equipe, podendo ser ajustada ou 
 </tr>
 <tr>
 <td><a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></td>
-<td>00/10/2025</td>
-<td>00:00</td>
+<td>20/10/2025</td>
+<td>07:23</td>
 </tr>
 <tr>
 <td><a href="https://github.com/leticialopes20">Letícia Lopes</a></td>
@@ -230,32 +230,34 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 <font size="3"><p style="text-align: center">Tabela 7: US07</p></font>
 
 | **ID** | [US07](#) |
-|--------|-------|
+|--------|------------|
 | **Rastreabilidade** | [RF17](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf17) |
-| **Tema** |  |
-| **Descrição** |  |
-| **Critérios de Aceitação** |  |
-| **Prioridade Usuário** |  |
-| **Status** |  |
-| **Autor** | [Seu nome](https://github.com/seu-usuario) |
+| **Tema** | Compartilhamento da carteirinha digital |
+| **Descrição** | Eu, como Jovem Beneficiário, desejo compartilhar minha carteirinha digital em formato PDF ou imagem para apresentá-la facilmente em locais que exigem comprovação do benefício. |
+| **Critérios de Aceitação** | - O aplicativo deve permitir o download da carteirinha em formato PDF e imagem (JPEG ou PNG). <br> - O arquivo gerado deve conter todas as informações válidas do beneficiário. <br> - O compartilhamento deve ser possível por aplicativos de mensagem e e-mail. <br> - O processo de compartilhamento deve ocorrer em até 5 segundos após a solicitação. |
+| **Prioridade Usuário** | Alta |
+| **Status** | Aguardando validação |
+| **Autor** | [Giovana Fontes](https://github.com/GiovanaFontesS) |
 
-<font size="2"><p style="text-align: center">Autor: [Seu nome ](https://github.com/seu-usuario)</p></font>
+<font size="2"><p style="text-align: center">Autor: [Giovana Fontes](https://github.com/GiovanaFontesS)</p></font>
+
 
 ### <a name="h08"></a> História 08: Fornecer informações sobre pendências ou erros relacionados aos benefícios do jovem beneficiário
 
 <font size="3"><p style="text-align: center">Tabela 8: US08</p></font>
 
 | **ID** | [US08](#) |
-|--------|-------|
+|--------|------------|
 | **Rastreabilidade** | [RF18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf18) |
-| **Tema** |  |
-| **Descrição** |  |
-| **Critérios de Aceitação** |  |
-| **Prioridade Usuário** |  |
-| **Status** |  |
-| **Autor** | [Seu nome](https://github.com/seu-usuario) |
+| **Tema** | Exibição de pendências e erros nos benefícios |
+| **Descrição** | Eu, como Jovem Beneficiário, desejo visualizar informações sobre pendências ou erros relacionados aos meus benefícios, para compreender o motivo de possíveis bloqueios ou falhas na emissão da carteirinha. |
+| **Critérios de Aceitação** | - O aplicativo deve exibir mensagens claras quando houver pendências ou erros nos dados do beneficiário. <br> - As mensagens devem conter instruções sobre como resolver o problema (ex: atualizar cadastro, verificar documentação). <br> - O sistema deve diferenciar visualmente os tipos de erro (pendência documental, erro no sistema, dados inválidos etc.). <br> - As notificações devem ser acessíveis na tela principal do usuário. |
+| **Prioridade Usuário** | Alta |
+| **Status** | Aguardando validação |
+| **Autor** | [Giovana Fontes](https://github.com/GiovanaFontesS) |
 
-<font size="2"><p style="text-align: center">Autor: [Seu nome ](https://github.com/seu-usuario)</p></font>
+<font size="2"><p style="text-align: center">Autor: [Giovana Fontes](https://github.com/GiovanaFontesS)</p></font>
+
 
 ### <a name="h09"></a> História 09: Permitir que o jovem beneficiário atualize seu cadastro e defina preferências pessoais 
 
@@ -368,3 +370,4 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 |--------|------|-----------|-----------|-------------|
 | 1.0 | 19/10/2025 | Criação do Documento: Introdução, Metodologia, justificativa de uso e objetivo  | [Giovana Fontes](https://github.com/GiovanaFontesS) | [ Leticia ](https://github.com/leticialopes20) |
 | 1.1 | 19/10/2025 | Historia de usuario [US05](#), [US06](#), [US14](#) | [Dylan Cavalcante](https://github.com/dylancavalcante) | [ Leticia ](https://github.com/leticialopes20) |
+| 1.2 | 20/10/2025 | Historia de usuario [US07](#) e [US08](#) | [Giovana Fontes](https://github.com/GiovanaFontesS) | [Dylan Cavalcante](https://github.com/dylancavalcante) |  

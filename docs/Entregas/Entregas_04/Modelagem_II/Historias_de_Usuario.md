@@ -3,11 +3,11 @@
 As histórias de usuário são uma forma simples e ágil de representar requisitos funcionais de um sistema, descrevendo de maneira breve o que o usuário precisa que o software faça. Segundo **Vazquez e Simões (Engenharia de Requisitos)**, elas surgiram no contexto da Extreme Programming (XP) como uma unidade de funcionalidade que demonstra o progresso do projeto por meio da entrega de código testado e integrado. Cada história de usuário deve ser compreensível para o cliente, testável pelos desenvolvedores e pequena o suficiente para ser implementada dentro de uma iteração. Atualmente, essa técnica é amplamente utilizada em métodos ágeis, como o Scrum, em que o Product Owner é responsável por elaborá-las com base nas necessidades dos usuários. O uso de histórias de usuário promove a colaboração da equipe, facilita a priorização e garante que o valor entregue seja claro, embora não seja indicado para ambientes que exigem documentação extensa e formal.
 
 
-## Objetivo
+### Objetivo
 
 O principal objetivo das histórias de usuário no contexto do ID Jovem é traduzir as necessidades dos jovens beneficiários em funcionalidades claras e testáveis, garantindo que o aplicativo seja acessível, funcional e atenda aos requisitos de inclusão digital. Através delas, o time de desenvolvimento consegue priorizar entregas que realmente impactam a experiência do usuário, assegurando que cada iteração do projeto contribua para um produto final mais eficiente e alinhado às expectativas do público.
 
-## Justificativa de Uso
+### Justificativa de Uso
 
 O uso de histórias de usuário no desenvolvimento do aplicativo ID Jovem se justifica por se tratar de uma abordagem ágil, que permite compreender e documentar de forma simples as necessidades reais dos usuários do sistema — jovens que buscam acesso facilitado a benefícios culturais, esportivos e de transporte. Esse formato favorece a comunicação entre a equipe de desenvolvimento e o Product Owner, garantindo que cada funcionalidade desenvolvida tenha valor prático e direto para o público-alvo. Além disso, as histórias de usuário tornam o processo mais dinâmico e colaborativo, possibilitando ajustes contínuos conforme o feedback dos usuários e a evolução do projeto.
 
@@ -75,7 +75,10 @@ A história é validada com o Product Owner e a equipe, podendo ser ajustada ou 
 <td><a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></td>
 <td>20/10/2025</td>
 <td>07:23</td>
+<<<<<<< HEAD
 <td><a href="#h07">US07</a> e <a href="#h08">US08</a></td>
+=======
+>>>>>>> main
 </tr>
 <tr>
 <td><a href="https://github.com/leticialopes20">Letícia Lopes</a></td>
@@ -111,7 +114,7 @@ A história é validada com o Product Owner e a equipe, podendo ser ajustada ou 
 
 ## Tabela Padrão 
 
-A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das histórias de usuário do projeto. Ela padroniza os principais elementos necessários, como a descrição da necessidade, critérios de aceitação, prioridade, status de validação, entre outros. O objetivo é garantir consistência, rastreabilidade e clareza em todas as histórias documentadas.
+A tabela abaixo será utilizada como modelo para a elaboração das histórias de usuário do projeto. Ela padroniza os principais elementos necessários, como a descrição da necessidade, critérios de aceitação, prioridade, status de validação, entre outros. O objetivo é garantir consistência, rastreabilidade e clareza em todas as histórias documentadas.
 
 <font size="3"><p style="text-align: center">Tabela 1: Tabela de Padronização das Historia de usuário</p></font>
 
@@ -237,32 +240,34 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 <font size="3"><p style="text-align: center">Tabela 7: US07</p></font>
 
 | **ID** | [US07](#) |
-|--------|-------|
+|--------|------------|
 | **Rastreabilidade** | [RF17](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf17) |
-| **Tema** |  |
-| **Descrição** |  |
-| **Critérios de Aceitação** |  |
-| **Prioridade Usuário** |  |
-| **Status** |  |
-| **Autor** | [Seu nome](https://github.com/seu-usuario) |
+| **Tema** | Compartilhamento da carteirinha digital |
+| **Descrição** | Eu, como Jovem Beneficiário, desejo compartilhar minha carteirinha digital em formato PDF ou imagem para apresentá-la facilmente em locais que exigem comprovação do benefício. |
+| **Critérios de Aceitação** | - O aplicativo deve permitir o download da carteirinha em formato PDF e imagem (JPEG ou PNG). <br> - O arquivo gerado deve conter todas as informações válidas do beneficiário. <br> - O compartilhamento deve ser possível por aplicativos de mensagem e e-mail. <br> - O processo de compartilhamento deve ocorrer em até 5 segundos após a solicitação. |
+| **Prioridade Usuário** | Alta |
+| **Status** | Aguardando validação |
+| **Autor** | [Giovana Fontes](https://github.com/GiovanaFontesS) |
 
-<font size="2"><p style="text-align: center">Autor: [Seu nome ](https://github.com/seu-usuario)</p></font>
+<font size="2"><p style="text-align: center">Autor: [Giovana Fontes](https://github.com/GiovanaFontesS)</p></font>
+
 
 ### <a name="h08"></a> História 08: Fornecer informações sobre pendências ou erros relacionados aos benefícios do jovem beneficiário
 
 <font size="3"><p style="text-align: center">Tabela 8: US08</p></font>
 
 | **ID** | [US08](#) |
-|--------|-------|
+|--------|------------|
 | **Rastreabilidade** | [RF18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf18) |
-| **Tema** |  |
-| **Descrição** |  |
-| **Critérios de Aceitação** |  |
-| **Prioridade Usuário** |  |
-| **Status** |  |
-| **Autor** | [Seu nome](https://github.com/seu-usuario) |
+| **Tema** | Exibição de pendências e erros nos benefícios |
+| **Descrição** | Eu, como Jovem Beneficiário, desejo visualizar informações sobre pendências ou erros relacionados aos meus benefícios, para compreender o motivo de possíveis bloqueios ou falhas na emissão da carteirinha. |
+| **Critérios de Aceitação** | - O aplicativo deve exibir mensagens claras quando houver pendências ou erros nos dados do beneficiário. <br> - As mensagens devem conter instruções sobre como resolver o problema (ex: atualizar cadastro, verificar documentação). <br> - O sistema deve diferenciar visualmente os tipos de erro (pendência documental, erro no sistema, dados inválidos etc.). <br> - As notificações devem ser acessíveis na tela principal do usuário. |
+| **Prioridade Usuário** | Alta |
+| **Status** | Aguardando validação |
+| **Autor** | [Giovana Fontes](https://github.com/GiovanaFontesS) |
 
-<font size="2"><p style="text-align: center">Autor: [Seu nome ](https://github.com/seu-usuario)</p></font>
+<font size="2"><p style="text-align: center">Autor: [Giovana Fontes](https://github.com/GiovanaFontesS)</p></font>
+
 
 ### <a name="h09"></a> História 09: Permitir que o jovem beneficiário atualize seu cadastro e defina preferências pessoais 
 
@@ -375,3 +380,4 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 |--------|------|-----------|-----------|-------------|
 | 1.0 | 19/10/2025 | Criação do Documento: Introdução, Metodologia, justificativa de uso e objetivo  | [Giovana Fontes](https://github.com/GiovanaFontesS) | [ Leticia ](https://github.com/leticialopes20) |
 | 1.1 | 19/10/2025 | Historia de usuario [US05](#), [US06](#), [US14](#) | [Dylan Cavalcante](https://github.com/dylancavalcante) | [ Leticia ](https://github.com/leticialopes20) |
+| 1.2 | 20/10/2025 | Historia de usuario [US07](#) e [US08](#) | [Giovana Fontes](https://github.com/GiovanaFontesS) | [Dylan Cavalcante](https://github.com/dylancavalcante) |  

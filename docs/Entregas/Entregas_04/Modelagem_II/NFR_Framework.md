@@ -407,7 +407,7 @@ Essa validação assegurou que os requisitos não funcionais fossem não apenas 
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
   <tr><th colspan="2"><a name="RNF12"></a>Requisito Não Funcional – <a href="#rnf12">RNF12</a></th></tr>
-  <tr><td><strong>Classificação</strong></td><td>Suportabilidade</td></tr>
+  <tr><td><strong>Classificação</strong></td><td>Portabilidade</td></tr>
   <tr><td><strong>Descrição</strong></td><td>O sistema deve ser compatível com as duas versões anteriores dos principais navegadores web e sistemas operacionais móveis.</td></tr>
   <tr><td><strong>Justificativa</strong></td><td>Garante que usuários com dispositivos mais antigos também consigam acessar e utilizar o sistema sem limitações.</td></tr>
   <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Analise_de_Documentos">ADD - Suportabilidade</a></td></tr>
@@ -710,16 +710,24 @@ Essa validação assegurou que os requisitos não funcionais fossem não apenas 
 
 ## Referências Bibliográficas
 
-> 1.</a> SILVA, Reinaldo Antônio da. NFR4ES: um catálogo de requisitos não-funcionais para sistemas embarcados. 2019. 154 f. Dissertação (Mestrado em Ciência da Computação) – Universidade Federal de Pernambuco, Recife, 2019.
+> 1. SILVA, Reinaldo Antônio da. *NFR4ES: um catálogo de requisitos não-funcionais para sistemas embarcados.* 2019. 154 f. Dissertação (Mestrado em Ciência da Computação) – Universidade Federal de Pernambuco, Recife, 2019.  
+>
+> 2. CHUNG, Lawrence; NIXON, Brian A.; YU, Eric; MYLLOPULOS, John. *Non-functional requirements in software engineering.* Springer Science & Business Media, 2000.  
 
-> 2.</a> CHUNG, Lawrence; NIXON, Brian A.; YU, Eric; MYLLOPULOS, John. Non-functional requirements in software engineering. Springer Science & Business Media, 2000.
-
+---
 
 ## Histórico de Versão
+
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
-| :----: | :--------: | :------------------: | :----------------------------------------------------------------------------------------: | :-------------------------------------------: |
-| `1.0` | 19/10/2025 | Criação inicial do documento de NFR | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Dylan Cavalvante ](https://github.com/dylancavalcante) |
-| `1.1` | 19/10/2025 | Adição de Cartões de Especificação [RNF06](#RNF06), [RNF07](#RNF07), [RNF08](#RNF08)  | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Dylan Cavalvante ](https://github.com/dylancavalcante) |
-|`1.2` | 20/10/2025 |Adição de Cartões de Especificação [RNF10](#RNF10), [RNF11](#RNF11), [RNF12](#RNF12)  | [Giovana Fontes](https://github.com/GiovanaFontesS) |[Letícia Lopes](https://github.com/leticialopes20)
-|`1.3` | 20/10/2025 | Adição de todos os RNFS na tabela 3, adição de hiperlinks na página | [Letícia Lopes](https://github.com/leticialopes20) | [Arthur Fernandes](https://github.com/arthurfernandesj)
-|`1.4` | 20/10/2025 | Adição de Cartões de Especificação [RNF13](#RNF13), [RNF14](#RNF14), [RNF15](#RNF15) | [Letícia Lopes](https://github.com/leticialopes20) | [Arthur Fernandes](https://github.com/arthurfernandesj)
+|:------:|:----:|:-----------|:-----------|:-------------|
+| `1.0` | 19/10/2025 | Criação inicial do documento de NFR | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Dylan Cavalvante](https://github.com/dylancavalcante) |
+| `1.1` | 19/10/2025 | Adição de Cartões de Especificação [RNF06](#rnf06), [RNF07](#rnf07), [RNF08](#rnf08) | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Dylan Cavalvante](https://github.com/dylancavalcante) |
+| `1.2` | 20/10/2025 | Adição de Cartões de Especificação [RNF10](#rnf10), [RNF11](#rnf11), [RNF12](#rnf12) | [Giovana Fontes](https://github.com/GiovanaFontesS) | [Letícia Lopes](https://github.com/leticialopes20) |
+| `1.3` | 20/10/2025 | Adição de todos os RNFs na tabela 3, adição de hiperlinks na página | [Letícia Lopes](https://github.com/leticialopes20) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| `1.4` | 20/10/2025 | Adição de Cartões de Especificação [RNF13](#rnf13), [RNF14](#rnf14), [RNF15](#rnf15) | [Letícia Lopes](https://github.com/leticialopes20) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+
+---
+
+
+
+

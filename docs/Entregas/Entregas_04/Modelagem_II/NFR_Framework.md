@@ -225,35 +225,35 @@ Essa validação assegurou que os requisitos não funcionais fossem não apenas 
       <td>19:30</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/BrenoLTeixeira">Breno Lourenço</a></td>
+      <td>xx/10/2025</td>
+      <td>00:00</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></td>
+      <td>xx/10/2025</td>
+      <td>00:00</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/eduardar0">Eduarda Domingos</a></td>
+      <td>xx/10/2025</td>
+      <td>00:00</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></td>
       <td>20/10/2025</td>
       <td>07:10</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/"> </a></td>
-      <td>xx/10/2025</td>
-      <td>00:00</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/"></a></td>
-      <td>xx/10/2025</td>
-      <td>00:00</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/"></a></td>
-      <td>xx/10/2025</td>
-      <td>00:00</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/"></a></td>
-      <td>xx/10/2025</td>
-      <td>00:00</td>
+      <td><a href="https://github.com/leticialopes20">Letícia Lopes</a></td>
+      <td>20/10/2025</td>
+      <td>19:30</td>
     </tr>
   </tbody>
 </table>
 </div>
 
-<p style="text-align: center; font-size: 10pt;">Autor: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></p>
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></p>
 
 ### Requisitos Não-Funcionais
 
@@ -261,22 +261,26 @@ Essa validação assegurou que os requisitos não funcionais fossem não apenas 
 
 | Código | Versão | Descrição                                                                                          | Origem |
 |------------|------------|--------------------------------------------------------------------------------------------------------|------------|
-| RNF01 | 1.0 | O aplicativo deve ser intuitivo e de fácil uso, mesmo para jovens com pouca experiência digital. | ENT17 |
-| RNF02 | 1.0 | A interface deve ser intuitiva, acessível, com layout claro e legível, mesmo para jovens com pouca experiência digital.| ENT16, ENT20, ENT21 |
-| RNF03 | 1.0 | 	A emissão da carteira deve ocorrer em até 5 segundos após a solicitação. | RNF-PER-01 |
-| RNF-- | 1.0 | -------------------------- | |
-| RNF-- | 1.0 | --------------------------|  |
-| RNF-- | 1.0 | -------------------------- |  |
-| RNF-- | 1.0 |-------------------------- | |
-| RNF-- | 1.0 |-------------------------- |  |
-| RNF-- | 1.0 |-------------------------- |  |
-| RNF-- | 1.0 |-------------------------- | |
-| RNF-- | 1.0 |-------------------------- |  |
-| RNF-- | 1.0 | -------------------------- |  |
-| RNF-- | 1.0 | -------------------------- |  |
-| RNF-- | 1.0 | -------------------------- | |
+| <a name="rnf06"></a>[RNF06](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf06)  | 1.0 | O aplicativo deve funcionar com baixo consumo de internet e ser acessível em regiões carentes | [BS24](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming)|
+|<a name="rnf07"></a> [RNF07](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf07)  | 1.0 |	O aplicativo deve possuir recursos de acessibilidade (alto contraste, leitura de tela, voz e Libras)| [BS20](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming), [IDJ09](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/) |
+|<a name="rnf08"></a>[RNF08](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf08) | 1.0 | 	O sistema deve garantir disponibilidade mínima de 99,5% | [RNF-CON-01](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf08)  |
+|<a name="rnf10"></a>[RNF10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf10) | 1.0 | O tempo de carregamento das páginas do site oficial não deve exceder 3 segundos em conexões de internet de baixa velocidade | [ADD - Desempenho](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Analise_de_Documentos/) |
+|<a name="rnf11"></a>[RNF11](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf11) | 1.0 | O aplicativo deve garantir que as informações sobre os benefícios estejam 100% sincronizadas com a base de dados oficial|  [ADD - Confiabilidade](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Analise_de_Documentos/) |
+|<a name="rnf12"></a>[RNF12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf12) | 1.0 | O sistema deve ser compatível com as duas versões anteriores dos principais navegadores web e sistemas operacionais móveis|  [ADD - Suportabilidade](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Analise_de_Documentos/) |
+|<a name="rnf13"></a>[RNF13](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf13) | 1.0 |A navegação entre as seções do aplicativo deve ser consistente e previsível para o jovem beneficiário |  [ADD - Usabilidade](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Analise_de_Documentos/) |
+|<a name="rnf14"></a>[RNF14](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf14) | 1.0 |O aplicativo deve apresentar um feedback visual e sonoro claro para cada interação do jovem beneficiário | [BS26](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming) |
+|<a name="rnf15"></a>[RNF15](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf15) | 1.0 |	O sistema deve ter um tempo máximo de inatividade de 2 horas por mês, fora das janelas de manutenção programada |  [BS27](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming)  |
+|<a name="rnf16"></a>[RNF16](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf16) | 1.0 |	O tempo de resposta para validação da carteirinha (QR Code) não deve exceder 2 segundos |[BS28](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming) |
+|<a name="rnf17"></a>[RNF17](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf17) | 1.0 |A equipe de desenvolvimento deve disponibilizar atualizações de segurança e correções de bugs em um ciclo de, no máximo, 3 meses | [BS29](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming) |
+|<a name="rnf18"></a>[RNF18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf18) | 1.0 | O aplicativo deve permitir que o jovem beneficiário personalize o tamanho da fonte e o esquema de cores para melhorar a legibilidade	 | [IDJ18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/) |
+|<a name="rnf19"></a>[RNF19](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf19) | 1.0 |O sistema deve registrar todas as tentativas de validação da carteira, bem-sucedidas ou não, para fins de auditoria |  [IDJ19](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/)  |
+|<a name="rnf20"></a>[RNF20](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf20) | 1.0 | 	A consulta à elegibilidade do CadÚnico deve retornar o resultado em no máximo 3 segundos|  [IDJ20](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/) |
+|<a name="rnf21"></a>[RNF21](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf21) | 1.0 | 	O sistema deve ter capacidade de ser facilmente escalado para atender a um aumento de 50% no número de jovens beneficiários sem degradação do desempenho| [IDJ21](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/) |
+|<a name="rnf22"></a>[RNF22](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf22) | 1.0 | O sistema deve manter um log de auditoria de todas as emissões e validações de carteirinhas por 5 anos| [ST12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling/) |
+|<a name="rnf23"></a>[RNF23](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf23) | 1.0 | O aplicativo deve carregar as informações de eventos e parceiros em no máximo 3 segundos, mesmo com grande volume de dados | [ST13](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling/) |
+|<a name="rnf"></a>[RNF24](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf24) | 1.0 | O aplicativo deve ser compatível com a API mais recente e as duas versões anteriores do sistema operacional móvel |  [ST14](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling/)|
 
-<font size="2"><p style="text-align: center">Autor: [Arthur Fernandes](https://github.com/arthurfernandesj)</p></font>
+<font size="2"><p style="text-align: center">Fontes: [Letícia Lopes](https://github.com/leticialopes20) e [Arthur Fernandes](https://github.com/arthurfernandesj), 2025</p></font>
 
 
 
@@ -284,105 +288,426 @@ Essa validação assegurou que os requisitos não funcionais fossem não apenas 
 
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 9:</b> Requisito Não Funcional – ENT17</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Requisito Não Funcional – RNF06</p></font>
 
-<a name="ENT17"></a>
+
 
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
-  <tr><th colspan="2">Requisito Não Funcional – RFN01</th></tr>
+  <tr><th colspan="2"><a name="RNF06"></a>Requisito Não Funcional – <a href="#rnf06">RNF06</a></th></tr>
+  <tr><td><strong>Classificação</strong></td><td></td></tr>
+  <tr><td><strong>Descrição</strong></td><td></td></tr>
+  <tr><td><strong>Justificativa</strong></td><td></td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td></td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td></td></tr>
+  <tr><td><strong>Dependências</strong></td><td></td></tr>
+  <tr><td><strong>Prioridade</strong></td><td></td></tr>
+  <tr><td><strong>Conflitos</strong></td><td></td></tr>
+  <tr><td><strong>História</strong></td><td></td></tr>
+</table>
+</center>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj)</p></font>
+
+
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 5:</b> Requisito Não Funcional – RNF07</p></font>
+
+
+<center>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2"><a name="RNF07"></a>Requisito Não Funcional – <a href="#rnf07">RNF07</a></th></tr>
+  <tr><td><strong>Classificação</strong></td><td></td></tr>
+  <tr><td><strong>Descrição</strong></td><td></td></tr>
+  <tr><td><strong>Justificativa</strong></td><td></td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td></td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td></td></tr>
+  <tr><td><strong>Dependências</strong></td><td></td></tr>
+  <tr><td><strong>Prioridade</strong></td><td></td></tr>
+  <tr><td><strong>Conflitos</strong></td><td></td></tr>
+  <tr><td><strong>História</strong></td><td></td></tr>
+</table>
+</center>
+
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj)</p></font>
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 6:</b> Requisito Não Funcional – RNF08</p></font>
+
+
+<center>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2"><a name="RNF08"></a>Requisito Não Funcional – <a href="#rnf08">RNF08</a></th></tr>
+  <tr><td><strong>Classificação</strong></td><td></td></tr>
+  <tr><td><strong>Descrição</strong></td><td></td></tr>
+  <tr><td><strong>Justificativa</strong></td><td></td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td></td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td></td></tr>
+  <tr><td><strong>Dependências</strong></td><td></td></tr>
+  <tr><td><strong>Prioridade</strong></td><td></td></tr>
+  <tr><td><strong>Conflitos</strong></td><td></td></tr>
+  <tr><td><strong>História</strong></td><td></td></tr>
+</table>
+</center>
+
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj)</p></font>
+<div align="center">
+
+<font size="3"><p style="text-align: center"><b>Tabela 7:</b> Requisito Não Funcional – RNF10</p></font>
+
+
+<center>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2"><a name="RNF10"></a>Requisito Não Funcional – <a href="#rnf10">RNF10</a></th></tr>
+  <tr><td><strong>Classificação</strong></td><td></td></tr>
+  <tr><td><strong>Descrição</strong></td><td></td></tr>
+  <tr><td><strong>Justificativa</strong></td><td></td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td></td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td></td></tr>
+  <tr><td><strong>Dependências</strong></td><td></td></tr>
+  <tr><td><strong>Prioridade</strong></td><td></td></tr>
+  <tr><td><strong>Conflitos</strong></td><td></td></tr>
+  <tr><td><strong>História</strong></td><td></td></tr>
+</table>
+</center>
+
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></p></font>
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 8:</b> Requisito Não Funcional – RNF11</p></font>
+
+<center>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2"><a name="RNF11"></a>Requisito Não Funcional – <a href="#rnf11">RNF11</a></th></tr>
+  <tr><td><strong>Classificação</strong></td><td></td></tr>
+  <tr><td><strong>Descrição</strong></td><td></td></tr>
+  <tr><td><strong>Justificativa</strong></td><td></td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td></td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td></td></tr>
+  <tr><td><strong>Dependências</strong></td><td></td></tr>
+  <tr><td><strong>Prioridade</strong></td><td></td></tr>
+  <tr><td><strong>Conflitos</strong></td><td></td></tr>
+  <tr><td><strong>História</strong></td><td></td></tr>
+</table>
+</center>
+
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></p></font>
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 9:</b> Requisito Não Funcional – RNF12</p></font>
+
+
+<center>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2"><a name="RNF12"></a>Requisito Não Funcional – <a href="#rnf12">RNF12</a></th></tr>
+  <tr><td><strong>Classificação</strong></td><td></td></tr>
+  <tr><td><strong>Descrição</strong></td><td></td></tr>
+  <tr><td><strong>Justificativa</strong></td><td></td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td></td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td></td></tr>
+  <tr><td><strong>Dependências</strong></td><td></td></tr>
+  <tr><td><strong>Prioridade</strong></td><td></td></tr>
+  <tr><td><strong>Conflitos</strong></td><td></td></tr>
+  <tr><td><strong>História</strong></td><td></td></tr>
+</table>
+</center>
+
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></p></font>
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 10:</b> Navegação entre seções do aplicativo consistente e previsível para o Jovem Beneficiário</p></font>
+
+
+<center>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2"><a name="RNF13"></a>Requisito Não Funcional – <a href="#rnf13">RNF13</a></th></tr>
   <tr><td><strong>Classificação</strong></td><td>Usabilidade</td></tr>
-  <tr><td><strong>Descrição</strong></td><td>O aplicativo deve ser intuitivo e de fácil uso, mesmo para jovens com pouca experiência digital.</td></tr>
-  <tr><td><strong>Justificativa</strong></td><td>Um design intuitivo garante que todos os jovens, independentemente de sua familiaridade com tecnologia, consigam utilizar o aplicativo de forma eficiente e sem frustração.</td></tr>
-  <tr><td><strong>Origem do Requisito</strong></td><td>ENT17</td></tr>
-  <tr><td><strong>Critério de Aceitação</strong></td><td>Usuários novatos devem conseguir completar tarefas básicas sem orientação adicional e sem erros críticos.</td></tr>
-  <tr><td><strong>Dependências</strong></td><td>Interface gráfica do aplicativo, fluxos de navegação e testes de usabilidade.</td></tr>
-  <tr><td><strong>Prioridade</strong></td><td>10</td></tr>
-  <tr><td><strong>Conflitos</strong></td><td>Nenhum</td></tr>
-  <tr><td><strong>História</strong></td><td>19/10/2025</td></tr>
-</table>
-</center>
-</div>
-
-<font size="2"><p style="text-align: center">Autor: [Arthur Fernandes](https://github.com/arthurfernandesj)</p></font>
-
-![Figura 4](../../../assets/NFR/usabilidade.png)
-
-<font size="2"><p style="text-align: center">Autor: [Arthur Fernandes](https://github.com/arthurfernandesj)</p></font>
-
-
-
-<div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 10:</b> Requisito Não Funcional – RNF05</p></font>
-
-<a name="RNF05"></a>
-
-<center>
-<table border="1" cellpadding="6" cellspacing="0">
-  <tr><th colspan="2">Requisito Não Funcional – RNF05</th></tr>
-  <tr><td><strong>Classificação</strong></td><td>Segurança</td></tr>
-  <tr><td><strong>Descrição</strong></td><td>Os dados pessoais do Jovem Beneficiário devem ser protegidos com criptografia conforme a LGPD.</td></tr>
-  <tr><td><strong>Justificativa</strong></td><td>A segurança dos dados é essencial para proteger as informações sensíveis do jovem, garantindo conformidade com a Lei Geral de Proteção de Dados (LGPD) e evitando o uso indevido de informações pessoais.</td></tr>
-  <tr><td><strong>Origem do Requisito</strong></td><td>RNF-SEG-01, BS22, ENT19</td></tr>
-  <tr><td><strong>Critério de Aceitação</strong></td><td>Todos os dados pessoais armazenados e transmitidos devem utilizar criptografia AES-256, com autenticação e controle de acesso baseados em tokens seguros.</td></tr>
-  <tr><td><strong>Dependências</strong></td><td>Sistema de autenticação, banco de dados seguro e integração com o Gov.br.</td></tr>
-  <tr><td><strong>Prioridade</strong></td><td>10</td></tr>
-  <tr><td><strong>Conflitos</strong></td><td>Pode impactar o desempenho em dispositivos com hardware limitado.</td></tr>
-  <tr><td><strong>História</strong></td><td>19/10/2025</td></tr>
+  <tr><td><strong>Descrição</strong></td><td>A navegação entre as seções do aplicativo deve ser consistente e previsível para o jovem beneficiário.</td></tr>
+  <tr><td><strong>Justificativa</strong></td><td>Uma navegação previsível e uniforme melhora a experiência do usuário e reduz a curva de aprendizado no uso do aplicativo.</td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Analise_de_Documentos/">ADD - Usabilidade</a></td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td>O jovem beneficiário deve conseguir identificar facilmente onde está e retornar à página inicial sem dificuldade em até dois cliques.</td></tr>
+  <tr><td><strong>Dependências</strong></td><td>Framework de UI consistente, padrões de design system, componentes de navegação unificados</td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>8</td></tr>
+  <tr><td><strong>Conflitos</strong></td><td>Possível conflito com <a href="#rnf10">RNF10</a> se a navegação complexa impactar tempo de carregamento</td></tr>
+  <tr><td><strong>História</strong></td><td>20/10/2025</td></tr>
 </table>
 </center>
 
 </div>
 
-<font size="2"><p style="text-align: center">Autor: [Arthur Fernandes](https://github.com/arthurfernandesj)</p></font>
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/leticialopes20">Letícia Lopes </a></p></font>
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 11:</b> Requisito Não Funcional – RNF02</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 11:</b> Apresentação de feedback visual e sonoro claros para cada interação do Jovem Beneficiário no aplicativo</p></font>
 
-<a name="RNF02"></a>
 
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
-  <tr><th colspan="2">Requisito Não Funcional – RNF02</th></tr>
+  <tr><th colspan="2"><a name="RNF14"></a>Requisito Não Funcional – <a href="#rnf14">RNF14</a></th></tr>
   <tr><td><strong>Classificação</strong></td><td>Usabilidade / Acessibilidade</td></tr>
-  <tr><td><strong>Descrição</strong></td><td>A interface deve ser intuitiva, acessível, com layout claro e legível, mesmo para jovens com pouca experiência digital.</td></tr>
-  <tr><td><strong>Justificativa</strong></td><td>Garantir que o aplicativo possa ser utilizado por todos os jovens, independentemente do nível de familiaridade com tecnologia, promovendo inclusão digital.</td></tr>
-  <tr><td><strong>Origem do Requisito</strong></td><td>ID Jovem</td></tr>
-  <tr><td><strong>Critério de Aceitação</strong></td><td>Usuários com pouca experiência digital devem conseguir navegar e executar as principais funções sem dificuldades ou suporte adicional.</td></tr>
-  <tr><td><strong>Dependências</strong></td><td>Design da interface, componentes visuais, diretrizes de acessibilidade e testes de usabilidade.</td></tr>
-  <tr><td><strong>Prioridade</strong></td><td>9</td></tr>
-  <tr><td><strong>Conflitos</strong></td><td>Nenhum</td></tr>
+  <tr><td><strong>Descrição</strong></td><td>O aplicativo deve apresentar um feedback visual e sonoro claro para cada interação do jovem beneficiário.</td></tr>
+  <tr><td><strong>Justificativa</strong></td><td>Feedback imediato e claro aumenta a confiança do usuário no sistema e confirma que as ações foram reconhecidas e processadas.</td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming">BS26</a></td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td>Todas as interações do usuário (cliques, toques, envios) devem gerar feedback visual ou sonoro dentro de 500ms.</td></tr>
+  <tr><td><strong>Dependências</strong></td><td>Bibliotecas de animação, componentes de feedback visual, APIs de áudio nativas</td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>7</td></tr>
+  <tr><td><strong>Conflitos</strong></td><td>Pode impactar <a href="#rnf06">RNF06</a> se os recursos de feedback consumirem muitos dados</td></tr>
   <tr><td><strong>História</strong></td><td>20/10/2025</td></tr>
 </table>
 </center>
 
 </div>
 
-<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></p></font>
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/leticialopes20">Letícia Lopes </a></p></font>
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 12:</b> Requisito Não Funcional – RNF03</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 12:</b> Tempo Máximo de inatividade de 2 horas por mês, fora das janelas de manutenção programada</p></font>
 
-<a name="RNF03"></a>
 
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
-  <tr><th colspan="2">Requisito Não Funcional – RNF03</th></tr>
-  <tr><td><strong>Classificação</strong></td><td>Desempenho</td></tr>
-  <tr><td><strong>Descrição</strong></td><td>A emissão da carteira deve ocorrer em até 5 segundos após a solicitação.</td></tr>
-  <tr><td><strong>Justificativa</strong></td><td>Reduzir o tempo de espera do usuário melhora a experiência e garante agilidade no uso do aplicativo.</td></tr>
-  <tr><td><strong>Origem do Requisito</strong></td><td>ID Jovem</td></tr>
-  <tr><td><strong>Critério de Aceitação</strong></td><td>O tempo médio de resposta da funcionalidade de emissão deve ser ≤ 5 segundos em 95% das requisições testadas.</td></tr>
-  <tr><td><strong>Dependências</strong></td><td>Serviço de backend, conexão de rede e infraestrutura de servidores.</td></tr>
-  <tr><td><strong>Prioridade</strong></td><td>10</td></tr>
-  <tr><td><strong>Conflitos</strong></td><td>Limitações de desempenho em redes instáveis podem impactar o tempo de resposta.</td></tr>
+  <tr><th colspan="2"><a name="RNF15"></a>Requisito Não Funcional – <a href="#rnf15">RNF15</a></th></tr>
+  <tr><td><strong>Classificação</strong></td><td>Confiabilidade</td></tr>
+  <tr><td><strong>Descrição</strong></td><td>O sistema deve ter um tempo máximo de inatividade de 2 horas por mês, fora das janelas de manutenção programada.</td></tr>
+  <tr><td><strong>Justificativa</strong></td><td>Garantir que o aplicativo esteja disponível quando o jovem beneficiário precisar acessar seus benefícios e carteirinha digital.</td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming">BS27</a></td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td>Monitoramento mensal deve comprovar disponibilidade de 99,72% ou superior (máximo 2 horas de indisponibilidade mensal)</td></tr>
+  <tr><td><strong>Dependências</strong></td><td> Infraestrutura de alta disponibilidade, sistemas de load balancing, monitoramento contínuo</td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>9</td></tr>
+  <tr><td><strong>Conflitos</strong></td><td>Pode conflitar com <a href="#rnf17">RNF17</a> se as manutenções exigirem tempo de inatividade adicional</td></tr>
   <tr><td><strong>História</strong></td><td>20/10/2025</td></tr>
 </table>
 </center>
 
 </div>
 
-<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></p></font>
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/leticialopes20">Letícia Lopes </a></p></font>
+
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 13:</b> Requisito Não Funcional – RNF16</p></font>
+
+
+<center>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2"><a name="RNF16"></a>Requisito Não Funcional – <a href="#rnf16">RNF16</a></th></tr>
+  <tr><td><strong>Classificação</strong></td><td></td></tr>
+  <tr><td><strong>Descrição</strong></td><td></td></tr>
+  <tr><td><strong>Justificativa</strong></td><td></td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td></td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td></td></tr>
+  <tr><td><strong>Dependências</strong></td><td></td></tr>
+  <tr><td><strong>Prioridade</strong></td><td></td></tr>
+  <tr><td><strong>Conflitos</strong></td><td></td></tr>
+  <tr><td><strong>História</strong></td><td></td></tr>
+</table>
+</center>
+
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/eduardar0">Eduarda Domingos </a></p></font>
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 14:</b> Requisito Não Funcional – RNF17</p></font>
+
+<center>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2"><a name="RNF17"></a>Requisito Não Funcional – <a href="#rnf17">RNF17</a></th></tr>
+  <tr><td><strong>Classificação</strong></td><td></td></tr>
+  <tr><td><strong>Descrição</strong></td><td></td></tr>
+  <tr><td><strong>Justificativa</strong></td><td></td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td></td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td></td></tr>
+  <tr><td><strong>Dependências</strong></td><td></td></tr>
+  <tr><td><strong>Prioridade</strong></td><td></td></tr>
+  <tr><td><strong>Conflitos</strong></td><td></td></tr>
+  <tr><td><strong>História</strong></td><td></td></tr>
+</table>
+</center>
+
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/eduardar0">Eduarda Domingos </a></p></font>
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 15:</b> Requisito Não Funcional – RNF18</p></font>
+
+
+<center>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2"><a name="RNF18"></a>Requisito Não Funcional – <a href="#rnf18">RNF18</a></th></tr>
+  <tr><td><strong>Classificação</strong></td><td></td></tr>
+  <tr><td><strong>Descrição</strong></td><td></td></tr>
+  <tr><td><strong>Justificativa</strong></td><td></td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td></td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td></td></tr>
+  <tr><td><strong>Dependências</strong></td><td></td></tr>
+  <tr><td><strong>Prioridade</strong></td><td></td></tr>
+  <tr><td><strong>Conflitos</strong></td><td></td></tr>
+  <tr><td><strong>História</strong></td><td></td></tr>
+</table>
+</center>
+
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/eduardar0">Eduarda Domingos </a></p></font>
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 16:</b> Requisito Não Funcional – RNF19</p></font>
+
+
+<center>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2"><a name="RNF19"></a>Requisito Não Funcional – <a href="#rnf19">RNF19</a></th></tr>
+  <tr><td><strong>Classificação</strong></td><td></td></tr>
+  <tr><td><strong>Descrição</strong></td><td></td></tr>
+  <tr><td><strong>Justificativa</strong></td><td></td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td></td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td></td></tr>
+  <tr><td><strong>Dependências</strong></td><td></td></tr>
+  <tr><td><strong>Prioridade</strong></td><td></td></tr>
+  <tr><td><strong>Conflitos</strong></td><td></td></tr>
+  <tr><td><strong>História</strong></td><td></td></tr>
+</table>
+</center>
+
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/dylancavalcante">Dylan Cavalcante </a></p></font>
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 17:</b> Requisito Não Funcional – RNF20</p></font>
+
+
+<center>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2"><a name="RNF20"></a>Requisito Não Funcional – <a href="#rnf20">RNF20</a></th></tr>
+  <tr><td><strong>Classificação</strong></td><td></td></tr>
+  <tr><td><strong>Descrição</strong></td><td></td></tr>
+  <tr><td><strong>Justificativa</strong></td><td></td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td></td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td></td></tr>
+  <tr><td><strong>Dependências</strong></td><td></td></tr>
+  <tr><td><strong>Prioridade</strong></td><td></td></tr>
+  <tr><td><strong>Conflitos</strong></td><td></td></tr>
+  <tr><td><strong>História</strong></td><td></td></tr>
+</table>
+</center>
+
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/dylancavalcante">Dylan Cavalcante </a></p></font>
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 18:</b> Requisito Não Funcional – RNF21</p></font>
+
+
+<center>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2"><a name="RNF21"></a>Requisito Não Funcional – <a href="#rnf21">RNF21</a></th></tr>
+  <tr><td><strong>Classificação</strong></td><td></td></tr>
+  <tr><td><strong>Descrição</strong></td><td></td></tr>
+  <tr><td><strong>Justificativa</strong></td><td></td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td></td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td></td></tr>
+  <tr><td><strong>Dependências</strong></td><td></td></tr>
+  <tr><td><strong>Prioridade</strong></td><td></td></tr>
+  <tr><td><strong>Conflitos</strong></td><td></td></tr>
+  <tr><td><strong>História</strong></td><td></td></tr>
+</table>
+</center>
+
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/dylancavalcante">Dylan Cavalcante </a></p></font>
+
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 19:</b> Requisito Não Funcional – RNF22</p></font>
+
+
+<center>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2"><a name="RNF22"></a>Requisito Não Funcional – <a href="#rnf22">RNF22</a></th></tr>
+  <tr><td><strong>Classificação</strong></td><td></td></tr>
+  <tr><td><strong>Descrição</strong></td><td></td></tr>
+  <tr><td><strong>Justificativa</strong></td><td></td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td></td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td></td></tr>
+  <tr><td><strong>Dependências</strong></td><td></td></tr>
+  <tr><td><strong>Prioridade</strong></td><td></td></tr>
+  <tr><td><strong>Conflitos</strong></td><td></td></tr>
+  <tr><td><strong>História</strong></td><td></td></tr>
+</table>
+</center>
+
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/brenolteixeira">Breno Lourenço </a></p></font>
+
+<div align="center">
+
+ <a name="RNF23"></a><font size="3"><p style="text-align: center"><b>Tabela 20:</b> Requisito Não Funcional – RNF23</p></font>
+
+
+<center>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2"><a name="RNF23"></a>Requisito Não Funcional – <a href="#rnf23">RNF23</a></th></tr>
+  <tr><td><strong>Classificação</strong></td><td></td></tr>
+  <tr><td><strong>Descrição</strong></td><td></td></tr>
+  <tr><td><strong>Justificativa</strong></td><td></td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td></td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td></td></tr>
+  <tr><td><strong>Dependências</strong></td><td></td></tr>
+  <tr><td><strong>Prioridade</strong></td><td></td></tr>
+  <tr><td><strong>Conflitos</strong></td><td></td></tr>
+  <tr><td><strong>História</strong></td><td></td></tr>
+</table>
+</center>
+
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/brenolteixeira">Breno Lourenço </a></p></font>
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 21:</b> Requisito Não Funcional – RNF24</p></font>
+
+
+<center>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2"><a name="RNF24"></a>Requisito Não Funcional –<a href="#rnf24">RNF24</a></th></tr>
+  <tr><td><strong>Classificação</strong></td><td></td></tr>
+  <tr><td><strong>Descrição</strong></td><td></td></tr>
+  <tr><td><strong>Justificativa</strong></td><td></td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td></td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td></td></tr>
+  <tr><td><strong>Dependências</strong></td><td></td></tr>
+  <tr><td><strong>Prioridade</strong></td><td></td></tr>
+  <tr><td><strong>Conflitos</strong></td><td></td></tr>
+  <tr><td><strong>História</strong></td><td></td></tr>
+</table>
+</center>
+
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/brenolteixeira">Breno Lourenço </a></p></font>
+
+
+
+
+
 
 
 ## Referências Bibliográficas
@@ -396,5 +721,7 @@ Essa validação assegurou que os requisitos não funcionais fossem não apenas 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :----------------------------------------------------------------------------------------: | :-------------------------------------------: |
 | `1.0` | 19/10/2025 | Criação inicial do documento de NFR | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Dylan Cavalvante ](https://github.com/dylancavalcante) |
-| `1.1` | 19/10/2025 | Cartões de Especificação RNF01 e RNF05  | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Dylan Cavalvante ](https://github.com/dylancavalcante) |
-|`1.2` | 20/10/2025 | NRF RNF02 e RNF03 | [Giovana Fontes](https://github.com/GiovanaFontesS) | [Arthur Fernandes](https://github.com/arthurfernandesj)
+| `1.1` | 19/10/2025 | Adição de Cartões de Especificação [RNF06](#RNF06), [RNF07](#RNF07), [RNF08](#RNF08)  | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Dylan Cavalvante ](https://github.com/dylancavalcante) |
+|`1.2` | 20/10/2025 |Adição de Cartões de Especificação [RNF10](#RNF10), [RNF11](#RNF11), [RNF12](#RNF12)  | [Giovana Fontes](https://github.com/GiovanaFontesS) |[Letícia Lopes](https://github.com/leticialopes20)
+|`1.3` | 20/10/2025 | Adição de todos os RNFS na tabela 3, adição de hiperlinks na página | [Letícia Lopes](https://github.com/leticialopes20) | [Arthur Fernandes](https://github.com/arthurfernandesj)
+|`1.4` | 20/10/2025 | Adição de Cartões de Especificação [RNF13](#RNF13), [RNF14](#RNF14), [RNF15](#RNF15) | [Letícia Lopes](https://github.com/leticialopes20) | [Arthur Fernandes](https://github.com/arthurfernandesj)

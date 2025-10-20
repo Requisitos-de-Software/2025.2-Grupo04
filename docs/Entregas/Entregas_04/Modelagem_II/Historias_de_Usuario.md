@@ -34,7 +34,6 @@ A história é validada com o Product Owner e a equipe, podendo ser ajustada ou 
 
 ### Participantes
 
-
 <p style="text-align: center"><strong>Tabela 1-</strong> Participantes</p>
 <div align="center">
 <table>
@@ -75,10 +74,7 @@ A história é validada com o Product Owner e a equipe, podendo ser ajustada ou 
 <td><a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></td>
 <td>20/10/2025</td>
 <td>07:23</td>
-<<<<<<< HEAD
 <td><a href="#h07">US07</a> e <a href="#h08">US08</a></td>
-=======
->>>>>>> main
 </tr>
 <tr>
 <td><a href="https://github.com/leticialopes20">Letícia Lopes</a></td>
@@ -381,3 +377,4 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 | 1.0 | 19/10/2025 | Criação do Documento: Introdução, Metodologia, justificativa de uso e objetivo  | [Giovana Fontes](https://github.com/GiovanaFontesS) | [ Leticia ](https://github.com/leticialopes20) |
 | 1.1 | 19/10/2025 | Historia de usuario [US05](#), [US06](#), [US14](#) | [Dylan Cavalcante](https://github.com/dylancavalcante) | [ Leticia ](https://github.com/leticialopes20) |
 | 1.2 | 20/10/2025 | Historia de usuario [US07](#) e [US08](#) | [Giovana Fontes](https://github.com/GiovanaFontesS) | [Dylan Cavalcante](https://github.com/dylancavalcante) |  
+| 1.3 | 20/10/2025 | Adiciona historias a tabela | [Dylan Cavalcante](https://github.com/dylancavalcante) | [ Leticia ](https://github.com/leticialopes20) |

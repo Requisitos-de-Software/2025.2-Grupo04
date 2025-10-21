@@ -231,8 +231,8 @@ Essa validação assegurou que os requisitos não funcionais fossem não apenas 
     </tr>
     <tr>
       <td><a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></td>
-      <td>xx/10/2025</td>
-      <td>00:00</td>
+      <td>20/10/2025</td>
+      <td>22:00</td>
     </tr>
     <tr>
       <td><a href="https://github.com/eduardar0">Eduarda Domingos</a></td>

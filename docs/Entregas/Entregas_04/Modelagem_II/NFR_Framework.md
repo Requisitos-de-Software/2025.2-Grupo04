@@ -522,7 +522,7 @@ Essa validação assegurou que os requisitos não funcionais fossem não apenas 
   <tr><td><strong>História</strong></td><td>20/10/2025 - Criação</td></tr>
 </table>
 </center>
-
+</div>
 
 
 
@@ -557,7 +557,7 @@ Essa validação assegurou que os requisitos não funcionais fossem não apenas 
 </center>
 <table border="1" cellpadding="6" cellspacing="0">
   <tr><th colspan="2"><a name="RNF19"></a>Requisito Não Funcional – <a href="#rnf19">RNF19</a></th></tr>
-  <tr><td><strong>Classificação</strong></td><td>Segurança / Auditabilidade</td></tr>
+  <tr><td><strong>Classificação</strong></td><td>Segurança</td></tr>
   <tr><td><strong>Descrição</strong></td><td>O sistema deve registrar todas as tentativas de validação da carteira, bem-sucedidas ou não, para fins de auditoria.</td></tr>
   <tr><td><strong>Justificativa</strong></td><td>Garantir a rastreabilidade das operações, identificar possíveis fraudes e manter a conformidade com normas de segurança e transparência.</td></tr>
   <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/">IDJ19</a></td></tr>
@@ -597,7 +597,7 @@ A <tr><td><strong>História</strong></td><td>20/10/2025</td></tr>
 </center>
 <table border="1" cellpadding="6" cellspacing="0">
   <tr><th colspan="2"><a name="RNF21"></a>Requisito Não Funcional – <a href="#rnf21">RNF21</a></th></tr>
-  <tr><td><strong>Classificação</strong></td><td>Escalabilidade</td></tr>
+  <tr><td><strong>Classificação</strong></td><td>Desempenho</td></tr>
   <tr><td><strong>Descrição</strong></td><td>O sistema deve ter capacidade de ser facilmente escalado para atender a um aumento de 50% no número de jovens beneficiários sem degradação do desempenho.</td></tr>
   <tr><td><strong>Justificativa</strong></td><td>Assegurar que o aplicativo continue funcional e rápido mesmo com o crescimento da base de usuários ou picos de acesso.</td></tr>
   <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/">IDJ21</a></td></tr>
@@ -616,7 +616,7 @@ A <tr><td><strong>História</strong></td><td>20/10/2025</td></tr>
 </center>
 <table border="1" cellpadding="6" cellspacing="0">
   <tr><th colspan="2"><a name="RNF22"></a>Requisito Não Funcional – <a href="#rnf22">RNF22</a></th></tr>
-  <tr><td><strong>Classificação</strong></td><td>Segurança / Auditabilidade</td></tr>
+  <tr><td><strong>Classificação</strong></td><td>Segurança</td></tr>
   <tr><td><strong>Descrição</strong></td><td>O sistema deve manter um log de auditoria de todas as emissões e validações de carteirinhas por 5 anos.</td></tr>
   <tr><td><strong>Justificativa</strong></td><td>Garantir conformidade legal (ex: Marco Civil da Internet, LGPD) e permitir auditorias futuras sobre o uso do benefício e a emissão de carteiras.</td></tr>
   <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling/">ST12</a></td></tr>
@@ -661,7 +661,7 @@ A <tr><td><strong>História</strong></td><td>20/10/2025</td></tr>
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
   <tr><th colspan="2"><a name="RNF24"></a>Requisito Não Funcional –<a href="#rnf24">RNF24</a></th></tr>
-  <tr><td><strong>Classificação</strong></td><td>Portabilidade / Suportabilidade</td></tr>
+  <tr><td><strong>Classificação</strong></td><td>Portabilidade</td></tr>
   <tr><td><strong>Descrição</strong></td><td>O aplicativo deve ser compatível com a API mais recente e as duas versões anteriores do sistema operacional móvel.</td></tr>
   <tr><td><strong>Justificativa</strong></td><td>Assegurar que o aplicativo funcione para a grande maioria dos usuários, que não necessariamente possuem a última versão do SO, equilibrando inovação e suporte retroativo.</td></tr>
   <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling/">ST14</a></td></tr>
@@ -677,11 +677,216 @@ i <tr><td><strong>História</strong></td><td>20/10/2025</td></tr>
 
 <font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/BrenoLTeixeira">Breno Teixeira </a></p></font>
 
+## NFR00: Geral
+
+A figura 4 a seguir demonstra o Gráfico de Interdependência do Softgoal de uma maneira geral.
+
+<font size="3"><p style="text-align: center"> Figura 4: Geral</p></font>
+<div align="center">
+
+</div>
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/leticialopes20">Letícia Lopes </a></p></font>
+
+## NRF01: Usabilidade
+
+### Descrição:
+Este Softgoal Interdependency Graph (SIG) foi elaborado para representar visualmente os aspectos relacionados à usabilidade no sistema Id Jovem. Ele demonstra como certos requisitos não funcionais influenciam positivamente ou negativamente esse atributo de qualidade, estruturando os relacionamentos entre metas e submetas de forma hierárquica.
+
+### Requisitos:
+Requisitos utilizados para compor o SIG da Figura 5:
+
+- [**RNF06**](#rnf06): O aplicativo deve funcionar com baixo consumo de internet e ser acessível em regiões carentes;
+- [**RNF07**](#rnf07):  O aplicativo deve possuir recursos de acessibilidade (alto contraste, leitura de tela, voz e Libras);
+- [**RNF13**](#rnf13): A navegação entre as seções do aplicativo deve ser consistente e previsível para o jovem beneficiário;
+- [**RNF14**](#rnf14): O aplicativo deve apresentar um feedback visual e sonoro claro para cada interação do jovem beneficiário;
+- [**RNF17**](#rnf17): A equipe de desenvolvimento deve disponibilizar atualizações de segurança e correções de bugs em um ciclo de, no máximo, 3 meses.
 
 
 
+### Propagação dos Impactos:
+
+A Tabela 22 apresenta a avaliação da propagação dos impactos identificados na Figura 5.
+
+**Tabela 22: Avaliação dos Impactos dos Requisitos sobre Usabilidade**
+
+| NFR | Impacto | Avaliador |
+|-----|---------|------------|
+| [RNF06](#rnf06) - Funcionar com baixo consumo de internet | ✓ |[Arthur Fernandes](https://github.com/arthurfernandesj) |
+| [RNF07](#rnf07) - Recursos de acessibilidade (alto contraste, leitura de tela, voz e Libras) | ✓  | [Arthur ](https://github.com/VictorPontual) |
+| [RNF13](#rnf13) - Navegação consistente e previsível | ✓ |[Arthur Fernandes](https://github.com/arthurfernandesj) |
+| [RNF14](#rnf14) - Feedback visual e sonoro claro | ✓ | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| [RNF17](#rnf17) - Atualizações a cada 3 meses | 𝒲⁺ |[Arthur Fernandes](https://github.com/arthurfernandesj) |
+
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></p></font>
+
+Justificativa baseada na metodologia do documento:
+
+- **RNF06 (✓)**: "Satisfeito" - Baixo consumo garante acesso em regiões carentes e melhora experiência do usuário
+- **RNF07 (✓)**: "Satisfeito" - Recursos de acessibilidade ampliam o público e tornam o app mais inclusivo
+- **RNF13 (✓)**: "Satisfeito" - Navegação consistente reduz curva de aprendizado e facilita uso
+- **RNF14 (✓)**: "Satisfeito" - Feedback claro aumenta confiança do usuário nas interações
+- **RNF17 (𝒲⁺)**: "Fracamente satisfeito" - Atualizações melhoram estabilidade, mas podem exigir adaptação do usuário
 
 
+## NRF02: Segurança
+
+### Descrição:
+Este SIG (Softgoal Interdependency Graph) foi elaborado com base nos requisitos não funcionais relacionados à segurança do sistema no que tange aos dados. A segurança é responsável por garantir que os dados do usuário e de todas as partes envolvidas no uso do sistema tenham uma camada de proteção contra a exposição indesejada das suas informações.
+
+### Requisitos:
+Requisitos utilizados para desenvolver o SIG da Figura 6:
+
+- [**RNF19**](#rnf19): O sistema deve registrar todas as tentativas de validação da carteira, bem-sucedidas ou não, para fins de auditoria;
+- [**RNF22**](#rnf22): O sistema deve manter um log de auditoria de todas as emissões e validações de carteirinhas por 5 anos.
+
+### Propagação dos Impactos:
+
+A Tabela 23 apresenta a avaliação da propagação dos impactos identificados na Figura 6.
+
+**Tabela 23: Avaliação dos Impactos dos Requisitos sobre Segurança**
+
+
+| NFR | Impacto | Avaliador |
+|-----|---------|------------|
+| [RNF19](#rnf19) - Registrar tentativas de validação para auditoria | ✓ | [Giovana Fontes](https://github.com/GiovanaFontesS)  |
+| [RNF22](#rnf22) - Manter log de auditoria por 5 anos | ✓ | [Giovana Fontes](https://github.com/GiovanaFontesS) |
+
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></p></font>
+
+Justificativa baseada na metodologia do documento:
+
+- **RNF19 (✓)**: "Satisfeito" - Registro completo de tentativas garante rastreabilidade e detecção de atividades suspeitas
+- **RNF22 (✓)**: "Satisfeito" - Retenção de logs por 5 anos atende requisitos legais e permite auditorias de longo prazo
+
+## NFR03: Desempenho
+
+### Descrição:
+Este SIG (Softgoal Interdependency Graph) foi elaborado com base nos requisitos não funcionais relacionados ao desempenho do sistema. O desempenho é responsável por garantir que o aplicativo ID Jovem ofereça tempos de resposta ágeis e disponibilidade adequada, proporcionando uma experiência eficiente para os jovens beneficiários durante o acesso aos benefícios e validação da carteirinha.
+
+### Requisitos:
+Requisitos utilizados para desenvolver o SIG da Figura 7:
+
+- [**RNF08**](#rnf08): O sistema deve garantir disponibilidade mínima de 99,5% durante o horário de funcionamento.
+- [**RNF10**](#rnf10): O tempo de carregamento das páginas do site oficial não deve exceder 3 segundos em conexões de internet de baixa velocidade
+- [**RNF16**](#rnf16): O tempo de resposta para validação da carteirinha (QR Code) não deve exceder 2 segundos.
+- [**RNF20**](#rnf20): A consulta à elegibilidade do CadÚnico deve retornar o resultado em no máximo 3 segundos.
+- [**RNF23**](#rnf23): O aplicativo deve carregar as informações de eventos e parceiros em no máximo 3 segundos, mesmo com grande volume de dados.
+
+### Propagação dos Impactos:
+
+A Tabela 24 apresenta a avaliação da propagação dos impactos identificados na Figura 7.
+
+**Tabela 24: Avaliação dos Impactos dos Requisitos sobre Desempenho**
+
+| NFR | Impacto | Avaliador |
+|-----|---------|------------|
+| [RNF08](#rnf08) - Garantir disponibilidade mínima de 99,5% | ✓ | [Letícia Lopes](https://github.com/leticialopes20) |
+| [RNF10](#rnf10) - Tempo de carregamento ≤ 3 segundos | ✓ | [Letícia Lopes](https://github.com/leticialopes20) |
+| [RNF16](#rnf16) - Validação QR Code ≤ 2 segundos | ✓ | [Letícia Lopes](https://github.com/leticialopes20) |
+| [RNF20](#rnf20) - Consulta CadÚnico ≤ 3 segundos | 𝒲⁺ | [Letícia Lopes](https://github.com/leticialopes20) |
+| [RNF23](#rnf23) - Carregamento eventos/parceiros ≤ 3 segundos | 𝒲⁺ | [Letícia Lopes](https://github.com/leticialopes20) |
+
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/leticialopes20">Letícia Lopes</a></p></font>
+
+Justificativa baseada na metodologia do documento:
+
+- **RNF08 (✓)**: "Satisfeito" - Meta clara de disponibilidade que impacta diretamente no desempenho do sistema
+- **RNF10 (✓)**: "Satisfeito" - Tempo específico de carregamento essencial para experiência do usuário
+- **RNF16 (✓)**: "Satisfeito" - Operação crítica com métrica rigorosa para funcionalidade central
+- **RNF20 (𝒲⁺)**: "Fracamente satisfeito" - Consulta externa com tempo definido, mas dependente de serviço terceiro
+- **RNF23 (𝒲⁺)**: "Fracamente satisfeito" - Funcionalidade importante mas com menor criticidade que operações centrais
+
+## NFR04: Acessibilidade
+
+### Descrição:
+Este SIG (Softgoal Interdependency Graph) foi elaborado a partir de requisitos não funcionais relacionados à acessibilidade do sistema. Esses requisitos garantem que o aplicativo seja inclusivo e acessível a todos os usuários, incluindo aqueles com deficiências visuais, auditivas ou motoras, promovendo uma experiência mais equitativa e usável.
+
+### Requisitos:
+Requisitos utilizados para desenvolver o SIG da Figura 8:
+
+- [**RNF14**](#rnf14): O aplicativo deve apresentar um feedback visual e sonoro claro para cada interação do jovem beneficiário.
+- [**RNF18**](#rnf18): O aplicativo deve permitir que o jovem beneficiário personalize o tamanho da fonte e o esquema de cores para melhorar a legibilidade.
+
+
+### Propagação dos Impactos:
+
+A Tabela 25 apresenta a avaliação da propagação dos impactos identificados na Figura 8.
+
+**Tabela 25: Avaliação dos Impactos dos Requisitos sobre Acessibilidade**
+
+| NFR | Impacto | Avaliador |
+|-----|---------|------------|
+| [RNF14](#rnf14) - Feedback visual e sonoro claro | ✓ | [Eduarda Domingos](https://github.com/eduardar0) |
+| [RNF18](#rnf18) - Personalização de fonte e cores | ✓ | [Eduarda Domingos](https://github.com/eduardar0) |
+
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/eduardar0">Eduarda Domingos</a></p></font>
+
+Justificativa baseada na metodologia do documento:
+
+- **RNF14 (✓)**: "Satisfeito" - Feedback multimodal atende usuários com diferentes capacidades sensoriais
+- **RNF18 (✓)**: "Satisfeito" - Personalização de interface beneficia usuários com baixa visão ou preferências específicas
+
+## NFR05 - Confiabilidade
+
+### Descrição:
+Este SIG (Softgoal Interdependency Graph) foi elaborado com base nos requisitos não funcionais relacionados à confiabilidade do sistema. A confiabilidade garante que o sistema execute suas funções de maneira consistente, sem falhas, mesmo em situações adversas, como conexões instáveis ou dependências externas.
+
+### Requisitos:
+Requisitos utilizados para desenvolver o SIG da Figura 9:
+
+- [**RNF08**](#rnf08): O sistema deve garantir disponibilidade mínima de 99,5% durante o horário de funcionamento.
+- [**RNF11**](#rnf11): O aplicativo deve garantir que as informações sobre os benefícios estejam 100% sincronizadas com a base de dados oficial.
+- [**RNF15**](#rnf15): O sistema deve ter um tempo máximo de inatividade de 2 horas por mês, fora das janelas de manutenção programada.
+
+### Propagação dos Impactos:
+
+A Tabela 26 apresenta a avaliação da propagação dos impactos identificados na Figura 9.
+
+**Tabela 26: Avaliação dos Impactos dos Requisitos sobre Confiabilidade**
+
+| NFR | Impacto | Avaliador |
+|-----|---------|------------|
+| [RNF08](#rnf08) - Disponibilidade mínima de 99,5% | ✓ | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+| [RNF11](#rnf11) - Sincronização 100% com base oficial | ✓ | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+| [RNF15](#rnf15) - Tempo máximo de inatividade 2h/mês | ✓ | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p></font>
+
+Justificativa baseada na metodologia do documento:
+
+- **RNF08 (✓)**: "Satisfeito" - Alta disponibilidade garante acesso contínuo aos benefícios
+- **RNF11 (✓)**: "Satisfeito" - Sincronização completa assegura informações atualizadas e confiáveis
+- **RNF15 (✓)**: "Satisfeito" - Tempo limitado de inatividade mantém sistema operacional e confiável
+
+## NFR06 - Portabilidade:
+
+### Descrição:
+Este SIG (Softgoal Interdependency Graph) foi elaborado com base nos requisitos não funcionais relacionados à portabilidade do sistema. A portabilidade é responsável por garantir que o aplicativo ID Jovem funcione de maneira consistente em diferentes plataformas e versões de sistemas operacionais, assegurando amplo acesso aos jovens beneficiários independentemente do dispositivo utilizado.
+
+### Requisitos:
+Requisitos utilizados para desenvolver o SIG da Figura 10:
+
+- [**RNF12**](#rnf12): O sistema deve ser compatível com as duas versões anteriores dos principais navegadores web e sistemas operacionais móveis.
+- [**RNF24**](#rnf24):O aplicativo deve ser compatível com a API mais recente e as duas versões anteriores do sistema operacional móvel.
+
+### Propagação dos Impactos:
+
+A Tabela 27 apresenta a avaliação da propagação dos impactos identificados na Figura 10.
+
+| NFR | Impacto | Avaliador |
+|-----|---------|------------|
+| [RNF12](#rnf12) - Compatibilidade com versões anteriores | ✓ | [Breno Teixeira](https://github.com/BrenoLTeixeira) |
+| [RNF24](#rnf24) - Compatibilidade com APIs de SO | ✓ | [Breno Teixeira](https://github.com/BrenoLTeixeira) |
+
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/BrenoLTeixeira">Breno Teixeira</a></p></font>
+
+
+Justificativa baseada na metodologia do documento:
+
+- **RNF12 (✓)**: "Satisfeito" - Compatibilidade retroativa amplia o público e garante acesso universal
+- **RNF24 (✓)**: "Satisfeito" - Suporte a múltiplas APIs assegura funcionamento em diferentes versões de Sistema Operacional
+
+## Validação
 
 ## Referências Bibliográficas
 
@@ -703,5 +908,7 @@ i <tr><td><strong>História</strong></td><td>20/10/2025</td></tr>
 | `1.5` | 20/10/2025 | Adição de Cartões de Especificação [RNF19](#rnf19), [RNF20](#rnf20), [RNF21](#rnf21) | [Dylan Cavalcante](https://github.com/dylancavalcante) | [Letícia Lopes](https://github.com/leticialopes20) |
 | `1.6` | 20/10/2025 | Adição de Cartões de Especificação [RNF16](#rnf16), [RNF17](#rnf17), [RNF18](#rn18) | [Eduarda Domingos](https://github.com/eduardar0) | [Dylan Cavalcante](https://github.com/dylancavalcante) |
 | `1.7` | 20/10/2025 | Adição de Cartões de Especificação [RNF22](#rnf22), [RNF23](#rnf23), [RNF24](#rnf24) | [Breno Teixeira](https://github.com/BrenoLTeixeira) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
-
----
+| `1.8` | 21/10/2025 | Adição de NFR00-Geral | [Letícia Lopes](https://github.com/leticialopes20) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| `1.9` | 21/10/2025 | Adição de NFR01-Usabilidade, NFR02-Segurança | [Arthur Fernandes](https://github.com/arthurfernandesj), [Giovana Fontes](https://github.com/GiovanaFontesS)   |[Letícia Lopes](https://github.com/leticialopes20) |
+| `2.0` | 21/10/2025 | Adição de NFR03-Desempenho, NFR04-Acessibilidade |[Letícia Lopes](https://github.com/leticialopes20), [Eduarda Domingos](https://github.com/eduardar0)  |[Arthur Fernandes](https://github.com/arthurfernandesj) |
+| `2.1` | 21/10/2025 | Adição de NFR05-Confiabilidade, NFR06-Portabilidade |[Dylan Cavalcante](https://github.com/dylancavalcante), [Breno Teixeira](https://github.com/BrenoLTeixeira) |[Letícia Lopes](https://github.com/leticialopes20)|

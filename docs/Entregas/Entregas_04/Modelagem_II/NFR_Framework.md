@@ -796,7 +796,97 @@ Justificativa baseada na metodologia do documento:
 - **RNF20 (𝒲⁺)**: "Fracamente satisfeito" - Consulta externa com tempo definido, mas dependente de serviço terceiro
 - **RNF23 (𝒲⁺)**: "Fracamente satisfeito" - Funcionalidade importante mas com menor criticidade que operações centrais
 
+## NFR04: Acessibilidade
 
+### Descrição:
+Este SIG (Softgoal Interdependency Graph) foi elaborado a partir de requisitos não funcionais relacionados à acessibilidade do sistema. Esses requisitos garantem que o aplicativo seja inclusivo e acessível a todos os usuários, incluindo aqueles com deficiências visuais, auditivas ou motoras, promovendo uma experiência mais equitativa e usável.
+
+### Requisitos:
+Requisitos utilizados para desenvolver o SIG da Figura 8:
+
+- [**RNF14**](#rnf14): O aplicativo deve apresentar um feedback visual e sonoro claro para cada interação do jovem beneficiário.
+- [**RNF18**](#rnf18): O aplicativo deve permitir que o jovem beneficiário personalize o tamanho da fonte e o esquema de cores para melhorar a legibilidade.
+
+
+### Propagação dos Impactos:
+
+A Tabela 25 apresenta a avaliação da propagação dos impactos identificados na Figura 8.
+
+**Tabela 25: Avaliação dos Impactos dos Requisitos sobre Acessibilidade**
+
+| NFR | Impacto | Avaliador |
+|-----|---------|------------|
+| [RNF14](#rnf14) - Feedback visual e sonoro claro | ✓ | [Eduarda Domingos](https://github.com/eduardar0) |
+| [RNF18](#rnf18) - Personalização de fonte e cores | ✓ | [Eduarda Domingos](https://github.com/eduardar0) |
+
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/eduardar0">Eduarda Domingos</a></p></font>
+
+Justificativa baseada na metodologia do documento:
+
+- **RNF14 (✓)**: "Satisfeito" - Feedback multimodal atende usuários com diferentes capacidades sensoriais
+- **RNF18 (✓)**: "Satisfeito" - Personalização de interface beneficia usuários com baixa visão ou preferências específicas
+
+## NFR05 - Confiabilidade
+
+### Descrição:
+Este SIG (Softgoal Interdependency Graph) foi elaborado com base nos requisitos não funcionais relacionados à confiabilidade do sistema. A confiabilidade garante que o sistema execute suas funções de maneira consistente, sem falhas, mesmo em situações adversas, como conexões instáveis ou dependências externas.
+
+### Requisitos:
+Requisitos utilizados para desenvolver o SIG da Figura 9:
+
+- [**RNF08**](#rnf08): O sistema deve garantir disponibilidade mínima de 99,5% durante o horário de funcionamento.
+- [**RNF11**](#rnf11): O aplicativo deve garantir que as informações sobre os benefícios estejam 100% sincronizadas com a base de dados oficial.
+- [**RNF15**](#rnf15): O sistema deve ter um tempo máximo de inatividade de 2 horas por mês, fora das janelas de manutenção programada.
+
+### Propagação dos Impactos:
+
+A Tabela 26 apresenta a avaliação da propagação dos impactos identificados na Figura 9.
+
+**Tabela 26: Avaliação dos Impactos dos Requisitos sobre Confiabilidade**
+
+| NFR | Impacto | Avaliador |
+|-----|---------|------------|
+| [RNF08](#rnf08) - Disponibilidade mínima de 99,5% | ✓ | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+| [RNF11](#rnf11) - Sincronização 100% com base oficial | ✓ | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+| [RNF15](#rnf15) - Tempo máximo de inatividade 2h/mês | ✓ | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p></font>
+
+Justificativa baseada na metodologia do documento:
+
+- **RNF08 (✓)**: "Satisfeito" - Alta disponibilidade garante acesso contínuo aos benefícios
+- **RNF11 (✓)**: "Satisfeito" - Sincronização completa assegura informações atualizadas e confiáveis
+- **RNF15 (✓)**: "Satisfeito" - Tempo limitado de inatividade mantém sistema operacional e confiável
+
+## NFR06 - Portabilidade:
+
+### Descrição:
+Este SIG (Softgoal Interdependency Graph) foi elaborado com base nos requisitos não funcionais relacionados à portabilidade do sistema. A portabilidade é responsável por garantir que o aplicativo ID Jovem funcione de maneira consistente em diferentes plataformas e versões de sistemas operacionais, assegurando amplo acesso aos jovens beneficiários independentemente do dispositivo utilizado.
+
+### Requisitos:
+Requisitos utilizados para desenvolver o SIG da Figura 10:
+
+- [**RNF12**](#rnf12): O sistema deve ser compatível com as duas versões anteriores dos principais navegadores web e sistemas operacionais móveis.
+- [**RNF24**](#rnf24):O aplicativo deve ser compatível com a API mais recente e as duas versões anteriores do sistema operacional móvel.
+
+### Propagação dos Impactos:
+
+A Tabela 27 apresenta a avaliação da propagação dos impactos identificados na Figura 10.
+
+| NFR | Impacto | Avaliador |
+|-----|---------|------------|
+| [RNF12](#rnf12) - Compatibilidade com versões anteriores | ✓ | [Breno Teixeira](https://github.com/BrenoLTeixeira) |
+| [RNF24](#rnf24) - Compatibilidade com APIs de SO | ✓ | [Breno Teixeira](https://github.com/BrenoLTeixeira) |
+
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/BrenoLTeixeira">Breno Teixeira</a></p></font>
+
+
+Justificativa baseada na metodologia do documento:
+
+- **RNF12 (✓)**: "Satisfeito" - Compatibilidade retroativa amplia o público e garante acesso universal
+- **RNF24 (✓)**: "Satisfeito" - Suporte a múltiplas APIs assegura funcionamento em diferentes versões de Sistema Operacional
+
+## Validação
 
 ## Referências Bibliográficas
 
@@ -821,5 +911,4 @@ Justificativa baseada na metodologia do documento:
 | `1.8` | 21/10/2025 | Adição de NFR00-Geral | [Letícia Lopes](https://github.com/leticialopes20) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
 | `1.9` | 21/10/2025 | Adição de NFR01-Usabilidade, NFR02-Segurança | [Arthur Fernandes](https://github.com/arthurfernandesj), [Giovana Fontes](https://github.com/GiovanaFontesS)   |[Letícia Lopes](https://github.com/leticialopes20) |
 | `2.0` | 21/10/2025 | Adição de NFR03-Desempenho, NFR04-Acessibilidade |[Letícia Lopes](https://github.com/leticialopes20), [Eduarda Domingos](https://github.com/eduardar0)  |[Arthur Fernandes](https://github.com/arthurfernandesj) |
-| `2.1` | 21/10/2025 | Adição de NFR05-Confiabilidade, NFR06-Portabilidade |[Dylan Cavalcante](https://github.com/dylancavalcante), [Dylan Cavalcante](https://github.com/dylancavalcante)  |[Letícia Lopes](https://github.com/leticialopes20)|
----
+| `2.1` | 21/10/2025 | Adição de NFR05-Confiabilidade, NFR06-Portabilidade |[Dylan Cavalcante](https://github.com/dylancavalcante), [Breno Teixeira](https://github.com/BrenoLTeixeira) |[Letícia Lopes](https://github.com/leticialopes20)|

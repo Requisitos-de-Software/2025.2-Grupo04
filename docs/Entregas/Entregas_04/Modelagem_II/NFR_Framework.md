@@ -236,8 +236,8 @@ Essa validação assegurou que os requisitos não funcionais fossem não apenas 
     </tr>
     <tr>
       <td><a href="https://github.com/eduardar0">Eduarda Domingos</a></td>
-      <td>xx/10/2025</td>
-      <td>00:00</td>
+      <td>20/10/2025</td>
+      <td>22:47</td>
     </tr>
     <tr>
       <td><a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></td>
@@ -494,66 +494,56 @@ Essa validação assegurou que os requisitos não funcionais fossem não apenas 
 
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 13:</b> Requisito Não Funcional – RNF16</p></font>
-
-
-<center>
-<table border="1" cellpadding="6" cellspacing="0">
-  <tr><th colspan="2"><a name="RNF16"></a>Requisito Não Funcional – <a href="#rnf16">RNF16</a></th></tr>
-  <tr><td><strong>Classificação</strong></td><td></td></tr>
-  <tr><td><strong>Descrição</strong></td><td></td></tr>
-  <tr><td><strong>Justificativa</strong></td><td></td></tr>
-  <tr><td><strong>Origem do Requisito</strong></td><td></td></tr>
-  <tr><td><strong>Critério de Aceitação</strong></td><td></td></tr>
-  <tr><td><strong>Dependências</strong></td><td></td></tr>
-  <tr><td><strong>Prioridade</strong></td><td></td></tr>
-  <tr><td><strong>Conflitos</strong></td><td></td></tr>
-  <tr><td><strong>História</strong></td><td></td></tr>
-</table>
-</center>
-
-</div>
-
+<font size="3"><p style="text-align: center"><b>Tabela 13:</b> O tempo de resposta para validação da carteirinha (QR Code) não deve exceder 2 segundos</p></font>
+</font><center> <table border="1" cellpadding="6" cellspacing="0"> <tr><tr><th colspan="2"><a name="RNF16"></a>Requisito Não Funcional – <a href="#rnf16">RNF16</a></th></tr>
+</tr> <tr><td><strong>Classificação</strong></td><td>Desempenho</td></tr>
+<tr><td><strong>Descrição</strong></td><td>O tempo de resposta para validação da carteirinha (QR Code) não deve exceder 2 segundos.</td></tr>
+ <tr><td> <strong>Justificativa</strong></td><td>Garantir uma experiência ágil e eficiente durante a validação da carteirinha em estabelecimentos parceiros, evitando filas e constrangimentos para o jovem beneficiário.</td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming">BS27</a></td></tr> <tr><td><strong>Critério de Aceitação</strong></td><td>O sistema deve validar QR Codes em até 2 segundos em 95% das tentativas, considerando conexões de internet estáveis.</td></tr> 
+ <tr><td><strong>Dependências</strong></td><td>Serviço de validação online, leitor de QR Code otimizado, conexão com banco de dados.</td></tr> 
+ <tr><td><strong>Prioridade</strong></td><td>9</td></tr> <tr><td><strong>Conflitos</strong></td><td> <a href="#rnf06">RNF06</a> (Baixo consumo de internet) - integrações podem aumentar consumo de dados</td></tr> 
+ <tr><td><strong>História</strong></td><td>20/10/2025 - Criação</td></tr> </table> </center> </div>
 <font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/eduardar0">Eduarda Domingos </a></p></font>
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 14:</b> Requisito Não Funcional – RNF17</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 14:</b> A equipe de desenvolvimento deve disponibilizar atualizações de segurança e correções de bugs em um ciclo de, no máximo, 3 meses</p></font>
 
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
   <tr><th colspan="2"><a name="RNF17"></a>Requisito Não Funcional – <a href="#rnf17">RNF17</a></th></tr>
-  <tr><td><strong>Classificação</strong></td><td></td></tr>
-  <tr><td><strong>Descrição</strong></td><td></td></tr>
-  <tr><td><strong>Justificativa</strong></td><td></td></tr>
-  <tr><td><strong>Origem do Requisito</strong></td><td></td></tr>
-  <tr><td><strong>Critério de Aceitação</strong></td><td></td></tr>
-  <tr><td><strong>Dependências</strong></td><td></td></tr>
-  <tr><td><strong>Prioridade</strong></td><td></td></tr>
-  <tr><td><strong>Conflitos</strong></td><td></td></tr>
-  <tr><td><strong>História</strong></td><td></td></tr>
+  <tr><td><strong>Classificação</strong></td><td>Usabilidade</td></tr>
+  <tr><td><strong>Descrição</strong></td><td>A equipe de desenvolvimento deve disponibilizar atualizações de segurança e correções de bugs em um ciclo de, no máximo, 3 meses.</td></tr>
+  <tr><td><strong>Justificativa</strong></td><td>Manter o aplicativo seguro e estável, garantindo proteção contra vulnerabilidades e resolvendo problemas reportados pelos usuários em tempo hábil.</td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming">BS29</a></td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td>Lançamento de atualizações a cada trimestre, com pelo menos 90% das correções críticas implementadas dentro do prazo estabelecido.</td></tr>
+  <tr><td><strong>Dependências</strong></td><td>Processo de desenvolvimento ágil, equipe de QA, sistema de versionamento</td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>8</td></tr>
+  <tr><td><strong>Conflitos</strong></td><td><a href="#rnf15">RNF15</a> (Disponibilidade) - atualizações podem exigir downtime</td></tr>
+  <tr><td><strong>História</strong></td><td>20/10/2025 - Criação</td></tr>
 </table>
 </center>
 
-</div>
+
+
 
 <font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/eduardar0">Eduarda Domingos </a></p></font>
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 15:</b> Requisito Não Funcional – RNF18</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 15:</b> O aplicativo deve permitir que o jovem beneficiário personalize o tamanho da fonte e o esquema de cores para melhorar a legibilidade</p></font>
 
 
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
   <tr><th colspan="2"><a name="RNF18"></a>Requisito Não Funcional – <a href="#rnf18">RNF18</a></th></tr>
-  <tr><td><strong>Classificação</strong></td><td></td></tr>
-  <tr><td><strong>Descrição</strong></td><td></td></tr>
-  <tr><td><strong>Justificativa</strong></td><td></td></tr>
-  <tr><td><strong>Origem do Requisito</strong></td><td></td></tr>
-  <tr><td><strong>Critério de Aceitação</strong></td><td></td></tr>
-  <tr><td><strong>Dependências</strong></td><td></td></tr>
-  <tr><td><strong>Prioridade</strong></td><td></td></tr>
-  <tr><td><strong>Conflitos</strong></td><td></td></tr>
-  <tr><td><strong>História</strong></td><td></td></tr>
+  <tr><td><strong>Classificação</strong></td><td>Acessibilidade</td></tr>
+  <tr><td><strong>Descrição</strong></td><td>O aplicativo deve permitir que o jovem beneficiário personalize o tamanho da fonte e o esquema de cores para melhorar a legibilidade.</td></tr>
+  <tr><td><strong>Justificativa</strong></td><td>Garantir que jovens com dificuldades visuais ou preferências específicas possam utilizar o aplicativo com conforto e autonomia.</td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td><a href="(https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/)">IDJ18</a></td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td>	Opções de pelo menos 3 tamanhos de fonte e 2 esquemas de cores (claro/escuro) devem estar disponíveis e funcionais em todas as telas do aplicativo.</td></tr>
+  <tr><td><strong>Dependências</strong></td><td>Sistema de temas, componentes de UI responsivos, armazenamento de preferências</td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>7</td></tr>
+  <tr><td><strong>Conflitos</strong></td><td><a href="#rnf10">RNF10</a> (Tempo de carregamento) - personalizações podem impactar performance</td></tr>
+  <tr><td><strong>História</strong></td><td>20/10/2025 - Criação</td></tr>
 </table>
 </center>
 

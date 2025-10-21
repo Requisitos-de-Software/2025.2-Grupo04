@@ -14,8 +14,8 @@ Tabela 01: Cronograma executado para todas as atividades da primeira entrega
 <thead>
 <tr>
 <th style="text-align: left">Atividade</th>
-<th style="text-align: left">Período de desenvolvimento</th>
 <th style="text-align: left">Responsáveis</th>
+<th style="text-align: left">Período de desenvolvimento</th>
 <th style="text-align: left">Revisão</th>
 <th style="text-align: left">Revisores</th>
 </tr>
@@ -23,31 +23,31 @@ Tabela 01: Cronograma executado para todas as atividades da primeira entrega
 <tbody>
 <tr>
 <td style="text-align: left">Selecionar app</td>
-<td style="text-align: left">XXXX</td>
-<td style="text-align: left">XXXX</td>
-<td style="text-align: left">XXXX</td>
-<td style="text-align: left">XXXX</td>
+<td style="text-align: left">Arthur, Breno, Dylan, Eduarda, Giovana e Letícia</td>
+<td style="text-align: left">02/09/2025 - 08/09/2025</td>
+<td style="text-align: left">xxx</td>
+<td style="text-align: left">Arthur, Breno, Dylan, Eduarda, Giovana e Letícia</td>
 </tr>
 <tr>
 <td style="text-align: left">Selecionar ferramentas do projeto</td>
-<td style="text-align: left">XXXX</td>
-<td style="text-align: left">XXXX</td>
-<td style="text-align: left">XXXX</td>
-<td style="text-align: left">XXXX</td>
+<td style="text-align: left">Letícia</td>
+<td style="text-align: left">08/09/2025</td>
+<td style="text-align: left">xx</td>
+<td style="text-align: left">Dylan</td>
 </tr>
 <tr>
 <td style="text-align: left">Realização do cronograma</td>
+<td style="text-align: left">Eduarda</td>
+<td style="text-align: left">22/09/2025 - 28/09/2025</td>
 <td style="text-align: left">XXXX</td>
-<td style="text-align: left">XXXX</td>
-<td style="text-align: left">XXXX</td>
-<td style="text-align: left">XXXX</td>
+<td style="text-align: left">Dylan e Arthur</td>
 </tr>
 <tr>
 <td style="text-align: left">Rich Picture</td>
+<td style="text-align: left">Giovana</td>
+<td style="text-align: left">16/09/2025 - 18/09/2025</td>
 <td style="text-align: left">XXXX</td>
-<td style="text-align: left">XXXX</td>
-<td style="text-align: left">XXXX</td>
-<td style="text-align: left">XXXX</td>
+<td style="text-align: left">Leticia</td>
 </tr>
 <tr>
 <td style="text-align: left">Documentar Equipe</td>
@@ -57,53 +57,46 @@ Tabela 01: Cronograma executado para todas as atividades da primeira entrega
 <td style="text-align: left">XXXX</td>
 </tr>
 <tr>
-<td style="text-align: left">Implementar Git Page</td>
+<td style="text-align: left">Implementar Git Pages</td>
+<td style="text-align: left">Dylan</td>
+<td style="text-align: left">06/09/2025</td>
 <td style="text-align: left">XXXX</td>
-<td style="text-align: left">XXXX</td>
-<td style="text-align: left">XXXX</td>
-<td style="text-align: left">XXXX</td>
+<td style="text-align: left">Arthur</td>
 </tr>
 <tr>
 <td style="text-align: left">Metodologia</td>
+<td style="text-align: left">Eduarda</td>
+<td style="text-align: left">28/09/2025</td>
 <td style="text-align: left">XXXX</td>
-<td style="text-align: left">XXXX</td>
-<td style="text-align: left">XXXX</td>
-<td style="text-align: left">XXXX</td>
+<td style="text-align: left">Leticia</td>
 </tr>
 <tr>
 <td style="text-align: left">Heatmap</td>
+<td style="text-align: left">Arthur, Breno, Dylan, Eduarda, Giovana e Letícia</td>
+<td style="text-align: left">07/09/2025</td>
 <td style="text-align: left">XXXX</td>
-<td style="text-align: left">XXXX</td>
-<td style="text-align: left">XXXX</td>
-<td style="text-align: left">XXXX</td>
+<td style="text-align: left">Arthur, Breno, Dylan, Eduarda, Giovana e Letícia</td>
 </tr>
 <tr>
-<td style="text-align: left">vericação</td>
+<td style="text-align: left">vericação e inspeção</td>
+<td style="text-align: left">Arthur, Breno, Dylan, Eduarda, Giovana e Letícia</td>
+<td style="text-align: left">11/09/2025 - 28/09/2025</td>
 <td style="text-align: left">XXXX</td>
-<td style="text-align: left">XXXX</td>
-<td style="text-align: left">XXXX</td>
-<td style="text-align: left">XXXX</td>
+<td style="text-align: left">Arthur e Breno</td>
 </tr>
 <tr>
 <td style="text-align: left">vericação grupo n+1</td>
+<td style="text-align: left">Arthur, Breno, Dylan, Eduarda, Giovana e Letícia</td>
+<td style="text-align: left">10/09/2025 - 18/09/2025</td>
 <td style="text-align: left">XXXX</td>
-<td style="text-align: left">XXXX</td>
-<td style="text-align: left">XXXX</td>
-<td style="text-align: left">XXXX</td>
-</tr>
-<tr>
-<td style="text-align: left">Inspeção</td>
-<td style="text-align: left">XXXX</td>
-<td style="text-align: left">XXXX</td>
-<td style="text-align: left">XXXX</td>
-<td style="text-align: left">XXXX</td>
+<td style="text-align: left">Giovana e Eduarda</td>
 </tr>
 <tr>
 <td style="text-align: left">Gravar apresentação</td>
+<td style="text-align: left">Arthur, Breno, Dylan, Eduarda, Giovana e Letícia</td>
+<td style="text-align: left">07/09/2025 - 16/09/2025</td>
 <td style="text-align: left">XXXX</td>
-<td style="text-align: left">XXXX</td>
-<td style="text-align: left">XXXX</td>
-<td style="text-align: left">XXXX</td>
+<td style="text-align: left">Giovana e Leticia</td>
 </tr>
 <tr>
 <td style="text-align: left">Correção pós apresentação</td>

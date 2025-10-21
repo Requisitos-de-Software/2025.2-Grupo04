@@ -39,7 +39,7 @@ Esta análise refere-se à **Entrega 3** do Grupo 04, cujo projeto agora se conc
 |------|:-:|:-:|:-:|:-:|
 | **01:** Os cenários contemplam de forma adequada os principais fluxos de interação entre os atores e o sistema? | Conforme | --- | 13/10/2025 | [Giovana](https://github.com/GiovanaFontesS) |
 | **02:** Os cenários foram elaborados com linguagem clara e acessível, evitando ambiguidades e garantindo compreensão por todos os envolvidos? | Conforme | --- | 13/10/2025 | [Arthur](https://github.com/arthurfernandesj) |
-| **03:** As especificações dos cenários estão suficientemente detalhadas e claras para orientar o desenvolvimento, abrangendo todos os elementos necessários e possíveis variações? | Conforme | --- | 13/10/2025 | [Eduarda](https://github.com/eduardar0) |
+| **03:** As especificações dos cenários estão suficientemente detalhadas e claras para orientar o desenvolvimento, abrangendo todos os elementos necessários e possíveis variações? | Conforme | --- | 13/10/2025 | [Dylan Cavalcante](https://github.com/dylancavalcante) |
 
 <font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a> e <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></p></font>
 
@@ -62,7 +62,7 @@ Esta análise refere-se à **Entrega 3** do Grupo 04, cujo projeto agora se conc
 | Item | Avaliação | Observação | Responsável |
 |------|:-:|:-:|:-:|
 | **01:** Os léxicos possuem impacto nas classificações dos termos? | Conforme | --- | [Giovana](https://github.com/GiovanaFontesS) |
-| **02:** Os léxicos estão atualizados e refletem as mudanças nos requisitos do sistema? | Conforme | Colocar hiperlinks nos requisitos para levar para a lista de requisitos | [Breno](https://github.com/BrenoLTeixeira) |
+| **02:** Os léxicos estão atualizados e refletem as mudanças nos requisitos do sistema? | Conforme | Colocar hiperlinks nos requisitos para levar para a lista de requisitos | [Letícia Lopes](https://github.com/leticialopes20) |
 | **03:** As definições dos léxicos são claras e compreensíveis para todos os stakeholders envolvidos? | Conforme | --- | [Eduarda](https://github.com/eduardar0) |
 
 <font size="2"><p style="text-align: center">Fonte:  <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a>  e <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></p></font>

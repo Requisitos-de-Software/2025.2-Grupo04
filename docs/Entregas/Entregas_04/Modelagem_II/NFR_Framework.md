@@ -359,7 +359,7 @@ Essa validação assegurou que os requisitos não funcionais fossem não apenas 
 <font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj)</p></font>
 <div align="center">
 
-<div align="center">
+
 <font size="3"><p style="text-align: center"><b>Tabela 7:</b> Tempo de carregamento das páginas do site oficial</p></font>
 
 <center>

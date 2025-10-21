@@ -29,17 +29,7 @@ Para mais informações sobre o funcionamento e termos de uso do aplicativo, ace
 
 <br>
 
-
-## 4. Artefatos Planejados 📋
-
-Os artefatos previstos, associados a cada entrega, estão listados a seguir com seus respectivos links na página de documentação. As informações de cada entrega estão descritas em [*6. Histórico de Entregas*](#6-histórico-de-entregas-).
-
-1. [*Pré-Rastreabilidade* 🔗](#)
-
-
-<br>
-
-## 5. 🧑🏽‍💻 Membros da Equipe 
+## 4. 🧑🏽‍💻 Membros da Equipe 
 
 <p align="center"><strong>Tabela 1:</strong> <i>Membros do time de desenvolvimento</i></p>
 
@@ -49,10 +39,15 @@ Os artefatos previstos, associados a cada entrega, estão listados a seguir com 
 
 <br>
 
-## 6. Histórico de Entregas
+## 5. Histórico de Entregas
 
 <p align="center"><strong>Tabela 2:</strong> <i>Histórico de entregas do projeto</i></p>
 
 | Item | Escopo | Artefatos | Data | Gravação | Autor(es) | Revisor(es) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| **Entrega** `1` | *Pré-Rastreabilidade* | `Planejamento` e `Rich Map` | 11/09/2025 | [[https://img.youtube.com/vi/mn22MRRCZZ4/hqdefault.jpg]]() | [Todos](), [Todos]()| 
+| **Entrega** `1` | *Pré-Rastreabilidade* | `Planejamento` e `Rich Map` | 11/09/2025 | [https://www.youtube.com/embed/mn22MRRCZZ4]() | [Arthur](https://github.com/arthurfernandesj), [Breno](https://github.com/BrenoLTeixeira), [Dylan ](https://github.com/dylancavalcante), [Eduarda](https://github.com/eduardar0), [Giovana](https://github.com/GiovanaFontesS), [Leticia](https://github.com/leticialopes20)| [Arthur](https://github.com/arthurfernandesj)| 
+| **Entrega** `2` | *Pré-Rastreabilidade* | `Elicitação` e `Priorização` | 30/09/2025 | [https://www.youtube.com/embed/44OnmJkUOpk]() | [Arthur](https://github.com/arthurfernandesj), [Breno](https://github.com/BrenoLTeixeira), [Dylan ](https://github.com/dylancavalcante), [Eduarda](https://github.com/eduardar0), [Giovana](https://github.com/GiovanaFontesS), [Leticia](https://github.com/leticialopes20)| [Arthur](https://github.com/arthurfernandesj)| 
+| **Entrega** `3` | *Pré-Rastreabilidade* | `Modelagem` | 12/10/2025 | [https://www.youtube.com/embed/HX4N1TOkEvI]() | [Arthur](https://github.com/arthurfernandesj), [Breno](https://github.com/BrenoLTeixeira), [Dylan ](https://github.com/dylancavalcante), [Eduarda](https://github.com/eduardar0), [Giovana](https://github.com/GiovanaFontesS), [Leticia](https://github.com/leticialopes20)| [Dylan](https://github.com/dylancavalcante)| 
+| **Entrega** `4` | *Pré-Rastreabilidade* | `Modelagem II` | 21/10/2025 | [xxxxxxxxxxxxxxxxxxxxxxxxx]() | [Arthur](https://github.com/arthurfernandesj), [Breno](https://github.com/BrenoLTeixeira), [Dylan ](https://github.com/dylancavalcante), [Eduarda](https://github.com/eduardar0), [Giovana](https://github.com/GiovanaFontesS), [Leticia](https://github.com/leticialopes20)| [Dylan](https://github.com/dylancavalcante)| 
+
+

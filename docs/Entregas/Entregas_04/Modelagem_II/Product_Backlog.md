@@ -145,25 +145,23 @@ Abaixo estão todos os temas e épicos identificados para o ID Jovem.
 
 ## Backlog
 
-<font size="3"><p style="text-align: center">Tabela 2: Backlog</p></font>
-<center>
+| Tema | Épico | Histórias de Usuário | ID US | Prioridade | Rastreabilidade |
+|:--|:--|:--|:--|:--|:--|
+| Consulta e Informações Pessoais | E01 | Consulta de carteirinha digital | US01 |  |  |
+| Consulta e Informações Pessoais | E02 | Consulta de dados pessoais | US02 |  |  |
+| Consulta e Informações Pessoais | E03 | Histórico de acessos e benefícios | US03 |  |  |
+| Emissão e Solicitação de Benefícios | E04 | Solicitação e acompanhamento de benefícios | US04 |  |  |
+| Emissão e Solicitação de Benefícios | E05 | Cancelamento e filtro de solicitações | US05 |  |  |
+| Emissão e Solicitação de Benefícios | E06 | Informação sobre bloqueios e motivos | US06 |  |  |
+| Emissão e Solicitação de Benefícios | E07 | Guias e ajuda para solicitações | US07 |  |  |
+| Parceiros e Eventos | E08 | Visualização e cadastro de parceiros e eventos | US08 |  |  |
+| Comunicação e Suporte | E09 | Suporte via chat e canal de atendimento | US09 |  |  |
+| Comunicação e Suporte | E10 | Notificações e avisos | US10 |  |  |
+| Usabilidade e Acessibilidade | E11 | Personalização da interface | US11 |  |  |
+| Usabilidade e Acessibilidade | E12 | Busca e navegação | US12 |  |  |
+| Segurança | E13 | Acesso seguro e autenticação | US13 |  |  |
 
-<table border="1" cellspacing="0" cellpadding="4">
-  <thead>
-    <tr>
-      <th>Tema</th>
-      <th>Épico</th>
-      <th>História de Usuário</th>
-      <th>ID</th>
-      <th>Prioridade</th>
-      <th>Origem</th>
-      <th>Rastreabilidade</th>
-    </tr>
-  </thead>
-  <tbody>
-  </tbody>
-</table>
-</center>
+<font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj)</p></font>
 
 ## Validação
 
@@ -190,42 +188,15 @@ Abaixo estão todos os temas e épicos identificados para o ID Jovem.
         <td></td>
         <td>H00 à H00</td>
         </tr>
-    </tbody>
-    </table>
-</center>
-
-<font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj)</p></font>
-
-<p align="center">
-  <iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</p>
-
-
-
-<font size="3"><p style="text-align: center">Tabela 3: Participantes Validação</p></font>
-
-<center>
-    <table>
-    <thead>
-        <tr>
-        <th>Participante</th>
-        <th>Backlog</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
+         <tr>
         <td></td>
         <td>H00 à H00</td>
         </tr>
-        <tr>
+         <tr>
         <td></td>
         <td>H00 à H00</td>
         </tr>
-        <tr>
-        <td></td>
-        <td>H00 à H00</td>
-        </tr>
-        <tr>
+         <tr>
         <td></td>
         <td>H00 à H00</td>
         </tr>
@@ -234,15 +205,79 @@ Abaixo estão todos os temas e épicos identificados para o ID Jovem.
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj)</p></font>
+
+
+## Validação
+
+### Gravação 1 - Validação Dylan e Arthur 
 
 <p style="text-align: center">
-  <iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/XqMZYMSVyak" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+  </iframe>
 </p>
+
+ <font size="3">
+    <p style="text-align: center">
+      <b>Fonte:</b> <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, 2025
+    </p>
+  </font>
+  
+
+### Gravação 2 - Validação Eduarda e Leticia  
+
+<p style="text-align: center">
+  <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/4IY3tEKq5II" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+  </iframe>
+</p>
+
+ <font size="3">
+    <p style="text-align: center">
+      <b>Fonte:</b> <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, 2025
+    </p>
+  </font>
+  
 ---
 
+### Gravação 3 - Validação Breno e Giovana
+
+<p style="text-align: center">
+  <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/CPbK4F7Y9uA" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+  </iframe>
+</p>
+
+ <font size="3">
+    <p style="text-align: center">
+      <b>Fonte:</b> <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, 2025
+    </p>
+  </font>
+  
+---
 
 ##  Referências Bibliográficas
 
+
+> SERRANO, Milene. Requisitos - Aula 15. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: [Requisitos - Aula 15](). Acesso em: 20 de Out de 2025.
+>
+
+> </a> Requisitos de Software. Lichess (2022.2). Disponível em: [https://requisitos-de-software.github.io/2022.2-Lichess/modelagem/agil/backlog/](https://requisitos-de-software.github.io/2022.2-Lichess/modelagem/agil/backlog/). Acesso em: 20 Out. 2025.
 
 
 
@@ -251,7 +286,8 @@ Abaixo estão todos os temas e épicos identificados para o ID Jovem.
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--------|------|-----------|-----------|-------------|
 | 1.0 | 18/10/2025 | Criação do Documento: Introdução, Metodologia e Backlog  | [Arthur](https://github.com/arthurfernandesj) | [ Leticia ](https://github.com/leticialopes20) |
-
+| 1.1 | 20/10/2025 | Atualização na tabela de Backlog  | [Arthur](https://github.com/arthurfernandesj) | [ Dylan ](https://github.com/dylancavalcante) |
+| 1.2 | 21/10/2025 | Adição de gravações de validação |  [Giovana Fontes](https://github.com/GiovanaFontesS) | [Arthur Fernandes](https://github.com/arthurfernandesj) | 
 
 
 

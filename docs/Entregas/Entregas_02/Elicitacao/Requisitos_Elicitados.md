@@ -58,19 +58,31 @@ A tabela a seguir apresenta os requisitos funcionais (RF) e não funcionais (RNF
 | **RF22** <a id="rf22"></a> | O sistema deve apresentar uma agenda integrada de eventos com filtros de busca. | **ENT11** | RF | Não |
 | **RF23** <a id="rf23"></a> | O sistema deve fornecer um canal para denúncia ou feedback sobre estabelecimentos que recusam o benefício. | **ENT14** | RF | Não |
 | **RF24** <a id="rf24"></a> | O sistema deve permitir que o usuário favorite eventos e estabelecimentos para consulta rápida. | **ENT15** | RF | Não |
-| **RNF01** <a id="rnf01"></a> | O processo de login deve ser simples e com o menor número de etapas possível. | RNF-USA-01 | RNF | Sim |
-| **RNF02** <a id="rnf02"></a> | A interface deve ser intuitiva, acessível, com layout claro e legível, mesmo para jovens com pouca experiência digital. | RNF-USA-02, BS16, IDJ09, **ENT16, ENT20, ENT21** | RNF | Sim |
-| **RNF03** <a id="rnf03"></a> | A emissão da carteira deve ocorrer em até 5 segundos após a solicitação. | RNF-PER-01 | RNF | Sim |
-| **RNF04** <a id="rnf04"></a> | O aplicativo deve ser gratuito e compatível com Android e iOS. | RNF-POR-01, IDJ06 | RNF | Sim |
-| **RNF05** <a id="rnf05"></a> | Os dados pessoais do Jovem Beneficiário devem ser protegidos com criptografia conforme a LGPD. | RNF-SEG-01, BS22, **ENT19** | RNF | Sim |
+| **RF25** <a id="rf25"></a> | O sistema deve permitir que o usuário recupere o acesso à conta por meio de verificação via e-mail, SMS ou Gov.br. | **ADD07, ENT16** | RF | Não |
+| **RF26** <a id="rf26"></a> | O aplicativo deve disponibilizar um tutorial interativo para orientar novos usuários sobre como utilizar o ID Jovem e seus benefícios. | **BS09, IDJ09** | RF | Não |
+| **RF27** <a id="rf27"></a> | O sistema deve permitir que o usuário avalie parceiros e estabelecimentos conveniados com notas e comentários. | **BS10, ENT18** | RF | Não |
+| **RF28** <a id="rf28"></a> | O aplicativo deve oferecer um modo acessível, com contraste ajustável e leitura por voz para pessoas com deficiência visual. | **ADD08, ENT19** | RF | Não |
+| **RF29** <a id="rf29"></a> | O sistema deve possibilitar a exportação dos comprovantes e histórico de uso em formato PDF. | **ADD09, BS11** | RF | Não |
+| **RF30** <a id="rf30"></a> | O aplicativo deve permitir que o usuário configure preferências de notificação, como tipo de alerta e frequência. | **ENT20, IDJ10** | RF | Não |
+| **RF31** <a id="rf31"></a> | O sistema deve exibir a versão do aplicativo e informações sobre atualizações. | **ADD10** | RF | Sim |
+| **RF32** <a id="rf32"></a> | O aplicativo deve fornecer acesso rápido a termos de uso e política de privacidade. | **ADD11, ENT21** | RF | Sim |
+| **RF33** <a id="rf33"></a> | O sistema deve registrar logs de acesso e ações do usuário para auditoria e segurança. | **ADD12** | RF | Sim |
+| **RF34** <a id="rf34"></a> | O aplicativo deve enviar alertas sobre atualizações importantes do programa ID Jovem. | **BS12, IDJ11** | RF | Sim |
+| **RF35** <a id="rf35"></a> | O sistema deve permitir que o usuário altere sua senha de acesso pelo próprio aplicativo. | **ADD13, ENT22** | RF | Sim |
+| **RF36** <a id="rf36"></a> | O aplicativo deve fornecer integração com GPS para localizar estabelecimentos próximos em tempo real. | **BS13, IDJ12** | RF | Não |
+| **RNF01** <a id="rnf01"></a> | O processo de login deve ser simples e com o menor número de etapas possível. | ENT17 | RNF | Sim |
+| **RNF02** <a id="rnf02"></a> | A interface deve ser intuitiva, acessível, com layout claro e legível, mesmo para jovens com pouca experiência digital. | BS16, IDJ09, **ENT16, ENT20, ENT21** | RNF | Sim |
+| **RNF03** <a id="rnf03"></a> | A emissão da carteira deve ocorrer em até 2 segundos após a solicitação. | BS28 | RNF | Sim |
+| **RNF04** <a id="rnf04"></a> | O aplicativo deve ser gratuito e compatível com Android e iOS. | IDJ06 | RNF | Sim |
+| **RNF05** <a id="rnf05"></a> | Os dados pessoais do Jovem Beneficiário devem ser protegidos com criptografia conforme a LGPD. |BS22, **ENT19** | RNF | Sim |
 | **RNF06** <a id="rnf06"></a> | O aplicativo deve funcionar com baixo consumo de internet e ser acessível em regiões carentes. | BS24 | RNF | Não |
 | **RNF07** <a id="rnf07"></a> | O aplicativo deve possuir recursos de acessibilidade (alto contraste, leitura de tela, voz e Libras). | BS20, IDJ09 | RNF | Não |
-| **RNF08** <a id="rnf08"></a> | O sistema deve garantir disponibilidade mínima de 99,5%. | RNF-CON-01 | RNF | Não |
+| **RNF08** <a id="rnf08"></a> | O sistema deve garantir disponibilidade mínima de 99,5%. | BS27 | RNF | Não |
 | **RNF09** <a id="rnf09"></a> | O design deve ser responsivo em diferentes tamanhos de tela e dispositivos. | ST09 | RNF | Sim |
-| **RNF10** | O tempo de carregamento das páginas do site oficial não deve exceder 3 segundos em conexões de internet de baixa velocidade. | ADD - Desempenho | RNF | Não |
-| **RNF11** | O aplicativo deve garantir que as informações sobre os benefícios estejam 100% sincronizadas com a base de dados oficial. | ADD - Confiabilidade | RNF | Não |
-| **RNF12** | O sistema deve ser compatível com as duas versões anteriores dos principais navegadores web e sistemas operacionais móveis. | ADD - Suportabilidade | RNF | Não |
-| **RNF13** | A navegação entre as seções do site e do aplicativo deve ser consistente e previsível para o jovem beneficiário. | ADD - Usabilidade | RNF | Não |
+| **RNF10** | O tempo de carregamento das páginas do site oficial não deve exceder 3 segundos em conexões de internet de baixa velocidade. | BS24 | RNF | Não |
+| **RNF11** | O aplicativo deve garantir que as informações sobre os benefícios estejam 100% sincronizadas com a base de dados oficial. | IDJ08 | RNF | Não |
+| **RNF12** | O sistema deve ser compatível com as duas versões anteriores dos principais navegadores web e sistemas operacionais móveis. | BS15, BS23, ST09| RNF | Não |
+| **RNF13** | A navegação entre as seções do site e do aplicativo deve ser consistente e previsível para o jovem beneficiário. | BS16, ENT17 | RNF | Não |
 | **RNF14** | O aplicativo deve apresentar um feedback visual e sonoro claro para cada interação do jovem beneficiário. | BS26 | RNF | Não |
 | **RNF15** | O sistema deve ter um tempo máximo de inatividade de 2 horas por mês, fora das janelas de manutenção programada. | BS27 | RNF | Não |
 | **RNF16** | O tempo de resposta para validação da carteirinha (QR Code) não deve exceder 2 segundos. | BS28 | RNF | Não |
@@ -97,5 +109,7 @@ Autor:
 | 1.1 | 09/10/2025 | Adicionados ids aos requisitos para facilitar a citação dos mesmos| [Eduarda Rodrigues](https://github.com/eduardar0) | [Dylan Cavalcante](https://github.com/dylancavalcante)|
 | 1.2| 10/10/2025 | Adiciona mais requisitos elicitados em entrevista| [Dylan Cavalcante](https://github.com/dylancavalcante) | [Giovana Fontes](https://github.com/giovanaFontesS)|
 | 1.3| 12/10/2025 |     Remoção de titulo da tabela duplicado| [Breno Teixeira](https://github.com/BrenoLteixeira) | [Giovana Fontes](https://github.com/giovanaFontesS)|
-| 1.2| 10/10/2025 | Adiciona mais requisitos elicitados em várias técnicas de elicitação| [Dylan Cavalcante](https://github.com/dylancavalcante) | [Giovana Fontes](https://github.com/giovanaFontesS)|
+| 1.4| 10/10/2025 | Adiciona mais requisitos elicitados em várias técnicas de elicitação| [Dylan Cavalcante](https://github.com/dylancavalcante) | [Giovana Fontes](https://github.com/giovanaFontesS)|
+| 1.5| 20/10/2025 | Correção da rastreabilidade de alguns RNF| [Breno Teixeira](https://github.com/BrenolTeixeira) | [Giovana Fontes](https://github.com/giovanaFontesS)|
+| 1.6 | 21/10/2025 | Adicionar mais requisitos elicitados | [Giovana Fontes](https://github.com/giovanaFontesS) | [Dylan Cavalcante](https://github.com/dylancavalcante) |
 </center>

@@ -565,78 +565,66 @@ Essa validação assegurou que os requisitos não funcionais fossem não apenas 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 16:</b> Requisito Não Funcional – RNF19</p></font>
 
-
-<center>
+</center>
 <table border="1" cellpadding="6" cellspacing="0">
-  <tr><th colspan="2"><a name="RNF19"></a>Requisito Não Funcional – <a href="#rnf19">RNF19</a></th></tr>
-  <tr><td><strong>Classificação</strong></td><td></td></tr>
-  <tr><td><strong>Descrição</strong></td><td></td></tr>
-  <tr><td><strong>Justificativa</strong></td><td></td></tr>
-  <tr><td><strong>Origem do Requisito</strong></td><td></td></tr>
-  <tr><td><strong>Critério de Aceitação</strong></td><td></td></tr>
-  <tr><td><strong>Dependências</strong></td><td></td></tr>
-  <tr><td><strong>Prioridade</strong></td><td></td></tr>
-  <tr><td><strong>Conflitos</strong></td><td></td></tr>
-  <tr><td><strong>História</strong></td><td></td></tr>
+  <tr><th colspan="2"><a name="RNF19"></a>Requisito Não Funcional – <a href="#rnf19">RNF19</a></th></tr>
+  <tr><td><strong>Classificação</strong></td><td>Segurança / Auditabilidade</td></tr>
+  <tr><td><strong>Descrição</strong></td><td>O sistema deve registrar todas as tentativas de validação da carteira, bem-sucedidas ou não, para fins de auditoria.</td></tr>
+  <tr><td><strong>Justificativa</strong></td><td>Garantir a rastreabilidade das operações, identificar possíveis fraudes e manter a conformidade com normas de segurança e transparência.</td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/">IDJ19</a></td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td>100% das tentativas de validação (bem-sucedidas ou falhas) devem ser registradas em log seguro, incluindo data, hora, resultado e identificador do validador.</td></tr>
+  <tr><td><strong>Dependências</strong></td><td>Infraestrutura de logs, política de retenção de dados (ver <a href="#rnf22">RNF22</a>).</td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>9</td></tr>
+  <tr><td><strong>Conflitos</strong></td><td>Pode impactar levemente o desempenho (<a href="#rnf16">RNF16</a>) devido à escrita de logs; pode exigir mais armazenamento.</td></tr>
+  <tr><td><strong>História</strong></td><td>20/10/2025</td></tr>
 </table>
 </center>
 
 </div>
 
 <font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/dylancavalcante">Dylan Cavalcante </a></p></font>
-
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 17:</b> Requisito Não Funcional – RNF20</p></font>
-
-
-<center>
+</center>
 <table border="1" cellpadding="6" cellspacing="0">
-  <tr><th colspan="2"><a name="RNF20"></a>Requisito Não Funcional – <a href="#rnf20">RNF20</a></th></tr>
-  <tr><td><strong>Classificação</strong></td><td></td></tr>
-  <tr><td><strong>Descrição</strong></td><td></td></tr>
-  <tr><td><strong>Justificativa</strong></td><td></td></tr>
-  <tr><td><strong>Origem do Requisito</strong></td><td></td></tr>
-  <tr><td><strong>Critério de Aceitação</strong></td><td></td></tr>
-  <tr><td><strong>Dependências</strong></td><td></td></tr>
-  <tr><td><strong>Prioridade</strong></td><td></td></tr>
-  <tr><td><strong>Conflitos</strong></td><td></td></tr>
-  <tr><td><strong>História</strong></td><td></td></tr>
+  <tr><th colspan="2"><a name="RNF20"></a>Requisito Não Funcional – <a href="#rnf20">RNF20</a></th></tr>
+  <tr><td><strong>Classificação</strong></td><td>Desempenho</td></tr>
+  <tr><td><strong>Descrição</strong></td><td>A consulta à elegibilidade do CadÚnico deve retornar o resultado em no máximo 3 segundos.</td></tr>
+  <tr><td><strong>Justificativa</strong></td><td>Proporcionar uma experiência de usuário ágil e evitar que o jovem beneficiário abandone o processo de cadastro devido à lentidão.</td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/">IDJ20</a></td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td>O tempo de resposta da API de consulta ao CadÚnico, desde a requisição até a resposta, não deve ultrapassar 3 segundos em 95% das tentativas.</td></tr>
+  <tr><td><strong>Dependências</strong></td><td>Disponibilidade e performance da API externa do CadÚnico.</td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>8</td></tr>
+  <tr><td><strong>Conflitos</strong></td><td>A dependência de um serviço externo (CadÚnico) pode tornar difícil garantir esse tempo caso o serviço de origem esteja lento.</td></tr>
+  <tr><td><strong>História</strong></td><td>20/10/2025</td></tr>
 </table>
 </center>
 
 </div>
 
 <font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/dylancavalcante">Dylan Cavalcante </a></p></font>
-
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 18:</b> Requisito Não Funcional – RNF21</p></font>
-
-
-<center>
+</center>
 <table border="1" cellpadding="6" cellspacing="0">
-  <tr><th colspan="2"><a name="RNF21"></a>Requisito Não Funcional – <a href="#rnf21">RNF21</a></th></tr>
-  <tr><td><strong>Classificação</strong></td><td></td></tr>
-  <tr><td><strong>Descrição</strong></td><td></td></tr>
-  <tr><td><strong>Justificativa</strong></td><td></td></tr>
-  <tr><td><strong>Origem do Requisito</strong></td><td></td></tr>
-  <tr><td><strong>Critério de Aceitação</strong></td><td></td></tr>
-  <tr><td><strong>Dependências</strong></td><td></td></tr>
-  <tr><td><strong>Prioridade</strong></td><td></td></tr>
-  <tr><td><strong>Conflitos</strong></td><td></td></tr>
-  <tr><td><strong>História</strong></td><td></td></tr>
+  <tr><th colspan="2"><a name="RNF21"></a>Requisito Não Funcional – <a href="#rnf21">RNF21</a></th></tr>
+  <tr><td><strong>Classificação</strong></td><td>Escalabilidade</td></tr>
+  <tr><td><strong>Descrição</strong></td><td>O sistema deve ter capacidade de ser facilmente escalado para atender a um aumento de 50% no número de jovens beneficiários sem degradação do desempenho.</td></tr>
+  <tr><td><strong>Justificativa</strong></td><td>Assegurar que o aplicativo continue funcional e rápido mesmo com o crescimento da base de usuários ou picos de acesso.</td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/">IDJ21</a></td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td>A arquitetura deve suportar um aumento de 50% da carga de usuários mantendo os tempos de resposta definidos em outros RNFs (ex: <a href="#rnf10">RNF10</a>, <a href="#rnf20">RNF20</a>).</td></tr>
+  <tr><td><strong>Dependências</strong></td><td>Arquitetura em nuvem (auto-scaling), balanceamento de carga.</td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>8</td></tr>
+  <tr><td><strong>Conflitos</strong></td><td>Pode aumentar os custos de infraestrutura.</td></tr>
+  <tr><td><strong>História</strong></td><td>20/10/2025</td></tr>
 </table>
 </center>
 
 </div>
-
 <font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/dylancavalcante">Dylan Cavalcante </a></p></font>
-
-
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 19:</b> Requisito Não Funcional – RNF22</p></font>
-
-
-<center>
+</center>
 <table border="1" cellpadding="6" cellspacing="0">
   <tr><th colspan="2"><a name="RNF22"></a>Requisito Não Funcional – <a href="#rnf22">RNF22</a></th></tr>
   <tr><td><strong>Classificação</strong></td><td></td></tr>
@@ -658,8 +646,6 @@ Essa validação assegurou que os requisitos não funcionais fossem não apenas 
 <div align="center">
 
  <a name="RNF23"></a><font size="3"><p style="text-align: center"><b>Tabela 20:</b> Requisito Não Funcional – RNF23</p></font>
-
-
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
   <tr><th colspan="2"><a name="RNF23"></a>Requisito Não Funcional – <a href="#rnf23">RNF23</a></th></tr>

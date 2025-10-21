@@ -207,7 +207,7 @@ Abaixo estão todos os temas e épicos identificados para o ID Jovem.
 <font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj)</p></font>
 
 
-## Validação Com usuários 
+## Validação
 
 ### Gravação 1 - Validação Dylan e Arthur 
 
@@ -277,6 +277,7 @@ Abaixo estão todos os temas e épicos identificados para o ID Jovem.
 |--------|------|-----------|-----------|-------------|
 | 1.0 | 18/10/2025 | Criação do Documento: Introdução, Metodologia e Backlog  | [Arthur](https://github.com/arthurfernandesj) | [ Leticia ](https://github.com/leticialopes20) |
 | 1.1 | 20/10/2025 | Atualização na tabela de Backlog  | [Arthur](https://github.com/arthurfernandesj) | [ Dylan ](https://github.com/dylancavalcante) |
+| 1.2 | 21/10/2025 | Adição de gravações de validação |  [Giovana Fontes](https://github.com/GiovanaFontesS) | [Arthur Fernandes](https://github.com/arthurfernandesj) | 
 
 
 

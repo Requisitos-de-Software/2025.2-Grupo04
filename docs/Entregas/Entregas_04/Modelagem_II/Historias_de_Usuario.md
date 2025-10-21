@@ -50,41 +50,68 @@ A história é validada com o Product Owner e a equipe, podendo ser ajustada ou 
   </thead>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></td>
-      <td align="center"><a href="#h10">US10</a>, <a href="#h11">US11</a></td>
-      <td align="center">20/10/2025</td>
-      <td align="center">19:46</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/BrenoLTeixeira">Breno Teixeira</a></td>
-      <td align="center"><a href="#h09">US09</a>, <a href="#h13">US13</a></td>
-      <td align="center">20/10/2025</td>
-      <td align="center">16:59</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></td>
-      <td align="center"><a href="#h05">US05</a>, <a href="#h06">US06</a>, <a href="#h14">US14</a></td>
-      <td align="center">19/10/2025</td>
-      <td align="center">19:08</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/eduardar0">Eduarda Domingos</a></td>
-      <td align="center"><a href="#h03">US03</a>, <a href="#h04">US04</a></td>
-      <td align="center">20/10/2025</td>
-      <td align="center">16:30</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></td>
-      <td align="center"><a href="#h07">US07</a>, <a href="#h08">US08</a></td>
-      <td align="center">20/10/2025</td>
-      <td align="center">07:23</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/leticialopes20">Letícia Lopes</a></td>
-      <td align="center"><a href="#h01">US01</a>, <a href="#h02">US02</a>, <a href="#h12">US12</a></td>
-      <td align="center">20/10/2025</td>
-      <td align="center">00:30</td>
-    </tr>
+<tr>
+  <td align="center"><a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></td>
+  <td align="center">
+    <a href="#h10">US10</a> – Fornecer alertas sobre possíveis irregularidades no uso dos benefícios<br>
+    <a href="#h11">US11</a> – Possuir um mapa interativo para visualizar geograficamente parceiros e eventos
+  </td>
+  <td align="center">20/10/2025</td>
+  <td align="center">19:46</td>
+</tr>
+
+<tr>
+  <td align="center"><a href="https://github.com/BrenoLTeixeira">Breno Teixeira</a></td>
+  <td align="center">
+    <a href="#h09">US09</a> – Permitir que o jovem beneficiário atualize seu cadastro e defina preferências pessoais<br>
+    <a href="#h13">US13</a> – Fornecer um canal para denúncia ou feedback sobre estabelecimentos que recusam o benefício
+  </td>
+  <td align="center">20/10/2025</td>
+  <td align="center">16:59</td>
+</tr>
+<tr>
+  <td align="center"><a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></td>
+  <td align="center">
+    <a href="#h05">US05</a> – Permitir que o Jovem Beneficiário visualize o histórico de utilização dos benefícios<br>
+    <a href="#h06">US06</a> – Seção de "Vantagens e Parcerias" com novidades, divulgação sobre o programa e ofertas exclusivas<br>
+    <a href="#h14">US14</a> – Permitir que o jovem beneficiário favorite eventos e estabelecimentos para consulta rápida
+  </td>
+  <td align="center">19/10/2025</td>
+  <td align="center">19:08</td>
+</tr>
+
+<tr>
+  <td align="center"><a href="https://github.com/eduardar0">Eduarda Domingos</a></td>
+  <td align="center">
+    <a href="#h03">US03</a> – Disponibilizar informações sobre locais e parceiros que aceitam o benefício<br>
+    <a href="#h04">US04</a> – Fornecer canal de suporte via chat, e-mail ou formulário de contato
+  </td>
+  <td align="center">20/10/2025</td>
+  <td align="center">16:30</td>
+</tr>
+<tr>
+  <td align="center"><a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></td>
+  <td align="center">
+    <a href="#h07">US07</a> – Permitir compartilhar a carteirinha em PDF ou imagem,<br>
+    <a href="#h08">US08</a> – Fornecer informações sobre pendências ou erros relacionados aos benefícios do jovem beneficiário<br>
+    <a href="#h08">US15</a> –  Cadastro do Jovem Beneficiário via CPF<br>
+    <a href="#h08">US16</a> – Autenticação e Login via Gov.br<br>
+    <a href="#h08">US17</a> – Recuperação de Conta via Gov.br, E-mail ou SMS<br>
+    <a href="#h08">US18</a> – Tutorial Interativo do ID Jovem
+  </td>
+  <td align="center">20/10/2025</td>
+  <td align="center">07:23</td>
+</tr>
+<tr>
+  <td align="center"><a href="https://github.com/leticialopes20">Letícia Lopes</a></td>
+  <td align="center">
+    <a href="#h01">US01</a> – Integração com o CadÚnico para atualização automática de dados,<br>
+    <a href="#h02">US02</a> – Emitir notificações sobre vencimento e renovação do benefício,<br>
+    <a href="#h12">US12</a> – Apresentar uma agenda integrada de eventos com filtros de busca
+  </td>
+  <td align="center">20/10/2025</td>
+  <td align="center">00:30</td>
+</tr>
   </tbody>
 </table>
 </div>
@@ -351,7 +378,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 
 <font size="3"><p style="text-align: center">Tabela 1: História de cadastro do Jovem Beneficiário via CPF</p></font>
 
-| **ID** | US01 |
+| **ID** | US15 |
 |--------|------------|
 | **Rastreabilidade** | [RF01](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf01) |
 | **Tema** | Cadastro do Jovem Beneficiário |
@@ -368,7 +395,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 
 <font size="3"><p style="text-align: center">Tabela 2: História de autenticação e login via Gov.br</p></font>
 
-| **ID** | US02 |
+| **ID** | US16 |
 |--------|------------|
 | **Rastreabilidade** | [RF02](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf02),  |
 | **Tema** | Autenticação e Login |
@@ -379,6 +406,40 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 | **Autor** | [Giovana Fontes](https://github.com/GiovanaFontesS) |
 
 <font size="2"><p style="text-align: center">Fonte: [Giovana Fontes](https://github.com/GiovanaFontesS)</p></font>
+
+
+### <a name="h17"></a> **História 17: Recuperação de Conta via Gov.br, E-mail ou SMS**
+
+<font size="3"><p style="text-align: center">Tabela 3: História de recuperação de conta</p></font>
+
+| **ID** | US17 |
+|--------|------------|
+| **Rastreabilidade** | [RF25](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf25) |
+| **Tema** | Recuperação de Conta |
+| **Descrição** | Eu, como Jovem Beneficiário, desejo recuperar o acesso à minha conta por meio de verificação via e-mail, SMS ou Gov.br, para garantir que possa acessar meus dados mesmo em caso de perda de credenciais. |
+| **Critérios de Aceitação** | - O sistema deve permitir recuperação de conta via e-mail, SMS ou Gov.br. <br> - O usuário deve receber instruções claras para concluir a recuperação. <br> - Mensagens de erro devem ser exibidas em caso de falha no processo de verificação. <br> - A conta só deve ser recuperada após validação segura das informações fornecidas. |
+| **Prioridade Usuário** | Alta |
+| **Status** | Validado |
+| **Autor** | <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a> |
+
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></p></font>
+
+### <a name="h18"></a> **História 18: Tutorial Interativo do ID Jovem**
+
+<font size="3"><p style="text-align: center">Tabela 4: História do tutorial interativo</p></font>
+
+| **ID** | US18 |
+|--------|------------|
+| **Rastreabilidade** | [RF26](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf26) |
+| **Tema** | Tutorial Interativo |
+| **Descrição** | Eu, como Jovem Beneficiário, desejo acessar um tutorial interativo no aplicativo para ser orientado sobre como utilizar o ID Jovem e aproveitar seus benefícios. |
+| **Critérios de Aceitação** | - O aplicativo deve disponibilizar um tutorial interativo ao novo usuário. <br> - O tutorial deve explicar passo a passo como acessar e usar o ID Jovem. <br> - O usuário deve poder acessar o tutorial a qualquer momento pelo menu de ajuda. <br> - Feedbacks e instruções devem ser claros e de fácil compreensão. |
+| **Prioridade Usuário** | Média |
+| **Status** | Validado |
+| **Autor** | <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a> |
+
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></p></font>
+
 
 ## Validação  
 
@@ -461,3 +522,4 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 | 1.5 | 20/10/2025 | Adição das Histórias de Usuário [US09](#h09) e [US13](#h13) | [Breno Teixeira](https://github.com/BrenoLTeixeira) | [Eduarda Rodrigues](https://github.com/eduardar0) |
 | 1.6 | 20/10/2025 | Adição das Histórias de Usuário [US10](#h09) e [US11](#h13) | [Arthur Fernandes](https://github.com/arthurfernandesj) | [ Letícia Lopes](https://github.com/leticialopes20) |
 | 1.7 | 21/10/2025 | Adição de gravações de validação |  [Giovana Fontes](https://github.com/GiovanaFontesS) | [Arthur Fernandes](https://github.com/arthurfernandesj) | 
+| 1.8 | 21/10/2025 |  Adição de Contribuições | [Giovana Fontes](https://github.com/GiovanaFontesS) |  [Arthur Fernandes](https://github.com/arthurfernandesj) |

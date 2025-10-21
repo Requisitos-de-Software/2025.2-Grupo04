@@ -700,8 +700,8 @@ Essa validação assegurou que os requisitos não funcionais fossem não apenas 
 | `1.2` | 20/10/2025 | Adição de Cartões de Especificação [RNF10](#rnf10), [RNF11](#rnf11), [RNF12](#rnf12) | [Giovana Fontes](https://github.com/GiovanaFontesS) | [Letícia Lopes](https://github.com/leticialopes20) |
 | `1.3` | 20/10/2025 | Adição de todos os RNFs na tabela 3, adição de hiperlinks na página | [Letícia Lopes](https://github.com/leticialopes20) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
 | `1.4` | 20/10/2025 | Adição de Cartões de Especificação [RNF13](#rnf13), [RNF14](#rnf14), [RNF15](#rnf15) | [Letícia Lopes](https://github.com/leticialopes20) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
-| `1.4` | 20/10/2025 | Adição de Cartões de Especificação [RNF19](#rnf19), [RNF20](#rnf20), [RNF21](#rnf21) | [Dylan Cavalcante](https://github.com/dylancavalcante) | [Letícia Lopes](https://github.com/leticialopes20) |
-
+| `1.5` | 20/10/2025 | Adição de Cartões de Especificação [RNF19](#rnf19), [RNF20](#rnf20), [RNF21](#rnf21) | [Dylan Cavalcante](https://github.com/dylancavalcante) | [Letícia Lopes](https://github.com/leticialopes20) |
+| `1.6` | 20/10/2025 | Adição de Cartões de Especificação [RNF16](#rnf16), [RNF17](#rnf17), [RNF18](#rn18) | [Eduarda Domingos](https://github.com/eduardar0) | [Dylan Cavalcante](https://github.com/dylancavalcante) |
 
 ---
 

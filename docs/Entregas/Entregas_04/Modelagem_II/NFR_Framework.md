@@ -288,75 +288,74 @@ Essa validação assegurou que os requisitos não funcionais fossem não apenas 
 
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Requisito Não Funcional – RNF06</p></font>
-
-
+<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Baixo consumo de internet</p></font>
 
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
   <tr><th colspan="2"><a name="RNF06"></a>Requisito Não Funcional – <a href="#rnf06">RNF06</a></th></tr>
-  <tr><td><strong>Classificação</strong></td><td></td></tr>
-  <tr><td><strong>Descrição</strong></td><td></td></tr>
-  <tr><td><strong>Justificativa</strong></td><td></td></tr>
-  <tr><td><strong>Origem do Requisito</strong></td><td></td></tr>
-  <tr><td><strong>Critério de Aceitação</strong></td><td></td></tr>
-  <tr><td><strong>Dependências</strong></td><td></td></tr>
-  <tr><td><strong>Prioridade</strong></td><td></td></tr>
-  <tr><td><strong>Conflitos</strong></td><td></td></tr>
-  <tr><td><strong>História</strong></td><td></td></tr>
+  <tr><td><strong>Classificação</strong></td><td>Usabilidade</td></tr>
+  <tr><td><strong>Descrição</strong></td><td>O aplicativo deve funcionar com baixo consumo de internet, garantindo acessibilidade em regiões com conexão limitada e aparelhos de baixa performance.</td></tr>
+  <tr><td><strong>Justificativa</strong></td><td>Jovens em regiões carentes podem ter acesso limitado à internet e a dispositivos com menor capacidade de processamento, sendo essencial que o app seja leve e eficiente.</td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming">BS24</a></td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td>O aplicativo deve carregar páginas e funcionalidades básicas em até 3 segundos em conexões de internet de baixa velocidade (até 3G) e em dispositivos com memória limitada.</td></tr>
+  <tr><td><strong>Dependências</strong></td><td>Otimização de imagens, cache de navegador, compressão de arquivos e interface simplificada para reduzir consumo de dados.</td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>9</td></tr>
+  <tr><td><strong>Conflitos</strong></td><td><a href="#rnf08">RNF08</a> (Inclusão de mídia pesada) – pode aumentar consumo de dados e reduzir desempenho</td></tr>
+  <tr><td><strong>História</strong></td><td>20/10/2025</td></tr>
 </table>
 </center>
+
 </div>
 
-<font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj)</p></font>
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></p></font>
 
 
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 5:</b> Requisito Não Funcional – RNF07</p></font>
-
+<font size="3"><p style="text-align: center"><b>Tabela 5:</b> Recursos de acessibilidade</p></font>
 
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
   <tr><th colspan="2"><a name="RNF07"></a>Requisito Não Funcional – <a href="#rnf07">RNF07</a></th></tr>
-  <tr><td><strong>Classificação</strong></td><td></td></tr>
-  <tr><td><strong>Descrição</strong></td><td></td></tr>
-  <tr><td><strong>Justificativa</strong></td><td></td></tr>
-  <tr><td><strong>Origem do Requisito</strong></td><td></td></tr>
-  <tr><td><strong>Critério de Aceitação</strong></td><td></td></tr>
-  <tr><td><strong>Dependências</strong></td><td></td></tr>
-  <tr><td><strong>Prioridade</strong></td><td></td></tr>
-  <tr><td><strong>Conflitos</strong></td><td></td></tr>
-  <tr><td><strong>História</strong></td><td></td></tr>
+  <tr><td><strong>Classificação</strong></td><td>Usabilidade</td></tr>
+  <tr><td><strong>Descrição</strong></td><td>O aplicativo deve possuir recursos de acessibilidade, como alto contraste, leitura de tela, suporte a voz e Libras.</td></tr>
+  <tr><td><strong>Justificativa</strong></td><td>Garantir que jovens com deficiência visual, auditiva ou outras necessidades especiais consigam utilizar o aplicativo de forma independente e eficiente.</td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/">BS20</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/">IDJ09</a></td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td>O aplicativo deve ser compatível com leitores de tela, permitir alternância de alto contraste e oferecer suporte a Libras em conteúdos essenciais.</td></tr>
+  <tr><td><strong>Dependências</strong></td><td>Implementação de alto contraste, suporte a leitores de tela, integração com biblioteca de Libras, compatibilidade com diferentes dispositivos.</td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>10</td></tr>
+  <tr><td><strong>Conflitos</strong></td><td><a href="#rnf08">RNF08</a> (Disponibilidade do sistema) – ajustes de acessibilidade podem impactar performance se não otimizados</td></tr>
+  <tr><td><strong>História</strong></td><td>20/10/2025</td></tr>
 </table>
 </center>
 
 </div>
 
-<font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj)</p></font>
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></p></font>
+
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 6:</b> Requisito Não Funcional – RNF08</p></font>
 
-
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
-  <tr><th colspan="2"><a name="RNF08"></a>Requisito Não Funcional – <a href="#rnf08">RNF08</a></th></tr>
-  <tr><td><strong>Classificação</strong></td><td></td></tr>
-  <tr><td><strong>Descrição</strong></td><td></td></tr>
-  <tr><td><strong>Justificativa</strong></td><td></td></tr>
-  <tr><td><strong>Origem do Requisito</strong></td><td></td></tr>
-  <tr><td><strong>Critério de Aceitação</strong></td><td></td></tr>
-  <tr><td><strong>Dependências</strong></td><td></td></tr>
-  <tr><td><strong>Prioridade</strong></td><td></td></tr>
-  <tr><td><strong>Conflitos</strong></td><td></td></tr>
-  <tr><td><strong>História</strong></td><td></td></tr>
+  <tr><th colspan="2"><a name="RNF08"></a>Requisito Não Funcional – <a href="#RNF08">RNF08</a></th></tr>
+  <tr><td><strong>Classificação</strong></td><td>Confiabilidade / Desempenho</td></tr>
+  <tr><td><strong>Descrição</strong></td><td>O sistema deve garantir disponibilidade mínima de 99,5% durante o horário de funcionamento.</td></tr>
+  <tr><td><strong>Justificativa</strong></td><td>Garantir que os usuários consigam acessar o aplicativo a qualquer momento, evitando frustrações e interrupções no acesso aos benefícios.</td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/">RNF-CON-01</a></td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td>Monitoramento do sistema deve comprovar que a disponibilidade real não é inferior a 99,5% em um período de 30 dias.</td></tr>
+  <tr><td><strong>Dependências</strong></td><td>Infraestrutura de servidores, otimização de processos de atualização e monitoramento contínuo do sistema.</td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>9</td></tr>
+  <tr><td><strong>Conflitos</strong></td><td>Atualizações do sistema podem reduzir temporariamente a disponibilidade se não houver planejamento adequado.</td></tr>
+  <tr><td><strong>História</strong></td><td>20/10/2025</td></tr>
 </table>
 </center>
 
 </div>
 
 <font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj)</p></font>
+
 <div align="center">
 
 <div align="center">

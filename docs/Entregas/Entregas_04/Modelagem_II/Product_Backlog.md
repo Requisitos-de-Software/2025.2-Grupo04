@@ -231,10 +231,15 @@ Abaixo estão todos os temas e épicos identificados para o ID Jovem.
 
 ### Gravação 2 - Validação Eduarda e Leticia  
 
----
-
 <p style="text-align: center">
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/4IY3tEKq5II" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+  </iframe>
 </p>
 
  <font size="3">

@@ -144,7 +144,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 | **Descrição** | Eu, como Jovem Beneficiário, desejo que meus dados pessoais e cadastrais sejam atualizados automaticamente por meio da integração do aplicativo com o CadÚnico, para garantir que minhas informações estejam sempre corretas e evitar bloqueios ou inconsistências no benefício. |
 | **Critérios de Aceitação** | - O sistema deve se conectar automaticamente à base de dados do CadÚnico. <br>- As atualizações devem ocorrer periodicamente, sem necessidade de ação manual do usuário.<br>- O usuário deve ser notificado quando seus dados forem atualizados. <br>- Em caso de falha na atualização, o sistema deve informar o motivo e sugerir solução. |
 | **Prioridade Usuário** | Alta|
-| **Status** | Aguardando validação |
+| **Status** | Validado |
 | **Autor** | [Letícia Lopes](https://github.com/leticialopes20) |
 
 <font size="2"><p style="text-align: center">Fonte: [Letícia Lopes](https://github.com/leticialopes20)</p></font>
@@ -158,7 +158,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 | **Descrição** | Eu, como Jovem Beneficiário, desejo receber notificações sobre o vencimento e o prazo de renovação do meu benefício, para que eu possa manter o cadastro ativo e não perca o acesso aos direitos oferecidos pelo programa. |
 | **Critérios de Aceitação** | - O sistema deve emitir notificações automáticas 30, 15 e 5 dias antes do vencimento do benefício. <br>- As notificações devem estar disponíveis no aplicativo e opcionalmente por e-mail ou push notification. <br>- A mensagem deve conter o link ou instrução para realizar a renovação. <br>- O sistema deve confirmar quando a renovação for concluída com sucesso. |
 | **Prioridade Usuário** |Alta|
-| **Status** | Aguardando validação |
+| **Status** | Validado |
 | **Autor** | [Letícia Lopes](https://github.com/leticialopes20) |
 
 <font size="2"><p style="text-align: center">Fonte: [Letícia Lopes](https://github.com/leticialopes20)</p></font>
@@ -174,7 +174,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 | **Descrição** | Como jovem beneficiário, eu quero consultar os locais e parceiros que aceitam o ID Jovem, para saber onde posso utilizar meus benefícios de forma prática e planejada.  |
 | **Critérios de Aceitação** | -Usuário consegue acessar a lista de parceiros <br>- Sistema exibe informações completas dos estabelecimentos (nome, endereço, horário)<br> - Funcionalidade funciona em dispositivos móveis<br>- Busca por localização ou categoria disponível<br>- Informações atualizadas e precisas|
 | **Prioridade Usuário** |Média  |
-| **Status** | Aguardadando validação |
+| **Status** | Validado |
 | **Autor** | [Eduarda](https://github.com/eduardar0) |
 
 <font size="2"><p style="text-align: center">Fonte:[Eduarda](https://github.com/eduardar0)</p></font>
@@ -190,7 +190,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 | **Descrição** | Como usuário do ID Jovem, eu quero ter acesso a um canal de suporte eficiente, para resolver minhas dúvidas e problemas de forma rápida e satisfatória.  |
 | **Critérios de Aceitação** |- Usuário consegue acessar o canal de suporte <br>- Múltiplas opções disponíveis (chat, e-mail, formulário)<br>- Sistema fornece confirmação de recebimento<br>- Tempo de resposta dentro do esperado<br>- Funcionalidade funciona em dispositivos móveis<br>- Histórico de atendimento disponível  |
 | **Prioridade Usuário** | Alta  |
-| **Status** | Aguardando Validação |
+| **Status** | Validado |
 | **Autor** | [Eduarda](https://github.com/eduardar0) |
 
 <font size="2"><p style="text-align: center">Fonte: [Eduarda](https://github.com/eduardar0)</p></font>
@@ -204,7 +204,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 | **Descrição** | Eu, como Jovem Beneficiário, desejo visualizar um histórico de onde e quando utilizei meus benefícios (como viagens interestaduais e meia-entrada), para poder acompanhar meu uso e ter um registro das minhas atividades. |
 | **Critérios de Aceitação** | - O histórico deve exibir uma lista cronológica das utilizações.<br>- Cada item da lista deve detalhar o tipo de benefício usado (ex: Meia-entrada, Vaga gratuita em transporte). <br>- Cada item deve registrar a data e, se possível, a empresa ou evento onde foi utilizado. <br>- O histórico deve ser de fácil acesso a partir do menu principal ou do perfil do jovem beneficiário. |
 | **Prioridade Usuário** | média |
-| **Status** | Aguardando validação |
+| **Status** | Validado |
 | **Autor** | [Dylan Cavalcante](https://github.com/dylancavalcante) |
 
 <font size="2"><p style="text-align: center">Fonte: [Dylan Cavalcante](https://github.com/dylancavalcante)</p></font>
@@ -218,7 +218,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 | **Descrição** | Eu, como Jovem Beneficiário, desejo acessar uma seção de "Vantagens e Parcerias" para descobrir novidades sobre o programa, cursos profissionalizantes, e ofertas exclusivas de parceiros. |
 | **Critérios de Aceitação** | - A seção deve ser claramente visível no menu principal do aplicativo. <br>- O conteúdo deve ser dividido em categorias (ex: 'Novidades do Programa', 'Cursos e Capacitação', 'Ofertas de Parceiros'). <br>- O conteúdo deve ser atualizado regularmente. <br>- As ofertas e notícias devem ser relevantes para o público do ID Jovem. |
 | **Prioridade Usuário** | média|
-| **Status** | Aguardando validação |
+| **Status** | Validado |
 | **Autor** | [Dylan Cavalcante](https://github.com/dylancavalcante) |
 
 <font size="2"><p style="text-align: center">Fonte: [Dylan Cavalcante](https://github.com/dylancavalcante)</p></font>
@@ -234,7 +234,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 | **Descrição** | Eu, como Jovem Beneficiário, desejo compartilhar minha carteirinha digital em formato PDF ou imagem para apresentá-la facilmente em locais que exigem comprovação do benefício. |
 | **Critérios de Aceitação** | - O aplicativo deve permitir o download da carteirinha em formato PDF e imagem (JPEG ou PNG). <br> - O arquivo gerado deve conter todas as informações válidas do beneficiário. <br> - O compartilhamento deve ser possível por aplicativos de mensagem e e-mail. <br> - O processo de compartilhamento deve ocorrer em até 5 segundos após a solicitação. |
 | **Prioridade Usuário** | Alta |
-| **Status** | Aguardando validação |
+| **Status** | Validado |
 | **Autor** | [Giovana Fontes](https://github.com/GiovanaFontesS) |
 
 <font size="2"><p style="text-align: center">Fonte: [Giovana Fontes](https://github.com/GiovanaFontesS)</p></font>
@@ -251,7 +251,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 | **Descrição** | Eu, como Jovem Beneficiário, desejo visualizar informações sobre pendências ou erros relacionados aos meus benefícios, para compreender o motivo de possíveis bloqueios ou falhas na emissão da carteirinha. |
 | **Critérios de Aceitação** | - O aplicativo deve exibir mensagens claras quando houver pendências ou erros nos dados do beneficiário. <br> - As mensagens devem conter instruções sobre como resolver o problema (ex: atualizar cadastro, verificar documentação). <br> - O sistema deve diferenciar visualmente os tipos de erro (pendência documental, erro no sistema, dados inválidos etc.). <br> - As notificações devem ser acessíveis na tela principal do usuário. |
 | **Prioridade Usuário** | Alta |
-| **Status** | Aguardando validação |
+| **Status** | Validado |
 | **Autor** | [Giovana Fontes](https://github.com/GiovanaFontesS) |
 
 <font size="2"><p style="text-align: center">Fonte: [Giovana Fontes](https://github.com/GiovanaFontesS)</p></font>
@@ -266,7 +266,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 | **Descrição** | Eu, como Jovem Beneficiário, desejo poder atualizar minhas informações de cadastro e definir preferências pessoais, para manter meus dados corretos e receber conteúdo alinhado aos meus interesses. |
 | **Critérios de Aceitação** | - O usuário deve conseguir acessar uma seção "Meu Perfil" ou "Configurações".<br>- O usuário deve conseguir editar campos cadastrais (ex: e-mail, telefone).<br>- O usuário deve conseguir salvar as alterações no perfil.<br>- O usuário deve poder selecionar categorias de interesse (ex: shows, esportes, teatro) para personalizar notificações. |
 | **Prioridade Usuário** | Média |
-| **Status** | Aguardando validação |
+| **Status** | Validado |
 | **Autor** | [Breno Teixeira](https://github.com/BrenoLTeixeira) |
 
 ### <a name="h10"></a> **História 10: Fornecer alertas sobre possíveis irregularidades no uso dos benefícios**  
@@ -279,7 +279,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 | **Descrição** | Eu, como Jovem Beneficiário, desejo receber alertas sobre possíveis irregularidades no uso dos meus benefícios, para que eu possa evitar problemas legais e garantir que estou utilizando corretamente meus direitos. |
 | **Critérios de Aceitação** | - O sistema deve identificar padrões de uso incorreto ou suspeito.<br>- Alertas devem ser enviados via aplicativo ou e-mail em tempo real.<br>- Cada alerta deve conter instruções claras sobre como regularizar a situação.<br>- O sistema deve evitar falsos positivos em mais de 5% dos casos. |
 | **Prioridade Usuário** | Alta |
-| **Status** | Aguardando validação |
+| **Status** | Validado |
 | **Autor** | [Arthur Fernandes](https://github.com/arthurfernandesj) |
 
 <font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj)</p></font>
@@ -296,7 +296,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 | **Descrição** | Eu, como Jovem Beneficiário, desejo visualizar parceiros e eventos em um mapa interativo, para localizar facilmente onde posso utilizar meus benefícios e participar de atividades do programa. |
 | **Critérios de Aceitação** | - O mapa deve exibir todos os parceiros e eventos cadastrados.<br>- Deve ser possível filtrar por tipo de benefício, data ou localidade.<br>- Clicar em um ponto do mapa deve exibir informações detalhadas sobre o parceiro ou evento.<br>- O mapa deve ser responsivo e funcionar corretamente em dispositivos móveis. |
 | **Prioridade Usuário** | Média |
-| **Status** | Aguardando validação |
+| **Status** | Validado |
 | **Autor** | [Arthur Fernandes](https://github.com/arthurfernandesj) |
 
 <font size="2"><p style="text-align: center">Fonte: [Arthur](https://github.com/arthurfernandesj)</p></font>
@@ -312,7 +312,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 | **Descrição** | Eu, como Jovem Beneficiário, desejo acessar uma agenda de eventos integrados ao aplicativo, com possibilidade de filtrar por data, local e tipo de evento, para planejar melhor minha participação em atividades culturais, esportivas e educacionais.|
 | **Critérios de Aceitação** | - A agenda deve listar eventos culturais, esportivos e educacionais disponíveis aos beneficiários do programa.<br>- O usuário deve conseguir filtrar eventos por data, cidade e categoria. <br>- Cada evento deve exibir informações detalhadas (nome, local, horário, parceiro envolvido e se há meia-entrada ou gratuidade). <br>- Deve haver opção para adicionar eventos à agenda pessoal ou marcar como favorito. |
 | **Prioridade Usuário** | Média |
-| **Status** | Aguardando validação |
+| **Status** | Validado |
 | **Autor** | [Letícia Lopes](https://github.com/leticialopes20) |
 
 <font size="2"><p style="text-align: center">Fonte: [Letícia Lopes](https://github.com/leticialopes20)</p></font>
@@ -328,7 +328,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 | **Descrição** | Eu, como Jovem Beneficiário, desejo ter um canal para enviar denúncias ou feedbacks sobre estabelecimentos que recusaram a ID Jovem, para que os administradores do programa possam tomar providências e garantir meu direito. |
 | **Critérios de Aceitação** | - Deve existir uma seção "Denúncia" ou "Reportar Problema" no aplicativo.<br>- O formulário deve permitir inserir o nome do estabelecimento, data, local e uma descrição do ocorrido.<br>- O sistema deve permitir (opcionalmente) anexar uma foto do local ou comprovante.<br>- O sistema deve enviar uma confirmação de recebimento da denúncia/feedback. |
 | **Prioridade Usuário** | Alta |
-| **Status** | Aguardando validação |
+| **Status** | Validado |
 | **Autor** | [Breno Teixeira](https://github.com/BrenoLTeixeira) |
 
 <font size="2"><p style="text-align: center">Fonte: [Breno Teixeira](https://github.com/BrenoLTeixeira)</p></font>
@@ -342,10 +342,43 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 | **Descrição** | Eu, como Jovem Beneficiário, desejo salvar (favoritar) eventos e estabelecimentos parceiros do meu interesse para poder consultá-los rapidamente no futuro em uma lista dedicada. |
 | **Critérios de Aceitação** | - Deve haver um botão ou ícone (ex: estrela, coração) visível na página de detalhes de cada evento/estabelecimento para favoritá-lo. <br>- Deve existir uma seção "Meus Favoritos" no aplicativo, acessível pelo menu ou perfil do jovem beneficiário. <br>- Ao clicar no botão de favoritar, o item deve ser adicionado à lista "Meus Favoritos". <br>- O jovem beneficiário deve poder remover um item da lista de favoritos a qualquer momento. |
 | **Prioridade Usuário** | baixa |
-| **Status** | Aguardando validação |
+| **Status** | Validado |
 | **Autor** | [Dylan Cavalcante](https://github.com/dylancavalcante) |
 
 <font size="2"><p style="text-align: center">Fonte: [Dylan Cavalcante](https://github.com/dylancavalcante)</p></font>
+
+### <a name="h01"></a> **História 15: Cadastro do Jovem Beneficiário via CPF**
+
+<font size="3"><p style="text-align: center">Tabela 1: História de cadastro do Jovem Beneficiário via CPF</p></font>
+
+| **ID** | US01 |
+|--------|------------|
+| **Rastreabilidade** | [RF01](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf01) |
+| **Tema** | Cadastro do Jovem Beneficiário |
+| **Descrição** | Eu, como Jovem Beneficiário, desejo me cadastrar no sistema utilizando meu CPF para ter acesso às funcionalidades do aplicativo de forma segura e personalizada. |
+| **Critérios de Aceitação** | - O sistema deve permitir o cadastro utilizando CPF válido. <br> - O cadastro deve validar se o CPF não está duplicado. <br> - O cadastro deve gerar um perfil inicial do beneficiário após validação do CPF. |
+| **Prioridade Usuário** | Alta |
+| **Status** | Validado |
+| **Autor** | [Giovana Fontes](https://github.com/GiovanaFontesS) |
+
+<font size="2"><p style="text-align: center">Fonte: [Giovana Fontes](https://github.com/GiovanaFontesS)</p></font>
+
+---
+### <a name="h02"></a> **História 16: Autenticação e Login via Gov.br**
+
+<font size="3"><p style="text-align: center">Tabela 2: História de autenticação e login via Gov.br</p></font>
+
+| **ID** | US02 |
+|--------|------------|
+| **Rastreabilidade** | [RF02](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf02),  |
+| **Tema** | Autenticação e Login |
+| **Descrição** | Eu, como Jovem Beneficiário, desejo me autenticar e fazer login no aplicativo via Gov.br para garantir a segurança e confiabilidade do acesso às minhas informações. |
+| **Critérios de Aceitação** | - O sistema deve permitir login via Gov.br. <br> - O processo de autenticação deve validar as credenciais do usuário em tempo real. <br> - O sistema deve redirecionar o usuário para a tela inicial após login bem-sucedido. <br> - Mensagens de erro devem ser exibidas em caso de falha na autenticação. |
+| **Prioridade Usuário** | Alta |
+| **Status** | Validado |
+| **Autor** | [Giovana Fontes](https://github.com/GiovanaFontesS) |
+
+<font size="2"><p style="text-align: center">Fonte: [Giovana Fontes](https://github.com/GiovanaFontesS)</p></font>
 
 ## Validação  
 

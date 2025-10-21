@@ -712,20 +712,89 @@ A Tabela 22 apresenta a avaliação da propagação dos impactos identificados n
 | NFR | Impacto | Avaliador |
 |-----|---------|------------|
 | [RNF06](#rnf06) - Funcionar com baixo consumo de internet | ✓ |[Arthur Fernandes](https://github.com/arthurfernandesj) |
-| [RNF07](#rnf07) - Recursos de acessibilidade (alto contraste, leitura de tela, voz e Libras) | ✓⁺ | [Arthur ](https://github.com/VictorPontual) |
+| [RNF07](#rnf07) - Recursos de acessibilidade (alto contraste, leitura de tela, voz e Libras) | ✓  | [Arthur ](https://github.com/VictorPontual) |
 | [RNF13](#rnf13) - Navegação consistente e previsível | ✓ |[Arthur Fernandes](https://github.com/arthurfernandesj) |
 | [RNF14](#rnf14) - Feedback visual e sonoro claro | ✓ | [Arthur Fernandes](https://github.com/arthurfernandesj) |
 | [RNF17](#rnf17) - Atualizações a cada 3 meses | 𝒲⁺ |[Arthur Fernandes](https://github.com/arthurfernandesj) |
 
 <font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></p></font>
 
-## NRF02:
+Justificativa baseada na metodologia do documento:
+
+- **RNF06 (✓)**: "Satisfeito" - Baixo consumo garante acesso em regiões carentes e melhora experiência do usuário
+- **RNF07 (✓)**: "Satisfeito" - Recursos de acessibilidade ampliam o público e tornam o app mais inclusivo
+- **RNF13 (✓)**: "Satisfeito" - Navegação consistente reduz curva de aprendizado e facilita uso
+- **RNF14 (✓)**: "Satisfeito" - Feedback claro aumenta confiança do usuário nas interações
+- **RNF17 (𝒲⁺)**: "Fracamente satisfeito" - Atualizações melhoram estabilidade, mas podem exigir adaptação do usuário
+
+
+## NRF02: Segurança
 
 ### Descrição:
+Este SIG (Softgoal Interdependency Graph) foi elaborado com base nos requisitos não funcionais relacionados à segurança do sistema no que tange aos dados. A segurança é responsável por garantir que os dados do usuário e de todas as partes envolvidas no uso do sistema tenham uma camada de proteção contra a exposição indesejada das suas informações.
 
 ### Requisitos:
+Requisitos utilizados para desenvolver o SIG da Figura 6:
+
+- [**RNF19**](#rnf19): O sistema deve registrar todas as tentativas de validação da carteira, bem-sucedidas ou não, para fins de auditoria;
+- [**RNF22**](#rnf22): O sistema deve manter um log de auditoria de todas as emissões e validações de carteirinhas por 5 anos.
 
 ### Propagação dos Impactos:
+
+A Tabela 23 apresenta a avaliação da propagação dos impactos identificados na Figura 6.
+
+**Tabela 23: Avaliação dos Impactos dos Requisitos sobre Segurança**
+
+
+| NFR | Impacto | Avaliador |
+|-----|---------|------------|
+| [RNF19](#rnf19) - Registrar tentativas de validação para auditoria | ✓ | [Giovana Fontes](https://github.com/GiovanaFontesS)  |
+| [RNF22](#rnf22) - Manter log de auditoria por 5 anos | ✓ | [Giovana Fontes](https://github.com/GiovanaFontesS) |
+
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></p></font>
+
+Justificativa baseada na metodologia do documento:
+
+- **RNF19 (✓)**: "Satisfeito" - Registro completo de tentativas garante rastreabilidade e detecção de atividades suspeitas
+- **RNF22 (✓)**: "Satisfeito" - Retenção de logs por 5 anos atende requisitos legais e permite auditorias de longo prazo
+
+## NFR03: Desempenho
+
+### Descrição:
+Este SIG (Softgoal Interdependency Graph) foi elaborado com base nos requisitos não funcionais relacionados ao desempenho do sistema. O desempenho é responsável por garantir que o aplicativo ID Jovem ofereça tempos de resposta ágeis e disponibilidade adequada, proporcionando uma experiência eficiente para os jovens beneficiários durante o acesso aos benefícios e validação da carteirinha.
+
+### Requisitos:
+Requisitos utilizados para desenvolver o SIG da Figura 7:
+
+- [**RNF08**](#rnf08): O sistema deve garantir disponibilidade mínima de 99,5% durante o horário de funcionamento.
+- [**RNF10**](#rnf10): O tempo de carregamento das páginas do site oficial não deve exceder 3 segundos em conexões de internet de baixa velocidade
+- [**RNF16**](#rnf16): O tempo de resposta para validação da carteirinha (QR Code) não deve exceder 2 segundos.
+- [**RNF20**](#rnf20): A consulta à elegibilidade do CadÚnico deve retornar o resultado em no máximo 3 segundos.
+- [**RNF23**](#rnf23): O aplicativo deve carregar as informações de eventos e parceiros em no máximo 3 segundos, mesmo com grande volume de dados.
+
+### Propagação dos Impactos:
+
+A Tabela 24 apresenta a avaliação da propagação dos impactos identificados na Figura 7.
+
+**Tabela 24: Avaliação dos Impactos dos Requisitos sobre Desempenho**
+
+| NFR | Impacto | Avaliador |
+|-----|---------|------------|
+| [RNF08](#rnf08) - Garantir disponibilidade mínima de 99,5% | ✓ | [Letícia Lopes](https://github.com/leticialopes20) |
+| [RNF10](#rnf10) - Tempo de carregamento ≤ 3 segundos | ✓ | [Letícia Lopes](https://github.com/leticialopes20) |
+| [RNF16](#rnf16) - Validação QR Code ≤ 2 segundos | ✓ | [Letícia Lopes](https://github.com/leticialopes20) |
+| [RNF20](#rnf20) - Consulta CadÚnico ≤ 3 segundos | 𝒲⁺ | [Letícia Lopes](https://github.com/leticialopes20) |
+| [RNF23](#rnf23) - Carregamento eventos/parceiros ≤ 3 segundos | 𝒲⁺ | [Letícia Lopes](https://github.com/leticialopes20) |
+
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/leticialopes20">Letícia Lopes</a></p></font>
+
+Justificativa baseada na metodologia do documento:
+
+- **RNF08 (✓)**: "Satisfeito" - Meta clara de disponibilidade que impacta diretamente no desempenho do sistema
+- **RNF10 (✓)**: "Satisfeito" - Tempo específico de carregamento essencial para experiência do usuário
+- **RNF16 (✓)**: "Satisfeito" - Operação crítica com métrica rigorosa para funcionalidade central
+- **RNF20 (𝒲⁺)**: "Fracamente satisfeito" - Consulta externa com tempo definido, mas dependente de serviço terceiro
+- **RNF23 (𝒲⁺)**: "Fracamente satisfeito" - Funcionalidade importante mas com menor criticidade que operações centrais
 
 
 
@@ -750,5 +819,7 @@ A Tabela 22 apresenta a avaliação da propagação dos impactos identificados n
 | `1.6` | 20/10/2025 | Adição de Cartões de Especificação [RNF16](#rnf16), [RNF17](#rnf17), [RNF18](#rn18) | [Eduarda Domingos](https://github.com/eduardar0) | [Dylan Cavalcante](https://github.com/dylancavalcante) |
 | `1.7` | 20/10/2025 | Adição de Cartões de Especificação [RNF22](#rnf22), [RNF23](#rnf23), [RNF24](#rnf24) | [Breno Teixeira](https://github.com/BrenoLTeixeira) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
 | `1.8` | 21/10/2025 | Adição de NFR00-Geral | [Letícia Lopes](https://github.com/leticialopes20) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
-| `1.9` | 21/10/2025 | Adição de NFR01-Usabilidade | [Arthur Fernandes](https://github.com/arthurfernandesj)  |[Letícia Lopes](https://github.com/leticialopes20) |
+| `1.9` | 21/10/2025 | Adição de NFR01-Usabilidade, NFR02-Segurança | [Arthur Fernandes](https://github.com/arthurfernandesj), [Giovana Fontes](https://github.com/GiovanaFontesS)   |[Letícia Lopes](https://github.com/leticialopes20) |
+| `2.0` | 21/10/2025 | Adição de NFR03-Desempenho, NFR04-Acessibilidade |[Letícia Lopes](https://github.com/leticialopes20), [Eduarda Domingos](https://github.com/eduardar0)  |[Arthur Fernandes](https://github.com/arthurfernandesj) |
+| `2.1` | 21/10/2025 | Adição de NFR05-Confiabilidade, NFR06-Portabilidade |[Dylan Cavalcante](https://github.com/dylancavalcante), [Dylan Cavalcante](https://github.com/dylancavalcante)  |[Letícia Lopes](https://github.com/leticialopes20)|
 ---

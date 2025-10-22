@@ -3,7 +3,7 @@
 ## Introdução
 
 <p style="text-align: justify;">
-Aqui está definida a inspeção da entrega 4 do nosso grupo, cujo projeto aborda o aplicativo ID Jovem (Identidade Jovem). A análise contemplou os principais tópicos definidos para esta entrega, como NFR Framework, Histórias de Usuário e Product Backlog. O modelo de lista de verificação utilizado está definido em <a href="https://requisitos-de-software.github.io/2024.2-Grupo7-ID_Jovem/planejamento/entregas/entrega_4/">Entrega 4</a> e foi construído com a participação de todos os membros do grupo 07.
+Aqui está definida a inspeção da entrega 4 do nosso grupo, cujo projeto aborda o aplicativo ID Jovem (Identidade Jovem). A análise contemplou os principais tópicos definidos para esta entrega, como NFR Framework, Histórias de Usuário e Product Backlog. O modelo de lista de verificação utilizado está definido em <a href="https://requisitos-de-software.github.io/2024.2-Grupo7-ID_Jovem/planejamento/entregas/entrega_4/">Entrega 4</a> e foi construído com a participação de todos os membros do grupo 04.
 </p>
 
 ## Apresentação

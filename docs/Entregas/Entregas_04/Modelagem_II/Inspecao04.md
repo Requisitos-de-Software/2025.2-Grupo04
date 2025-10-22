@@ -4,7 +4,7 @@
 
 
 Esta análise refere-se à **Entrega 4** do Grupo 04, cujo projeto é centrado no desenvolvimento do aplicativo *ID Jovem*. A inspeção foi realizada levando em consideração os processos de modelagem ágil e documentação de requisitos, como o NFR Framework, Histórias de Usuário e Backlog.
-O modelo de lista de verificação utilizado está definido em <a href="https://requisitos-de-software.github.io/2024.2-Grupo7-ID_Jovem/planejamento/entregas/entrega_4/">Entrega 4</a>, e foi construído com a participação de todos os membros do grupo 05. Os registros da avaliação foram feitos de forma criteriosa, incluindo prints, datas e horários das avaliações.
+O modelo de lista de verificação utilizado está definido em <a href="https://requisitos-de-software.github.io/2024.2-Grupo7-ID_Jovem/planejamento/entregas/entrega_4/">Entrega 4</a>, e foi construído com a participação de todos os membros do grupo 04. Os registros da avaliação foram feitos de forma criteriosa, incluindo prints, datas e horários das avaliações.
 
 
 ## Links

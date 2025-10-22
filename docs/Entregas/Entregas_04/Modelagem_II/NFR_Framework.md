@@ -682,10 +682,13 @@ i <tr><td><strong>História</strong></td><td>20/10/2025</td></tr>
 A figura 4 a seguir demonstra o Gráfico de Interdependência do Softgoal de uma maneira geral.
 
 <font size="3"><p style="text-align: center"> Figura 4: Geral</p></font>
+
+![Figura 4](../../../assets/NFR/Geral.png)
+
 <div align="center">
 
 </div>
-<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/leticialopes20">Letícia Lopes </a></p></font>
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes </a></p></font>
 
 ## NRF01: Usabilidade
 
@@ -701,6 +704,16 @@ Requisitos utilizados para compor o SIG da Figura 5:
 - [**RNF14**](#rnf14): O aplicativo deve apresentar um feedback visual e sonoro claro para cada interação do jovem beneficiário;
 - [**RNF17**](#rnf17): A equipe de desenvolvimento deve disponibilizar atualizações de segurança e correções de bugs em um ciclo de, no máximo, 3 meses.
 
+A figura 5 a seguir demonstra o Gráfico de Usabilidade.
+
+<font size="3"><p style="text-align: center"> Figura 5: Usabilidade</p></font>
+
+![Figura 5](../../../assets/NFR/usabilidade.png)
+
+<div align="center">
+
+</div>
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes </a></p></font>
 
 
 ### Propagação dos Impactos:
@@ -739,6 +752,18 @@ Requisitos utilizados para desenvolver o SIG da Figura 6:
 - [**RNF19**](#rnf19): O sistema deve registrar todas as tentativas de validação da carteira, bem-sucedidas ou não, para fins de auditoria;
 - [**RNF22**](#rnf22): O sistema deve manter um log de auditoria de todas as emissões e validações de carteirinhas por 5 anos.
 
+
+<font size="3"><p style="text-align: center"> Figura 6: Segurança</p></font>
+
+![Figura 6](../../../assets/NFR/seguranca.png)
+
+<div align="center">
+
+</div>
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes </a></p></font>
+
+
+
 ### Propagação dos Impactos:
 
 A Tabela 23 apresenta a avaliação da propagação dos impactos identificados na Figura 6.
@@ -771,6 +796,16 @@ Requisitos utilizados para desenvolver o SIG da Figura 7:
 - [**RNF16**](#rnf16): O tempo de resposta para validação da carteirinha (QR Code) não deve exceder 2 segundos.
 - [**RNF20**](#rnf20): A consulta à elegibilidade do CadÚnico deve retornar o resultado em no máximo 3 segundos.
 - [**RNF23**](#rnf23): O aplicativo deve carregar as informações de eventos e parceiros em no máximo 3 segundos, mesmo com grande volume de dados.
+
+<font size="3"><p style="text-align: center"> Figura 7: Desempenho</p></font>
+
+![Figura 7](../../../assets/NFR/desempenho.png)
+
+<div align="center">
+
+</div>
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/BrenoLTeixeira">Breno Teixeira </a></p></font>
+
 
 ### Propagação dos Impactos:
 
@@ -808,6 +843,16 @@ Requisitos utilizados para desenvolver o SIG da Figura 8:
 - [**RNF18**](#rnf18): O aplicativo deve permitir que o jovem beneficiário personalize o tamanho da fonte e o esquema de cores para melhorar a legibilidade.
 
 
+<font size="3"><p style="text-align: center"> Figura 8: Acessibilidade</p></font>
+
+![Figura 8](../../../assets/NFR/acessibilidade.png)
+
+<div align="center">
+
+</div>
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes </a></p></font>
+
+
 ### Propagação dos Impactos:
 
 A Tabela 25 apresenta a avaliação da propagação dos impactos identificados na Figura 8.
@@ -840,6 +885,17 @@ Requisitos utilizados para desenvolver o SIG da Figura 9:
 
 ### Propagação dos Impactos:
 
+<font size="3"><p style="text-align: center"> Figura 9: Confiabilidade</p></font>
+
+![Figura 9](../../../assets/NFR/confiabilidade.png)
+
+<div align="center">
+
+</div>
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes </a></p></font>
+
+
+
 A Tabela 26 apresenta a avaliação da propagação dos impactos identificados na Figura 9.
 
 **Tabela 26: Avaliação dos Impactos dos Requisitos sobre Confiabilidade**
@@ -869,6 +925,16 @@ Requisitos utilizados para desenvolver o SIG da Figura 10:
 - [**RNF12**](#rnf12): O sistema deve ser compatível com as duas versões anteriores dos principais navegadores web e sistemas operacionais móveis.
 - [**RNF24**](#rnf24):O aplicativo deve ser compatível com a API mais recente e as duas versões anteriores do sistema operacional móvel.
 
+<font size="3"><p style="text-align: center"> Figura 10: Portabilidade</p></font>
+
+![Figura 10](../../../assets/NFR/portabilidade.png)
+
+<div align="center">
+
+</div>
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/BrenoLTeixeira">Breno Teixeira </a></p></font>
+
+
 ### Propagação dos Impactos:
 
 A Tabela 27 apresenta a avaliação da propagação dos impactos identificados na Figura 10.
@@ -885,6 +951,26 @@ Justificativa baseada na metodologia do documento:
 
 - **RNF12 (✓)**: "Satisfeito" - Compatibilidade retroativa amplia o público e garante acesso universal
 - **RNF24 (✓)**: "Satisfeito" - Suporte a múltiplas APIs assegura funcionamento em diferentes versões de Sistema Operacional
+
+## SIG Completo 
+
+### Descrição
+
+Este SIG (Softgoal Interdependency Graph) foi elaborado a partir de todos os requisitos não funcionais elicitados do sistema. Ele mostra todas as relações entre os SIGs anteriores em um único grafo, possibilitando a visualização geral das dinâmicas entre eles.
+
+
+<font size="3"><p style="text-align: center"> Figura 11: Portabilidade</p></font>
+
+![Figura 11](../../../assets/NFR/geral.png)
+
+<div align="center">
+
+</div>
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes </a></p></font>
+
+
+
+
 
 ## Validação 
 
@@ -955,7 +1041,7 @@ Justificativa baseada na metodologia do documento:
 > 1. SILVA, Reinaldo Antônio da. *NFR4ES: um catálogo de requisitos não-funcionais para sistemas embarcados.* 2019. 154 f. Dissertação (Mestrado em Ciência da Computação) – Universidade Federal de Pernambuco, Recife, 2019.  
 >
 > 2. CHUNG, Lawrence; NIXON, Brian A.; YU, Eric; MYLLOPULOS, John. *Non-functional requirements in software engineering.* Springer Science & Business Media, 2000.  
-
+> 3. Lucidchart. Diagramação com inteligência. 2025. Disponível em: <a> https://www.lucidchart.com/pages/pt</a>. Acesso em: 21 out. 2025.
 ---
 
 ## Histórico de Versão
@@ -975,3 +1061,4 @@ Justificativa baseada na metodologia do documento:
 | `2.0` | 21/10/2025 | Adição de NFR03-Desempenho, NFR04-Acessibilidade |[Letícia Lopes](https://github.com/leticialopes20), [Eduarda Domingos](https://github.com/eduardar0)  |[Arthur Fernandes](https://github.com/arthurfernandesj) |
 | `2.1` | 21/10/2025 | Adição de NFR05-Confiabilidade, NFR06-Portabilidade |[Dylan Cavalcante](https://github.com/dylancavalcante), [Breno Teixeira](https://github.com/BrenoLTeixeira) |[Letícia Lopes](https://github.com/leticialopes20)|
 | `2.2` | 21/10/2025 | Adição de gravações de validação |  [Giovana Fontes](https://github.com/GiovanaFontesS) | [Arthur Fernandes](https://github.com/arthurfernandesj) | 
+| `2.3` | 21/10/2025 | Adição de imagem dos NFR |  [Arthur Fernandes](https://github.com/arthurfernandesj) | [Giovana Fontes](https://github.com/GiovanaFontesS) | 

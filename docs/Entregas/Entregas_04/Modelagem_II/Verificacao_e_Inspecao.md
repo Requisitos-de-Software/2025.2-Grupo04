@@ -8,13 +8,41 @@ Aqui está definida a inspeção da entrega 4 do nosso grupo, cujo projeto abord
 
 ## Apresentação
 
----
-
 <p style="text-align: center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/exemplo" title="Apresentação ID Jovem - Entrega 4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/cBTT2fTXZ4s" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+  </iframe>
 </p>
 
----
+ <font size="3">
+    <p style="text-align: center">
+      <b>Fonte:</b> <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, 2025
+    </p>
+  </font>
+
+## Inspeção
+
+<p style="text-align: center">
+  <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/NZ47w1XCKHg" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+  </iframe>
+</p>
+
+<font size="3">
+  <p style="text-align: center">
+    <b>Fonte:</b> <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a>, 2025
+  </p>
+</font>
 
 ## Lista de Verificação/Inspeção da Entrega 4
 

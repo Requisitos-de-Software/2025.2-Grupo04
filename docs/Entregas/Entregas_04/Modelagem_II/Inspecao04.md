@@ -2,15 +2,15 @@
 
 ## Introdução
 
-Esta análise refere-se à **Entrega 4** do Grupo 05, cujo projeto é centrado no desenvolvimento do aplicativo *Jornada do Estudante*. A inspeção foi realizada levando em consideração os processos de modelagem ágil e documentação de requisitos, como o NFR Framework, Histórias de Usuário e Backlog.
 
-O modelo de lista de verificação utilizado está definido em [Entrega 4](), e foi construído com a participação de todos os membros do grupo 05. Os registros da avaliação foram feitos de forma criteriosa, incluindo prints, datas e horários das avaliações.
+Esta análise refere-se à **Entrega 4** do Grupo 04, cujo projeto é centrado no desenvolvimento do aplicativo *ID Jovem*. A inspeção foi realizada levando em consideração os processos de modelagem ágil e documentação de requisitos, como o NFR Framework, Histórias de Usuário e Backlog.
+O modelo de lista de verificação utilizado está definido em <a href="https://requisitos-de-software.github.io/2024.2-Grupo7-ID_Jovem/planejamento/entregas/entrega_4/">Entrega 4</a>, e foi construído com a participação de todos os membros do grupo 05. Os registros da avaliação foram feitos de forma criteriosa, incluindo prints, datas e horários das avaliações.
 
 
 ## Links
 
-- *GitHub* do grupo inspecionado: [[LINK]]()
-- *GitHub Pages* do grupo inspecionado: [[LINK]]()
+- *GitHub* do grupo inspecionado: [[LINK]](https://github.com/Requisitos-de-Software/2025.2-Grupo04)
+- *GitHub Pages* do grupo inspecionado: [[LINK]](https://requisitos-de-software.github.io/2025.2-Grupo04/)
 
 
 ## Gravação
@@ -18,7 +18,7 @@ O modelo de lista de verificação utilizado está definido em [Entrega 4](), e 
 ---
 
 <p style="text-align: center">
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/exemplo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
 ---
@@ -30,47 +30,47 @@ O modelo de lista de verificação utilizado está definido em [Entrega 4](), e 
 
 | Item | Autor(es) | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |
 | :---- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **01:** O artefato apresenta uma bibliografia/referência bibliográfica? | [](https://github.com/) |  |  | ![][image1] | Arthur, Breno, Dylan, Eduarda, Giovana, Leticia. | 21/10/2025 00:00 |
-| **02:** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? | [](https://github.com/) |  |  | ![][image2] | [Arthur, Breno, Dylan, Eduarda, Giovana, Leticia.] | 21/10/2025 00:00  |
-| **03:** As tabelas e imagens apresentam legenda e fonte? | [](https://github.com/) |  |  | ![][image3] | Arthur, Breno, Dylan, Eduarda, Giovana, Leticia. | 21/10/2025 00:00  |
-| **04:** O artefato apresenta uma introdução? | [](https://github.com/) |  |  | ![][image4] | Arthur, Breno, Dylan, Eduarda, Giovana, Leticia | 21/10/2025 00:00  |
-| **05:** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? | [](https://github.com/) |  |  | ![][image5] | Arthur, Breno, Dylan, Eduarda, Giovana, Leticia. | 21/10/2025 00:00  |
-| **06:** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? | [](https://github.com/) |  |  | ![][image6] | Arthur, Breno, Dylan, Eduarda, Giovana, Leticia. | 21/10/2025 00:00  |
+| **01:** O artefato apresenta uma bibliografia/referência bibliográfica? | [Giovana Fontes](https://github.com/GiovanaFontesS) | | | ![][image1] | [Giovana Fontes](https://github.com/GiovanaFontesS) | 21/10/2025 21:20 |
+| **02:** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? | [Arthur Fernandes](https://github.com/arthurfernandesj) | | | ![][image2] | [Arthur Fernandes](https://github.com/arthurfernandesj) | 21/10/2025 21:00 |
+| **03:** As tabelas e imagens apresentam legenda e fonte? | [Letícia Lopes](https://github.com/leticialopes20) | | | ![][image3] | [Letícia Lopes](https://github.com/leticialopes20) | 21/10/2025 21:25 |
+| **04:** O artefato apresenta uma introdução? | [Breno Teixeira](https://github.com/BrenoLTeixeira) | | | ![][image4] | [Breno Teixeira](https://github.com/BrenoLTeixeira) | 21/10/2025 21:05 |
+| **05:** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? | [Dylan Cavalcante](https://github.com/dylancavalcante) | | | ![][image5] | [Dylan Cavalcante](https://github.com/dylancavalcante) | 21/10/2025 21:10 |
+| **06:** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? | [Eduarda Domingos](https://github.com/eduardar0) | | | ![][image6] | [Eduarda Domingos](https://github.com/eduardar0) | 21/10/2025 21:15 |
 
 ### Histórias de Usuário
 
 | Item | Autor(es) | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |
 | :---- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **07:** Os títulos das histórias de usuário são autoexplicativos? | [](https://github.com/) |  |  | ![][image7] | Arthur, Breno, Dylan, Eduarda, Giovana, Leticia. | 21/10/2025 00:00 |
-| **08:** O “quem”, “o que” e o “por que” estão definidos na história de usuário? | [](https://github.com/) |  |  | ![][image8] | Arthur, Breno, Dylan, Eduarda, Giovana, Leticia. | 21/10/2025 00:00 |
-| **09:** Existe a participação do público jovem na validação das histórias de usuário? | [](https://github.com/) |  |  | ![][image9] | Arthur, Breno, Dylan, Eduarda, Giovana, Leticia. | 21/10/2025 00:00  |
-| **10:** As histórias possuem critérios de aceitação bem definidos? | [](https://github.com/) |  |  | ![][image10] | Arthur, Breno, Dylan, Eduarda, Giovana, Leticia | 21/10/2025 00:00  |
-| **11:** As histórias foram construídas com base em entrevistas com jovens beneficiários do ID Jovem? | [](https://github.com/) |  |  | ![][image11] | Arthur, Breno, Dylan, Eduarda, Giovana, Leticia. | 21/10/2025 00:00  |
-| **12:** Todas as histórias de usuário podem ser testadas? | [](https://github.com/) |  |  | ![][image12] | Arthur, Breno, Dylan, Eduarda, Giovana, Leticia | 21/10/2025 00:00  |
-| **13:** As histórias seguem o modelo padrão "Como um [tipo de jovem], eu desejo [ação] para [benefício]"? | [](https://github.com/) |  |  | ![][image13] | Arthur, Breno, Dylan, Eduarda, Giovana, Leticia. | 21/10/2025 00:00  |
+| **07:** Os títulos das histórias de usuário são autoexplicativos? | [Giovana Fontes](https://github.com/GiovanaFontesS) | | | ![][image7] | [Giovana Fontes](https://github.com/GiovanaFontesS) | 21/10/2025 21:20 |
+| **08:** O “quem”, “o que” e o “por que” estão definidos na história de usuário? | [Arthur Fernandes](https://github.com/arthurfernandesj) | | | ![][image8] | [Arthur Fernandes](https://github.com/arthurfernandesj) | 21/10/2025 21:00 |
+| **09:** Existe a participação do público jovem na validação das histórias de usuário? | [Letícia Lopes](https://github.com/leticialopes20) | | | ![][image9] | [Letícia Lopes](https://github.com/leticialopes20) | 21/10/2025 21:25 |
+| **10:** As histórias possuem critérios de aceitação bem definidos? | [Breno Teixeira](https://github.com/BrenoLTeixeira) | | | ![][image10] | [Breno Teixeira](https://github.com/BrenoLTeixeira) | 21/10/2025 21:05 |
+| **11:** As histórias foram construídas com base em entrevistas com jovens beneficiários do ID Jovem? | [Dylan Cavalcante](https://github.com/dylancavalcante) | | | ![][image11] | [Dylan Cavalcante](https://github.com/dylancavalcante) | 21/10/2025 21:10 |
+| **12:** Todas as histórias de usuário podem ser testadas? | [Eduarda Domingos](https://github.com/eduardar0) | | | ![][image12] | [Eduarda Domingos](https://github.com/eduardar0) | 21/10/2025 21:15 |
+| **13:** As histórias seguem o modelo padrão "Como um [tipo de jovem], eu desejo [ação] para [benefício]"? | [Giovana Fontes](https://github.com/GiovanaFontesS) | | | ![][image13] | [Giovana Fontes](https://github.com/GiovanaFontesS) | 21/10/2025 21:20 |
 
 ### Backlog
 
 | Item | Autor(es) | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |
 | :---- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **14:** O backlog possui épicos e temas bem definidos e descritos? | [](https://github.com/) |  |  | ![][image14] | Arthur, Breno, Dylan, Eduarda, Giovana, Leticia. | 21/10/2025 00:00  |
-| **15:** Cada história de usuário está associada a um requisito funcional do ID Jovem? | [](https://github.com/) |  |  | ![][image15] | Arthur, Breno, Dylan, Eduarda, Giovana, Leticia. | 21/10/2025 00:00  |
-| **16:** As histórias seguem o modelo de escrita padrão? | [](https://github.com/) |  |  | ![][image16] | Arthur, Breno, Dylan, Eduarda, Giovana, Leticia | 21/10/2025 00:00  |
-| **17:** Todas as histórias possuem identificação única (ex: RF21, RF02)? | [](https://github.com/) |  |  | ![][image17] | Arthur, Breno, Dylan, Eduarda, Giovana, Leticia. | 21/10/2025 00:00 |
-| **18:** Há rastreabilidade entre história, requisito funcional e técnica de elicitação? | [](https://github.com/) |  |  | ![][image18] | Arthur, Breno, Dylan, Eduarda, Giovana, Leticia. | 21/10/2025 00:00  |
+| **14:** O backlog possui épicos e temas bem definidos e descritos? | [Arthur Fernandes](https://github.com/arthurfernandesj) | | | ![][image14] | [Arthur Fernandes](https://github.com/arthurfernandesj) | 21/10/2025 21:00 |
+| **15:** Cada história de usuário está associada a um requisito funcional do ID Jovem? | [Letícia Lopes](https://github.com/leticialopes20) | | | ![][image15] | [Letícia Lopes](https://github.com/leticialopes20) | 21/10/2025 21:25 |
+| **16:** As histórias seguem o modelo de escrita padrão? | [Breno Teixeira](https://github.com/BrenoLTeixeira) | | | ![][image16] | [Breno Teixeira](https://github.com/BrenoLTeixeira) | 21/10/2025 21:05 |
+| **17:** Todas as histórias possuem identificação única (ex: RF21, RF02)? | [Dylan Cavalcante](https://github.com/dylancavalcante) | | | ![][image17] | [Dylan Cavalcante](https://github.com/dylancavalcante) | 21/10/2025 21:10 |
+| **18:** Há rastreabilidade entre história, requisito funcional e técnica de elicitação? | [Eduarda Domingos](https://github.com/eduardar0) | | | ![][image18] | [Eduarda Domingos](https://github.com/eduardar0) | 21/10/2025 21:15 |
 
 ### NFR Framework
 
 | Item | Autor(es) | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |
 | :---- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **19:** Foi utilizado o SIG (Softgoal Interdependency Graph)? | [](https://github.com/) |  |  | ![][image19] | [Arthur, Breno, Dylan, Eduarda, Giovana, Leticia.] | 21/10/2025 00:00  |
-| **20:** Foram definidos os tipos de SIG? | [](https://github.com/) |  |  | ![][image20] | [Arthur, Breno, Dylan, Eduarda, Giovana, Leticia.] | 21/10/2025 00:00  |
-| **21:** Foram definidos os estilos dos tipos de SIG? | [](https://github.com/) |  |  | ![][image21] | [Arthur, Breno, Dylan, Eduarda, Giovana, Leticia.] | 21/10/2025 00:00  |
-| **22:** As interdependências dos softgoals foram classificadas corretamente? | [](https://github.com/) |  |  | ![][image22] | [Arthur, Breno, Dylan, Eduarda, Giovana, Leticia.] | 21/10/2025 00:00  |
-| **23:** Foram definidos os tipos de contribuições dos softgoals? | [](https://github.com/) |  |  | ![][image23] | [Arthur, Breno, Dylan, Eduarda, Giovana, Leticia] | 21/10/2025 00:00  |
-| **24:** Foram definidos os rótulos de propagação de impacto no SIG? | [](https://github.com/) |  |  | ![][image24] | [Arthur, Breno, Dylan, Eduarda, Giovana, Leticia.] | 21/10/2025 00:00  |
-| **25:** Foram identificados os principais requisitos não funcionais do ID Jovem (ex: usabilidade, segurança, desempenho)? | [](https://github.com/) |  |  | ![][image25] | [Arthur, Breno, Dylan, Eduarda, Giovana, Leticia.] | 21/10/2025 00:00  |
-| **26:** Foram utilizados Cartões de Especificação para os softgoals? | [](https://github.com/) |  |  | ![][image26] | [Arthur, Breno, Dylan, Eduarda, Giovana, Leticia.] | 21/10/2025 00:00  |
+| **19:** Foi utilizado o SIG (Softgoal Interdependency Graph)? | [Giovana Fontes](https://github.com/GiovanaFontesS) | | | ![][image19] | [Giovana Fontes](https://github.com/GiovanaFontesS) | 21/10/2025 21:20 |
+| **20:** Foram definidos os tipos de SIG? | [Arthur Fernandes](https://github.com/arthurfernandesj) | | | ![][image20] | [Arthur Fernandes](https://github.com/arthurfernandesj) | 21/10/2025 21:00 |
+| **21:** Foram definidos os estilos dos tipos de SIG? | [Letícia Lopes](https://github.com/leticialopes20) | | | ![][image21] | [Letícia Lopes](https://github.com/leticialopes20) | 21/10/2025 21:25 |
+| **22:** As interdependências dos softgoals foram classificadas corretamente? | [Breno Teixeira](https://github.com/BrenoLTeixeira) | | | ![][image22] | [Breno Teixeira](https://github.com/BrenoLTeixeira) | 21/10/2025 21:05 |
+| **23:** Foram definidos os tipos de contribuições dos softgoals? | [Dylan Cavalcante](https://github.com/dylancavalcante) | | | ![][image23] | [Dylan Cavalcante](https://github.com/dylancavalcante) | 21/10/2025 21:10 |
+| **24:** Foram definidos os rótulos de propagação de impacto no SIG? | [Eduarda Domingos](https://github.com/eduardar0) | | | ![][image24] | [Eduarda Domingos](https://github.com/eduardar0) | 21/10/2025 21:15 |
+| **25:** Foram identificados os principais requisitos não funcionais do ID Jovem (ex: usabilidade, segurança, desempenho)? | [Giovana Fontes](https://github.com/GiovanaFontesS) | | | ![][image25] | [Giovana Fontes](https://github.com/GiovanaFontesS) | 21/10/2025 21:20 |
+| **26:** Foram utilizados Cartões de Especificação para os softgoals? | [Letícia Lopes](https://github.com/leticialopes20) | | | ![][image26] | [Letícia Lopes](https://github.com/leticialopes20) | 21/10/2025 21:25 |
 
 ---
 
@@ -83,9 +83,10 @@ O modelo de lista de verificação utilizado está definido em [Entrega 4](), e 
 
 <br>
 
-##  Histórico de Versão
+##  Histórico de Versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--------|------|-----------|-----------|-------------|
-| 1.0 | 20/10/2025 | Criação do Documento da Inspeção| [Arthur](https://github.com/arthurfernandesj) | [Leticia Lopes](https://github.com/leticialopes20) |
-| 1.1 | 20/10/2025 | Adicionando Bibliografia| [Arthur](https://github.com/arthurfernandesj) | [Leticia Lopes](https://github.com/leticialopes20) |
+| 1.0 | 20/10/2025 | Criação do Documento da Inspeção| [Arthur Fernandes](https://github.com/arthurfernandesj) | [Letícia Lopes](https://github.com/leticialopes20) |
+| 1.1 | 20/10/2025 | Adicionando Bibliografia| [Arthur Fernandes](https://github.com/arthurfernandesj) | [Letícia Lopes](https://github.com/leticialopes20) |
+| 1.2 | 21/10/2025 | Realização da inspeção | [Arthur Fernandes](https://github.com/arthurfernandesj), [Breno Teixeira](https://github.com/BrenoLTeixeira), [Dylan Cavalcante](https://github.com/dylancavalcante), [Eduarda Domingos](https://github.com/eduardar0), [Giovana Fontes](https://github.com/GiovanaFontesS), [Letícia Lopes](https://github.com/leticialopes20) | [Arthur Fernandes](https://github.com/arthurfernandesj) |

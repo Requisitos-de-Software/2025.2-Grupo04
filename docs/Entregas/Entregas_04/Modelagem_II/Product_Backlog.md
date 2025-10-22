@@ -218,50 +218,6 @@ Abaixo estão todos os temas e épicos identificados para o ID Jovem.
 
 ## Validação
 
-<font size="3"><p style="text-align: center">Tabela 2: Participantes Validação</p></font>
-
-<center>
-    <table>
-    <thead>
-        <tr>
-        <th>Participante</th>
-        <th>Backlog</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-        <td></td>
-        <td>H00 à H00</td>
-        </tr>
-        <tr>
-        <td></td>
-        <td>H00 à H00</td>
-        </tr>
-        <tr>
-        <td></td>
-        <td>H00 à H00</td>
-        </tr>
-         <tr>
-        <td></td>
-        <td>H00 à H00</td>
-        </tr>
-         <tr>
-        <td></td>
-        <td>H00 à H00</td>
-        </tr>
-         <tr>
-        <td></td>
-        <td>H00 à H00</td>
-        </tr>
-    </tbody>
-    </table>
-</center>
-
-<font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj)</p></font>
-
-
-## Validação
-
 ### Gravação 1 - Validação Dylan e Arthur 
 
 <p style="text-align: center">

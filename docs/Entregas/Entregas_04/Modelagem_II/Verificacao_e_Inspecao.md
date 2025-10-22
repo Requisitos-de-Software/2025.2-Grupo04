@@ -83,14 +83,14 @@ Aqui está definida a inspeção da entrega 4 do nosso grupo, cujo projeto abord
 
 | Item | Autor(es) | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |
 | :---- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **19:** Foi utilizado o SIG (Softgoal Interdependency Graph)? | André Barros | Conforme | | [image19] | [Giovana Fontes](https://github.com/GiovanaFontesS) | 21/10/2025 21:20 |
-| **20:** Foram definidos os tipos de SIG? | André Barros | Conforme | | [image20] | [Arthur Fernandes](https://github.com/arthurfernandesj) | 21/10/2025 21:00 |
-| **21:** Foram definidos os estilos dos tipos de SIG? | André Barros | Conforme | | [image21] | [Letícia Lopes](https://github.com/leticialopes20) | 21/10/2025 21:25 |
-| **22:** As interdependências dos softgoals foram classificadas corretamente? | André Barros | Conforme | | [image22] | [Breno Teixeira](https://github.com/BrenoLTeixeira) | 21/10/2025 21:05 |
-| **23:** Foram definidos os tipos de contribuições dos softgoals? | André Barros | Conforme | |[image23] | [Dylan Cavalcante](https://github.com/dylancavalcante) | 21/10/2025 21:10 |
-| **24:** Foram definidos os rótulos de propagação de impacto no SIG? | André Barros | Conforme | | [image24] | [Eduarda Domingos](https://github.com/eduardar0) | 21/10/2025 21:15 |
+| **19:** Foi utilizado o SIG (Softgoal Interdependency Graph)? | André Barros | Conforme | | [image19]() | [Giovana Fontes](https://github.com/GiovanaFontesS) | 21/10/2025 21:20 |
+| **20:** Foram definidos os tipos de SIG? | André Barros | Conforme | | [image20]() | [Arthur Fernandes](https://github.com/arthurfernandesj) | 21/10/2025 21:00 |
+| **21:** Foram definidos os estilos dos tipos de SIG? | André Barros | Conforme | | [image21]() | [Letícia Lopes](https://github.com/leticialopes20) | 21/10/2025 21:25 |
+| **22:** As interdependências dos softgoals foram classificadas corretamente? | André Barros | Conforme | | [image22]() | [Breno Teixeira](https://github.com/BrenoLTeixeira) | 21/10/2025 21:05 |
+| **23:** Foram definidos os tipos de contribuições dos softgoals? | André Barros | Conforme | |[image23]() | [Dylan Cavalcante](https://github.com/dylancavalcante) | 21/10/2025 21:10 |
+| **24:** Foram definidos os rótulos de propagação de impacto no SIG? | André Barros | Conforme | | [image24]() | [Eduarda Domingos](https://github.com/eduardar0) | 21/10/2025 21:15 |
 | **25:** Foram identificados os principais requisitos não funcionais do ID Jovem (ex: usabilidade, segurança, desempenho)? | André Barros | Conforme | | [image25] | [Giovana Fontes](https://github.com/GiovanaFontesS) | 21/10/2025 21:20 |
-| **26:** Foram utilizados Cartões de Especificação para os softgoals? | André Barros | Conforme | | [image26] | [Letícia Lopes](https://github.com/leticialopes20) | 21/10/2025 21:25 |
+| **26:** Foram utilizados Cartões de Especificação para os softgoals? | André Barros | Conforme | | [image26]() | [Letícia Lopes](https://github.com/leticialopes20) | 21/10/2025 21:25 |
 
 ---
 

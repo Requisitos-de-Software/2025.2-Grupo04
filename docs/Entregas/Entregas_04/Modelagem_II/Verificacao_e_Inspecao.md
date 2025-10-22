@@ -104,6 +104,6 @@ Aqui está definida a inspeção da entrega 4 do nosso grupo, cujo projeto abord
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--------|------|-----------|-----------|-------------|
-| 1.0 | 20/10/2025 | Criação do Documento da Inspeção| André Barros | [Letícia Lopes](https://github.com/leticialopes20) |
-| 1.1 | 20/10/2025 | Adicionando Bibliografia| André Barros | [Letícia Lopes](https://github.com/leticialopes20) |
-| 1.2 | 21/10/2025 | Realização da auto-inspeção | André Barros | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| 1.0 | 20/10/2025 | Criação do Documento da Inspeção| [Dylan Cavalcante](https://github.com/dylancavalcante) | [Letícia Lopes](https://github.com/leticialopes20) |
+| 1.1 | 20/10/2025 | Adicionando Bibliografia| [Arthur Fernandes](https://github.com/arthurfernandesj) | [Letícia Lopes](https://github.com/leticialopes20) |
+| 1.2 | 21/10/2025 | Realização da auto-inspeção | [Arthur Fernandes](https://github.com/arthurfernandesj), [Breno Teixeira](https://github.com/BrenoLTeixeira), [Dylan Cavalcante](https://github.com/dylancavalcante), [Eduarda Domingos](https://github.com/eduardar0), [Giovana Fontes](https://github.com/GiovanaFontesS), [Letícia Lopes](https://github.com/leticialopes20) | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Arthur Fernandes](https://github.com/arthurfernandesj) |

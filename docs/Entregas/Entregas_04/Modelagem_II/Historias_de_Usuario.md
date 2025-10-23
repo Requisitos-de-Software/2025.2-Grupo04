@@ -3,6 +3,8 @@
 
 As histórias de usuário são uma forma simples e ágil de representar requisitos funcionais de um sistema, descrevendo de maneira breve o que o usuário precisa que o software faça. Segundo **Vazquez e Simões (Engenharia de Requisitos)**, elas surgiram no contexto da Extreme Programming (XP) como uma unidade de funcionalidade que demonstra o progresso do projeto por meio da entrega de código testado e integrado. Cada história de usuário deve ser compreensível para o cliente, testável pelos desenvolvedores e pequena o suficiente para ser implementada dentro de uma iteração. Atualmente, essa técnica é amplamente utilizada em métodos ágeis, como o Scrum, em que o Product Owner é responsável por elaborá-las com base nas necessidades dos usuários. O uso de histórias de usuário promove a colaboração da equipe, facilita a priorização e garante que o valor entregue seja claro, embora não seja indicado para ambientes que exigem documentação extensa e formal.
 
+<small><em>Revisado por [Chat GPT](https://chatgpt.com/share/68fa1aea-f1e0-8000-92d0-4f83227ea1d0), em 20 de outubro de 2025</em></small>
+
 
 ### Objetivo
 
@@ -32,6 +34,8 @@ Como (papel), eu quero (ação) para (benefício).
 
 - Passo 5 – Validar e detalhar
 A história é validada com o Product Owner e a equipe, podendo ser ajustada ou subdividida se estiver muito ampla. Também são definidos os critérios de aceitação, que servem para testar se a história foi corretamente implementada.
+
+<small><em>Revisado por [Chat GPT](https://chatgpt.com/share/68fa1aea-f1e0-8000-92d0-4f83227ea1d0), em 20 de outubro de 2025</em></small>
 
 ### Participantes e histórias feitas
 
@@ -118,6 +122,8 @@ A história é validada com o Product Owner e a equipe, podendo ser ajustada ou 
 </div>
 
 <font size="2"><p style="text-align: center">Fontes: <i>[Letícia Lopes](https://github.com/leticialopes20) e [Dylan Cavalcante](https://github.com/dylancavalcante), 2025</i> </p></font>
+
+<small><em>Revisado por [Chat GPT](https://chatgpt.com/share/68fa1aea-f1e0-8000-92d0-4f83227ea1d0), em 20 de outubro de 2025</em></small>
 
 ---
 
@@ -775,3 +781,10 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 | 1.7 | 21/10/2025 | Adição de gravações de validação |  [Giovana Fontes](https://github.com/GiovanaFontesS) | [Arthur Fernandes](https://github.com/arthurfernandesj) | 
 | 1.8 | 21/10/2025 |  Adição de Contribuições | [Giovana Fontes](https://github.com/GiovanaFontesS) |  [Arthur Fernandes](https://github.com/arthurfernandesj) |
 | 1.9 | 21/10/2025 |  Fix tabela e adição de novas história | [Dylan Cavalcante](https://github.com/dylancavalcante) |  [Arthur Fernandes](https://github.com/arthurfernandesj) |
+
+## Agrecimentos
+
+Queremos agradecer ao [Chat GPT](https://chatgpt.com/share/68fa1aea-f1e0-8000-92d0-4f83227ea1d0), ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto ID Jovem. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.

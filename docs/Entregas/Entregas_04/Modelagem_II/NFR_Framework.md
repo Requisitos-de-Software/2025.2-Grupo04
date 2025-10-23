@@ -590,7 +590,7 @@ Essa validação assegurou que os requisitos não funcionais fossem não apenas 
   <tr><td><strong>Dependências</strong></td><td>Disponibilidade e performance da API externa do CadÚnico.</td></tr>
   <tr><td><strong>Prioridade</strong></td><td>8</td></tr>
   <tr><td><strong>Conflitos</strong></td><td>A dependência de um serviço externo (CadÚnico) pode tornar difícil garantir esse tempo caso o serviço de origem esteja lento.</td></tr>
-A <tr><td><strong>História</strong></td><td>20/10/2025</td></tr>
+<tr><td><strong>História</strong></td><td>20/10/2025</td></tr>
 </table>
 </center>
 
@@ -674,7 +674,7 @@ A <tr><td><strong>História</strong></td><td>20/10/2025</td></tr>
   <tr><td><strong>Dependências</strong></td><td>Pipeline de CI/CD com testes em múltiplos emuladores/dispositivos, <a href="#rnf12">RNF12</a>.</td></tr>
   <tr><td><strong>Prioridade</strong></td><td>7</td></tr>
   <tr><td><strong>Conflitos</strong></td><td>Manter compatibilidade com versões muito antigas (N-2) pode impedir o uso de novas APIs e recursos de segurança das plataformas.</td></tr>
-i <tr><td><strong>História</strong></td><td>20/10/2025</td></tr>
+ <tr><td><strong>História</strong></td><td>20/10/2025</td></tr>
 </table>
 </center>
 

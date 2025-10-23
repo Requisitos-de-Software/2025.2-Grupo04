@@ -4,6 +4,8 @@
 
 O Product Backlog do ID Jovem representa o registro contínuo e priorizado de todos os requisitos, funcionalidades e melhorias planejadas para o aplicativo, com o objetivo de oferecer valor direto aos jovens beneficiários e à gestão dos serviços disponibilizados pelo governo <a id="TEC1" href="#RP1">[1] </a>. Este artefato é dinâmico, permitindo a inclusão de novos itens a qualquer momento, o que facilita a adaptação a mudanças nas demandas dos jovens ou nas políticas públicas relacionadas ao programa. A gestão e redefinição das prioridades no backlog são responsabilidade do gerente de produto _(Product Owner)_, que realiza avaliações periódicas para otimizar o fluxo de desenvolvimento e garantir que as funcionalidades de maior impacto sejam implementadas primeiro <a id="TEC2" href="#RP2">[2] </a>.
 
+<small><em>Revisado por [Chat GPT](https://chatgpt.com/share/68fa2168-9cec-8000-bc17-d9589a8ae554), em 20 de outubro de 2025</em></small>
+
 ## Metodologia
 
 A construção do *Product Backlog do ID Jovem teve início com reuniões e entrevistas realizadas junto aos jovens beneficiários do aplicativo, bem como aos gestores do programa, com o objetivo de identificar funcionalidades essenciais e validar requisitos já levantados. A partir dessas interações, as funcionalidades foram formalizadas em Histórias de Jovem, utilizando a estrutura: "Como um [tipo de jovem], eu desejo [ação] para [benefício]".
@@ -13,6 +15,8 @@ Cada história conta com critérios de aceitação claros, que servem como refer
 O Product Owner realizou a priorização das histórias seguindo a abordagem Three Level Scale, classificando-as em Alta, Média ou Baixa prioridade conforme o impacto esperado para os jovens beneficiários e para a eficiência do serviço. Em seguida, as histórias foram organizadas hierarquicamente em temas e épicos, adotando a estrutura recomendada em frameworks ágeis como Scrum e SAFe. Neste documento, o padrão utilizado é Tema → Épico → Histórias de Jovem, conforme descrito por Milene Serrano e Maurício Serrano <a id="TEC2" href="#RP2">[2] </a>.
 
 O detalhamento completo de cada história do ID Jovem pode ser consultado nos artefatos vinculados, permitindo transparência no processo de desenvolvimento e acompanhamento das funcionalidades implementadas.
+
+<small><em>Revisado por [Chat GPT](https://chatgpt.com/share/68fa2168-9cec-8000-bc17-d9589a8ae554), em 20 de outubro de 2025</em></small>
 
 
 <div align="center">
@@ -218,50 +222,6 @@ Abaixo estão todos os temas e épicos identificados para o ID Jovem.
 
 ## Validação
 
-<font size="3"><p style="text-align: center">Tabela 2: Participantes Validação</p></font>
-
-<center>
-    <table>
-    <thead>
-        <tr>
-        <th>Participante</th>
-        <th>Backlog</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-        <td></td>
-        <td>H00 à H00</td>
-        </tr>
-        <tr>
-        <td></td>
-        <td>H00 à H00</td>
-        </tr>
-        <tr>
-        <td></td>
-        <td>H00 à H00</td>
-        </tr>
-         <tr>
-        <td></td>
-        <td>H00 à H00</td>
-        </tr>
-         <tr>
-        <td></td>
-        <td>H00 à H00</td>
-        </tr>
-         <tr>
-        <td></td>
-        <td>H00 à H00</td>
-        </tr>
-    </tbody>
-    </table>
-</center>
-
-<font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj)</p></font>
-
-
-## Validação
-
 ### Gravação 1 - Validação Dylan e Arthur 
 
 <p style="text-align: center">
@@ -342,6 +302,12 @@ Abaixo estão todos os temas e épicos identificados para o ID Jovem.
 | 1.1 | 20/10/2025 | Atualização na tabela de Backlog  | [Arthur](https://github.com/arthurfernandesj) | [ Dylan ](https://github.com/dylancavalcante) |
 | 1.2 | 21/10/2025 | Adição de gravações de validação |  [Giovana Fontes](https://github.com/GiovanaFontesS) | [Arthur Fernandes](https://github.com/arthurfernandesj) | 
 
+## Agrecimentos
+
+Queremos agradecer ao [Chat GPT](https://chatgpt.com/share/68fa2168-9cec-8000-bc17-d9589a8ae554), ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto ID Jovem. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.
 
 
 

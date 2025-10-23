@@ -18,9 +18,21 @@ O modelo de lista de verificação utilizado está definido em <a href="https://
 ---
 
 <p style="text-align: center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/exemplo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/ftiXP1UaDqU" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+  </iframe>
 </p>
 
+<font size="3">
+  <p style="text-align: center">
+    <b>Fonte:</b> <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, 2025
+  </p>
+</font>
 ---
 
 
@@ -93,3 +105,4 @@ O modelo de lista de verificação utilizado está definido em <a href="https://
 | 1.0 | 20/10/2025 | Criação do Documento da Inspeção| [Arthur Fernandes](https://github.com/arthurfernandesj) | [Letícia Lopes](https://github.com/leticialopes20) |
 | 1.1 | 20/10/2025 | Adicionando Bibliografia| [Arthur Fernandes](https://github.com/arthurfernandesj) | [Letícia Lopes](https://github.com/leticialopes20) |
 | 1.2 | 21/10/2025 | Realização da inspeção | [Arthur Fernandes](https://github.com/arthurfernandesj), [Breno Teixeira](https://github.com/BrenoLTeixeira), [Dylan Cavalcante](https://github.com/dylancavalcante), [Eduarda Domingos](https://github.com/eduardar0), [Giovana Fontes](https://github.com/GiovanaFontesS), [Letícia Lopes](https://github.com/leticialopes20) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| 1.3 | 22/10/2025 | Postagem da gravação da inspeção |[Giovana Fontes](https://github.com/GiovanaFontesS) | [Eduarda Domingos](https://github.com/eduardar0) |

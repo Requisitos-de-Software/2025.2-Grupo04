@@ -8,6 +8,9 @@ Com o objetivo de representar e analisar esses requisitos de maneira estruturada
 
 A representação gráfica desses *softgoals* é feita através de um grafo SIG (Softgoal Interdependency Graph), que evidencia suas interdependências, influências e possíveis conflitos. Assim, o NFR Framework aplicado ao ID Jovem contribui para o fortalecimento da usabilidade, segurança, confiabilidade e acessibilidade do aplicativo, assegurando que os jovens beneficiários utilizem a plataforma de forma prática e segura.
 
+<small><em>Revisado por [Chat GPT](https://chatgpt.com/share/68fa1d62-74e4-8000-b2e7-9e7dd04bf86c), em 20 de outubro de 2025</em></small>
+
+
 ## SIG - Softgoal Interdependency Graph
 
 O NFR Framework funciona por meio da construção e análise de um grafo chamado Softgoal Interdependency Graph (SIG), que representa graficamente os Requisitos Não-Funcionais (softgoals), suas interdependências, alternativas e justificativas. Esse grafo permite avaliar se os requisitos de alto nível foram atendidos e apoia decisões de projeto voltadas à melhoria do aplicativo ID Jovem.
@@ -71,6 +74,7 @@ Essa estrutura permite representar, refinar e justificar de forma clara os requi
 Essas contribuições permitem entender como decisões técnicas no ID Jovem (como escolha de layout, autenticação e performance) afetam a satisfação global dos requisitos de qualidade do sistema.
 
 ---
+<small><em>Revisado por [Chat GPT](https://chatgpt.com/share/68fa1d62-74e4-8000-b2e7-9e7dd04bf86c), em 20 de outubro de 2025</em></small>
 
 ### Procedimento de Avaliação no NFR Framework
 
@@ -130,8 +134,7 @@ A modelagem foi realizada utilizando a notação proposta por [*Chung et al. (20
 - AND
 - EQUALS
 - UNKNOWN (?)
-- SOME
-
+- SOME 
 
 Também foram especificadas as operacionalizações, ou seja, decisões de projeto que implementam cada softgoal.
 
@@ -145,6 +148,8 @@ Durante essa fase de modelagem, utilizou-se o Cartão de Especificação como in
 - Contribuições com outros softgoals  
 - Justificativa das decisões  
 - Responsável e data da análise  
+
+<small><em>Revisado por [Chat GPT](https://chatgpt.com/share/68fa1d62-74e4-8000-b2e7-9e7dd04bf86c), em 20 de outubro de 2025</em></small>
 
 A Tabela 1 ilustra o modelo adotado para a elaboração dos cartões de especificação.
 
@@ -1062,3 +1067,10 @@ Este SIG (Softgoal Interdependency Graph) foi elaborado a partir de todos os req
 | `2.1` | 21/10/2025 | Adição de NFR05-Confiabilidade, NFR06-Portabilidade |[Dylan Cavalcante](https://github.com/dylancavalcante), [Breno Teixeira](https://github.com/BrenoLTeixeira) |[Letícia Lopes](https://github.com/leticialopes20)|
 | `2.2` | 21/10/2025 | Adição de gravações de validação |  [Giovana Fontes](https://github.com/GiovanaFontesS) | [Arthur Fernandes](https://github.com/arthurfernandesj) | 
 | `2.3` | 21/10/2025 | Adição de imagem dos NFR |  [Arthur Fernandes](https://github.com/arthurfernandesj) | [Giovana Fontes](https://github.com/GiovanaFontesS) | 
+
+## Agrecimentos
+
+Queremos agradecer ao [Chat GPT](https://chatgpt.com/share/68fa1d62-74e4-8000-b2e7-9e7dd04bf86c), ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto ID Jovem. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.

@@ -102,27 +102,34 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
   <tbody>
     <tr>
       <td align="center"><a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></td>
-      <td align="left"></td>
+      <td align="left">RF20, RF21, RF33, RF34, RF35, RF36</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/BrenoLTeixeira">Breno Teixeira</a></td>
-      <td align="left"></td>
+      <td align="left">RF19, RF23, RF29, RF30, RF31, RF32</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></td>
-      <td align="left"></td>
+      <td align="left">RF12, RF13, RF16, RF24, RF27, RF28</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/eduardar0">Eduarda Domingos</a></td>
-      <td align="left"></td>
+      <td align="left">
+        <a href="#rf10">RF10</a> – Disponibilizar informações sobre locais e parceiros que aceitam o benefício<br>
+        <a href="#rf11">RF11</a> – Fornecer canal de suporte via chat, e-mail ou formulário de contato<br>
+        <a href="#rf06">RF06</a> – Exibir Seção de Perguntas Frequentes (FAQ)<br>
+        <a href="#rf09">RF09</a> – Download da Carteirinha para Uso Offline<br>
+        <a href="#rf14">RF14</a> – Reserva e Emissão de Comprovantes de Uso<br>
+        <a href="#rf15">RF15</a> – Validação Automática de Elegibilidade
+      </td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></td>
-      <td align="left"></td>
+      <td align="left">RF01, RF02, RF17, RF18, RF25, RF26</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/leticialopes20">Letícia Lopes</a></td>
-      <td align="left"></td>
+      <td align="left">RF03, RF04, RF05, RF07, RF08, RF22</td>
     </tr>
   </tbody>
 </table>
@@ -203,7 +210,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 <p align="center">Fonte: <a href="https://github.com/leticialopes20">Leticia Lopes</a></p>
 
-### RF06
+### <a name="rf06"></a> RF06
 
 <div align="center">
   <strong>Tabela 8 -</strong> Cartão do Requisito 06 - C06
@@ -211,12 +218,13 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 | **Categoria:** | Desenvolvimento |
 |:---------------|:----------------|
-| **Elementos:** |                 |
-| **Descrição do Requisito** | |
-| **Elos Backward-from:** | |
-| **Elos Forward-from:** | |
+| **Elementos:** | RF06 – Exibição de Seção de Perguntas Frequentes [FAQ](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Lexicos#L06) e Suporte ao Jovem Beneficiário |
+| **Descrição do Requisito:** | O sistema deve exibir uma seção de perguntas frequentes  [FAQ](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Lexicos#L06) e oferecer suporte ao Jovem Beneficiário. |
+| **Elos Backward-from:** | Agregação: RF06 ← [ADD05 – Possibilidade de emissão de mais de uma carteira digital](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Analise_de_Documentos/) – O requisito foi identificado a partir da análise de documentos.<br>Agregação: RF06 ← [BS08 – O usuário deve ter acesso a perguntas frequentes (FAQ) e suporte para dúvidas](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming) – O requisito foi identificado por meio de brainstorming.<br>Agregação: RF06 ← [IDJ04 – O sistema deve fornecer uma seção de “Dúvidas Frequentes” para esclarecer questões sobre o programa, o CadÚnico e os benefícios](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/) – O requisito foi identificado a partir de introspecção. |
+| **Elos Forward-from:** | Satisfação: RF06 → [US22 – Exibir Seção de Perguntas Frequentes (FAQ)](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_04/Modelagem_II/Historias_de_Usuario#us22) – O requisito deu origem à história de usuário “Exibir Seção de Perguntas Frequentes (FAQ)”, que trata do acesso às dúvidas mais comuns sobre o programa ID Jovem, sua elegibilidade e o uso dos benefícios. |
 
 <p align="center">Fonte: <a href="https://github.com/eduardar0">Eduarda Domingos</a></p>
+
 
 ### RF07
 
@@ -256,10 +264,11 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 | **Categoria:** | Desenvolvimento |
 |:---------------|:----------------|
-| **Elementos:** |                 |
-| **Descrição do Requisito** | |
-| **Elos Backward-from:** | |
-| **Elos Forward-from:** | |
+| **Elementos:** | RF09 – Permitir o [download](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Lexicos#23) da carteirinha para uso offline |
+| **Descrição do Requisito:** | O sistema deve permitir o [download](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Lexicos#23) da carteirinha para uso offline, garantindo que o jovem beneficiário tenha acesso à carteira mesmo sem conexão à internet. |
+| **Elos Backward-from:** | Agregação: RF09 ← [ST03 – O aplicativo deve permitir baixar a carteirinha para uso offline](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling) – O requisito foi identificado a partir de storytelling.<br>Agregação: RF09 ← [BS19 – O aplicativo deve garantir funcionamento offline para exibição da carteirinha já emitida](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming) – O requisito foi identificado por meio de brainstorming. |
+| **Elos Forward-from:** | Satisfação: RF09 → [UC11 – Baixar Carteirinha para Uso Offline](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_04/Modelagem_II/Historias_de_Usuario#us23) – O requisito deu origem ao caso de uso "Baixar Carteirinha para Uso Offline", que permite ao jovem beneficiário salvar uma cópia segura da carteira digital no dispositivo, garantindo acesso mesmo sem conexão à internet. |
+
 
 <p align="center">Fonte: <a href="https://github.com/eduardar0">Eduarda Domingos</a></p>
 
@@ -331,12 +340,14 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 | **Categoria:** | Desenvolvimento |
 |:---------------|:----------------|
-| **Elementos:** |       |
-| **Descrição do Requisito** |  |
-| **Elos Backward-from:** | |
-| **Elos Forward-from:** | |
+| **Elementos:** | RF14 – Reserva e emissão de [ComprovanteS](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Lexicos#22) de uso do benefício |
+| **Descrição do Requisito:** | O aplicativo deve permitir reserva e emissão de [ComprovanteS](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Lexicos#22) de uso do benefício, facilitando o controle e a organização pelo Jovem Beneficiário. |
+| **Elos Backward-from:** | Agregação: RF14 ← [ENT03 – Deve permitir reservas e emissão de comprovantes de acesso aos benefícios](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevistas) – O requisito foi identificado a partir da análise de entrevistas/documentos. |
+| **Elos Forward-from:** | Satisfação: RF14 → [US24 – Reserva e Emissão de Comprovantes de Uso](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_04/Modelagem_II/Historias_de_Usuario#us24) – O requisito deu origem à história de usuário que permite ao jovem beneficiário reservar e emitir comprovantes de uso do benefício diretamente pelo aplicativo. |
+
 
 <p align="center">Fonte: <a href="https://github.com/eduardar0">Eduarda Domingos</a></p>
+
 
 ### RF15
 
@@ -346,10 +357,11 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 | **Categoria:** | Desenvolvimento |
 |:---------------|:----------------|
-| **Elementos:** |       |
-| **Descrição do Requisito** |  |
-| **Elos Backward-from:** | |
-| **Elos Forward-from:** | |
+| **Elementos:** | RF15 – Validação automática da elegibilidade do [Jovem Beneficiário](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Lexicos#01) |
+| **Descrição do Requisito:** | O sistema deve validar automaticamente a elegibilidade do J[Jovem Beneficiário](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Lexicos#01) ao benefício, considerando idade, renda familiar e inscrição no CadÚnico. |
+| **Elos Backward-from:** | Agregação: RF15 ← [ST02 – O sistema deve validar automaticamente a elegibilidade do benefício](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling) – O requisito foi identificado a partir de storytelling. |
+| **Elos Forward-from:** | Satisfação: RF15 → [US25 – Validação Automática de Elegibilidade](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_04/Modelagem_II/Historias_de_Usuario#us25) – O requisito deu origem à história de usuário que permite que o sistema valide automaticamente a elegibilidade do jovem ao benefício, verificando faixa etária, renda familiar e inscrição no CadÚnico. |
+
 
 <p align="center">Fonte: <a href="https://github.com/eduardar0">Eduarda Domingos</a></p>
 

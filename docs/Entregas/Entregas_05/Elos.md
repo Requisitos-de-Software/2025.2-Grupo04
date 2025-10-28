@@ -229,33 +229,34 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 ### RF17
 
 <div align="center">
-  <strong>Tabela 9 -</strong> Cartão do Requisito 07 - C07
+  <strong>Tabela 7 -</strong> Cartão do Requisito 7 - C07
 </div>
 
 | **Categoria:** | Desenvolvimento |
 |:---------------|:----------------|
-| **Elementos:** |       |
-| **Descrição do Requisito** |  |
-| **Elos Backward-from:** | |
-| **Elos Forward-from:** | |
+| **Elementos:** | [RF17](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf17), [BS12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming), [IDJ17](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/), [UC17](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Caso_de_uso), [CEN17](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Cenarios), [US17]() |
+| **Descrição do Requisito** | O aplicativo deve permitir compartilhar a carteirinha digital em formato PDF ou imagem. |
+| **Elos Backward-from:** | Agregação: RF17 ← BS12 - O requisito foi identificado através de brainstorming, quando foi sugerido que o usuário pudesse compartilhar sua carteirinha digital em PDF ou imagem para uso em estabelecimentos. |
+| **Elos Forward-from:** | Satisfação: RF17 → UC17 - O requisito deu origem ao caso de uso "Compartilhar Carteirinha Digital".<br>Satisfação: RF17 → CEN17 - O requisito deu origem ao cenário "Compartilhar Carteirinha Digital em PDF ou Imagem".<br>Satisfação: RF17 → US17 - O requisito deu origem à história de usuário "Como jovem beneficiário, quero compartilhar minha carteirinha digital em PDF ou imagem para comprovar meus benefícios facilmente." | 
 
-<p align="center">Fonte: <a href=https://github.com/GiovanaFontesS">Giovana Fontes</a></p>
+<p align="center">Fonte: <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></p>
 
 
 ### RF18
 
 <div align="center">
-  <strong>Tabela 10 -</strong> Cartão do Requisito 08 - C08
+  <strong>Tabela 8 -</strong> Cartão do Requisito 8 - C08
 </div>
 
 | **Categoria:** | Desenvolvimento |
 |:---------------|:----------------|
-| **Elementos:** |  ENT04,       |
-| **Descrição do Requisito** |  |
-| **Elos Backward-from:** | |
-| **Elos Forward-from:** | |
+| **Elementos:** | [RF18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf18), [ENT04](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/), [IDJ18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/), [UC18](ttps://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Caso_de_uso), [CEN18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Cenarios), [US18]() |
+| **Descrição do Requisito** | O sistema deve fornecer informações sobre pendências ou erros relacionados aos benefícios do usuário. |
+| **Elos Backward-from:** | Agregação: RF18 ← ENT04 - O requisito foi identificado através de entrevista, onde os usuários expressaram a necessidade de serem informados sobre irregularidades ou falhas nos benefícios. |
+| **Elos Forward-from:** | Satisfação: RF18 → UC18 - O requisito deu origem ao caso de uso "Exibir Pendências e Erros dos Benefícios".<br>Satisfação: RF18 → CEN18 - O requisito deu origem ao cenário "Informar Pendências e Inconsistências de Benefícios".<br>Satisfação: RF18 → US18 - O requisito deu origem à história de usuário "Como jovem beneficiário, quero visualizar pendências ou erros nos meus benefícios para poder corrigi-los rapidamente." |
 
-<p align="center">Fonte: <a href=https://github.com/GiovanaFontesS">Giovana Fontes</a></p>
+<p align="center">Fonte: <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></p>
+
 
 ### RF20
 

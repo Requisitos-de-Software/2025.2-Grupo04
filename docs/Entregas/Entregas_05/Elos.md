@@ -353,6 +353,21 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 <p align="center">Fonte: <a href="https://github.com/eduardar0">Eduarda Domingos</a></p>
 
+### RF15
+
+<div align="center">
+  <strong>Tabela 17 -</strong> Cartão do Requisito 15 - C15
+</div>
+
+| **Categoria:** | Desenvolvimento |
+|:---------------|:----------------|
+| **Elementos:** |       |
+| **Descrição do Requisito** |  |
+| **Elos Backward-from:** | |
+| **Elos Forward-from:** | |
+
+<p align="center">Fonte: <a href="https://github.com/eduardar0">Eduarda Domingos</a></p>
+
 ### RF16
 
 <div align="center">

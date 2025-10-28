@@ -431,17 +431,18 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 ### RF21
 
 <div align="center">
-  <strong>Tabela 23 -</strong> Cartão do Requisito 21 - C21
+  <strong>Tabela 12 -</strong> Cartão do Requisito 10 - C10
 </div>
 
-| **Categoria:** | Desenvolvimento |
+| **Categoria:** | Desenvolvimento e Experiência do Usuário |
 |:---------------|:----------------|
-| **Elementos:** |       |
-| **Descrição do Requisito** |  |
-| **Elos Backward-from:** | |
-| **Elos Forward-from:** | |
+| **Elementos:** | [RF21](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf21), [ENT10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/), [ST06](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling/), [IDJ06](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/#idj06), [UC21](), [CEN21](), [US21]() |
+| **Descrição do Requisito:** | O sistema deve possuir um mapa interativo que permita visualizar geograficamente os parceiros e eventos culturais vinculados ao programa ID Jovem. |
+| **Elos Backward-from:** | Agregação: RF21 ← ENT10 - O requisito foi identificado a partir das entrevistas, nas quais os usuários destacaram a importância de localizar visualmente os parceiros e eventos culturais próximos.<br>Agregação: RF21 ← ST06 - O requisito foi reforçado pelo storytelling, onde o jovem desejava encontrar facilmente locais parceiros e eventos acessíveis. |
+| **Elos Forward-from:** | Satisfação: RF21 → UC21 - O requisito deu origem ao caso de uso “Visualizar Parceiros e Eventos em Mapa Interativo”.<br>Satisfação: RF21 → CEN21 - O requisito deu origem ao cenário “Consulta e Interação com o Mapa de Parceiros e Eventos”.<br>Satisfação: RF21 → US21 - O requisito deu origem à história de usuário “Como jovem beneficiário, desejo visualizar no mapa os parceiros e eventos próximos para facilitar meu acesso aos benefícios culturais.” |
 
-<p align="center">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></p>
+
+<p align="center">Fonte: <a href=https://github.com/arthurfernandesj">Arthur Fernandes</a></p>
 
 ### RF22
 

@@ -128,10 +128,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 </table>
 </div>
 
-<font size="2"><p style="text-align: center">Fontes: <i>[Eduarda Domingos](https://github.com/leticialopes20)  2025</i> </p></font>
-
-
-### RF07
+### RF01
 
 <div align="center">
   <strong>Tabela 3 -</strong> Cartão do Requisito 01 - C01
@@ -139,15 +136,14 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 | **Categoria:** | Desenvolvimento |
 |:---------------|:----------------|
-| **Elementos:** |       |
-| **Descrição do Requisito** |  |
+| **Elementos:** |                 |
+| **Descrição do Requisito** | |
 | **Elos Backward-from:** | |
 | **Elos Forward-from:** | |
 
-<p align="center">Fonte: <a href=https://github.com/leticialopes20">Leticia Lopes</a></p>
+<p align="center">Fonte: <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></p>
 
-
-### RF08
+### RF02
 
 <div align="center">
   <strong>Tabela 4 -</strong> Cartão do Requisito 02 - C02
@@ -160,14 +156,117 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 | **Elos Backward-from:** | |
 | **Elos Forward-from:** | |
 
-<p align="center">Fonte: <a href=https://github.com/leticialopes20">Leticia Lopes</a></p>
+<p align="center">Fonte: <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></p>
 
+### RF03
 
+<div align="center">
+  <strong>Tabela 5 -</strong> Cartão do Requisito 03 - C03
+</div>
+
+| **Categoria:** | Desenvolvimento |
+|:---------------|:----------------|
+| **Elementos:** |                 |
+| **Descrição do Requisito** | |
+| **Elos Backward-from:** | |
+| **Elos Forward-from:** | |
+
+<p align="center">Fonte: <a href="https://github.com/leticialopes20">Leticia Lopes</a></p>
+
+### RF04
+
+<div align="center">
+  <strong>Tabela 6 -</strong> Cartão do Requisito 04 - C04
+</div>
+
+| **Categoria:** | Desenvolvimento |
+|:---------------|:----------------|
+| **Elementos:** |                 |
+| **Descrição do Requisito** | |
+| **Elos Backward-from:** | |
+| **Elos Forward-from:** | |
+
+<p align="center">Fonte: <a href="https://github.com/leticialopes20">Leticia Lopes</a></p>
+
+### RF05
+
+<div align="center">
+  <strong>Tabela 7 -</strong> Cartão do Requisito 05 - C05
+</div>
+
+| **Categoria:** | Desenvolvimento |
+|:---------------|:----------------|
+| **Elementos:** |                 |
+| **Descrição do Requisito** | |
+| **Elos Backward-from:** | |
+| **Elos Forward-from:** | |
+
+<p align="center">Fonte: <a href="https://github.com/leticialopes20">Leticia Lopes</a></p>
+
+### RF06
+
+<div align="center">
+  <strong>Tabela 8 -</strong> Cartão do Requisito 06 - C06
+</div>
+
+| **Categoria:** | Desenvolvimento |
+|:---------------|:----------------|
+| **Elementos:** |                 |
+| **Descrição do Requisito** | |
+| **Elos Backward-from:** | |
+| **Elos Forward-from:** | |
+
+<p align="center">Fonte: <a href="https://github.com/eduardar0">Eduarda Domingos</a></p>
+
+### RF07
+
+<div align="center">
+  <strong>Tabela 9 -</strong> Cartão do Requisito 07 - C07
+</div>
+
+| **Categoria:** | Desenvolvimento |
+|:---------------|:----------------|
+| **Elementos:** |       |
+| **Descrição do Requisito** |  |
+| **Elos Backward-from:** | |
+| **Elos Forward-from:** | |
+
+<p align="center">Fonte: <a href="https://github.com/leticialopes20">Leticia Lopes</a></p>
+
+### RF08
+
+<div align="center">
+  <strong>Tabela 10 -</strong> Cartão do Requisito 08 - C08
+</div>
+
+| **Categoria:** | Desenvolvimento |
+|:---------------|:----------------|
+| **Elementos:** |                 |
+| **Descrição do Requisito** | |
+| **Elos Backward-from:** | |
+| **Elos Forward-from:** | |
+
+<p align="center">Fonte: <a href="https://github.com/leticialopes20">Leticia Lopes</a></p>
+
+### RF09
+
+<div align="center">
+  <strong>Tabela 11 -</strong> Cartão do Requisito 09 - C09
+</div>
+
+| **Categoria:** | Desenvolvimento |
+|:---------------|:----------------|
+| **Elementos:** |                 |
+| **Descrição do Requisito** | |
+| **Elos Backward-from:** | |
+| **Elos Forward-from:** | |
+
+<p align="center">Fonte: <a href="https://github.com/eduardar0">Eduarda Domingos</a></p>
 
 ### RF10
 
 <div align="center">
-  <strong>Tabela 5 -</strong> Cartão do Requisito 03 - C03
+  <strong>Tabela 12 -</strong> Cartão do Requisito 10 - C10
 </div>
 
 | **Categoria:** | Desenvolvimento |
@@ -182,7 +281,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 ### RF11
 
 <div align="center">
-  <strong>Tabela 6 -</strong> Cartão do Requisito 04 - C04
+  <strong>Tabela 13 -</strong> Cartão do Requisito 11 - C11
 </div>
 
 | **Categoria:** | Desenvolvimento |
@@ -191,14 +290,13 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 | **Descrição do Requisito** | O sistema deve fornecer canal de suporte via chat, e-mail ou formulário de contato. |
 | **Elos Backward-from:** |Agregação: RF11 ← ENT05 - O requisito foi identificado através de entrevista.<br>Agregação: RF11 ← BS08 - O requisito foi identificado através de brainstorming.<br>Agregação: RF11 ← IDJ05 - O requisito foi identificado através de introspecção. |
 | **Elos Forward-from:** | Satisfação: RF11 → UC04 - O requisito deu origem ao caso de uso "Solicitar Suporte ao Beneficiário".<br>Satisfação: RF11 → CEN04 - O requisito deu origem ao cenário "Canal de Suporte via Chat, E-mail ou Formulário de Contato".<br>Satisfação: RF11 → US04 - O requisito deu origem à história de usuário "Fornecer canal de suporte via chat, e-mail ou formulário de contato".|
----
-<p align="center">Fonte: <a href="https://github.com/eduardar0">Eduarda Domingos</a></p>
 
+<p align="center">Fonte: <a href="https://github.com/eduardar0">Eduarda Domingos</a></p>
 
 ### RF12
 
 <div align="center">
-  <strong>Tabela 7 -</strong> Cartão do Requisito 05 - C05
+  <strong>Tabela 14 -</strong> Cartão do Requisito 12 - C12
 </div>
 
 | **Categoria:** | Desenvolvimento |
@@ -208,12 +306,12 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 | **Elos Backward-from:** | |
 | **Elos Forward-from:** | |
 
-<p align="center">Fonte: <a href=https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
+<p align="center">Fonte: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
 
 ### RF13
 
 <div align="center">
-  <strong>Tabela 8 -</strong> Cartão do Requisito 06 - C06
+  <strong>Tabela 15 -</strong> Cartão do Requisito 13 - C13
 </div>
 
 | **Categoria:** | Desenvolvimento |
@@ -223,13 +321,57 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 | **Elos Backward-from:** | |
 | **Elos Forward-from:** | |
 
-<p align="center">Fonte: <a href=https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
+<p align="center">Fonte: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
 
+### RF14
+
+<div align="center">
+  <strong>Tabela 16 -</strong> Cartão do Requisito 14 - C14
+</div>
+
+| **Categoria:** | Desenvolvimento |
+|:---------------|:----------------|
+| **Elementos:** |       |
+| **Descrição do Requisito** |  |
+| **Elos Backward-from:** | |
+| **Elos Forward-from:** | |
+
+<p align="center">Fonte: <a href="https://github.com/eduardar0">Eduarda Domingos</a></p>
+
+### RF15
+
+<div align="center">
+  <strong>Tabela 17 -</strong> Cartão do Requisito 15 - C15
+</div>
+
+| **Categoria:** | Desenvolvimento |
+|:---------------|:----------------|
+| **Elementos:** |       |
+| **Descrição do Requisito** |  |
+| **Elos Backward-from:** | |
+| **Elos Forward-from:** | |
+
+<p align="center">Fonte: <a href="https://github.com/eduardar0">Eduarda Domingos</a></p>
+
+### RF16
+
+<div align="center">
+  <strong>Tabela 18 -</strong> Cartão do Requisito 16 - C16
+</div>
+
+| **Categoria:** | Desenvolvimento |
+|:---------------|:----------------|
+| **Elementos:** |       |
+| **Descrição do Requisito** |  |
+| **Elos Backward-from:** | |
+| **Elos Forward-from:** | |
+
+<p align="center">Fonte: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
 
 ### RF17
 
 <div align="center">
-  <strong>Tabela 7 -</strong> Cartão do Requisito 7 - C07
+  <strong>Tabela 19 -</strong> Cartão do Requisito 17 - C17
 </div>
 
 | **Categoria:** | Desenvolvimento |
@@ -241,27 +383,40 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 <p align="center">Fonte: <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></p>
 
-
 ### RF18
 
 <div align="center">
-  <strong>Tabela 8 -</strong> Cartão do Requisito 8 - C08
+  <strong>Tabela 20 -</strong> Cartão do Requisito 18 - C18
 </div>
 
 | **Categoria:** | Desenvolvimento |
 |:---------------|:----------------|
-| **Elementos:** | [RF18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf18), [ENT04](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/), [IDJ18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/), [UC18](ttps://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Caso_de_uso), [CEN18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Cenarios), [US18]() |
+| **Elementos:** | [RF18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf18), [ENT04](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/), [IDJ18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/), [UC18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Caso_de_uso), [CEN18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Cenarios), [US18]() |
 | **Descrição do Requisito** | O sistema deve fornecer informações sobre pendências ou erros relacionados aos benefícios do usuário. |
 | **Elos Backward-from:** | Agregação: RF18 ← ENT04 - O requisito foi identificado através de entrevista, onde os usuários expressaram a necessidade de serem informados sobre irregularidades ou falhas nos benefícios. |
 | **Elos Forward-from:** | Satisfação: RF18 → UC18 - O requisito deu origem ao caso de uso "Exibir Pendências e Erros dos Benefícios".<br>Satisfação: RF18 → CEN18 - O requisito deu origem ao cenário "Informar Pendências e Inconsistências de Benefícios".<br>Satisfação: RF18 → US18 - O requisito deu origem à história de usuário "Como jovem beneficiário, quero visualizar pendências ou erros nos meus benefícios para poder corrigi-los rapidamente." |
 
 <p align="center">Fonte: <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></p>
 
+### RF19
+
+<div align="center">
+  <strong>Tabela 21 -</strong> Cartão do Requisito 19 - C19
+</div>
+
+| **Categoria:** | Desenvolvimento |
+|:---------------|:----------------|
+| **Elementos:** |       |
+| **Descrição do Requisito** |  |
+| **Elos Backward-from:** | |
+| **Elos Forward-from:** | |
+
+<p align="center">Fonte: <a href="https://github.com/brenolteixeira">Breno Teixeira</a></p>
 
 ### RF20
 
 <div align="center">
-  <strong>Tabela 11 -</strong> Cartão do Requisito 09 - C09
+  <strong>Tabela 22 -</strong> Cartão do Requisito 20 - C20
 </div>
 
 | **Categoria:** | Desenvolvimento |
@@ -271,13 +426,12 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 | **Elos Backward-from:** | |
 | **Elos Forward-from:** | |
 
-<p align="center">Fonte: <a href=https://github.com/arthurfernandesj">Arthur Fernandes</a></p>
-
+<p align="center">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></p>
 
 ### RF21
 
 <div align="center">
-  <strong>Tabela 12 -</strong> Cartão do Requisito 10 - C10
+  <strong>Tabela 23 -</strong> Cartão do Requisito 21 - C21
 </div>
 
 | **Categoria:** | Desenvolvimento |
@@ -287,12 +441,12 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 | **Elos Backward-from:** | |
 | **Elos Forward-from:** | |
 
-<p align="center">Fonte: <a href=https://github.com/arthurfernandesj">Arthur Fernandes</a></p>
+<p align="center">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></p>
 
-### RF19
+### RF22
 
 <div align="center">
-  <strong>Tabela 13 -</strong> Cartão do Requisito 11 - 11
+  <strong>Tabela 24 -</strong> Cartão do Requisito 22 - C22
 </div>
 
 | **Categoria:** | Desenvolvimento |
@@ -302,13 +456,12 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 | **Elos Backward-from:** | |
 | **Elos Forward-from:** | |
 
-<p align="center">Fonte: <a href=https://github.com/brenolteixeira">Breno Teixeira</a></p>
-
+<p align="center">Fonte: <a href="https://github.com/leticialopes20">Leticia Lopes</a></p>
 
 ### RF23
 
 <div align="center">
-  <strong>Tabela 14 -</strong> Cartão do Requisito 12 - 12
+  <strong>Tabela 25 -</strong> Cartão do Requisito 23 - C23
 </div>
 
 | **Categoria:** | Desenvolvimento |
@@ -318,7 +471,202 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 | **Elos Backward-from:** | |
 | **Elos Forward-from:** | |
 
-<p align="center">Fonte: <a href=https://github.com/brenolteixeira">Breno Teixeira</a></p>
+<p align="center">Fonte: <a href="https://github.com/brenolteixeira">Breno Teixeira</a></p>
+
+### RF24
+
+<div align="center">
+  <strong>Tabela 26 -</strong> Cartão do Requisito 24 - C24
+</div>
+
+| **Categoria:** | Desenvolvimento |
+|:---------------|:----------------|
+| **Elementos:** |       |
+| **Descrição do Requisito** |  |
+| **Elos Backward-from:** | |
+| **Elos Forward-from:** | |
+
+<p align="center">Fonte: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
+
+### RF25
+
+<div align="center">
+  <strong>Tabela 27 -</strong> Cartão do Requisito 25 - C25
+</div>
+
+| **Categoria:** | Desenvolvimento |
+|:---------------|:----------------|
+| **Elementos:** |       |
+| **Descrição do Requisito** |  |
+| **Elos Backward-from:** | |
+| **Elos Forward-from:** | |
+
+<p align="center">Fonte: <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></p>
+
+### RF26
+
+<div align="center">
+  <strong>Tabela 28 -</strong> Cartão do Requisito 26 - C26
+</div>
+
+| **Categoria:** | Desenvolvimento |
+|:---------------|:----------------|
+| **Elementos:** |       |
+| **Descrição do Requisito** |  |
+| **Elos Backward-from:** | |
+| **Elos Forward-from:** | |
+
+<p align="center">Fonte: <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></p>
+
+### RF27
+
+<div align="center">
+  <strong>Tabela 29 -</strong> Cartão do Requisito 27 - C27
+</div>
+
+| **Categoria:** | Desenvolvimento |
+|:---------------|:----------------|
+| **Elementos:** |       |
+| **Descrição do Requisito** |  |
+| **Elos Backward-from:** | |
+| **Elos Forward-from:** | |
+
+<p align="center">Fonte: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
+
+### RF28
+
+<div align="center">
+  <strong>Tabela 30 -</strong> Cartão do Requisito 28 - C28
+</div>
+
+| **Categoria:** | Desenvolvimento |
+|:---------------|:----------------|
+| **Elementos:** |       |
+| **Descrição do Requisito** |  |
+| **Elos Backward-from:** | |
+| **Elos Forward-from:** | |
+
+<p align="center">Fonte: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
+
+### RF29
+
+<div align="center">
+  <strong>Tabela 31 -</strong> Cartão do Requisito 29 - C29
+</div>
+
+| **Categoria:** | Desenvolvimento |
+|:---------------|:----------------|
+| **Elementos:** |       |
+| **Descrição do Requisito** |  |
+| **Elos Backward-from:** | |
+| **Elos Forward-from:** | |
+
+<p align="center">Fonte: <a href="https://github.com/brenolteixeira">Breno Teixeira</a></p>
+
+### RF30
+
+<div align="center">
+  <strong>Tabela 32 -</strong> Cartão do Requisito 30 - C30
+</div>
+
+| **Categoria:** | Desenvolvimento |
+|:---------------|:----------------|
+| **Elementos:** |       |
+| **Descrição do Requisito** |  |
+| **Elos Backward-from:** | |
+| **Elos Forward-from:** | |
+
+<p align="center">Fonte: <a href="https://github.com/brenolteixeira">Breno Teixeira</a></p>
+
+### RF31
+
+<div align="center">
+  <strong>Tabela 33 -</strong> Cartão do Requisito 31 - C31
+</div>
+
+| **Categoria:** | Desenvolvimento |
+|:---------------|:----------------|
+| **Elementos:** |       |
+| **Descrição do Requisito** |  |
+| **Elos Backward-from:** | |
+| **Elos Forward-from:** | |
+
+<p align="center">Fonte: <a href="https://github.com/brenolteixeira">Breno Teixeira</a></p>
+
+### RF32
+
+<div align="center">
+  <strong>Tabela 34 -</strong> Cartão do Requisito 32 - C32
+</div>
+
+| **Categoria:** | Desenvolvimento |
+|:---------------|:----------------|
+| **Elementos:** |       |
+| **Descrição do Requisito** |  |
+| **Elos Backward-from:** | |
+| **Elos Forward-from:** | |
+
+<p align="center">Fonte: <a href="https://github.com/brenolteixeira">Breno Teixeira</a></p>
+
+### RF33
+
+<div align="center">
+  <strong>Tabela 35 -</strong> Cartão do Requisito 33 - C33
+</div>
+
+| **Categoria:** | Desenvolvimento |
+|:---------------|:----------------|
+| **Elementos:** |       |
+| **Descrição do Requisito** |  |
+| **Elos Backward-from:** | |
+| **Elos Forward-from:** | |
+
+<p align="center">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></p>
+
+### RF34
+
+<div align="center">
+  <strong>Tabela 36 -</strong> Cartão do Requisito 34 - C34
+</div>
+
+| **Categoria:** | Desenvolvimento |
+|:---------------|:----------------|
+| **Elementos:** |       |
+| **Descrição do Requisito** |  |
+| **Elos Backward-from:** | |
+| **Elos Forward-from:** | |
+
+<p align="center">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></p>
+
+### RF35
+
+<div align="center">
+  <strong>Tabela 37 -</strong> Cartão do Requisito 35 - C35
+</div>
+
+| **Categoria:** | Desenvolvimento |
+|:---------------|:----------------|
+| **Elementos:** |       |
+| **Descrição do Requisito** |  |
+| **Elos Backward-from:** | |
+| **Elos Forward-from:** | |
+
+<p align="center">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></p>
+
+### RF36
+
+<div align="center">
+  <strong>Tabela 38 -</strong> Cartão do Requisito 36 - C36
+</div>
+
+| **Categoria:** | Desenvolvimento |
+|:---------------|:----------------|
+| **Elementos:** |       |
+| **Descrição do Requisito** |  |
+| **Elos Backward-from:** | |
+| **Elos Forward-from:** | |
+
+<p align="center">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></p>
 
 
 

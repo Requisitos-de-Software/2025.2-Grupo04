@@ -5,6 +5,9 @@
 Os **elos de rastreabilidade** representam as conexões que estabelecem vínculos entre diferentes artefatos e atividades ao longo do ciclo de vida de um projeto ou sistema. No contexto do **ID Jovem**, esses elos permitem compreender a relação entre os requisitos definidos, as funcionalidades desenvolvidas e os testes realizados, assegurando que cada parte do sistema esteja alinhada aos objetivos do programa.
 
 Por meio da rastreabilidade, é possível acompanhar a origem e a evolução de cada funcionalidade, verificar se os requisitos foram devidamente implementados e testados, registrar decisões importantes e identificar impactos de eventuais mudanças. Dessa forma, a criação e manutenção dos elos de rastreabilidade contribuem para uma **gestão mais eficiente, transparente e integrada** do desenvolvimento e manutenção do sistema <a id="TEC1" href="#RP1">[1]</a>.
+
+<small><em>Revisado por [Chat GPT](https://chatgpt.com/share/6900b5f9-b0f4-8000-9e22-1c8d3e432359), em 28 de outubro de 2025</em></small>
+
 ### **Backward-from**
 
 A **rastreabilidade backward-from** é um processo fundamental na engenharia de requisitos, responsável por estabelecer a ligação dos requisitos às suas fontes originais. Esse tipo de rastreabilidade é essencial para garantir que todos os requisitos identificados possuam uma origem bem definida, facilitando as etapas de validação e verificação ao longo do ciclo de vida do desenvolvimento do software.  
@@ -12,6 +15,7 @@ A **rastreabilidade backward-from** é um processo fundamental na engenharia de 
 Além disso, a rastreabilidade backward-from contribui para o gerenciamento de mudanças, permitindo rastrear cada requisito de volta às suas bases. Dessa forma, qualquer modificação no sistema pode ser rapidamente associada à sua origem, assegurando uma resposta eficaz às alterações e mantendo a conformidade com os requisitos iniciais do projeto <a id="TEC1" href="#RP1">[1]</a>.  
 
 ---
+<small><em>Revisado por [Chat GPT](https://chatgpt.com/share/6900b5f9-b0f4-8000-9e22-1c8d3e432359), em 28 de outubro de 2025</em></small>
 
 ### **Forward-from**
 
@@ -246,7 +250,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 | **Categoria:** | Desenvolvimento |
 |:---------------|:----------------|
-| **Elementos:** |       |
+| **Elementos:** |  ENT04,       |
 | **Descrição do Requisito** |  |
 | **Elos Backward-from:** | |
 | **Elos Forward-from:** | |
@@ -336,3 +340,10 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 | :----: | :--------: | :------------------: | :----------------------------------------------------------------------------------------: | :-------------------------------------------: |
 |  `1.0` | 09/10/2025 | Criação do documento | [Eduarda Domingos](https://github.com/dylancavalcante) | [Arthur](https://github.com/arthurfernandesj) |
 |  `1.0` | 09/10/2025 | Introdução e metodologia | [Eduarda Domingos](https://github.com/dylancavalcante) | [Arthur](https://github.com/arthurfernandesj) |
+
+## Agrecimentos
+
+Queremos agradecer ao [Chat GPT](https://chatgpt.com/share/6900b5f9-b0f4-8000-9e22-1c8d3e432359), ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto ID Jovem. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.

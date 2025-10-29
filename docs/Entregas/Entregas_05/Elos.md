@@ -383,7 +383,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 <p align="center">Fonte: <a href="https://github.com/eduardar0">Eduarda Domingos</a></p>
 
 
-### RF15
+### RF15 - Validação Automática de Elegibilidade
 
 <div align="center">
   <strong>Tabela 17 -</strong> Cartão do Requisito 15 - C15

@@ -93,45 +93,38 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 <div align="center">
 
 <table>
-  <thead>
-    <tr>
-      <th align="center">Nome</th>
-      <th align="left">ELOS</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"><a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></td>
-      <td align="left">RF20, RF21, RF33, RF34, RF35, RF36</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/BrenoLTeixeira">Breno Teixeira</a></td>
-      <td align="left">RF19, RF23, RF29, RF30, RF31, RF32</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></td>
-      <td align="left">RF12, RF13, RF16, RF24, RF27, RF28</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/eduardar0">Eduarda Domingos</a></td>
-      <td align="left">
-        <a href="#rf10">RF10</a> – Disponibilizar informações sobre locais e parceiros que aceitam o benefício<br>
-        <a href="#rf11">RF11</a> – Fornecer canal de suporte via chat, e-mail ou formulário de contato<br>
-        <a href="#rf06">RF06</a> – Exibir Seção de Perguntas Frequentes (FAQ)<br>
-        <a href="#rf09">RF09</a> – Download da Carteirinha para Uso Offline<br>
-        <a href="#rf14">RF14</a> – Reserva e Emissão de Comprovantes de Uso<br>
-        <a href="#rf15">RF15</a> – Validação Automática de Elegibilidade
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></td>
-      <td align="left">RF01, RF02, RF17, RF18, RF25, RF26</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/leticialopes20">Letícia Lopes</a></td>
-      <td align="left">RF03, RF04, RF05, RF07, RF08, RF22</td>
-    </tr>
-  </tbody>
+  <thead>
+    <tr>
+      <th align="center">Nome</th>
+      <th align="left">ELOS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></td>
+      <td align="left">RF20, RF21, RF33, RF34, RF35, RF36</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/BrenoLTeixeira">Breno Teixeira</a></td>
+      <td align="left">RF19, RF23, RF29, RF30, RF31, RF32</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></td>
+      <td align="left">RF12, RF13, RF16, RF24, RF27, RF28</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/eduardar0">Eduarda Domingos</a></td>
+      <td align="left">RF06, RF09, RF10, RF11, RF14, RF15</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></td>
+      <td align="left">RF01, RF02, RF17, RF18, RF25, RF26</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/leticialopes20">Letícia Lopes</a></td>
+      <td align="left">RF03, RF04, RF05, RF07, RF08, RF22</td>
+    </tr>
+  </tbody>
 </table>
 </div>
 
@@ -139,7 +132,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 
 <div align="center">
-  <strong>Tabela 3 -</strong> Cartão do Requisito 01 - C01
+  <strong>Tabela 1 -</strong> Cartão do Requisito 01 - C01
 </div>
 
 | **Categoria:** | Desenvolvimento |
@@ -154,7 +147,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 ### RF02 Autenticação e Login via Gov.br
 
 <div align="center">
-  <strong>Tabela 4 -</strong> Cartão do Requisito 02 - C02
+  <strong>Tabela 2 -</strong> Cartão do Requisito 02 - C02
 </div>
 
 | **Categoria:** | Desenvolvimento |
@@ -281,10 +274,10 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 | **Categoria:** | Desenvolvimento |
 |:---------------|:----------------|
-| **Elementos:** | [RF10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf10) , [BS10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming), [ST06](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling), [UC10](), [CEN10](), [US03]()                |
-| **Descrição do Requisito** | O aplicativo deve disponibilizar informações sobre locais e parceiros que aceitam o benefício.|
+| **Elementos:** | [RF10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf10) , [BS10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming), [ST06](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling), [UC03](), [CEN03](), [US03]()                |
+| **Descrição do Requisito** |  aplicativo deve disponibilizar informações sobre locais e parceiros que aceitam o benefício.|
 | **Elos Backward-from:** | Agregação: RF10 ← BS10 - O requisito foi identificado através de brainstorming.<br>Agregação: RF10 ← ST06 - O requisito foi identificado através de storytelling.  |
-| **Elos Forward-from:** | Satisfação: RF10 → UC10 - O requisito deu origem ao caso de uso "Consultar Locais e Parceiros".<br>Satisfação: RF10 → CEN10 - O requisito deu origem ao cenário "Consulta de Locais e Parceiros que Aceitam o Benefício".<br>Satisfação: RF10 → US03 - O requisito deu origem à história de usuário "Disponibilizar informações sobre locais e parceiros que aceitam o benefício". |
+| **Elos Forward-from:** | Satisfação: RF10 → UC03 - O requisito deu origem ao caso de uso "Consultar Locais e Parceiros".<br>Satisfação: RF10 → CEN03 - O requisito deu origem ao cenário "Consulta de Locais e Parceiros que Aceitam o Benefício".<br>Satisfação: RF10 → US03 - O requisito deu origem à história de usuário "Disponibilizar informações sobre locais e parceiros que aceitam o benefício". |
 
 <p align="center">Fonte: <a href="https://github.com/eduardar0">Eduarda Domingos</a></p>
 
@@ -548,7 +541,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 | **Elos Backward-from:** | |
 | **Elos Forward-from:** | |
 
-<p align="center">Fonte: <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></p>
+<p align="center">Fonte: <a href="https.com/GiovanaFontesS">Giovana Fontes</a></p>
 
 ### RF27
 

@@ -102,7 +102,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
   <tbody>
     <tr>
       <td align="center"><a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></td>
-      <td align="left">RF20, RF21, RF33, RF34, RF35, RF36</td>
+       <td align="left"> <a href="#rf20">RF20</a>, <a href="#rf21">RF21</a>, <a href="#rf23">RF23</a>, <a href="#rf34">RF34</a>, <a href="#rf35">35</a>, <a href="#rf36">RF36</a></td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/BrenoLTeixeira">Breno Teixeira</a></td>

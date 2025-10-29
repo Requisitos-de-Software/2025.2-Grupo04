@@ -535,10 +535,10 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 | **Categoria:** | Desenvolvimento |
 |:---------------|:----------------|
-| **Elementos:** | [RF26](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf26), [BS09](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/), [IDJ09](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/), [UC26](), [CEN26](), [US26]() |
+| **Elementos:** | [RF26](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf26), [BS09](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/), [IDJ09](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/), [UC26](), [CEN26]() |
 | **Descrição do Requisito** | O aplicativo deve disponibilizar um tutorial interativo para orientar novos usuários sobre como utilizar o ID Jovem e seus benefícios. |
 | **Elos Backward-from:** | Agregação: RF26 ← BS09 - O requisito foi identificado através de brainstorming.<br>Agregação: RF26 ← IDJ09 - O requisito foi identificado através de introspecção. |
-| **Elos Forward-from:** | Satisfação: RF26 → UC26 - O requisito deu origem ao caso de uso "Acessar Tutorial Interativo".<br>Satisfação: RF26 → CEN26 - O requisito deu origem ao cenário "Orientação para novos usuários".<br>Satisfação: RF26 → US26 - O requisito deu origem à história de usuário "Como novo usuário, quero um tutorial interativo para aprender a usar o app." |
+| **Elos Forward-from:** | Satisfação: RF26 → UC26 - O requisito deu origem ao caso de uso "Acessar Tutorial Interativo".<br>Satisfação: RF26 → CEN26 - O requisito deu origem ao cenário "Orientação para novos usuários". |
 
 <p align="center">Fonte: <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></p>
 

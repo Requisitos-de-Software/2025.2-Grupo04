@@ -114,7 +114,12 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/eduardar0">Eduarda Domingos</a></td>
-      <td align="left">RF06, RF09, RF10, RF11, RF14, RF15</td>
+      <td align="left"><a href="#rf06">RF06</a> – Exibir Seção de Perguntas Frequentes (FAQ)<br>
+ <a href="#rf10">RF10</a> – Disponibilizar informações sobre locais e parceiros que aceitam o benefício<br>
+        <a href="#rf11">RF11</a> – Fornecer canal de suporte via chat, e-mail ou formulário de contato<br>
+        <a href="#rf09">RF09</a> – Download da Carteirinha para Uso Offline<br>
+        <a href="#rf14">RF14</a> – Reserva e Emissão de Comprovantes de Uso<br>
+        <a href="#rf15">RF15</a> – Validação Automática de Elegibilidade</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></td>

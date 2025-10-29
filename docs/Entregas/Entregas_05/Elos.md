@@ -735,14 +735,16 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 ## Histórico de Versão
 
-| Versão |    Data    |       Descrição      |                                          Autor(es)                                         |                  Revisor(es)                  |
+| Versão |  Data  |  Descrição  |  Autor(es)  |  Revisor(es)  |
 | :----: | :--------: | :------------------: | :----------------------------------------------------------------------------------------: | :-------------------------------------------: |
-|  `1.0` | 09/10/2025 | Criação do documento |[Eduarda Domingos](https://github.com/eduardar0) | [Arthur](https://github.com/arthurfernandesj) |
-|  `1.1` | 09/10/2025 | Introdução e metodologia | [Eduarda Domingos](https://github.com/eduardar0) | [Arthur](https://github.com/arthurfernandesj) |
-|  `1.2` | 09/10/2025 | Adicionando C09 e C10| [Arthur Fernandes](https://github.com/arthurfernandesj) | [Eduarda Domingos](https://github.com/eduardar0) |
-|  `1.3` | 28/10/2025 | Preenchimento dos cartões de Dylan (RF12, RF13, RF16, RF24, RF27, RF28) | [Dylan Cavalcante](https://github.com/dylancavalcante) | [Breno Teixeira](https://github.com/BrenoLTeixeira) |
-|  `1.4` | 28/10/2025 | Preenchimento dos cartões de Breno| [Breno Teixeira](https://github.com/BrenoLTeixeira) | [Dylan Cavalcante](https://github.com/dylancavalcante)|
-|  `1.5` | 28/10/2025 | Preenchimento dos cartões de Giovana| [Giovana](https://github.com/GiovanaFontesS) | [Dylan Cavalcante](https://github.com/dylancavalcante)|
+|  `1.0` | 09/10/2025 | Criação do documento |[Eduarda Domingos](https://github.com/eduardar0) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+|  `1.1` | 09/10/2025 | Introdução e metodologia | [Eduarda Domingos](https://github.com/eduardar0) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+|  `1.2` | 28/10/2025 | Adição dos cartões de requisitos RF01, RF02, RF17, RF18, RF25 e RF26 | [Giovana Fontes](https://github.com/GiovanaFontesS) | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+|  `1.3` | 28/10/2025 | Adição dos cartões de requisitos RF03, RF04, RF05, RF07, RF08 e RF22 | [Letícia Lopes](https://github.com/leticialopes20) | [Breno Teixeira](https://github.com/BrenoLTeixeira) |
+|  `1.4` | 28/10/2025 | Adição dos cartões de requisitos RF06, RF09, RF10, RF11, RF14 e RF15 | [Eduarda Domingos](https://github.com/eduardar0) | [Letícia Lopes](https://github.com/leticialopes20) |
+|  `1.5` | 28/10/2025 | Adição dos cartões de requisitos RF12, RF13, RF16, RF24, RF27 e RF28 | [Dylan Cavalcante](https://github.com/dylancavalcante) | [Giovana Fontes](https://github.com/GiovanaFontesS) |
+|  `1.6` | 28/10/2025 | Adição dos cartões de requisitos RF19, RF23, RF29, RF30, RF31 e RF32 | [Breno Teixeira](https://github.com/BrenoLTeixeira) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+|  `1.7` | 28/10/2025 | Adição dos cartões de requisitos RF20, RF21, RF33, RF34, RF35 e RF36 | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Eduarda Domingos](https://github.com/eduardar0) |
 
 ## Agrecimentos
 

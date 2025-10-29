@@ -93,47 +93,84 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 <div align="center">
 
 <table>
-  <thead>
-    <tr>
-      <th align="center">Nome</th>
-      <th align="left">ELOS</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"><a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></td>
-      <td align="left">RF20, RF21, RF33, RF34, RF35, RF36</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/BrenoLTeixeira">Breno Teixeira</a></td>
-      <td align="left">RF19, RF23, RF29, RF30, RF31, RF32</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></td>
-      <td align="left">RF12, RF13, RF16, RF24, RF27, RF28</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/eduardar0">Eduarda Domingos</a></td>
-      <td align="left"><a href="#rf06">RF06</a> – Exibir Seção de Perguntas Frequentes (FAQ)<br>
- <a href="#rf10">RF10</a> – Disponibilizar informações sobre locais e parceiros que aceitam o benefício<br>
+  <thead>
+    <tr>
+      <th align="center">Nome</th>
+      <th align="left">ELOS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></td>
+      <td align="left">
+        <a href="#rf20">RF20</a> – Alertas sobre Irregularidades no Uso dos Benefícios<br>
+        <a href="#rf21">RF21</a> – Mapa Interativo de Parceiros e Eventos<br>
+        <a href="#rf33">RF33</a> – Registro de Logs de Auditoria<br>
+        <a href="#rf34">RF34</a> – Alertas sobre Atualizações do Programa<br>
+        <a href="#rf35">RF35</a> – Alteração de Senha pelo Aplicativo<br>
+        <a href="#rf36">RF36</a> – Integração com GPS para Localização de Parceiros
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/BrenoLTeixeira">Breno Teixeira</a></td>
+      <td align="left">
+        <a href="#rf19">RF19</a> – Atualização de Cadastro e Preferências Pessoais<br>
+        <a href="#rf23">RF23</a> – Canal para Denúncia ou Feedback<br>
+        <a href="#rf29">RF29</a> – Exportação de Comprovantes e Histórico em PDF<br>
+        <a href="#rf30">RF30</a> – Configuração de Preferências de Notificação<br>
+        <a href="#rf31">RF31</a> – Exibição de Versão do Aplicativo<br>
+        <a href="#rf32">RF32</a> – Acesso a Termos de Uso e Política de Privacidade
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></td>
+      <td align="left">
+        <a href="#rf12">RF12</a> – Histórico de Utilização<br>
+        <a href="#rf13">RF13</a> – Vantagens e Parcerias<br>
+        <a href="#rf16">RF16</a> – Integração com Gov.br<br>
+        <a href="#rf24">RF24</a> – Favoritar Eventos e Estabelecimentos<br>
+        <a href="#rf27">RF27</a> – Avaliação de Parceiros e Estabelecimentos<br>
+        <a href="#rf28">RF28</a> – Modo Acessível com Contraste Ajustável
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/eduardar0">Eduarda Domingos</a></td>
+      <td align="left">
+        <a href="#rf06">RF06</a> – Exibir Seção de Perguntas Frequentes (FAQ)<br>
+        <a href="#rf10">RF10</a> – Disponibilizar informações sobre locais e parceiros que aceitam o benefício<br>
         <a href="#rf11">RF11</a> – Fornecer canal de suporte via chat, e-mail ou formulário de contato<br>
         <a href="#rf09">RF09</a> – Download da Carteirinha para Uso Offline<br>
         <a href="#rf14">RF14</a> – Reserva e Emissão de Comprovantes de Uso<br>
-        <a href="#rf15">RF15</a> – Validação Automática de Elegibilidade</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></td>
-      <td align="left">RF01, RF02, RF17, RF18, RF25, RF26</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/leticialopes20">Letícia Lopes</a></td>
-      <td align="left">RF03, RF04, RF05, RF07, RF08, RF22</td>
-    </tr>
-  </tbody>
+        <a href="#rf15">RF15</a> – Validação Automática de Elegibilidade
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></td>
+      <td align="left">
+        <a href="#rf01">RF01</a> – Cadastro do Jovem Beneficiário via CPF<br>
+        <a href="#rf02">RF02</a> – Autenticação e Login via Gov.br<br>
+        <a href="#rf17">RF17</a> – Compartilhar Carteirinha Digital em PDF ou Imagem<br>
+        <a href="#rf18">RF18</a> – Exibir Informações sobre Pendências ou Erros de Benefícios<br>
+        <a href="#rf25">RF25</a> – Recuperação de Conta via E-mail, SMS ou Gov.br<br>
+        <a href="#rf26">RF26</a> – Tutorial Interativo para Novos Usuários
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/leticialopes20">Letícia Lopes</a></td>
+      <td align="left">
+        <a href="#rf03">RF03</a> – Geração e Emissão da Carteira Digital<br>
+        <a href="#rf04">RF04</a> – Consulta de Benefícios<br>
+        <a href="#rf05">RF05</a> – Validação da Carteira Digital<br>
+        <a href="#rf07">RF07</a> – Integração com CadÚnico<br>
+        <a href="#rf08">RF08</a> – Notificações do Sistema<br>
+        <a href="#rf22">RF22</a> – Agenda Integrada de Eventos com Filtros
+      </td>
+    </tr>
+  </tbody>
 </table>
 </div>
 
-### RF01  Cadastro do Jovem Beneficiário via CPF
+### <a name="rf01"></a> RF01 - Cadastro do Jovem Beneficiário via CPF
 
 
 <div align="center">
@@ -149,7 +186,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 <p align="center">Fonte: <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></p>
 
-### RF02 Autenticação e Login via Gov.br
+### <a name="rf02"></a> RF02 - Autenticação e Login via Gov.br
 
 <div align="center">
   <strong>Tabela 2 -</strong> Cartão do Requisito 02 - C02
@@ -164,7 +201,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 <p align="center">Fonte: <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></p>
 
-### RF03
+### <a name="rf03"></a> RF03 - Geração e Emissão da Carteira Digital
 
 <div align="center">
   <strong>Tabela 5 -</strong> Cartão do Requisito 03 - C03
@@ -179,7 +216,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 <p align="center">Fonte: <a href="https://github.com/leticialopes20">Leticia Lopes</a></p>
 
-### RF04
+### <a name="rf04"></a> RF04 - Consulta de Benefícios
 
 <div align="center">
   <strong>Tabela 6 -</strong> Cartão do Requisito 04 - C04
@@ -194,7 +231,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 <p align="center">Fonte: <a href="https://github.com/leticialopes20">Leticia Lopes</a></p>
 
-### RF05
+### <a name="rf05"></a> RF05 - Validação da Carteira Digital
 
 <div align="center">
   <strong>Tabela 7 -</strong> Cartão do Requisito 05 - C05
@@ -209,7 +246,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 <p align="center">Fonte: <a href="https://github.com/leticialopes20">Leticia Lopes</a></p>
 
-### <a name="rf06"></a> RF06
+### <a name="rf06"></a> RF06 - Perguntas Frequentes e Suporte
 
 <div align="center">
   <strong>Tabela 8 -</strong> Cartão do Requisito 06 - C06
@@ -225,7 +262,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 <p align="center">Fonte: <a href="https://github.com/eduardar0">Eduarda Domingos</a></p>
 
 
-### RF07
+### <a name="rf07"></a> RF07 - Integração com CadÚnico
 
 <div align="center">
   <strong>Tabela 9 -</strong> Cartão do Requisito 07 - C07
@@ -240,7 +277,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 <p align="center">Fonte: <a href="https://github.com/leticialopes20">Leticia Lopes</a></p>
 
-### RF08
+### <a name="rf08"></a> RF08 - Notificações do Sistema
 
 <div align="center">
   <strong>Tabela 10 -</strong> Cartão do Requisito 08 - C08
@@ -255,7 +292,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 <p align="center">Fonte: <a href="https://github.com/leticialopes20">Leticia Lopes</a></p>
 
-### RF09
+### <a name="rf09"></a> RF09 - Download da Carteirinha Offline
 
 <div align="center">
   <strong>Tabela 11 -</strong> Cartão do Requisito 09 - C09
@@ -271,7 +308,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 <p align="center">Fonte: <a href="https://github.com/eduardar0">Eduarda Domingos</a></p>
 
-### RF10
+### <a name="rf10"></a> RF10 - Informações sobre Locais e Parceiros
 
 <div align="center">
   <strong>Tabela 12 -</strong> Cartão do Requisito 10 - C10
@@ -286,7 +323,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 <p align="center">Fonte: <a href="https://github.com/eduardar0">Eduarda Domingos</a></p>
 
-### RF11
+### <a name="rf11"></a> RF11 - Canal de Suporte
 
 <div align="center">
   <strong>Tabela 13 -</strong> Cartão do Requisito 11 - C11
@@ -301,7 +338,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 <p align="center">Fonte: <a href="https://github.com/eduardar0">Eduarda Domingos</a></p>
 
-### RF12
+### <a name="rf12"></a> RF12 - Histórico de Utilização
 
 <div align="center">
   <strong>Tabela 14 -</strong> Cartão do Requisito 12 - C12
@@ -316,7 +353,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 <p align="center">Fonte: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
 
-### RF13
+### <a name="rf13"></a> RF13 - Vantagens e Parcerias
 
 <div align="center">
   <strong>Tabela 15 -</strong> Cartão do Requisito 13 - C13
@@ -331,7 +368,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 <p align="center">Fonte: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
 
-### RF14
+### <a name="rf14"></a> RF14 - Reserva e Emissão de Comprovantes
 
 <div align="center">
   <strong>Tabela 16 -</strong> Cartão do Requisito 14 - C14
@@ -364,22 +401,9 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 <p align="center">Fonte: <a href="https://github.com/eduardar0">Eduarda Domingos</a></p>
 
-### RF15
 
-<div align="center">
-  <strong>Tabela 17 -</strong> Cartão do Requisito 15 - C15
-</div>
 
-| **Categoria:** | Desenvolvimento |
-|:---------------|:----------------|
-| **Elementos:** | [RF15](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf15), [ST02](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling/), [UC15](), [CEN15](), [US06]()       |
-| **Descrição do Requisito** | O sistema deve validar automaticamente a elegibilidade do Jovem Beneficiário ao benefício. |
-| **Elos Backward-from:** | Agregação: RF15 ← ST02 - O requisito foi identificado através de storytelling. |
-| **Elos Forward-from:** | Satisfação: RF15 → UC15 - O requisito deu origem ao caso de uso "Validar Elegibilidade do Beneficiário".<br>Satisfação: RF15 → CEN15 - O requisito deu origem ao cenário "Validação Automática de Elegibilidade".<br>Satisfação: RF15 → US06 - O requisito deu origem à história de usuário "Validar automaticamente a elegibilidade do jovem". |
-
-<p align="center">Fonte: <a href="https://github.com/eduardar0">Eduarda Domingos</a></p>
-
-### RF16
+### <a name="rf16"></a> RF16 - Integração com Gov.br
 
 <div align="center">
   <strong>Tabela 18 -</strong> Cartão do Requisito 16 - C16
@@ -394,7 +418,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 <p align="center">Fonte: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
 
-### RF17 Compartilhar Carteirinha Digital em PDF ou Imagem
+### <a name="rf17"></a> RF17 - Compartilhar Carteirinha Digital em PDF ou Imagem
 
 <div align="center">
   <strong>Tabela 19 -</strong> Cartão do Requisito 17 - C17
@@ -409,7 +433,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 <p align="center">Fonte: <a href="https.com/GiovanaFontesS">Giovana Fontes</a></p>
 
-### RF18 Exibir Informações sobre Pendências ou Erros de Benefícios
+### <a name="rf18"></a> RF18 - Exibir Informações sobre Pendências ou Erros de Benefícios
 
 <div align="center">
   <strong>Tabela 20 -</strong> Cartão do Requisito 18 - C18
@@ -424,7 +448,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 <p align="center">Fonte: <a href="https.com/GiovanaFontesS">Giovana Fontes</a></p>
 
-### RF19
+### <a name="rf19"></a> RF19 - Atualização de Cadastro e Preferências Pessoais
 
 <div align="center">
   <strong>Tabela 21 -</strong> Cartão do Requisito 19 - C19
@@ -439,7 +463,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 <p align="center">Fonte: <a href="https://github.com/brenolteixeira">Breno Teixeira</a></p>
 
-### RF20
+### <a name="rf20"></a> RF20 - Alertas sobre Irregularidades no Uso dos Benefícios
 
 <div align="center">
   <strong>Tabela 22 -</strong> Cartão do Requisito 20 - C20
@@ -454,7 +478,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 <p align="center">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></p>
 
 
-### RF21
+### <a name="rf21"></a> RF21 - Mapa Interativo de Parceiros e Eventos
 
 <div align="center">
   <strong>Tabela 12 -</strong> Cartão do Requisito 10 - C10
@@ -470,7 +494,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 <p align="center">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></p>
 
-### RF22
+### <a name="rf22"></a> RF22 - Agenda Integrada de Eventos com Filtros
 
 <div align="center">
   <strong>Tabela 24 -</strong> Cartão do Requisito 22 - C22
@@ -486,7 +510,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 <p align="center">Fonte: <a href="https://github.com/leticialopes20">Leticia Lopes</a></p>
 
-### RF23
+### <a name="rf23"></a> RF23 - Canal para Denúncia ou Feedback
 
 <div align="center">
   <strong>Tabela 25 -</strong> Cartão do Requisito 23 - C23
@@ -501,7 +525,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 <p align="center">Fonte: <a href="https://github.com/brenolteixeira">Breno Teixeira</a></p>
 
-### RF24
+### <a name="rf24"></a> RF24 - Favoritar Eventos e Estabelecimentos
 
 <div align="center">
   <strong>Tabela 26 -</strong> Cartão do Requisito 24 - C24
@@ -516,8 +540,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 <p align="center">Fonte: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
 
-### RF25 Recuperação de Conta via E-mail, SMS ou Gov.br
-
+### <a name="rf25"></a> RF25 - Recuperação de Conta via E-mail, SMS ou Gov.br
 <div align="center">
   <strong>Tabela 27 -</strong> Cartão do Requisito 25 - C25
 </div>
@@ -532,7 +555,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 <p align="center">Fonte: <a href="https.com/GiovanaFontesS">Giovana Fontes</a></p>
 
-### RF26 Tutorial Interativo para Novos Usuários do Aplicativo
+### <a name="rf26"></a> RF26 - Tutorial Interativo para Novos Usuários
 
 
 <div align="center">
@@ -548,7 +571,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 <p align="center">Fonte: <a href="https.com/GiovanaFontesS">Giovana Fontes</a></p>
 
-### RF27
+### <a name="rf27"></a> RF27 - Avaliação de Parceiros e Estabelecimentos
 
 <div align="center">
   <strong>Tabela 29 -</strong> Cartão do Requisito 27 - C27
@@ -563,7 +586,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 <p align="center">Fonte: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
 
-### RF28
+### <a name="rf28"></a> RF28 - Modo Acessível com Contraste Ajustável
 
 <div align="center">
   <strong>Tabela 30 -</strong> Cartão do Requisito 28 - C28
@@ -578,7 +601,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 <p align="center">Fonte: <a href="httpsDylancavalcante">Dylan Cavalcante</a></p>
 
-### RF29
+### <a name="rf29"></a> RF29 - Exportação de Comprovantes e Histórico em PDF
 
 <div align="center">
   <strong>Tabela 31 -</strong> Cartão do Requisito 29 - C29
@@ -593,7 +616,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 <p align="center">Fonte: <a href="https://github.com/brenolteixeira">Breno Teixeira</a></p>
 
-### RF30
+### <a name="rf30"></a> RF30 - Configuração de Preferências de Notificação
 
 <div align="center">
   <strong>Tabela 32 -</strong> Cartão do Requisito 30 - C30
@@ -608,7 +631,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 <p align="center">Fonte: <a href="https://github.com/brenolteixeira">Breno Teixeira</a></p>
 
-### RF31
+### <a name="rf31"></a> RF31 - Exibição de Versão do Aplicativo
 
 <div align="center">
   <strong>Tabela 33 -</strong> Cartão do Requisito 31 - C31
@@ -623,7 +646,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 <p align="center">Fonte: <a href="https://github.com/brenolteixeira">Breno Teixeira</a></p>
 
-### RF32
+### <a name="rf32"></a> RF32 - Acesso a Termos de Uso e Política de Privacidade
 
 <div align="center">
   <strong>Tabela 34 -</strong> Cartão do Requisito 32 - C32
@@ -638,7 +661,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 <p align="center">Fonte: <a href="https://github.com/brenolteixeira">Breno Teixeira</a></p>
 
-### RF33
+### <a name="rf33"></a> RF33 - Registro de Logs de Auditoria
 
 <div align="center">
   <strong>Tabela 35 -</strong> Cartão do Requisito 33 - C33
@@ -654,7 +677,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 <p align="center">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></p>
 
-### RF34
+### <a name="rf34"></a> RF34 - Alertas sobre Atualizações do Programa
 
 <div align="center">
   <strong>Tabela 36 -</strong> Cartão do Requisito 34 - C34
@@ -671,7 +694,8 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 <p align="center">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></p>
 
-### RF35
+### <a name="rf35"></a> RF35 - Alteração de Senha pelo Aplicativo
+
 
 <div align="center">
   <strong>Tabela 37 -</strong> Cartão do Requisito 35 - C35
@@ -687,7 +711,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 <p align="center">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></p>
 
-### RF36
+### <a name="rf36"></a> RF36 - Integração com GPS para Localização de Parceiros
 
 <div align="center">
   <strong>Tabela 38 -</strong> Cartão do Requisito 36 - C36

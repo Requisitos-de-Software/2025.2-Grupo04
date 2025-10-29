@@ -10,7 +10,7 @@ Por meio da rastreabilidade, é possível acompanhar a origem e a evolução de 
 
 ### **Backward-from**
 
-A **rastreabilidade backward-from** é um processo fundamental na engenharia de requisitos, responsável por estabelecer a ligação dos requisitos às suas fontes originais. Esse tipo de rastreabilidade é essencial para garantir que todos os requisitos identificados possuam uma origem bem definida, facilitando as etapas de validação e verificação ao longo do ciclo de vida do desenvolvimento do software.  
+A rastreabilidade backward-from é um processo fundamental na engenharia de requisitos, responsável por estabelecer a ligação dos requisitos às suas fontes originais. Esse tipo de rastreabilidade é essencial para garantir que todos os requisitos identificados possuam uma origem bem definida, facilitando as etapas de validação e verificação ao longo do ciclo de vida do desenvolvimento do software.  
 
 Além disso, a rastreabilidade backward-from contribui para o gerenciamento de mudanças, permitindo rastrear cada requisito de volta às suas bases. Dessa forma, qualquer modificação no sistema pode ser rapidamente associada à sua origem, assegurando uma resposta eficaz às alterações e mantendo a conformidade com os requisitos iniciais do projeto <a id="TEC1" href="#RP1">[1]</a>.  
 
@@ -19,13 +19,13 @@ Além disso, a rastreabilidade backward-from contribui para o gerenciamento de m
 
 ### **Forward-from**
 
-A **rastreabilidade forward-from** é um componente essencial na engenharia de requisitos, que permite a ligação dos requisitos aos artefatos subsequentes, como design, código, testes e documentação. Esse tipo de rastreabilidade é crucial para garantir que todos os requisitos sejam devidamente implementados, testados e validados ao longo do ciclo de vida do desenvolvimento do software.  
+A rastreabilidade forward-from é um componente essencial na engenharia de requisitos, que permite a ligação dos requisitos aos artefatos subsequentes, como design, código, testes e documentação. Esse tipo de rastreabilidade é crucial para garantir que todos os requisitos sejam devidamente implementados, testados e validados ao longo do ciclo de vida do desenvolvimento do software.  
 
 Além disso, a rastreabilidade forward-from facilita a gestão de mudanças, assegurando que qualquer modificação nos requisitos seja refletida de maneira consistente em todos os artefatos impactados. Isso garante que as atualizações sejam corretamente incorporadas e verificadas, mantendo a integridade e a conformidade do sistema em relação aos requisitos definidos inicialmente <a id="TEC2" href="#RP2">[2]</a>.  
 
 ## Metodologia
 
-Baseamos a construção dos nossos cartões no modelo apresentado pelos professores **Milene Serrano** e **Maurício Serrano**, entre as páginas 22 e 27 dos slides <a id="RP3" href="#TEC3">[3]</a>. As **categorias** e **tipos de elos** adotados seguem o **Meta-modelo de Toranzo**. Embora o formato visual dos cartões seja semelhante ao dos exemplos apresentados, elaboramos cada um deles a partir dos **requisitos do projeto**, de modo que **cada cartão representa todos os tipos de elos associados ao requisito correspondente**.
+Baseamos a construção dos nossos cartões no modelo apresentado pelos professores Milene Serrano e Maurício Serrano, entre as páginas 22 e 27 dos slides <a id="RP3" href="#TEC3">[3]</a>. As categorias e tipos de elos adotados seguem o Meta-modelo de Toranzo. Embora o formato visual dos cartões seja semelhante ao dos exemplos apresentados, elaboramos cada um deles a partir dos requisitos do projeto, de modo que cada cartão representa todos os tipos de elos associados ao requisito correspondente.
 
 
 

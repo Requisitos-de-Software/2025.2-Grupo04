@@ -69,6 +69,31 @@
 | **05:** A matriz rastreia requisitos para **casos de uso** ou **histórias de usuário**? | [Milene Serrano e Maurício Serrano](#RP2)| Conforme | |[image5](https://imgur.com/AbFe8jd) | [Dylan Cavalcante](https://github.com/dylancavalcante) | 28/10/2025 23:14 |
 | **06:** A matriz rastreia **dependências entre requisitos** (ex: RNF e RF)? | [Miriam Sayão e Julio Cesar Sampaio do Prado Leite](#RP1) | Conforme | |[image7](https://imgur.com/wtAX3qi) | [Giovana Fontes](https://github.com/GiovanaFontesS) | 28/10/2025 23:16 |
 | **07:** A matriz é mantida e atualizada para refletir o estado atual do projeto? | [POHL e Klaus](#RP3) | Conforme | |[image8](https://imgur.com/undefined)|  [Eduarda Domingos](https://github.com/eduardar0) | 28/10/2025 23:17 |
+
+## Gravação (Entrega 6)
+
+<div align="center">
+  <p style="text-align: center">
+    <a href="https://youtu.be/jEm52QXk3FY?feature=shared" target="_blank"><b>Vídeo 1:</b> Apresentação Entrega 03</a>
+  </p>
+
+  <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/jEm52QXk3FY"
+          title="Apresentação Entrega 03"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+  </iframe>
+
+  <font size="3">
+    <p style="text-align: center">
+      <b>Fontes:</b> <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, 2025
+    </p>
+  </font>
+</div>
+
+
+
  
 ##  Referências Bibliográficas
  

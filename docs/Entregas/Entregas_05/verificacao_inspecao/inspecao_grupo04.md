@@ -32,13 +32,13 @@
  
 | Item | Fontes| Avaliação | Observação | Print | Avaliador(es) | Data e Hora |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: |
-| **01:** O artefato rastreia os requisitos para os artefatos de **desenho e arquitetura**? | [Milene Serrano e Maurício Serrano](#RP2) | xxxx | | [image1](https://imgur.com/PYZpfjI) | [Giovana Fontes](https://github.com/GiovanaFontesS) | 28/10/2025 22:50 |
-| **02:** O artefato rastreia os requisitos para os artefatos de **implementação** (código fonte, componentes)? | [Milene Serrano e Maurício Serrano](#RP2) | xxxx | |[image2](https://imgur.com/CICQ3Ns) | [Arthur Fernandes](https://github.com/arthurfernandesj) | 28/10/2025 22:51 |
-| **03:** O artefato rastreia os requisitos para os **casos de uso**? | [Milene Serrano e Maurício Serrano](#RP2) | xxxx | | [image3](https://imgur.com/4xamnPS)| [Letícia Lopes](https://github.com/leticialopes20) | 28/10/2025 22:52 |
-| **04:** A rastreabilidade permite a **verificação** (confirmar se um requisito foi implementado) e a **validação** (mostrar ao cliente que os requisitos foram atendidos)? | [Milene Serrano e Maurício Serrano](#RP2) | xxxx | |[image4](https://imgur.com/8oOcCpM) | [Breno Teixeira](https://github.com/BrenoLTeixeira) | 28/10/2025 22:53 |
-| **05:** Os elos de rastreabilidade são suficientes para suportar a **análise de impacto** de mudanças? | [Miriam Sayão e Julio Cesar Sampaio do Prado Leite](#RP1) | xxxx | |[image5](https://imgur.com/Wwj8nWh) | [Dylan Cavalcante](https://github.com/dylancavalcante) | 28/10/2025 22:54 |
-| **06:** A rastreabilidade facilita a **correção de defeitos** e a **manutenção** do sistema? | [Milene Serrano e Maurício Serrano](#RP2) | xxxx | |[image6](https://imgur.com/bBVlYKi) | [Eduarda Domingos](https://github.com/eduardar0) | 28/10/2025 22:55 |
-| **07:** O artefato apresenta a rastreabilidade de requisitos **funcionais e não funcionais**? | [Miriam Sayão e Julio Cesar Sampaio do Prado Leite](#RP1) | xxxx | |[image7](https://imgur.com/KiuZxid) | [Arthur Fernandes](https://github.com/arthurfernandesj) | 28/10/2025 22:56 |
+| **01:** O artefato rastreia os requisitos para os artefatos de **desenho e arquitetura**? | [Milene Serrano e Maurício Serrano](#RP2) | Conforme | | [image1](https://imgur.com/PYZpfjI) | [Giovana Fontes](https://github.com/GiovanaFontesS) | 28/10/2025 22:50 |
+| **02:** O artefato rastreia os requisitos para os artefatos de **implementação** (código fonte, componentes)? | [Milene Serrano e Maurício Serrano](#RP2) | Conforme | |[image2](https://imgur.com/CICQ3Ns) | [Arthur Fernandes](https://github.com/arthurfernandesj) | 28/10/2025 22:51 |
+| **03:** O artefato rastreia os requisitos para os **casos de uso**? | [Milene Serrano e Maurício Serrano](#RP2) | Conforme | | [image3](https://imgur.com/4xamnPS)| [Letícia Lopes](https://github.com/leticialopes20) | 28/10/2025 22:52 |
+| **04:** A rastreabilidade permite a **verificação** (confirmar se um requisito foi implementado) e a **validação** (mostrar ao cliente que os requisitos foram atendidos)? | [Milene Serrano e Maurício Serrano](#RP2) | Conforme | |[image4](https://imgur.com/8oOcCpM) | [Breno Teixeira](https://github.com/BrenoLTeixeira) | 28/10/2025 22:53 |
+| **05:** Os elos de rastreabilidade são suficientes para suportar a **análise de impacto** de mudanças? | [Miriam Sayão e Julio Cesar Sampaio do Prado Leite](#RP1) | Conforme | |[image5](https://imgur.com/Wwj8nWh) | [Dylan Cavalcante](https://github.com/dylancavalcante) | 28/10/2025 22:54 |
+| **06:** A rastreabilidade facilita a **correção de defeitos** e a **manutenção** do sistema? | [Milene Serrano e Maurício Serrano](#RP2) | Conforme | |[image6](https://imgur.com/bBVlYKi) | [Eduarda Domingos](https://github.com/eduardar0) | 28/10/2025 22:55 |
+| **07:** O artefato apresenta a rastreabilidade de requisitos **funcionais e não funcionais**? | [Miriam Sayão e Julio Cesar Sampaio do Prado Leite](#RP1) | Conforme | |[image7](https://imgur.com/KiuZxid) | [Arthur Fernandes](https://github.com/arthurfernandesj) | 28/10/2025 22:56 |
  
 ---
  
@@ -48,11 +48,11 @@
  
 | Item | Fontes| Avaliação | Observação | Print | Avaliador(es) | Data e Hora |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: |
-| **01:** Cada requisito está claramente ligado à sua **fonte** (ex: documento de visão, plano de negócios, ata de reunião)? | [Miriam Sayão e Julio Cesar Sampaio do Prado Leite](#RP1) | xxxx | |[image1](https://imgur.com/CV5tAJ3) | [Giovana Fontes](https://github.com/GiovanaFontesS) | 28/10/2025 23:00 |
-| **02:** Cada requisito está ligado ao **stakeholder** (ou grupo) que o solicitou? | [Milene Serrano e Maurício Serrano](#RP2) | xxxx | |[image2](https://imgur.com/CV5tAJ3)| [Arthur Fernandes](https://github.com/arthurfernandesj) | 28/10/2025 23:01 |
-| **03:** O **rationale** (a "justificativa" ou "porquê") de cada requisito está documentado? | [Milene Serrano e Maurício Serrano](#RP2) | xxxx | | [image3](https://imgur.com/undefined)| [Letícia Lopes](https://github.com/leticialopes20) | 28/10/2025 23:02 |
-| **04:** As **fontes** dos requisitos (documentos, atas) estão disponíveis, versionadas e bem documentadas? | [Milene Serrano e Maurício Serrano](#RP2) | xxxx | |[image4](https://imgur.com/9HBcy3z) | [Breno Teixeira](https://github.com/BrenoLTeixeira) | 28/10/2025 23:03 |
-| **05:** O artefato rastreia os requisitos até a **atividade de elicitação** que os originou (ex: workshop, entrevista, Rich Picture)? | [Milene Serrano e Maurício Serrano](#RP2)| xxxx | |[image5](https://imgur.com/B8bnRUH)| [Dylan Cavalcante](https://github.com/dylancavalcante) | 28/10/2025 23:04 |
+| **01:** Cada requisito está claramente ligado à sua **fonte** (ex: documento de visão, plano de negócios, ata de reunião)? | [Miriam Sayão e Julio Cesar Sampaio do Prado Leite](#RP1) | Conforme | |[image1](https://imgur.com/CV5tAJ3) | [Giovana Fontes](https://github.com/GiovanaFontesS) | 28/10/2025 23:00 |
+| **02:** Cada requisito está ligado ao **stakeholder** (ou grupo) que o solicitou? | [Milene Serrano e Maurício Serrano](#RP2) | Conforme | |[image2](https://imgur.com/CV5tAJ3)| [Arthur Fernandes](https://github.com/arthurfernandesj) | 28/10/2025 23:01 |
+| **03:** O **rationale** (a "justificativa" ou "porquê") de cada requisito está documentado? | [Milene Serrano e Maurício Serrano](#RP2) | Conforme | | [image3](https://imgur.com/undefined)| [Letícia Lopes](https://github.com/leticialopes20) | 28/10/2025 23:02 |
+| **04:** As **fontes** dos requisitos (documentos, atas) estão disponíveis, versionadas e bem documentadas? | [Milene Serrano e Maurício Serrano](#RP2) | Conforme | |[image4](https://imgur.com/9HBcy3z) | [Breno Teixeira](https://github.com/BrenoLTeixeira) | 28/10/2025 23:03 |
+| **05:** O artefato rastreia os requisitos até a **atividade de elicitação** que os originou (ex: workshop, entrevista, Rich Picture)? | [Milene Serrano e Maurício Serrano](#RP2)| Conforme | |[image5](https://imgur.com/B8bnRUH)| [Dylan Cavalcante](https://github.com/dylancavalcante) | 28/10/2025 23:04 |
  
 ---
  
@@ -62,13 +62,13 @@
  
 | Item | Fontes| Avaliação | Observação | Print | Avaliador(es) | Data e Hora |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: |
-| **01:** A matriz possui **identificadores únicos** para todos os requisitos? | [Milene Serrano e Maurício Serrano](#RP2) | xxxx | |[image1](https://imgur.com/AbFe8jd) | [Giovana Fontes](https://github.com/GiovanaFontesS) | 28/10/2025 23:10 |
-| **02:** A matriz είναι **bidirecional** (inclui rastreabilidade *backward* para fontes E *forward* para artefatos)? | [Milene Serrano e Maurício Serrano](#RP2) | xxxx | |[image2](https://imgur.com/Be4gh49)| [Arthur Fernandes](https://github.com/arthurfernandesj) | 28/10/2025 23:11 |
-| **03:** A matriz rastreia requisitos para **documentos fonte** e/ou **stakeholders**? | [Milene Serrano e Maurício Serrano](#RP2) | xxxx | | [image3](https://imgur.com/Be4gh49)| [Letícia Lopes](https://github.com/leticialopes20) | 28/10/2025 23:12 |
-| **04:** A matriz rastreia requisitos para **elementos de design/arquitetura**? |[Milene Serrano e Maurício Serrano](#RP2) | xxxx | |[image4](https://imgur.com/Be4gh49) | [Breno Teixeira](https://github.com/BrenoLTeixeira) | 28/10/2025 23:13 |
-| **05:** A matriz rastreia requisitos para **casos de uso** ou **histórias de usuário**? | [Milene Serrano e Maurício Serrano](#RP2)| xxxx | |[image5](https://imgur.com/AbFe8jd) | [Dylan Cavalcante](https://github.com/dylancavalcante) | 28/10/2025 23:14 |
-| **06:** A matriz rastreia **dependências entre requisitos** (ex: RNF e RF)? | [Miriam Sayão e Julio Cesar Sampaio do Prado Leite](#RP1) | xxxx | |[image7](https://imgur.com/wtAX3qi) | [Giovana Fontes](https://github.com/GiovanaFontesS) | 28/10/2025 23:16 |
-| **07:** A matriz é mantida e atualizada para refletir o estado atual do projeto? | [POHL e Klaus](#RP3) | xxxx | |[image8](https://imgur.com/undefined)|  [Eduarda Domingos](https://github.com/eduardar0) | 28/10/2025 23:17 |
+| **01:** A matriz possui **identificadores únicos** para todos os requisitos? | [Milene Serrano e Maurício Serrano](#RP2) | Conforme | |[image1](https://imgur.com/AbFe8jd) | [Giovana Fontes](https://github.com/GiovanaFontesS) | 28/10/2025 23:10 |
+| **02:** A matriz είναι **bidirecional** (inclui rastreabilidade *backward* para fontes E *forward* para artefatos)? | [Milene Serrano e Maurício Serrano](#RP2) | Conforme | |[image2](https://imgur.com/Be4gh49)| [Arthur Fernandes](https://github.com/arthurfernandesj) | 28/10/2025 23:11 |
+| **03:** A matriz rastreia requisitos para **documentos fonte** e/ou **stakeholders**? | [Milene Serrano e Maurício Serrano](#RP2) | Conforme | | [image3](https://imgur.com/Be4gh49)| [Letícia Lopes](https://github.com/leticialopes20) | 28/10/2025 23:12 |
+| **04:** A matriz rastreia requisitos para **elementos de design/arquitetura**? |[Milene Serrano e Maurício Serrano](#RP2) | Conforme | |[image4](https://imgur.com/Be4gh49) | [Breno Teixeira](https://github.com/BrenoLTeixeira) | 28/10/2025 23:13 |
+| **05:** A matriz rastreia requisitos para **casos de uso** ou **histórias de usuário**? | [Milene Serrano e Maurício Serrano](#RP2)| Conforme | |[image5](https://imgur.com/AbFe8jd) | [Dylan Cavalcante](https://github.com/dylancavalcante) | 28/10/2025 23:14 |
+| **06:** A matriz rastreia **dependências entre requisitos** (ex: RNF e RF)? | [Miriam Sayão e Julio Cesar Sampaio do Prado Leite](#RP1) | Conforme | |[image7](https://imgur.com/wtAX3qi) | [Giovana Fontes](https://github.com/GiovanaFontesS) | 28/10/2025 23:16 |
+| **07:** A matriz é mantida e atualizada para refletir o estado atual do projeto? | [POHL e Klaus](#RP3) | Conforme | |[image8](https://imgur.com/undefined)|  [Eduarda Domingos](https://github.com/eduardar0) | 28/10/2025 23:17 |
  
 ##  Referências Bibliográficas
  
@@ -86,7 +86,7 @@
  
 | Versão | Data | Descrição | Autor(es)| Revisor(es) |
 |--------|------|-----------|-----------|-------------|
-| 1.0 | 19/10/2025 | Criação do Documento: Introdução, Metodologia e itens e verificação.  | [Dylan Cavalcante](https://github.com/dylancavalcante) | [ Letícia Lopes ](https://github.com/leticialopes20) |
+| 1.0 | 28/10/2025 | Criação do Documento: Introdução, Metodologia e itens e verificação.  | [Dylan Cavalcante](https://github.com/dylancavalcante) | [ Letícia Lopes ](https://github.com/leticialopes20) |
  
 ## Agrecimentos
  

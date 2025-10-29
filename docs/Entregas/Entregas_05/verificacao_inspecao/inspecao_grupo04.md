@@ -74,7 +74,7 @@
 
 <div align="center">
   <p style="text-align: center">
-    <a href="https://youtu.be/jEm52QXk3FY?feature=shared" target="_blank"><b>Vídeo 1:</b> Apresentação Entrega 03</a>
+    <a href="https://youtu.be/jEm52QXk3FY?feature=shared" target="_blank"><b>Vídeo 1:</b> Apresentação Entrega 06</a>
   </p>
 
   <iframe width="560" height="315"
@@ -92,6 +92,27 @@
   </font>
 </div>
 
+## Gravação (Entrega 6)
+
+<div align="center">
+  <p style="text-align: center">
+    <a href="https://youtu.be/wHQ02EF-WGY?feature=shared" target="_blank"><b>Vídeo 1:</b> Apresentação da Inspeção – Entrega 06</a>
+  </p>
+
+  <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/wHQ02EF-WGY"
+          title="Apresentação da Inspeção – Entrega 03"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+  </iframe>
+
+  <font size="3">
+    <p style="text-align: center">
+      <b>Fontes:</b> <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, 2025
+    </p>
+  </font>
+</div>
 
 
  

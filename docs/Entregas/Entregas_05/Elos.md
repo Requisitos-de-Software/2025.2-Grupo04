@@ -100,19 +100,39 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td align="center"><a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></td>
-      <td align="left">RF20, RF21, RF33, RF34, RF35, RF36</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/BrenoLTeixeira">Breno Teixeira</a></td>
-      <td align="left">RF19, RF23, RF29, RF30, RF31, RF32</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></td>
-      <td align="left">RF12, RF13, RF16, RF24, RF27, RF28</td>
-    </tr>
-    <tr>
+  <tr>
+      <td align="center"><a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></td>
+      <td align="left">
+        <a href="#rf20">RF20</a> – Alertas sobre Irregularidades no Uso dos Benefícios<br>
+        <a href="#rf21">RF21</a> – Mapa Interativo de Parceiros e Eventos<br>
+        <a href="#rf33">RF33</a> – Registro de Logs de Auditoria<br>
+        <a href="#rf34">RF34</a> – Alertas sobre Atualizações do Programa<br>
+        <a href="#rf35">RF35</a> – Alteração de Senha pelo Aplicativo<br>
+        <a href="#rf36">RF36</a> – Integração com GPS para Localização de Parceiros
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/BrenoLTeixeira">Breno Teixeira</a></td>
+      <td align="left">
+        <a href="#rf19">RF19</a> – Atualização de Cadastro e Preferências Pessoais<br>
+        <a href="#rf23">RF23</a> – Canal para Denúncia ou Feedback<br>
+        <a href="#rf29">RF29</a> – Exportação de Comprovantes e Histórico em PDF<br>
+        <a href="#rf30">RF30</a> – Configuração de Preferências de Notificação<br>
+        <a href="#rf31">RF31</a> – Exibição de Versão do Aplicativo<br>
+        <a href="#rf32">RF32</a> – Acesso a Termos de Uso e Política de Privacidade
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></td>
+      <td align="left">
+        <a href="#rf12">RF12</a> – Histórico de Utilização<br>
+        <a href="#rf13">RF13</a> – Vantagens e Parcerias<br>
+        <a href="#rf16">RF16</a> – Integração com Gov.br<br>
+        <a href="#rf24">RF24</a> – Favoritar Eventos e Estabelecimentos<br>
+        <a href="#rf27">RF27</a> – Avaliação de Parceiros e Estabelecimentos<br>
+        <a href="#rf28">RF28</a> – Modo Acessível com Contraste Ajustável
+      </td>
+    </tr>
       <td align="center"><a href="https://github.com/eduardar0">Eduarda Domingos</a></td>
       <td align="left"><a href="#rf06">RF06</a> – Exibir Seção de Perguntas Frequentes (FAQ)<br>
  <a href="#rf10">RF10</a> – Disponibilizar informações sobre locais e parceiros que aceitam o benefício<br>
@@ -441,7 +461,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 <p align="center">Fonte: <a href="https://github.com/brenolteixeira">Breno Teixeira</a></p>
 
-### RF20
+### RF20 - Alertas sobre Irregularidades no Uso dos Benefícios
 
 <div align="center">
   <strong>Tabela 22 -</strong> Cartão do Requisito 20 - C20
@@ -456,7 +476,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 <p align="center">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></p>
 
 
-### RF21
+### RF21 - Mapa Interativo de Parceiros e Eventos
 
 <div align="center">
   <strong>Tabela 12 -</strong> Cartão do Requisito 10 - C10
@@ -537,12 +557,12 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 
 <div align="center">
-  <strong>Tabela 4 -</strong> Cartão do Requisito 26 - C26
+  <strong>Tabela 28 -</strong> Cartão do Requisito 26 - C26
 </div>
  
 | Categoria: | Desenvolvimento |
 |:---------------|:----------------|
-| Elementos: | [RF26](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_…, [BS09](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstormi…, [IDJ09](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecçã…, [UC26](), [CEN26]() |
+| Elementos: | [RF26](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos/), [BS09](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/), [IDJ09](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/), [UC26](), [CEN26]() |
 | Descrição do Requisito | O aplicativo deve disponibilizar um tutorial interativo para orientar novos usuários sobre como utilizar o ID Jovem e seus benefícios. |
 | Elos Backward-from: | Agregação: RF26 ← BS09 - O requisito foi identificado através de brainstorming.<br>Agregação: RF26 ← IDJ09 - O requisito foi identificado através de introspecção. |
 | Elos Forward-from: | Satisfação: RF26 → UC26 - O requisito deu origem ao caso de uso "Acessar Tutorial Interativo".<br>Satisfação: RF26 → CEN26 - O requisito deu origem ao cenário "Orientação para novos usuários". |
@@ -637,7 +657,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 <p align="center">Fonte: <a href="https://github.com/brenolteixeira">Breno Teixeira</a></p>
 
-### RF33
+### RF33 - Registro de Logs de Auditoria
 
 <div align="center">
   <strong>Tabela 35 -</strong> Cartão do Requisito 33 - C33
@@ -653,7 +673,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 <p align="center">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></p>
 
-### RF34
+### RF34 - Alertas sobre Atualizações do Programa
 
 <div align="center">
   <strong>Tabela 36 -</strong> Cartão do Requisito 34 - C34
@@ -670,7 +690,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 <p align="center">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></p>
 
-### RF35
+### RF35 - Alteração de Senha pelo Aplicativo
 
 <div align="center">
   <strong>Tabela 37 -</strong> Cartão do Requisito 35 - C35
@@ -686,7 +706,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 <p align="center">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></p>
 
-### RF36
+### RF36 - Integração com GPS para Localização de Parceiros
 
 <div align="center">
   <strong>Tabela 38 -</strong> Cartão do Requisito 36 - C36
@@ -700,9 +720,6 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 
 <p align="center">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></p>
-
-
-
 
 ---
 

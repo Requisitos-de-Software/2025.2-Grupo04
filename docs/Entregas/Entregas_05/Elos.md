@@ -115,6 +115,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
     <tr>
       <td align="center"><a href="https://github.com/eduardar0">Eduarda Domingos</a></td>
       <td align="left"><a href="#rf06">RF06</a> – Exibir Seção de Perguntas Frequentes (FAQ)<br>
+<<<<<<< Updated upstream
  <a href="#rf10">RF10</a> – Disponibilizar informações sobre locais e parceiros que aceitam o benefício<br>
         <a href="#rf11">RF11</a> – Fornecer canal de suporte via chat, e-mail ou formulário de contato<br>
         <a href="#rf09">RF09</a> – Download da Carteirinha para Uso Offline<br>
@@ -145,6 +146,23 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
       </td>
     </tr>
   </tbody>
+=======
+ <a href="#rf10">RF10</a> – Disponibilizar informações sobre locais e parceiros que aceitam o benefício<br>
+        <a href="#rf11">RF11</a> – Fornecer canal de suporte via chat, e-mail ou formulário de contato<br>
+        <a href="#rf09">RF09</a> – Download da Carteirinha para Uso Offline<br>
+        <a href="#rf14">RF14</a> – Reserva e Emissão de Comprovantes de Uso<br>
+        <a href="#rf15">RF15</a> – Validação Automática de Elegibilidade</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></td>
+      <td align="left">RF01, RF02, RF17, RF18, RF25, RF26</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/leticialopes20">Letícia Lopes</a></td>
+      <td align="left">RF03, RF04, RF05, RF07, RF08, RF22</td>
+    </tr>
+  </tbody>
+>>>>>>> Stashed changes
 </table>
 </div>
 
@@ -232,8 +250,8 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 | **Categoria:** | Desenvolvimento |
 |:---------------|:----------------|
-| **Elementos:** | [RF06](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf16) , [ADD05](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Analise_de_Documentos/), [BS08](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming), [US22](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_04/Modelagem_II/Historias_de_Usuario#us22)  |
-| **Descrição do Requisito:** | O sistema deve exibir uma seção de perguntas frequentes  [FAQ](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Lexicos#L06) e oferecer suporte ao Jovem Beneficiário. |
+| **Elementos:** | [RF06](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf16) , [ADD05](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Analise_de_Documentos/), [BS08](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming), [US22](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_04/Modelagem_II/Historias_de_Usuario#us22)  |
+| **Descrição do Requisito:** | O sistema deve exibir uma seção de perguntas frequentes  [FAQ](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Lexicos#L06) e oferecer suporte ao Jovem Beneficiário. |
 | **Elos Backward-from:** | Agregação: RF06 ← [ADD05 – Possibilidade de emissão de mais de uma carteira digital](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Analise_de_Documentos/) – O requisito foi identificado a partir da análise de documentos.<br>Agregação: RF06 ← [BS08 – O usuário deve ter acesso a perguntas frequentes (FAQ) e suporte para dúvidas](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming) – O requisito foi identificado por meio de brainstorming.<br>Agregação: RF06 ← [IDJ04 – O sistema deve fornecer uma seção de “Dúvidas Frequentes” para esclarecer questões sobre o programa, o CadÚnico e os benefícios](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/) – O requisito foi identificado a partir de introspecção. |
 | **Elos Forward-from:** | Satisfação: RF06 → [US22 – Exibir Seção de Perguntas Frequentes (FAQ)](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_04/Modelagem_II/Historias_de_Usuario#us22) – O requisito deu origem à história de usuário “Exibir Seção de Perguntas Frequentes (FAQ)”, que trata do acesso às dúvidas mais comuns sobre o programa ID Jovem, sua elegibilidade e o uso dos benefícios. |
 
@@ -278,7 +296,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 | **Categoria:** | Desenvolvimento |
 |:---------------|:----------------|
-| **Elementos:** | [RF09](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf10) , [BS10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming), [ST06](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling),  |
+| **Elementos:** | [RF09](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf10) , [BS10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming), [ST06](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling),  |
 | **Descrição do Requisito:** | O sistema deve permitir o [download](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Lexicos#23) da carteirinha para uso offline, garantindo que o jovem beneficiário tenha acesso à carteira mesmo sem conexão à internet. |
 | **Elos Backward-from:** | Agregação: RF09 ← [ST03 – O aplicativo deve permitir baixar a carteirinha para uso offline](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling) – O requisito foi identificado a partir de storytelling.<br>Agregação: RF09 ← [BS19 – O aplicativo deve garantir funcionamento offline para exibição da carteirinha já emitida](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming) – O requisito foi identificado por meio de brainstorming. |
 | **Elos Forward-from:** | Satisfação: RF09 → [UC11 – Baixar Carteirinha para Uso Offline](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_04/Modelagem_II/Historias_de_Usuario#us23) – O requisito deu origem ao caso de uso "Baixar Carteirinha para Uso Offline", que permite ao jovem beneficiário salvar uma cópia segura da carteira digital no dispositivo, garantindo acesso mesmo sem conexão à internet. |
@@ -354,7 +372,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 | **Categoria:** | Desenvolvimento |
 |:---------------|:----------------|
-| **Elementos:** | [RF14](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf14), [ENT05](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/),  [US24](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_04/Modelagem_II/Historias_de_Usuario#us24) |
+| **Elementos:** | [RF14](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf14), [ENT05](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/),  [US24](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_04/Modelagem_II/Historias_de_Usuario#us24) |
 | **Descrição do Requisito:** | O aplicativo deve permitir reserva e emissão de [ComprovanteS](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Lexicos#22) de uso do benefício, facilitando o controle e a organização pelo Jovem Beneficiário. |
 | **Elos Backward-from:** | Agregação: RF14 ← [ENT03 – Deve permitir reservas e emissão de comprovantes de acesso aos benefícios](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevistas) – O requisito foi identificado a partir da análise de entrevistas/documentos. |
 | **Elos Forward-from:** | Satisfação: RF14 → [US24 – Reserva e Emissão de Comprovantes de Uso](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_04/Modelagem_II/Historias_de_Usuario#us24) – O requisito deu origem à história de usuário que permite ao jovem beneficiário reservar e emitir comprovantes de uso do benefício diretamente pelo aplicativo. |
@@ -371,17 +389,30 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 | **Categoria:** | Desenvolvimento |
 |:---------------|:----------------|
-| **Elementos:** | [RF14](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf14), [ENT05](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/), [ST02](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling), [US25](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_04/Modelagem_II/Historias_de_Usuario#us25)   |
+| **Elementos:** | [RF14](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf14), [ENT05](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/), [ST02](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling), [US25](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_04/Modelagem_II/Historias_de_Usuario#us25)   |
 | **Descrição do Requisito:** | O sistema deve validar automaticamente a elegibilidade do J[Jovem Beneficiário](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Lexicos#01) ao benefício, considerando idade, renda familiar e inscrição no CadÚnico. |
 | **Elos Backward-from:** | Agregação: RF15 ← [ST02 – O sistema deve validar automaticamente a elegibilidade do benefício](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling) – O requisito foi identificado a partir de storytelling. |
 | **Elos Forward-from:** | Satisfação: RF15 → [US25 – Validação Automática de Elegibilidade](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_04/Modelagem_II/Historias_de_Usuario#us25) – O requisito deu origem à história de usuário que permite que o sistema valide automaticamente a elegibilidade do jovem ao benefício, verificando faixa etária, renda familiar e inscrição no CadÚnico. |
 
 
-<p align="center">Fonte: <a href="https://github.com/eduardar0">Eduarda Domingos</a></p>
+<p align="center">Fonte: <a href="httpsDeardomingos">Eduarda Domingos</a></p>
 
 
 
+<<<<<<< Updated upstream
 ### <a name="rf16"></a> RF16 - Integração com Gov.br
+=======
+| **Categoria:** | Desenvolvimento |
+|:---------------|:----------------|
+| **Elementos:** | [RF15](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf15), [ST02](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling/), [UC15](), [CEN15](), [US06]()       |
+| **Descrição do Requisito** | O sistema deve validar automaticamente a elegibilidade do Jovem Beneficiário ao benefício. |
+| **Elos Backward-from:** | Agregação: RF15 ← ST02 - O requisito foi identificado através de storytelling. |
+| **Elos Forward-from:** | Satisfação: RF15 → UC15 - O requisito deu origem ao caso de uso "Validar Elegibilidade do Beneficiário".<br>Satisfação: RF15 → CEN15 - O requisito deu origem ao cenário "Validação Automática de Elegibilidade".<br>Satisfação: RF15 → US06 - O requisito deu origem à história de usuário "Validar automaticamente a elegibilidade do jovem". |
+
+<p align="center">Fonte: <a href="httpsDeardomingos">Eduarda Domingos</a></p>
+
+### RF16
+>>>>>>> Stashed changes
 
 <div align="center">
   <strong>Tabela 18 -</strong> Cartão do Requisito 16 - C16
@@ -404,7 +435,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 | **Categoria:** | Desenvolvimento |
 |:---------------|:----------------|
-| **Elementos:** | [RF17](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf17), [BS12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming), [IDJ17](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/), [UC17](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Caso_de_uso), [CEN17](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Cenarios), [US17]() |
+| **Elementos:** | [RF17](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf17), [BS12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming), [IDJ17](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/), [UC17](https...com/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Caso_de_uso), [CEN17](https...com/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Cenarios), [US17]() |
 | **Descrição do Requisito** | O aplicativo deve permitir compartilhar a carteirinha digital em formato PDF ou imagem. |
 | **Elos Backward-from:** | Agregação: RF17 ← BS12 - O requisito foi identificado através de brainstorming, quando foi sugerido que o usuário pudesse compartilhar sua carteirinha digital em PDF ou imagem para uso em estabelecimentos. |
 | **Elos Forward-from:** | Satisfação: RF17 → UC17 - O requisito deu origem ao caso de uso "Compartilhar Carteirinha Digital".<br>Satisfação: RF17 → CEN17 - O requisito deu origem ao cenário "Compartilhar Carteirinha Digital em PDF ou Imagem".<br>Satisfação: RF17 → US17 - O requisito deu origem à história de usuário "Como jovem beneficiário, quero compartilhar minha carteirinha digital em PDF ou imagem para comprovar meus benefícios easily." | 
@@ -419,7 +450,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 | **Categoria:** | Desenvolvimento |
 |:---------------|:----------------|
-| **Elementos:** | [RF18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf18), [ENT04](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/), [IDJ18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/), [UC18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Caso_de_uso), [CEN18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Cenarios), [US18]() |
+| **Elementos:** | [RF18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf18), [ENT04](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/), [IDJ18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/), [UC18](https...com/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Caso_de_uso), [CEN18](https...com/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Cenarios), [US18]() |
 | **Descrição do Requisito** | O sistema deve fornecer informações sobre pendências ou erros relacionados aos benefícios do usuário. |
 | **Elos Backward-from:** | Agregação: RF18 ← ENT04 - O requisito foi identificado através de entrevista, onde os usuários expressaram a necessidade de serem informados sobre irregularidades ou falhas nos benefícios. |
 | **Elos Forward-from:** | Satisfação: RF18 → UC18 - O requisito deu origem ao caso de uso "Exibir Pendências e Erros dos Benefícios".<br>Satisfação: RF18 → CEN18 - O requisito deu origem ao cenário "Informar Pendências e Inconsistências de Benefícios".<br>Satisfação: RF18 → US18 - O requisito deu origem à história de usuário "Como jovem beneficiário, quero visualizar pendências ou erros nos meus benefícios para poder corrigi-los rapidamente." |
@@ -464,7 +495,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 | **Categoria:** | Desenvolvimento / Experiência do Usuário |
 |:---------------|:----------------|
-| **Elementos:** | [RF21](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf21), [ENT10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/), [ST06](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling/), [IDJ06](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/#idj06), [UC21](), [CEN21](), [US21]() |
+| **Elementos:** | [RF21](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf21), [ENT10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/), [ST06](https...com/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling/), [IDJ06](https...com/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/#idj06), [UC21](), [CEN21](), [US21]() |
 | **Descrição do Requisito:** | O sistema deve possuir um mapa interativo que permita visualizar geograficamente os parceiros e eventos culturais vinculados ao programa ID Jovem. |
 | **Elos Backward-from:** | Agregação: RF21 ← ENT10 - O requisito foi identificado a partir das entrevistas, nas quais os usuários destacaram a importância de localizar visualmente os parceiros e eventos culturais próximos.<br>Agregação: RF21 ← ST06 - O requisito foi reforçado pelo storytelling, onde o jovem desejava encontrar facilmente locais parceiros e eventos acessíveis. |
 | **Elos Forward-from:** | Satisfação: RF21 → UC21 - O requisito deu origem ao caso de uso “Visualizar Parceiros e Eventos em Mapa Interativo”.<br>Satisfação: RF21 → CEN21 - O requisito deu origem ao cenário “Consulta e Interação com o Mapa de Parceiros e Eventos”.<br>Satisfação: RF21 → US21 - O requisito deu origem à história de usuário “Como jovem beneficiário, desejo visualizar no mapa os parceiros e eventos próximos para facilitar meu acesso aos benefícios culturais.” |
@@ -511,7 +542,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 | **Categoria:** | Desenvolvimento |
 |:---------------|:----------------|
-| **Elementos:** | [RF24](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf24), [ENT15](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/), [UC24](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Caso_de_uso), [CEN24](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Cenarios), [US24]() |
+| **Elementos:** | [RF24](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf24), [ENT15](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/), [UC24](https...com/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Caso_de_uso), [CEN24](https...com/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Cenarios), [US24]() |
 | **Descrição do Requisito** | O sistema deve permitir que o usuário favorite eventos e estabelecimentos para consulta rápida. |
 | **Elos Backward-from:** | Agregação: RF24 ← ENT15 - O requisito foi identificado através de entrevista. |
 | **Elos Forward-from:** | Satisfação: RF24 → UC24 - O requisito deu origem ao caso de uso "Favoritar Eventos e Estabelecimentos".<br>Satisfação: RF24 → CEN24 - O requisito deu origem ao cenário "Usuário Adiciona Evento aos Favoritos".<br>Satisfação: RF24 → US24 - O requisito deu origem à história de usuário "Como jovem beneficiário, quero poder favoritar eventos e locais de meu interesse para encontrá-los facilmente." |
@@ -542,10 +573,17 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
  
 | Categoria: | Desenvolvimento |
 |:---------------|:----------------|
+<<<<<<< Updated upstream
 | Elementos: | [RF26](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_…, [BS09](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstormi…, [IDJ09](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecçã…, [UC26](), [CEN26]() |
 | Descrição do Requisito | O aplicativo deve disponibilizar um tutorial interativo para orientar novos usuários sobre como utilizar o ID Jovem e seus benefícios. |
 | Elos Backward-from: | Agregação: RF26 ← BS09 - O requisito foi identificado através de brainstorming.<br>Agregação: RF26 ← IDJ09 - O requisito foi identificado através de introspecção. |
 | Elos Forward-from: | Satisfação: RF26 → UC26 - O requisito deu origem ao caso de uso "Acessar Tutorial Interativo".<br>Satisfação: RF26 → CEN26 - O requisito deu origem ao cenário "Orientação para novos usuários". |
+=======
+| **Elementos:** |       |
+| **Descrição do Requisito** |  |
+| **Elos Backward-from:** | |
+| **Elos Forward-from:** | |
+>>>>>>> Stashed changes
 
 ### <a name="rf27"></a> RF27 - Avaliação de Parceiros e Estabelecimentos
 
@@ -555,7 +593,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 | **Categoria:** | Desenvolvimento |
 |:---------------|:----------------|
-| **Elementos:** | [RF27](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf27), [BS10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/), [ENT18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/), [UC27](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Caso_de_uso), [CEN27](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Cenarios), [US27]() |
+| **Elementos:** | [RF27](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf27), [BS10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/), [ENT18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/), [UC27](https...com/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Caso_de_uso), [CEN27](https...com/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Cenarios), [US27]() |
 | **Descrição do Requisito** | O sistema deve permitir que o usuário avalie parceiros e estabelecimentos conveniados com notas e comentários. |
 | **Elos Backward-from:** | Agregação: RF27 ← BS10 - O requisito foi identificado através de brainstorming.<br>Agregação: RF27 ← ENT18 - O requisito foi identificado através de entrevista. |
 | **Elos Forward-from:** | Satisfação: RF27 → UC27 - O requisito deu origem ao caso de uso "Avaliar Parceiros e Estabelecimentos".<br>Satisfação: RF27 → CEN27 - O requisito deu origem ao cenário "Envio de Avaliação (Nota e Comentário) de um Estabelecimento".<br>Satisfação: RF27 → US27 - O requisito deu origem à história de usuário "Como jovem beneficiário, quero avaliar os locais que utilizei para compartilhar minha experiência." |
@@ -570,7 +608,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 | **Categoria:** | Desenvolvimento / Acessibilidade |
 |:---------------|:----------------|
-| **Elementos:** | [RF28](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf28), [ADD08](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Analise_de_Documentos/), [ENT19](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/), [UC28](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Caso_de_uso), [CEN28](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Cenarios), [US28]() |
+| **Elementos:** | [RF28](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf28), [ADD08](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Analise_de_Documentos/), [ENT19](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/), [UC28](https...com/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Caso_de_uso), [CEN28](https...com/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Cenarios), [US28]() |
 | **Descrição do Requisito** | O aplicativo deve oferecer um modo acessível, com contraste ajustável e leitura por voz para pessoas com deficiência visual. |
 | **Elos Backward-from:** | Agregação: RF28 ← ADD08 - O requisito foi identificado através da análise de documentos.<br>Agregação: RF28 ← ENT19 - O requisito foi identificado através de entrevista. |
 | **Elos Forward-from:** | Satisfação: RF28 → UC28 - O requisito deu origem ao caso de uso "Ajustar Opções de Acessibilidade".<br>Satisfação: RF28 → CEN28 - O requisito deu origem ao cenário "Ativação de Modo de Alto Contraste e Leitor de Tela".<br>Satisfação: RF28 → US28 - O requisito deu origem à história de usuário "Como usuário com baixa visão, quero ajustar o contraste e usar leitura por voz para conseguir navegar no aplicativo." |
@@ -620,7 +658,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 | **Elos Backward-from:** | Agregação: RF31 ← ADD10 - Identificado na análise de documentos como um requisito padrão para manutenção e suporte. |
 | **Elos Forward-from:** | Satisfação: RF31 → UC31 - O requisito deu origem ao caso de uso "Consultar Versão do Aplicativo".<br>Satisfação: RF31 → CEN31 - O requisito deu origem ao cenário "Usuário verificando a versão do app na tela 'Sobre'".<br>Satisfação: RF31 → US31 - O requisito deu origem à história de usuário "Como usuário, quero ver a versão do aplicativo para saber se estou com a versão mais recente e para informar ao suporte técnico se necessário." |
 
-<p align="center">Fonte: <a href="https://github.com/brenolteixeira">Breno Teixeira</a></p>
+<p align="center">Fonte: <a href="httpsGithuBrenolteixeira">Breno Teixeira</a></p>
 
 ### <a name="rf32"></a> RF32 - Acesso a Termos de Uso e Política de Privacidade
 
@@ -630,12 +668,12 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 | **Categoria:** | Desenvolvimento / Legal |
 |:---------------|:----------------|
-| **Elementos:** | [RF32](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf32), [ADD11](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Analise_de_Documentos/), [ENT21](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/), [UC32](), [CEN32](), [US32]() |
+| **Elementos:** | [RF32](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf32), [ADD11](https...com/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Analise_de_Documentos/), [ENT21](https...com/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/), [UC32](), [CEN32](), [US32]() |
 | **Descrição do Requisito** | O aplicativo deve fornecer acesso rápido a termos de uso e política de privacidade. |
 | **Elos Backward-from:** | Agregação: RF32 ← ADD11 - Identificado na análise de documentos (LGPD) como um requisito legal.<br>Agregação: RF32 ← ENT21 - Mencionado em entrevista como importante para transparência. |
 | **Elos Forward-from:** | Satisfação: RF32 → UC32 - O requisito deu origem ao caso de uso "Acessar Documentação Legal (Termos e Privacidade)".<br>Satisfação: RF32 → CEN32 - O requisito deu origem ao cenário "Usuário acessando a Política de Privacidade pelo menu".<br>Satisfação: RF32 → US32 - O requisito deu origem à história de usuário "Como usuário, quero acessar facilmente os Termos de Uso e a Política de Privacidade para entender meus direitos e como meus dados são usados." |
 
-<p align="center">Fonte: <a href="https://github.com/brenolteixeira">Breno Teixeira</a></p>
+<p align="center">Fonte: <a href="httpsGithuBrenolteixeira">Breno Teixeira</a></p>
 
 ### RF33
 
@@ -662,7 +700,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 | **Categoria:** | Notificações e Comunicação com o Usuário |
 |:---------------|:------------------------------------------|
-| **Elementos:** | [RF34](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf34), [BS12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/), [IDJ11](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#idj11), [UC34](), [CEN34](), [US34]() |
+| **Elementos:** | [RF34](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf34), [BS12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/), [IDJ11](https...com/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#idj11), [UC34](), [CEN34](), [US34]() |
 | **Descrição do Requisito:** | O aplicativo deve enviar alertas e notificações aos jovens beneficiários sobre atualizações importantes do programa ID Jovem, como mudanças em regras, datas de vencimento de benefícios ou novos parceiros e eventos culturais. As notificações devem ser claras, oportunas e acessíveis em múltiplos canais (push notifications, e-mail ou SMS). |
 | **Elos Backward-from:** | Agregação: RF34 ← BS12 - O requisito foi identificado durante brainstorming com a equipe, destacando a necessidade de manter os usuários informados.<br>Relação: RF34 ← IDJ11 - O requisito está diretamente associado à funcionalidade de envio de notificações sobre vencimento ou atualizações do programa. |
 | **Elos Forward-from:** | Satisfação: RF34 → UC34 - O requisito deu origem ao caso de uso “Enviar Alertas e Notificações aos Usuários”.<br>Satisfação: RF34 → CEN34 - O requisito deu origem ao cenário “Recebimento de Notificações sobre Atualizações do Programa”.<br>Satisfação: RF34 → US34 - O requisito deu origem à história de usuário “Como jovem beneficiário, desejo receber alertas sobre novidades e mudanças no programa para não perder benefícios importantes.” |
@@ -679,7 +717,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 | **Categoria:** | Segurança e Gestão de Conta |
 |:---------------|:----------------------------|
-| **Elementos:** | [RF35](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf35), [ADD13](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Analise_de_Documentos), [ENT22](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista), [UC35](), [CEN35](), [US35]() |
+| **Elementos:** | [RF35](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf35), [ADD13](https->...com/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Analise_de_Documentos), [ENT22](https...com/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista), [UC35](), [CEN35](), [US35]() |
 | **Descrição do Requisito:** | O sistema deve permitir que o usuário altere sua senha de acesso diretamente pelo aplicativo, garantindo segurança, facilidade de uso e validação de regras de complexidade de senha (como mínimo de caracteres, uso de letras, números e símbolos). A funcionalidade deve notificar o usuário sobre alterações bem-sucedidas e bloquear temporariamente tentativas suspeitas de alteração. |
 | **Elos Backward-from:** | Agregação: RF35 ← ADD13 - O requisito foi adicionado durante a fase de adição para melhorar a autonomia do usuário sobre sua conta.<br>Agregação: RF35 ← ENT22 - O requisito foi identificado a partir de entrevistas, nas quais usuários expressaram a necessidade de alterar senhas de forma segura e independente. |
 | **Elos Forward-from:** | Satisfação: RF35 → UC35 - O requisito deu origem ao caso de uso “Alterar Senha de Acesso pelo Aplicativo”.<br>Satisfação: RF35 → CEN35 - O requisito deu origem ao cenário “Usuário altera senha com validação de segurança e notificação de sucesso”.<br>Satisfação: RF35 → US35 - O requisito deu origem à história de usuário “Como jovem beneficiário, desejo alterar minha senha pelo aplicativo para manter minha conta segura sem depender de terceiros.” |
@@ -694,7 +732,7 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 | **Categoria:** | Integração e Localização |
 |:---------------|:-------------------------|
-| **Elementos:** | [RF36](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf36), [BS12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/), [IDJ12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/), [UC36](), [CEN36](), [US36]() |
+| **Elementos:** | [RF36](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf36), [BS12](httpsang...com/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/), [IDJ12](https...com/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/), [UC36](), [CEN36](), [US36]() |
 | **Descrição do Requisito:** | O aplicativo deve fornecer integração com GPS para localizar estabelecimentos parceiros próximos em tempo real, permitindo ao usuário visualizar sua localização atual, encontrar rapidamente os pontos mais próximos, obter rotas e estimativas de distância, e filtrar estabelecimentos por tipo de serviço ou benefício oferecido. |
 | **Elos Backward-from:** | Agregação: RF36 ← BS13 - O requisito foi identificado durante brainstorming, destacando a importância de integração com localização em tempo real.<br>Relação: RF36 ← IDJ12 - O requisito está relacionado ao risco de o jovem não conseguir localizar parceiros devido a dados desatualizados no CadÚnico, reforçando a necessidade de GPS e integração em tempo real. |
 
@@ -718,18 +756,20 @@ Baseamos a construção dos nossos cartões no modelo apresentado pelos professo
 
 ## Histórico de Versão
 
-| Versão |    Data    |       Descrição      |                                          Autor(es)                                         |                  Revisor(es)                  |
+| Versão |  Data  |  Descrição  |  Autor(es)  |  Revisor(es)  |
 | :----: | :--------: | :------------------: | :----------------------------------------------------------------------------------------: | :-------------------------------------------: |
-|  `1.0` | 09/10/2025 | Criação do documento |[Eduarda Domingos](https://github.com/eduardar0) | [Arthur](https://github.com/arthurfernandesj) |
-|  `1.1` | 09/10/2025 | Introdução e metodologia | [Eduarda Domingos](https://github.com/eduardar0) | [Arthur](https://github.com/arthurfernandesj) |
-|  `1.2` | 09/10/2025 | Adicionando C09 e C10| [Arthur Fernandes](https://github.com/arthurfernandesj) | [Eduarda Domingos](https://github.com/eduardar0) |
-|  `1.3` | 28/10/2025 | Preenchimento dos cartões de Dylan (RF12, RF13, RF16, RF24, RF27, RF28) | [Dylan Cavalcante](https://github.com/dylancavalcante) | [Breno Teixeira](https://github.com/BrenoLTeixeira) |
-|  `1.4` | 28/10/2025 | Preenchimento dos cartões de Breno| [Breno Teixeira](https://github.com/BrenoLTeixeira) | [Dylan Cavalcante](https://github.com/dylancavalcante)|
-|  `1.5` | 28/10/2025 | Preenchimento dos cartões de Giovana| [Giovana](https://github.com/GiovanaFontesS) | [Dylan Cavalcante](https://github.com/dylancavalcante)|
+|  `1.0` | 09/10/2025 | Criação do documento |[Eduarda Domingos](https://github.com/eduardar0) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+|  `1.1` | 09/10/2025 | Introdução e metodologia | [Eduarda Domingos](https://github.com/eduardar0) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+|  `1.2` | 28/10/2025 | Adição dos cartões de requisitos RF01, RF02, RF17, RF18, RF25 e RF26 | [Giovana Fontes](https://github.com/GiovanaFontesS) | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+|  `1.3` | 28/10/2025 | Adição dos cartões de requisitos RF03, RF04, RF05, RF07, RF08 e RF22 | [Letícia Lopes](https://github.com/leticialopes20) | [Breno Teixeira](https://github.com/BrenoLTeixeira) |
+|  `1.4` | 28/10/2025 | Adição dos cartões de requisitos RF06, RF09, RF10, RF11, RF14 e RF15 | [Eduarda Domingos](https://github.com/eduardar0) | [Letícia Lopes](https://github.com/leticialopes20) |
+|  `1.5` | 28/10/2025 | Adição dos cartões de requisitos RF12, RF13, RF16, RF24, RF27 e RF28 | [Dylan Cavalcante](https://github.com/dylancavalcante) | [Giovana Fontes](https://github.com/GiovanaFontesS) |
+|  `1.6` | 28/10/2025 | Adição dos cartões de requisitos RF19, RF23, RF29, RF30, RF31 e RF32 | [Breno Teixeira](https://github.com/BrenoLTeixeira) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+|  `1.7` | 28/10/2025 | Adição dos cartões de requisitos RF20, RF21, RF33, RF34, RF35 e RF36 | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Eduarda Domingos](https://github.com/eduardar0) |
 
 ## Agrecimentos
 
 Queremos agradecer ao [Chat GPT](https://chatgpt.com/share/6900b5f9-b0f4-8000-9e22-1c8d3e432359), ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto ID Jovem. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
 
 De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
-Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão. 
+Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.

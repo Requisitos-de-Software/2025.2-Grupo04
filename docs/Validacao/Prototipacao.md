@@ -115,4 +115,4 @@ A validação ocorreu em **xx/xx/2025**, com o objetivo de verificar se as novas
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :--: | :--: | :-- | :-- | :-- |
-| `1.0` | 31/10/2025 | Criação do documento ao aplicativo ID Jovem | [Arthur Fernandes](https://github.com/arthurfernandesj) | [ ](https://github.com/) |
+| `1.0` | 31/10/2025 | Criação da página da Prototipação. | [Arthur Fernandes](https://github.com/arthurfernandesj) | [ ](https://github.com/) |

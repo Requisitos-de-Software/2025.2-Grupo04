@@ -42,5 +42,5 @@ O objetivo dessa página é armazenar o vídeo da apresentação da Primeira Ent
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--------|------|-----------|-----------|-------------|
-| 1.0 | 07/09/2025 | Criação da tabela de lista de verificação  | [Todos]() | [Todos ]() |
-| 1.2 | 16/09/2025 | Melhoria na descrição e tabela  | [Arthur Fernandes](https://github.com/arthurfernandesj) | []() |
+| `1.0` | 07/09/2025 | Criação da tabela de lista de verificação | [Arthur](https://github.com/arthurfernandesj) | [Dylan Cavalcante ](https://github.com/dylancavalcante) |
+| `1.2` | 16/09/2025 | Melhoria na descrição e tabela | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Dylan Cavalcante ](https://github.com/dylancavalcante) |

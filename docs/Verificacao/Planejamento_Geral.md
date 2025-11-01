@@ -34,12 +34,13 @@ O foco da verificação é a consistência interna do modelo e a aderência aos 
 
 ## Bibliografia
 
-> <a id="RP1" href="#TEC1">1.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 23. Brasília, DF: Universidade de Brasília, Campus Gama, [s.d.]. Acesso em: 31 Out. 2025.
+> <a id="RP1" href="#TEC1">1.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 23. Brasília, DF: Universidade de Brasília, Campus Gama, [s.d.]. Acesso em: 31 Out. 2025. <br>
+<a id="RP2" href="#TEC2"> 2</a> Bilheteria Digital. Disponível em: [https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital](https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital). Acesso em: 31 out. 2025.
 
 ---
 
 ## Histórico de Versões
 
-| Versão | Data | Descrição | Autor(es) |  Revisor(es) |
-| :--: | :--: | :--: | :--: | :--: | :--: |
-| `1.0` | 31/10/2025 | Criação do documento ao aplicativo ID Jovem | [Arthur Fernandes](https://github.com/arthurfernandesj) | [ ](https://github.com/) |
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| :--: | :--: | :-- | :-- | :-- |
+| `1.0` | 31/10/2025 | Criação do documento de Planejamento Geral | [Arthur Fernandes](https://github.com/arthurfernandesj) | [ Dylan Cavalcante ](https://github.com/dylancavalcante) |

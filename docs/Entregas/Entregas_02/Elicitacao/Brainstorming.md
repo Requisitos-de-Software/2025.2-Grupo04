@@ -418,6 +418,7 @@ O brainstorming foi realizado em formato de reunião e contou com a presença de
 <font size="3"><p style="text-align: center"><b>Fontes:</b> <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, 2025</p></font>
 </div>
 
+.
 
 
 ## Referências Bibliográficas

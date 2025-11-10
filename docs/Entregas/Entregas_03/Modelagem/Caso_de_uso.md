@@ -57,13 +57,29 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 <p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></p>
 
 ---
+
+### Tabela 1: Participação na Elaboração de Casos de Uso
+
+| Nome | Casos de Uso Relacionados |
+|------|---------------------------|
+| **[Arthur Fernandes](https://github.com/arthurfernandesj)** | • Caso de Uso 9: Alertas de Irregularidades no Uso dos Benefícios ([RF20](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf20))<br>• Caso de Uso 10: Visualização Geográfica de Parceiros e Eventos ([RF21](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf21)) |
+| **[Breno Lourenço](https://github.com/BrenoLTeixeira)** | • Caso de Uso 11: Baixar Carteirinha para Uso Offline ([RF09](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf09))<br>• Caso de Uso 12: Gerenciar Cadastro e Preferências ([RF19](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf19)) |
+| **[Dylan Cavalcante](https://github.com/dylancavalcante)** | • Caso de Uso 5: Visualizar Novidades e Novos Parceiros ([RF13](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf13))<br>• Caso de Uso 6: Consultar Histórico de Utilização ([RF12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf12)) |
+| **[Eduarda Domingos](https://github.com/eduardar0)** | • Caso de Uso 3: Consultar Locais e Parceiros ([RF10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf10))<br>• Caso de Uso 4: Solicitar Suporte ao Beneficiário ([RF11](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf11)) |
+| **[Giovana Fontes](https://github.com/GiovanaFontesS)** | • Caso de Uso 7: Compartilhar Carteirinha Digital ([RF17](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf17))<br>• Caso de Uso 8: Exibir Pendências e Erros Relacionados aos Benefícios ([RF18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf18)) |
+| **[Letícia Lopes](https://github.com/leticialopes20)** | • Caso de Uso 1: Emitir Carteirinha Digital ([RF03](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf03))<br>• Caso de Uso 2: Validar Carteirinha ([RF05](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf05)) |
+
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/eduardar0">Eduarda Domingos</a></p>
+
+
+
 ### Caso de Uso 1 ([RF07](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf07))
 <font size="3"><p style="text-align: center">Tabela 1: Atualizar Dados via CadÚnico</p></font>
 
 | [RF07](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf07) | **Descrição** |
 | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome do Caso de Uso** | Atualizar Dados do Beneficiário via CadÚnico |
-| **Rastreabilidade** | [BS09](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/), [IDJ08](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspec%C3%A7%C3%A3o/) |
+| **Rastreabilidade** | [BS09](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/#bs09), [IDJ08](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspec%C3%A7%C3%A3o/#idj09) |
 | **Ator Principal** | Beneficiário do ID Jovem |
 | **Atores Secundários** | Sistema CadÚnico, Sistema ID Jovem |
 | **Objetivo** | Permitir que o sistema ID Jovem integre-se automaticamente com o CadÚnico para atualizar os dados do perfil do jovem. |
@@ -82,7 +98,7 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 | [RF08](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf08) | **Descrição** |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome do Caso de Uso** | Receber Notificações de Vencimento e Renovação de Benefício |
-| **Rastreabilidade** | [BS11](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/), [ST04](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling/), [IDJ11](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/) |
+| **Rastreabilidade** | [BS11](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/), [ST04](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling/#bs11), [IDJ11](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/#idj11) |
 | **Ator Principal** | Beneficiário do ID Jovem |
 | **Atores Secundários** | Sistema de Notificações, Sistema ID Jovem |
 | **Objetivo** | Permitir que o **participante do programa** receba notificações sobre o vencimento e a renovação do benefício ID Jovem. |
@@ -93,7 +109,7 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 | **Pós-condições** | - O **beneficiário** foi notificado sobre vencimento ou renovação do benefício. |
 | **Autor** | [Leticia Lopes](https://github.com/leticialopes20) |
 
-<font size="2"><p style="text-align: center"><b>Fonte: <i> [Letícia Lopes](https://github.com/leticialopes20) </i></b></p></font>
+---
 
 ### Caso de Uso 3 ([RF10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf10))
 <font size="3"><p style="text-align: center">Tabela 3: Consultar Locais e Parceiros</p></font>
@@ -101,7 +117,7 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 | [RF10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf10) | **Descrição** |
 | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome do Caso de Uso** | Consultar Locais e Parceiros |
-| **Rastreabilidade** | [BS10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/), [ST06](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling/) |
+| **Rastreabilidade** | [BS10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/#bs10), [ST06](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling/#st06) |
 | **Ator Principal** | Jovem Beneficiário |
 | **Atores Secundários** | Sistema de Localização, Sistema ID Jovem |
 | **Objetivo** | Permitir que o jovem beneficiário consulte estabelecimentos e parceiros que aceitam os benefícios do ID Jovem. |
@@ -120,7 +136,7 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 | [RF11](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf11) | **Descrição** |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome do Caso de Uso** | Solicitar Suporte ao Beneficiário |
-| **Rastreabilidade** | [ENT05](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/), [BS08](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/), [IDJ05](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/) |
+| **Rastreabilidade** | [ENT05](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/#ent05), [BS08](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/#bs08), [IDJ05](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspeccao/#idj05) |
 | **Ator Principal** | Jovem Beneficiário |
 | **Atores Secundários** | Sistema de Atendimento, Sistema ID Jovem |
 | **Objetivo** | Permitir que o jovem beneficiário solicite suporte através de chat, e-mail ou formulário de contato. |
@@ -140,12 +156,12 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 | [RF13](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf13) | **Descrição** |
 | :--- | :--- |
 | **Nome do Caso de Uso** | Visualizar Novidades e Novos Parceiros |
-| **Rastreabilidade** | [BS13](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/), [ST05](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling/) |
+| **Rastreabilidade** | [BS13](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/#bs13), [ST05](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling/#st05) |
 | **Ator Principal** | Jovem Beneficiário |
 | **Atores Secundários** | Administrador do Sistema, Sistema ID Jovem |
 | **Objetivo** | Permitir que o Jovem Beneficiário visualize uma seção dedicada a novidades, atualizações e divulgação de novos parceiros para se manter informado. |
 | **Pré-condições** | - O Jovem Beneficiário deve estar com o aplicativo instalado e ter acesso à internet. |
-| **Fluxo Principal de Eventos** | 1. O **Jovem Beneficiário** abre o aplicativo e acessa a seção “Novidades e Parceiros”.<br>2. O **Sistema ID Jovem** consulta e exibe as publicações mais recentes cadastradas pelo **Administrador do Sistema**.<br>3. O **Jovem Beneficiário** visualiza as postagens sobre novas parcerias, eventos e benefícios.<br>4. O **Jovem Beneficiário** clica em uma publicação de interesse para ver mais detalhes.<br>5. O sistema permite que o **Jovem Beneficiário** interaja com a publicação (curta, compartilhe ou salve). |
+| **Fluxo Principal de Eventos** | 1. O Jovem Beneficiário abre o aplicativo e acessa a seção "Novidades e Parceiros".<br>2. O Sistema ID Jovem consulta e exibe as publicações mais recentes cadastradas pelo Administrador do Sistema.<br>3. O Jovem Beneficiário visualiza as postagens sobre novas parcerias, eventos e benefícios.<br>4. O Jovem Beneficiário clica em uma publicação de interesse para ver mais detalhes.<br>5. O sistema permite que o Jovem Beneficiário interaja com a publicação (curta, compartilhe ou salve). |
 | **Fluxos Alternativos** | - Caso não haja novas publicações, o sistema exibe as postagens mais antigas ou uma mensagem indicando a ausência de novidades. |
 | **Exceções** | - Falha ao carregar os dados de novidades devido à falta de conexão com a internet.<br>- Erro na sincronização com a base de dados de parceiros e notícias. |
 | **Pós-condições** | - O Jovem Beneficiário se mantém atualizado sobre as novidades e os parceiros do programa ID Jovem. |
@@ -160,12 +176,12 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 | [RF12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf12) | **Descrição** |
 | :--- | :--- |
 | **Nome do Caso de Uso** | Consultar Histórico de Utilização dos Benefícios |
-| **Rastreabilidade** | [BS12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/), [IDJ12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspec%C3%A7%C3%A3o/) |
+| **Rastreabilidade** | [BS12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/#bs12), [IDJ12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspeccao/#idj12) |
 | **Ator Principal** | Jovem Beneficiário |
 | **Atores Secundários** | Sistema ID Jovem, Banco de Dados de Transações |
 | **Objetivo** | Permitir que o Jovem Beneficiário acesse o histórico completo de uso de seus benefícios, como passagens e ingressos, para controle pessoal. |
 | **Pré-condições** | - O Jovem Beneficiário deve estar autenticado no aplicativo ID Jovem. |
-| **Fluxo Principal de Eventos** | 1. O **Jovem Beneficiário** faz login no aplicativo.<br>2. O **Jovem Beneficiário** seleciona a opção “Histórico de Benefícios”.<br>3. O **Sistema ID Jovem** consulta o **Banco de Dados de Transações**.<br>4. O sistema exibe uma lista detalhada com data, local, tipo de benefício, valor e parceiro de cada utilização.<br>5. O **Jovem Beneficiário** aplica filtros por período ou tipo de benefício.<br>6. O sistema permite que o **Jovem Beneficiário** exporte o histórico em formato PDF ou CSV. |
+| **Fluxo Principal de Eventos** | 1. O **Jovem Beneficiário** faz login no aplicativo.<br>2. O **Jovem Beneficiário** seleciona a opção "Histórico de Benefícios".<br>3. O **Sistema ID Jovem** consulta o **Banco de Dados de Transações**.<br>4. O sistema exibe uma lista detalhada com data, local, tipo de benefício, valor e parceiro de cada utilização.<br>5. O **Jovem Beneficiário** aplica filtros por período ou tipo de benefício.<br>6. O sistema permite que o **Jovem Beneficiário** exporte o histórico em formato PDF ou CSV. |
 | **Fluxos Alternativos** | - Caso o jovem não possua histórico, o sistema exibirá uma mensagem informativa. |
 | **Exceções** | - Falha na conexão com o banco de dados, impedindo a exibição do histórico.<br>- Erro ao gerar o arquivo para exportação. |
 | **Pós-condições** | - O Jovem Beneficiário tem acesso ao seu histórico de utilização de benefícios e pode exportá-lo, se desejado. |
@@ -174,36 +190,35 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 <p align="center" style="font-size: small;">Fonte: <i> <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a> </i></p>
 
 ### Caso de Uso 7 ([RF17](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf17))
-<font size="3"><p style="text-align: center">Tabela 5: Compartilhar Carteirinha Digital</p></font>
+<font size="3"><p style="text-align: center">Tabela 7: Compartilhar Carteirinha Digital</p></font>
 
 | [RF17](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf17) | **Descrição** |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome do Caso de Uso** | Compartilhar Carteirinha Digital |
-| **Rastreabilidade** | [IDJ17](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/) [IDJ10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/) |
+| **Rastreabilidade** | [IDJ17](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspeccao/#idj17), [IDJ10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspeccao/#idj10) |
 | **Ator Principal** | Jovem Beneficiário |
 | **Atores Secundários** | Sistema do ID Jovem, Serviço de Compartilhamento do Dispositivo |
 | **Objetivo** | Permitir que o jovem beneficiário compartilhe sua carteirinha digital em formato PDF ou imagem, facilitando o acesso em diferentes dispositivos ou o envio a terceiros. |
 | **Pré-condições** | - O jovem beneficiário deve estar autenticado no aplicativo.<br>- O usuário deve possuir uma carteirinha digital válida e ativa. |
-| **Fluxo Principal de Eventos** | 1. O **jovem beneficiário** acessa o aplicativo e faz login.<br>2. O sistema valida o acesso e exibe a carteirinha digital.<br>3. O **jovem beneficiário** seleciona a opção “Compartilhar Carteirinha”.<br>4. O sistema apresenta opções de formato: PDF ou imagem (JPEG/PNG).<br>5. O **jovem beneficiário** escolhe o formato e o canal de envio (e-mail, WhatsApp, drive etc.).<br>6. O sistema gera o arquivo e utiliza o serviço de compartilhamento nativo do dispositivo.<br>7. O envio é concluído e o sistema exibe uma mensagem de sucesso. |
+| **Fluxo Principal de Eventos** | 1. O **jovem beneficiário** acessa o aplicativo e faz login.<br>2. O sistema valida o acesso e exibe a carteirinha digital.<br>3. O **jovem beneficiário** seleciona a opção "Compartilhar Carteirinha".<br>4. O sistema apresenta opções de formato: PDF ou imagem (JPEG/PNG).<br>5. O **jovem beneficiário** escolhe o formato e o canal de envio (e-mail, WhatsApp, drive etc.).<br>6. O sistema gera o arquivo e utiliza o serviço de compartilhamento nativo do dispositivo.<br>7. O envio é concluído e o sistema exibe uma mensagem de sucesso. |
 | **Fluxos Alternativos** | - O sistema sugere canais de compartilhamento mais utilizados pelo usuário. |
 | **Exceções** | - Falha na geração do arquivo PDF/imagem.<br>- Jovem beneficiário sem carteirinha ativa.<br>- Permissões de compartilhamento negadas.<br>- Interrupção no processo de envio. |
 | **Pós-condições** | - A carteirinha digital foi compartilhada com sucesso pelo canal escolhido. |
 | **Autor** | [Giovana](https://github.com/GiovanaFontesS) |
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i>[Giovana](https://github.com/GiovanaFontesS)</i></b></p></font>
-
 ### Caso de Uso 8 ([RF18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf18))
-<font size="3"><p style="text-align: center">Tabela 6: Exibir Pendências e Erros Relacionados aos Benefícios</p></font>
+<font size="3"><p style="text-align: center">Tabela 8: Exibir Pendências e Erros Relacionados aos Benefícios</p></font>
 
 | [RF18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf18) | **Descrição** |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome do Caso de Uso** | Exibir Pendências e Erros dos Benefícios |
-| **Rastreabilidade** | [IDJ18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/)  [IDJ15](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/) [IDJ12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/) |
+| **Rastreabilidade** | [IDJ18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspeccao/#idj18), [IDJ15](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspeccao/#idj15), [IDJ12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspeccao/#idj12) |
 | **Ator Principal** | Jovem Beneficiário |
 | **Atores Secundários** | Sistema do ID Jovem, Banco de Dados de Benefícios, CadÚnico (integração futura) |
 | **Objetivo** | Fornecer informações claras sobre pendências, inconsistências ou erros detectados nos benefícios, permitindo a correção proativa dos dados. |
 | **Pré-condições** | - O jovem beneficiário deve estar autenticado no aplicativo.<br>- O sistema deve ter acesso ao banco de dados de benefícios e à conexão com o CadÚnico. |
-| **Fluxo Principal de Eventos** | 1. O **jovem beneficiário** acessa o aplicativo e faz login.<br>2. O sistema realiza verificação automática dos dados do benefício.<br>3. Caso sejam identificadas pendências, o sistema exibe notificação ao usuário.<br>4. O usuário acessa a seção “Pendências e Erros”.<br>5. O sistema lista as pendências detectadas, indicando o tipo de problema e orientações para resolução.<br>6. O **jovem beneficiário** pode atualizar os dados ou entrar em contato com o suporte. |
+| **Fluxo Principal de Eventos** | 1. O **jovem beneficiário** acessa o aplicativo e faz login.<br>2. O sistema realiza verificação automática dos dados do benefício.<br>3. Caso sejam identificadas pendências, o sistema exibe notificação ao usuário.<br>4. O usuário acessa a seção "Pendências e Erros".<br>5. O sistema lista as pendências detectadas, indicando o tipo de problema e orientações para resolução.<br>6. O **jovem beneficiário** pode atualizar os dados ou entrar em contato com o suporte. |
 | **Fluxos Alternativos** | - O sistema pode sugerir correção automática para dados desatualizados quando possível. |
 | **Exceções** | - Falha na conexão com o servidor.<br>- Erro na sincronização de dados com o CadÚnico.<br>- Pendência não identificada corretamente.<br>- Tempo limite de resposta excedido. |
 | **Pós-condições** | - As pendências e erros foram exibidos corretamente, permitindo que o jovem beneficiário tome ações corretivas. |
@@ -211,26 +226,24 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i>[Giovana](https://github.com/GiovanaFontesS)</i></b></p></font>
 
-
-### Caso de Uso 09 ([RF20](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf20))
+### Caso de Uso 9 ([RF20](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf20))
 <font size="3"><p style="text-align: center">Tabela 9: Alertas de Irregularidades no Uso dos Benefícios</p></font>
 
 | [RF20](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf20) | **Descrição** |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome do Caso de Uso** | Alertas de Irregularidades no Uso dos Benefícios |
-| **Rastreabilidade** | [ENT09](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/)|
+| **Rastreabilidade** | [ENT09](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/#ent09) |
 | **Ator Principal** | Jovem Beneficiário |
 | **Atores Secundários** | Sistema ID Jovem, Banco de Dados de Benefícios, CadÚnico (integração futura) |
 | **Objetivo** | Alertar o jovem beneficiário sobre possíveis irregularidades no uso de seus benefícios, permitindo que ele realize a correção, atualização de dados ou verificação preventiva. |
 | **Pré-condições** | - O jovem beneficiário deve estar autenticado no aplicativo ID Jovem.<br>- O sistema deve ter acesso ao banco de dados de benefícios e ao histórico de uso.<br>- A conexão com a internet deve estar ativa. |
-| **Fluxo Principal de Eventos** | 1. O **jovem beneficiário** acessa o aplicativo ID Jovem e realiza login.<br>2. O sistema consulta o **histórico de uso dos benefícios** no banco de dados.<br>3. O sistema executa uma análise automática para identificar possíveis irregularidades ou inconsistências.<br>4. Caso sejam detectadas irregularidades, o sistema **gera uma notificação** para o jovem beneficiário.<br>5. O **jovem beneficiário** acessa a seção “Alertas de Irregularidades”.<br>6. O sistema exibe **detalhes da irregularidade** (tipo, data, benefício envolvido e possíveis causas).<br>7. O sistema apresenta **orientações** para correção, atualização de dados ou contato com o suporte.<br>8. O **jovem beneficiário** pode escolher entre **contestar a irregularidade**, **atualizar dados cadastrais** ou **entrar em contato com o suporte**.<br>9. O sistema registra a ação tomada pelo usuário e atualiza o status da irregularidade. |
-| **Fluxos Alternativos** | **4a.** Caso nenhuma irregularidade seja identificada, o sistema exibe a mensagem: “Nenhuma irregularidade encontrada em seus benefícios.”<br>**8a.** Se o jovem escolher contestar, o sistema abre um formulário específico para envio de justificativa e documentação comprobatória.<br>**8b.** Se o jovem optar por contato com o suporte, é redirecionado para o canal de atendimento integrado. |
+| **Fluxo Principal de Eventos** | 1. O **jovem beneficiário** acessa o aplicativo ID Jovem e realiza login.<br>2. O sistema consulta o **histórico de uso dos benefícios** no banco de dados.<br>3. O sistema executa uma análise automática para identificar possíveis irregularidades ou inconsistências.<br>4. Caso sejam detectadas irregularidades, o sistema **gera uma notificação** para o jovem beneficiário.<br>5. O **jovem beneficiário** acessa a seção "Alertas de Irregularidades".<br>6. O sistema exibe **detalhes da irregularidade** (tipo, data, benefício envolvido e possíveis causas).<br>7. O sistema apresenta **orientações** para correção, atualização de dados ou contato com o suporte.<br>8. O **jovem beneficiário** pode escolher entre **contestar a irregularidade**, **atualizar dados cadastrais** ou **entrar em contato com o suporte**.<br>9. O sistema registra a ação tomada pelo usuário e atualiza o status da irregularidade. |
+| **Fluxos Alternativos** | **4a.** Caso nenhuma irregularidade seja identificada, o sistema exibe a mensagem: "Nenhuma irregularidade encontrada em seus benefícios."<br>**8a.** Se o jovem escolher contestar, o sistema abre um formulário específico para envio de justificativa e documentação comprobatória.<br>**8b.** Se o jovem optar por contato com o suporte, é redirecionado para o canal de atendimento integrado. |
 | **Exceções** | - Falha na conexão com o servidor impede a verificação de irregularidades.<br>- Erro ao sincronizar dados com o CadÚnico impede a atualização completa do histórico.<br>- Irregularidade não detectada corretamente devido a erro no monitoramento.<br>- Tempo limite de resposta excedido na análise de dados. |
-| **Pós-condições** | - As irregularidades identificadas são exibidas ao **jovem beneficiário**.<br>- As ações de correção, contestação ou atualização são registradas no sistema.<br>- O status das irregularidades é atualizado para “em análise” ou “resolvido”. |
+| **Pós-condições** | - As irregularidades identificadas são exibidas ao **jovem beneficiário**.<br>- As ações de correção, contestação ou atualização são registradas no sistema.<br>- O status das irregularidades é atualizado para "em análise" ou "resolvido". |
 | **Autor** | [Arthur Fernandes](https://github.com/arthurfernandesj) |
 
-<font size="2"><p style="text-align: center"><b>Fonte: <i>[Arthur Fernandes](https://github.com/arthurfernandesj) </i></b></p></font>
-
+<font size="2"><p style="text-align: center"><b>Fonte: <i>[Arthur Fernandes](https://github.com/arthurfernandesj)</i></b></p></font>
 
 ### Caso de Uso 10 ([RF21](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf21))
 <font size="3"><p style="text-align: center">Tabela 10: Visualização Geográfica de Parceiros e Eventos</p></font>
@@ -238,12 +251,12 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 | [RF21](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf21) | **Descrição** |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome do Caso de Uso** | Visualização Geográfica de Parceiros e Eventos |
-| **Rastreabilidade** | [ENT10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/)|
+| **Rastreabilidade** | [ENT10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/#ent10) |
 | **Ator Principal** | Jovem Beneficiário |
 | **Atores Secundários** | Sistema ID Jovem, Banco de Dados de Parceiros e Eventos, Serviço de Geolocalização (API de Mapas) |
 | **Objetivo** | Permitir que o jovem beneficiário visualize, por meio de um mapa interativo, a localização de parceiros e eventos disponíveis em sua região, com informações detalhadas e filtros de pesquisa. |
 | **Pré-condições** | - O jovem beneficiário deve estar autenticado no aplicativo ID Jovem.<br>- O dispositivo deve possuir conexão ativa à internet.<br>- O serviço de geolocalização deve estar habilitado e com permissão concedida. |
-| **Fluxo Principal de Eventos** | 1. O **jovem beneficiário** acessa o aplicativo ID Jovem e realiza login.<br>2. O **jovem** seleciona a opção “Mapa de Parceiros e Eventos”.<br>3. O sistema solicita **permissão de acesso à localização** do usuário.<br>4. Após a autorização, o sistema exibe o **mapa interativo**, mostrando os parceiros e eventos próximos à localização atual.<br>5. O **jovem beneficiário** pode **filtrar os resultados** por tipo de parceiro, data, categoria de evento ou distância.<br>6. O sistema atualiza o mapa conforme os filtros aplicados.<br>7. O **jovem** clica em um marcador no mapa.<br>8. O sistema exibe **informações detalhadas** sobre o parceiro ou evento selecionado (nome, endereço, horários, benefícios disponíveis e opções de rota). |
+| **Fluxo Principal de Eventos** | 1. O **jovem beneficiário** acessa o aplicativo ID Jovem e realiza login.<br>2. O **jovem** seleciona a opção "Mapa de Parceiros e Eventos".<br>3. O sistema solicita **permissão de acesso à localização** do usuário.<br>4. Após a autorização, o sistema exibe o **mapa interativo**, mostrando os parceiros e eventos próximos à localização atual.<br>5. O **jovem beneficiário** pode **filtrar os resultados** por tipo de parceiro, data, categoria de evento ou distância.<br>6. O sistema atualiza o mapa conforme os filtros aplicados.<br>7. O **jovem** clica em um marcador no mapa.<br>8. O sistema exibe **informações detalhadas** sobre o parceiro ou evento selecionado (nome, endereço, horários, benefícios disponíveis e opções de rota). |
 | **Fluxos Alternativos** | **3a.** Se o jovem negar a permissão de localização, o sistema solicita que ele insira um endereço ou CEP manualmente para realizar a busca.<br>**5a.** O jovem pode redefinir filtros para exibir todos os parceiros e eventos disponíveis.<br>**8a.** Caso o local selecionado tenha integração com outro sistema (ex: compra de ingressos ou reserva), o aplicativo redireciona para a página correspondente. |
 | **Exceções** | - Falha na obtenção da localização do usuário impede a exibição do mapa.<br>- Erro de carregamento do mapa ou indisponibilidade da API de geolocalização.<br>- Nenhum parceiro ou evento encontrado na região consultada.<br>- Perda de conexão com a internet durante o carregamento dos dados. |
 | **Pós-condições** | - O **jovem beneficiário** visualiza no mapa os parceiros e eventos disponíveis em sua região.<br>- Os filtros e preferências de visualização podem ser armazenados para futuras consultas.<br>- O sistema mantém atualizadas as informações exibidas conforme a base de dados de parceiros e eventos. |
@@ -257,7 +270,7 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 | [RF09](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf09) | **Descrição** |
 | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome do Caso de Uso** | Baixar Carteirinha para Uso Offline |
-| **Rastreabilidade** | [ST03](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling/), [BS19](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/) |
+| **Rastreabilidade** | [ST03](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling/#st03), [BS19](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/#bs19) |
 | **Ator Principal** | Jovem Beneficiário |
 | **Atores Secundários** | Sistema ID Jovem, Armazenamento do Dispositivo |
 | **Objetivo** | Permitir que o **jovem beneficiário** salve uma cópia estática e segura de sua carteira digital no próprio dispositivo, garantindo o acesso e a validação do documento mesmo em locais sem conexão com a internet. |
@@ -276,7 +289,7 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 | [RF19](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf19) | **Descrição** |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome do Caso de Uso** | Gerenciar Cadastro e Preferências |
-| **Rastreabilidade** | [ENT06](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/) |
+| **Rastreabilidade** | [ENT06](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/#ent06) |
 | **Ator Principal** | Jovem Beneficiário |
 | **Atores Secundários** | Sistema ID Jovem, Banco de Dados Cadastral |
 | **Objetivo** | Permitir que o **jovem beneficiário** modifique suas informações de contato (e-mail, telefone) e configure suas preferências para o recebimento de notificações personalizadas sobre eventos e parceiros. |

@@ -62,18 +62,18 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 
 | Nome | Casos de Uso Relacionados |
 |------|---------------------------|
-| **[Arthur Fernandes](https://github.com/arthurfernandesj)** | • Caso de Uso 9: Alertas de Irregularidades no Uso dos Benefícios ([RF20](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf20))<br>• Caso de Uso 10: Visualização Geográfica de Parceiros e Eventos ([RF21](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf21)) |
-| **[Breno Lourenço](https://github.com/BrenoLTeixeira)** | • Caso de Uso 11: Baixar Carteirinha para Uso Offline ([RF09](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf09))<br>• Caso de Uso 12: Gerenciar Cadastro e Preferências ([RF19](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf19)) |
-| **[Dylan Cavalcante](https://github.com/dylancavalcante)** | • Caso de Uso 5: Visualizar Novidades e Novos Parceiros ([RF13](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf13))<br>• Caso de Uso 6: Consultar Histórico de Utilização ([RF12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf12)) |
-| **[Eduarda Domingos](https://github.com/eduardar0)** | • Caso de Uso 3: Consultar Locais e Parceiros ([RF10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf10))<br>• Caso de Uso 4: Solicitar Suporte ao Beneficiário ([RF11](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf11)) |
-| **[Giovana Fontes](https://github.com/GiovanaFontesS)** | • Caso de Uso 7: Compartilhar Carteirinha Digital ([RF17](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf17))<br>• Caso de Uso 8: Exibir Pendências e Erros Relacionados aos Benefícios ([RF18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf18)) |
-| **[Letícia Lopes](https://github.com/leticialopes20)** | • Caso de Uso 1: Emitir Carteirinha Digital ([RF03](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf03))<br>• Caso de Uso 2: Validar Carteirinha ([RF05](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf05)) |
+| **[Arthur Fernandes](https://github.com/arthurfernandesj)** | • [Caso de Uso 9: Alertas de Irregularidades no Uso dos Benefícios](#caso-de-uso-9-rf20)<br>• [Caso de Uso 10: Visualização Geográfica de Parceiros e Eventos](#caso-de-uso-10-rf21) |
+| **[Breno Lourenço](https://github.com/BrenoLTeixeira)** | • [Caso de Uso 11: Baixar Carteirinha para Uso Offline](#caso-de-uso-11-rf09)<br>• [Caso de Uso 12: Gerenciar Cadastro e Preferências](#caso-de-uso-12-rf19) |
+| **[Dylan Cavalcante](https://github.com/dylancavalcante)** | • [Caso de Uso 5: Visualizar Novidades e Novos Parceiros](#caso-de-uso-5-rf13)<br>• [Caso de Uso 6: Consultar Histórico de Utilização](#caso-de-uso-6-rf12) |
+| **[Eduarda Domingos](https://github.com/eduardar0)** | • [Caso de Uso 3: Consultar Locais e Parceiros](#caso-de-uso-3-rf10)<br>• [Caso de Uso 4: Solicitar Suporte ao Beneficiário](#caso-de-uso-4-rf11) |
+| **[Giovana Fontes](https://github.com/GiovanaFontesS)** | • [Caso de Uso 7: Compartilhar Carteirinha Digital](#caso-de-uso-7-rf17)<br>• [Caso de Uso 8: Exibir Pendências e Erros Relacionados aos Benefícios](#caso-de-uso-8-rf18) |
+| **[Letícia Lopes](https://github.com/leticialopes20)** | • [Caso de Uso 1: Atualizar Dados via CadÚnico](#caso-de-uso-1-rf07)<br>• [Caso de Uso 2: Notificações de Vencimento e Renovação de Benefício](#caso-de-uso-2-rf08) |
 
 <p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/eduardar0">Eduarda Domingos</a></p>
 
 
 
-### Caso de Uso 1 ([RF07](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf07))
+### Caso de Uso 1 ([RF07](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf07)) <a id="caso-de-uso-1-rf07"></a>
 <font size="3"><p style="text-align: center">Tabela 1: Atualizar Dados via CadÚnico</p></font>
 
 | [RF07](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf07) | **Descrição** |
@@ -92,7 +92,7 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Letícia Lopes](https://github.com/leticialopes20) </i></b></p></font>
 
-### Caso de Uso 2 ([RF08](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf08))
+### Caso de Uso 2 ([RF08](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf08)) <a id="caso-de-uso-2-rf08"></a>
 <font size="3"><p style="text-align: center">Tabela 2: Notificações de Vencimento e Renovação de Benefício</p></font>
 
 | [RF08](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf08) | **Descrição** |
@@ -111,7 +111,7 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 
 ---
 
-### Caso de Uso 3 ([RF10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf10))
+### Caso de Uso 3 ([RF10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf10)) <a id="caso-de-uso-3-rf10"></a>
 <font size="3"><p style="text-align: center">Tabela 3: Consultar Locais e Parceiros</p></font>
 
 | [RF10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf10) | **Descrição** |
@@ -130,7 +130,7 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Eduarda Domingos](https://github.com/eduardar0) </i></b></p></font>
 
-### Caso de Uso 4 ([RF11](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf11))
+### Caso de Uso 4 ([RF11](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf11)) <a id="caso-de-uso-4-rf11"></a>
 <font size="3"><p style="text-align: center">Tabela 4: Solicitar Suporte ao Beneficiário</p></font>
 
 | [RF11](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf11) | **Descrição** |
@@ -149,7 +149,7 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Eduarda Domingos](https://github.com/eduardar0) </i></b></p></font>
 
-### Caso de Uso 5 ([RF13](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf13))
+### Caso de Uso 5 ([RF13](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf13)) <a id="caso-de-uso-5-rf13"></a>
 
 <p align="center">Tabela 5: Visualizar Novidades e Novos Parceiros</p>
 
@@ -169,7 +169,7 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 
 <p align="center" style="font-size: small;">Fonte: <i> <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a> </i></p>
 
-### Caso de Uso 6 ([RF12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf12))
+### Caso de Uso 6 ([RF12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf12)) <a id="caso-de-uso-6-rf12"></a>
 
 <p align="center">Tabela 6: Consultar Histórico de Utilização</p>
 
@@ -189,7 +189,7 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 
 <p align="center" style="font-size: small;">Fonte: <i> <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a> </i></p>
 
-### Caso de Uso 7 ([RF17](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf17))
+### Caso de Uso 7 ([RF17](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf17)) <a id="caso-de-uso-7-rf17"></a>
 <font size="3"><p style="text-align: center">Tabela 7: Compartilhar Carteirinha Digital</p></font>
 
 | [RF17](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf17) | **Descrição** |
@@ -207,7 +207,8 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 | **Autor** | [Giovana](https://github.com/GiovanaFontesS) |
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i>[Giovana](https://github.com/GiovanaFontesS)</i></b></p></font>
-### Caso de Uso 8 ([RF18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf18))
+
+### Caso de Uso 8 ([RF18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf18)) <a id="caso-de-uso-8-rf18"></a>
 <font size="3"><p style="text-align: center">Tabela 8: Exibir Pendências e Erros Relacionados aos Benefícios</p></font>
 
 | [RF18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf18) | **Descrição** |
@@ -226,7 +227,7 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i>[Giovana](https://github.com/GiovanaFontesS)</i></b></p></font>
 
-### Caso de Uso 9 ([RF20](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf20))
+### Caso de Uso 9 ([RF20](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf20)) <a id="caso-de-uso-9-rf20"></a>
 <font size="3"><p style="text-align: center">Tabela 9: Alertas de Irregularidades no Uso dos Benefícios</p></font>
 
 | [RF20](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf20) | **Descrição** |

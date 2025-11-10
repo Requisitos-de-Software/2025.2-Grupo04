@@ -367,51 +367,46 @@ O brainstorming foi realizado em formato de reunião e contou com a presença de
 ### Requisitos Funcionais
 <p align="center"><strong>Tabela 12 - </strong> Elicitação dos requisitos funcionais do ID Jovem</p>
 
-| Identificador | Requisito                                                                                                     | Implementação |
+| Identificador | Requisito | Implementação |
 |---------------|---------------------------------------------------------------------------------------------------------------|---------------|
-| BS01          | O usuário deve realizar o login com o acesso unificado do gov.br.                                              | Sim           |
-| BS02          | O usuário deve aceitar um termo de uso em seu primeiro acesso ao aplicativo.                                   | Não           |
-| BS03          | O usuário deve conseguir consultar se está dentro dos critérios para ter direito ao ID Jovem.                  | Sim           |
-| BS04          | O usuário deve poder emitir sua carteirinha digital do ID Jovem.                                               | Sim           |
-| BS05          | O usuário deve conseguir visualizar os benefícios disponíveis, como meia-entrada em eventos culturais.         | Sim           |
-| BS06          | O usuário deve poder verificar a validade da sua carteirinha do ID Jovem.                                      | Sim           |
-| BS07          | O usuário deve ter acesso a um guia/tutorial explicativo sobre como utilizar o ID Jovem.                       | Não           |
-| BS08          | O usuário deve ter acesso a perguntas frequentes (FAQ) e suporte para dúvidas.                                | Sim           |
-| BS09          | O aplicativo deve permitir atualização automática dos dados do beneficiário com base nas informações do CadÚnico.| Não          |
-| BS10          | O usuário deve conseguir acessar informações sobre locais e serviços onde o ID Jovem é aceito.                 | Não           |
-| BS11          | O aplicativo deve oferecer notificações sobre vencimento e renovação do benefício.                             | Não           |
-| BS12          | O usuário deve poder compartilhar a carteirinha digital em PDF ou imagem para uso em estabelecimentos.          | Não           |
-| BS13          | O sistema deve validar em tempo real a autenticidade da carteirinha.                                           | Sim           |
-| BS14          | O aplicativo deve oferecer um processo de onboarding adaptado para usuários com diferentes níveis de familiaridade tecnológica. | Não |
+| **BS01** <a id="bs01"></a> | O usuário deve realizar o login com o acesso unificado do gov.br. | Sim |
+| **BS02** <a id="bs02"></a> | O usuário deve aceitar um termo de uso em seu primeiro acesso ao aplicativo. | Não |
+| **BS03** <a id="bs03"></a> | O usuário deve conseguir consultar se está dentro dos critérios para ter direito ao ID Jovem. | Sim |
+| **BS04** <a id="bs04"></a> | O usuário deve poder emitir sua carteirinha digital do ID Jovem. | Sim |
+| **BS05** <a id="bs05"></a> | O usuário deve conseguir visualizar os benefícios disponíveis, como meia-entrada em eventos culturais. | Sim |
+| **BS06** <a id="bs06"></a> | O usuário deve poder verificar a validade da sua carteirinha do ID Jovem. | Sim |
+| **BS07** <a id="bs07"></a> | O usuário deve ter acesso a um guia/tutorial explicativo sobre como utilizar o ID Jovem. | Não |
+| **BS08** <a id="bs08"></a> | O usuário deve ter acesso a perguntas frequentes (FAQ) e suporte para dúvidas. | Sim |
+| **BS09** <a id="bs09"></a> | O aplicativo deve permitir atualização automática dos dados do beneficiário com base nas informações do CadÚnico. | Não |
+| **BS10** <a id="bs10"></a> | O usuário deve conseguir acessar informações sobre locais e serviços onde o ID Jovem é aceito. | Não |
+| **BS11** <a id="bs11"></a> | O aplicativo deve oferecer notificações sobre vencimento e renovação do benefício. | Não |
+| **BS12** <a id="bs12"></a> | O usuário deve poder compartilhar a carteirinha digital em PDF ou imagem para uso em estabelecimentos. | Não |
+| **BS13** <a id="bs13"></a> | O sistema deve validar em tempo real a autenticidade da carteirinha. | Sim |
+| **BS14** <a id="bs14"></a> | O aplicativo deve oferecer um processo de onboarding adaptado para usuários com diferentes níveis de familiaridade tecnológica. | Não |
 
 <p align="center">Fontes: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a> & <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a>, 2025.</p>
-
----
 
 ### Requisitos Não Funcionais
 <p align="center"><strong>Tabela 13 - </strong> Elicitação dos requisitos não funcionais do ID Jovem</p>
 
-| Identificador | Requisito                                                                                                     | Implementação |
+| Identificador | Requisito | Implementação |
 |---------------|---------------------------------------------------------------------------------------------------------------|---------------|
-| BS15          | O aplicativo deve ser leve e compatível com diferentes modelos de smartphones, inclusive de baixo custo.       | Sim           |
-| BS16          | O aplicativo deve ser intuitivo, com ícones e textos de fácil compreensão.                                     | Não           |
-| BS17          | O aplicativo deve enviar notificações sobre prazos e eventos próximos.                                         | Não           |
-| BS18          | O aplicativo deve organizar os menus de forma clara e acessível para jovens com pouca experiência digital.     | Não           |
-| BS19          | O aplicativo deve garantir funcionamento offline para exibição da carteirinha já emitida.                     | Não           |
-| BS20          | O aplicativo deve oferecer recursos de acessibilidade (alto contraste, leitura de tela, comandos por voz).     | Não           |
-| BS21          | O sistema deve integrar-se com o CadÚnico e outros serviços digitais do governo.                               | Sim           |
-| BS22          | O aplicativo deve proteger os dados dos usuários em conformidade com a LGPD, utilizando criptografia.          | Sim           |
-| BS23          | O aplicativo deve ser compatível com Android e iOS.                                                            | Sim           |
-| BS24          | O aplicativo deve funcionar com baixo consumo de internet, garantindo acessibilidade a jovens em regiões carentes.| Não        |
-| BS25          | O aplicativo deve estar disponível em português e oferecer suporte básico em outros idiomas oficiais do Brasil (como Libras em vídeo). | Não |
-| BS26          | Usabilidade: O aplicativo deve apresentar um feedback visual e sonoro claro para cada interação do usuário. | Não |
-| BS27          | Confiabilidade: O sistema deve ter um tempo máximo de inatividade de 2 horas por mês, fora das janelas de manutenção programada. | Não |
-| BS28          | Desempenho: O tempo de resposta para validação da carteirinha (QR Code) não deve exceder 2 segundos. | Não |
-| BS29          | Suportabilidade: A equipe de desenvolvimento deve disponibilizar atualizações de segurança e correções de bugs em um ciclo de, no máximo, 3 meses | Não |
+| **BS01** <a id="bs01"></a> | O usuário deve realizar o login com o acesso unificado do gov.br. | Sim |
+| **BS02** <a id="bs02"></a> | O usuário deve aceitar um termo de uso em seu primeiro acesso ao aplicativo. | Não |
+| **BS03** <a id="bs03"></a> | O usuário deve conseguir consultar se está dentro dos critérios para ter direito ao ID Jovem. | Sim |
+| **BS04** <a id="bs04"></a> | O usuário deve poder emitir sua carteirinha digital do ID Jovem. | Sim |
+| **BS05** <a id="bs05"></a> | O usuário deve conseguir visualizar os benefícios disponíveis, como meia-entrada em eventos culturais. | Sim |
+| **BS06** <a id="bs06"></a> | O usuário deve poder verificar a validade da sua carteirinha do ID Jovem. | Sim |
+| **BS07** <a id="bs07"></a> | O usuário deve ter acesso a um guia/tutorial explicativo sobre como utilizar o ID Jovem. | Não |
+| **BS08** <a id="bs08"></a> | O usuário deve ter acesso a perguntas frequentes (FAQ) e suporte para dúvidas. | Sim |
+| **BS09** <a id="bs09"></a> | O aplicativo deve permitir atualização automática dos dados do beneficiário com base nas informações do CadÚnico. | Não |
+| **BS10** <a id="bs10"></a> | O usuário deve conseguir acessar informações sobre locais e serviços onde o ID Jovem é aceito. | Não |
+| **BS11** <a id="bs11"></a> | O aplicativo deve oferecer notificações sobre vencimento e renovação do benefício. | Não |
+| **BS12** <a id="bs12"></a> | O usuário deve poder compartilhar a carteirinha digital em PDF ou imagem para uso em estabelecimentos. | Não |
+| **BS13** <a id="bs13"></a> | O sistema deve validar em tempo real a autenticidade da carteirinha. | Sim |
+| **BS14** <a id="bs14"></a> | O aplicativo deve oferecer um processo de onboarding adaptado para usuários com diferentes níveis de familiaridade tecnológica. | Não |
 
-<p align="center">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a> & <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a>, 2025.</p>
-
----
+<p align="center">Fontes: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a> & <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a>, 2025.</p>
 
 ## Gravação
 

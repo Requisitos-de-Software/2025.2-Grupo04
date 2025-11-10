@@ -62,10 +62,13 @@ A Entrega 1 correspondeu à estrutura inicial que servirá de guia para o time n
 | ***21:*** O Rich Picture foi validado com a equipe ou stakeholders? [(2)](#RP2) | Não Conforme | Dylan | 09/09/2025 21:11 |
 <p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></p>
 
-## Histórico de Versões 📅
+## Histórico de Versões
 
-| Versão | Data | Descrição | Revisor(es) |
-|:-:|:-:|:-:|:-:|
-| `1.0`  | 10/09/2025 | Adição da Entrega 01 |  [Dylan Cavalcante](https://github.com/dylancavalcante) |
-| `1.1`  | 16/09/2025 | Mudança na descrição de avaliação | [Arthur Fernandes](https://github.com/arthurfernandesj) |
-| `1.2`  | 18/09/2025 | Remoção da coluna autores e refatoração das planilhas | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+|:-:|:-:|:-:|:-:|:-:|
+| `1.0`  | 10/09/2025 | Adição da Entrega 01 | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+| `1.1`  | 16/09/2025 | Mudança na descrição de avaliação | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+| `1.2`  | 18/09/2025 | Remoção da coluna autores e refatoração das planilhas | [Dylan Cavalcante](https://github.com/dylancavalcante) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| `1.3`  | 31/10/2025 | Criação do documento ao aplicativo ID Jovem | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+
+

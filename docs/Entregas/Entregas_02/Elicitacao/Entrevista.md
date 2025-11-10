@@ -315,95 +315,95 @@ Na entrevista 2 encontra-se a gravação da entrevista da Noemy da Luz Cardoso.
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 6:</b> Requisitos Funcionais</p></font>
 <table>
-  <thead>
-    <tr>
-      <th>ID</th>
-      <th>Descrição</th>
-      <th>Implementado</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>ENT01</td>
-      <td>O aplicativo deve permitir que os usuários acessem e visualizem os benefícios do ID Jovem.</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>ENT02</td>
-      <td>Deve fornecer ferramentas para consultar transporte gratuito, eventos culturais e esportivos.</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>ENT03</td>
-      <td>Deve permitir reservas e emissão de comprovantes de acesso aos benefícios.</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>ENT04</td>
-      <td>Deve fornecer informações sobre pendências ou erros em benefícios.</td>
-      <td>Não</td>
-    </tr>
-    <tr>
-      <td>ENT05</td>
-      <td>Deve fornecer suporte técnico via chat ou número 0800.</td>
-      <td>Não</td>
-    </tr>
-    <tr>
-      <td>ENT06</td>
-      <td>Deve permitir que os usuários atualizem cadastro e preferências pessoais.</td>
-      <td>Não</td>
-    </tr>
-    <tr>
-      <td>ENT07</td>
-      <td>Deve oferecer funcionalidades de simulação de uso de benefícios de forma precisa.</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>ENT08</td>
-      <td>Deve permitir visualizar valores de benefícios e descontos disponíveis.</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>ENT09</td>
-      <td>Deve fornecer alertas sobre possíveis irregularidades em benefícios.</td>
-      <td>Não</td>
-    </tr>
+  <thead>
     <tr>
-        <td>ENT10</td>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Implementado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ENT01 <a id="ent01"></a></td>
+      <td>O aplicativo deve permitir que os usuários acessem e visualizem os benefícios do ID Jovem.</td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>ENT02 <a id="ent02"></a></td>
+      <td>Deve fornecer ferramentas para consultar transporte gratuito, eventos culturais e esportivos.</td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>ENT03 <a id="ent03"></a></td>
+      <td>Deve permitir reservas e emissão de comprovantes de acesso aos benefícios.</td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>ENT04 <a id="ent04"></a></td>
+      <td>Deve fornecer informações sobre pendências ou erros em benefícios.</td>
+      <td>Não</td>
+    </tr>
+    <tr>
+      <td>ENT05 <a id="ent05"></a></td>
+      <td>Deve fornecer suporte técnico via chat ou número 0800.</td>
+      <td>Não</td>
+    </tr>
+    <tr>
+      <td>ENT06 <a id="ent06"></a></td>
+      <td>Deve permitir que os usuários atualizem cadastro e preferências pessoais.</td>
+      <td>Não</td>
+    </tr>
+    <tr>
+      <td>ENT07 <a id="ent07"></a></td>
+      <td>Deve oferecer funcionalidades de simulação de uso de benefícios de forma precisa.</td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>ENT08 <a id="ent08"></a></td>
+      <td>Deve permitir visualizar valores de benefícios e descontos disponíveis.</td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>ENT09 <a id="ent09"></a></td>
+      <td>Deve fornecer alertas sobre possíveis irregularidades em benefícios.</td>
+      <td>Não</td>
+    </tr>
+    <tr>
+      <td>ENT10 <a id="ent10"></a></td>
       <td>O sistema deve possuir um <b>mapa interativo</b> que permita ao usuário visualizar geograficamente os estabelecimentos, eventos e pontos de transporte que aceitam o ID Jovem.</td>
       <td>Não</td>
     </tr>
     <tr>
-      <td>ENT11</td>
+      <td>ENT11 <a id="ent11"></a></td>
       <td>O sistema deve apresentar uma <b>agenda integrada de eventos</b> culturais, esportivos e educacionais, com filtros por categoria, data e gratuidade.</td>
       <td>Não</td>
     </tr>
     <tr>
-      <td>ENT12</td>
+      <td>ENT12 <a id="ent12"></a></td>
       <td>O sistema deve permitir que o usuário acesse um <b>histórico detalhado de utilização</b> dos benefícios, registrando data, tipo de benefício e local de uso.</td>
       <td>Não</td>
     </tr>
     <tr>
-      <td>ENT13</td>
+      <td>ENT13 <a id="ent13"></a></td>
       <td>O sistema deve implementar <b>notificações push personalizadas</b> para alertar sobre o vencimento do ID Jovem, novos parceiros e eventos de interesse.</td>
       <td>Não</td>
     </tr>
     <tr>
-      <td>ENT14</td>
+      <td>ENT14 <a id="ent14"></a></td>
       <td>O sistema deve fornecer um <b>canal para denúncia ou feedback</b> sobre estabelecimentos que se recusaram a aceitar o benefício.</td>
       <td>Não</td>
     </tr>
     <tr>
-      <td>ENT15</td>
+      <td>ENT15 <a id="ent15"></a></td>
       <td>O sistema deve permitir que o usuário <b>favorite eventos e estabelecimentos</b>, criando uma lista pessoal para consulta rápida.</td>
       <td>Não</td>
     </tr>
     <tr>
-      <td>ENT16</td>
+      <td>ENT16 <a id="ent16"></a></td>
       <td>O sistema deve integrar uma seção de <b>"Vantagens e Parcerias"</b> com descontos e ofertas exclusivas que vão além dos benefícios legais.</td>
       <td>Não</td>
     </tr>
-  </tbody>
+  </tbody>
 </table>
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/">Arthur Fernandes</a> & <a href="https://github.com/"> Dylan Cavalcante</a>, 2025.</p></font>
 </div>
@@ -421,44 +421,44 @@ Na entrevista 2 encontra-se a gravação da entrevista da Noemy da Luz Cardoso.
   </thead>
   <tbody>
     <tr>
-      <td>RFN01</td>
-      <td>ENT17</td>
+      <td>RFN01 <a id="rfn01"></a></td>
+      <td>ENT17 <a id="ent17"></a></td>
       <td>O aplicativo deve ser intuitivo e de fácil uso, mesmo para jovens com pouca experiência digital.</td>
       <td>Não</td>
     </tr>
     <tr>
-      <td>RFN02</td>
-      <td>ENT18</td>
+      <td>RFN02 <a id="rfn02"></a></td>
+      <td>ENT18 <a id="ent18"></a></td>
       <td>Deve lidar com grande número de usuários simultaneamente.</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>RFN03</td>
-      <td>ENT19</td>
+      <td>RFN03 <a id="rfn03"></a></td>
+      <td>ENT19 <a id="ent19"></a></td>
       <td>Deve permitir tarefas rápidas em até 5 minutos e tarefas complexas em até 20 minutos.</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>RFN04</td>
-      <td>ENT20</td>
+      <td>RFN04 <a id="rfn04"></a></td>
+      <td>ENT20 <a id="ent20"></a></td>
       <td>Deve considerar segurança do usuário, especialmente em informações pessoais.</td>
       <td>Não</td>
     </tr>
     <tr>
-      <td>RFN05</td>
-      <td>ENT21</td>
+      <td>RFN05 <a id="rfn05"></a></td>
+      <td>ENT21 <a id="ent21"></a></td>
       <td>Deve possuir interface clara, letras legíveis e navegação intuitiva.</td>
       <td>Não</td>
     </tr>
     <tr>
-      <td>RFN06</td>
-      <td>ENT22</td>
+      <td>RFN06 <a id="rfn06"></a></td>
+      <td>ENT22 <a id="ent22"></a></td>
       <td>Deve ter cores e layout que facilitem a utilização do aplicativo.</td>
       <td>Não</td>
     </tr>
     <tr>
-      <td>RFN07</td>
-      <td>ENT23</td>
+      <td>RFN07 <a id="rfn07"></a></td>
+      <td>ENT23 <a id="ent23"></a></td>
       <td>Deve permitir acesso rápido às informações em menos de 2 minutos por sessão.</td>
       <td>Sim</td>
     </tr>
@@ -466,7 +466,6 @@ Na entrevista 2 encontra-se a gravação da entrevista da Noemy da Luz Cardoso.
 </table>
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/">Arthur Fernandes</a> & <a href="https://github.com/">Dylan Cavalcante</a>, 2025.</p></font>
 </div>
-
 ## Referências Bibliográficas
 
 <p><a id="QT1" href="#anchor_1">1.</a> GUIA FACETADO DE TÉCNICAS DE ELICITAÇÃO DE REQUISITOS. Florianópolis: UFSC, 2017. Disponível em: <a href="https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades">https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades</a>. Acesso em: 22 set. 2025.</p>

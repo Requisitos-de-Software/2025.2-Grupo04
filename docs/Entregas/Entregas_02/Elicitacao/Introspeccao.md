@@ -45,27 +45,27 @@ A tabela a seguir apresenta uma lista de requisitos de software levantados duran
 
 | Identificação | Descrição | Categoria |
 |---|---|---|
-| IDJ01 | O sistema deve permitir que o jovem emita sua carteira ID Jovem virtual fornecendo NIS, nome completo, data de nascimento e nome da mãe<a id="anchor_3" href="#QT2">[2]</a>. | RF |
-| IDJ02 | O sistema deve permitir que estabelecimentos comerciais e empresas de transporte validem a autenticidade de uma carteira ID Jovem.[9,11] | RF |
-| IDJ03 | O sistema deve exibir claramente os benefícios do programa, como meia-entrada e vagas em transporte interestadual [9,16]<a id="anchor_4" href="#QT3">[3]</a>. | RF |
-| IDJ04 | O sistema deve fornecer uma seção de "Dúvidas Frequentes" para esclarecer questões sobre o programa, o CadÚnico e os benefícios[17]. | RF |
-| IDJ05 | O sistema deve ser gratuito para o cidadão[8]. | RNF |
-| IDJ06 | O sistema deve ser compatível com os principais sistemas operacionais móveis (Android e iOS) e navegadores web[10]. | RNF |
-| IDJ07 | O sistema deve proteger os dados pessoais dos jovens (CPF, NIS) conforme as leis de proteção de dados vigentes. | RNF |
-| IDJ08 | O sistema deve se conectar à base de dados do CadÚnico para verificar a elegibilidade do jovem em tempo real. | RNF |
-| IDJ09 | A interface deve ser intuitiva e acessível para jovens de diferentes níveis de letramento digital[12,13]. | RI |
-| IDJ10 | A carteira virtual gerada deve conter um QR Code ou outro método de validação rápida. | RI |
-| IDJ11 | O sistema deve enviar notificações ao usuário sobre o vencimento de sua carteira ID Jovem. | RI |
-| IDJ12 | Risco de o jovem não conseguir emitir a carteira devido a dados desatualizados no CadÚnico[9,18]. | RR |
-| IDJ13 | Risco de indisponibilidade ou lentidão no serviço de consulta à base do CadÚnico, impedindo a emissão da carteira. | RR |
-| IDJ14 | Risco de empresas se recusarem a aceitar o benefício, gerando frustração no usuário e descrédito do programa. | RR |
-| IDJ15 | O processo de emissão deve ser testado com diferentes perfis de jovens (NIS válido, NIS inválido, cadastro desatualizado). | RT |
-| IDJ16 | O fluxo de validação da carteira deve ser testado a partir da perspectiva de um estabelecimento comercial. | RT |
-| IDJ17 | Testes de usabilidade devem ser conduzidos com jovens na faixa etária de 15 a 29 anos para validar a clareza da interface. | RT |
-| IDJ18 | Usabilidade: O aplicativo deve permitir que o usuário personalize o tamanho da fonte e o esquema de cores para melhorar a legibilidade. | RNF |
-| IDJ19 | Confiabilidade: O sistema deve registrar todas as tentativas de validação da carteira, bem-sucedidas ou não, para fins de auditoria. | RNF |
-| IDJ20 | Desempenho: A consulta à elegibilidade do CadÚnico deve retornar o resultado em no máximo 3 segundos. | RNF |
-| IDJ21 | Suportabilidade: O sistema deve ter capacidade de ser facilmente escalado para atender a um aumento de 50% no número de usuários sem degradação do desempenho.| RNF |
+| **IDJ01** <a id="idj01"></a> | O sistema deve permitir que o jovem emita sua carteira ID Jovem virtual fornecendo NIS, nome completo, data de nascimento e nome da mãe<a id="anchor_3" href="#QT2">[2]</a>. | RF |
+| **IDJ02** <a id="idj02"></a> | O sistema deve permitir que estabelecimentos comerciais e empresas de transporte validem a autenticidade de uma carteira ID Jovem.[9,11] | RF |
+| **IDJ03** <a id="idj03"></a> | O sistema deve exibir claramente os benefícios do programa, como meia-entrada e vagas em transporte interestadual [9,16]<a id="anchor_4" href="#QT3">[3]</a>. | RF |
+| **IDJ04** <a id="idj04"></a> | O sistema deve fornecer uma seção de "Dúvidas Frequentes" para esclarecer questões sobre o programa, o CadÚnico e os benefícios[17]. | RF |
+| **IDJ05** <a id="idj05"></a> | O sistema deve ser gratuito para o cidadão[8]. | RNF |
+| **IDJ06** <a id="idj06"></a> | O sistema deve ser compatível com os principais sistemas operacionais móveis (Android e iOS) e navegadores web[10]. | RNF |
+| **IDJ07** <a id="idj07"></a> | O sistema deve proteger os dados pessoais dos jovens (CPF, NIS) conforme as leis de proteção de dados vigentes. | RNF |
+| **IDJ08** <a id="idj08"></a> | O sistema deve se conectar à base de dados do CadÚnico para verificar a elegibilidade do jovem em tempo real. | RNF |
+| **IDJ09** <a id="idj09"></a> | A interface deve ser intuitiva e acessível para jovens de diferentes níveis de letramento digital[12,13]. | RI |
+| **IDJ10** <a id="idj10"></a> | A carteira virtual gerada deve conter um QR Code ou outro método de validação rápida. | RI |
+| **IDJ11** <a id="idj11"></a> | O sistema deve enviar notificações ao usuário sobre o vencimento de sua carteira ID Jovem. | RI |
+| **IDJ12** <a id="idj12"></a> | Risco de o jovem não conseguir emitir a carteira devido a dados desatualizados no CadÚnico[9,18]. | RR |
+| **IDJ13** <a id="idj13"></a> | Risco de indisponibilidade ou lentidão no serviço de consulta à base do CadÚnico, impedindo a emissão da carteira. | RR |
+| **IDJ14** <a id="idj14"></a> | Risco de empresas se recusarem a aceitar o benefício, gerando frustração no usuário e descrédito do programa. | RR |
+| **IDJ15** <a id="idj15"></a> | O processo de emissão deve ser testado com diferentes perfis de jovens (NIS válido, NIS inválido, cadastro desatualizado). | RT |
+| **IDJ16** <a id="idj16"></a> | O fluxo de validação da carteira deve ser testado a partir da perspectiva de um estabelecimento comercial. | RT |
+| **IDJ17** <a id="idj17"></a> | Testes de usabilidade devem ser conduzidos com jovens na faixa etária de 15 a 29 anos para validar a clareza da interface. | RT |
+| **IDJ18** <a id="idj18"></a> | Usabilidade: O aplicativo deve permitir que o usuário personalize o tamanho da fonte e o esquema de cores para melhorar a legibilidade. | RNF |
+| **IDJ19** <a id="idj19"></a> | Confiabilidade: O sistema deve registrar todas as tentativas de validação da carteira, bem-sucedidas ou não, para fins de auditoria. | RNF |
+| **IDJ20** <a id="idj20"></a> | Desempenho: A consulta à elegibilidade do CadÚnico deve retornar o resultado em no máximo 3 segundos. | RNF |
+| **IDJ21** <a id="idj21"></a> | Suportabilidade: O sistema deve ter capacidade de ser facilmente escalado para atender a um aumento de 50% no número de usuários sem degradação do desempenho.| RNF |
 
 <p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
 

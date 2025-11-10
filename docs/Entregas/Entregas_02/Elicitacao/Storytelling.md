@@ -47,22 +47,27 @@ Isso ajudaria Camila a se sentir mais conectada à cidade e aproveitar melhor os
 
 ## Lista de Requisitos Elicitados
 
+
+<p align="center"><strong>Tabela 1 - </strong> Requisitos elicitados pelo storytelling.</p>
+
 | Identificador | Tipo | Requisito | Implementação |
 | :--: | :--: | :-- | :--: |
-| ST01 | RF | O usuário deve realizar login com a conta gov.br. | Sim |
-| ST02 | RF | O sistema deve validar automaticamente a elegibilidade do benefício. | Sim |
-| ST03 | RF | O aplicativo deve permitir baixar a carteirinha para uso offline. | Sim |
-| ST04 | RF | O sistema deve disponibilizar notificações sobre a expiração do benefício. | Não |
-| ST05 | RF | O usuário deve poder consultar e reservar passagens diretamente no app ou via integração com empresas parceiras. | Não |
-| ST06 | RF | O aplicativo deve fornecer mapa de eventos culturais e parceiros disponíveis. | Não |
-| ST07 | RF | O sistema deve oferecer recomendações personalizadas de eventos conforme localização do usuário. | Não |
-| ST08 | RF | O usuário deve conseguir verificar histórico de viagens realizadas com o ID Jovem. | Não |
-| ST09 | RNF | O design deve ser acessível e responsivo em diferentes dispositivos. | Sim |
-| ST10 | RNF | O sistema deve garantir segurança e integridade dos dados dos usuários. | Sim |
-| ST11 | RNF | Usabilidade: O fluxo de emissão da carteirinha digital deve ser concluído em no máximo 5 passos | Não |
-| ST11 | RNF | Confiabilidade: O sistema deve manter um log de auditoria de todas as emissões e validações de carteirinhas por 5 anos. | Não |
-| ST13 | RNF | Desempenho: O aplicativo deve carregar as informações de eventos e parceiros em no máximo 3 segundos, mesmo com grande volume de dados. | Não |
-| ST14 | RNF | Suportabilidade: O aplicativo deve ser compatível com a API mais recente e as duas versões anteriores do sistema operacional móvel. | Não |
+| **ST01** <a id="st01"></a> | RF | O usuário deve realizar login com a conta gov.br. | Sim |
+| **ST02** <a id="st02"></a> | RF | O sistema deve validar automaticamente a elegibilidade do benefício. | Sim |
+| **ST03** <a id="st03"></a> | RF | O aplicativo deve permitir baixar a carteirinha para uso offline. | Sim |
+| **ST04** <a id="st04"></a> | RF | O sistema deve disponibilizar notificações sobre a expiração do benefício. | Não |
+| **ST05** <a id="st05"></a> | RF | O usuário deve poder consultar e reservar passagens diretamente no app ou via integração com empresas parceiras. | Não |
+| **ST06** <a id="st06"></a> | RF | O aplicativo deve fornecer mapa de eventos culturais e parceiros disponíveis. | Não |
+| **ST07** <a id="st07"></a> | RF | O sistema deve oferecer recomendações personalizadas de eventos conforme localização do usuário. | Não |
+| **ST08** <a id="st08"></a> | RF | O usuário deve conseguir verificar histórico de viagens realizadas com o ID Jovem. | Não |
+| **ST09** <a id="st09"></a> | RNF | O design deve ser acessível e responsivo em diferentes dispositivos. | Sim |
+| **ST10** <a id="st10"></a> | RNF | O sistema deve garantir segurança e integridade dos dados dos usuários. | Sim |
+| **ST11** <a id="st11"></a> | RNF | Usabilidade: O fluxo de emissão da carteirinha digital deve ser concluído em no máximo 5 passos | Não |
+| **ST12** <a id="st12"></a> | RNF | Confiabilidade: O sistema deve manter um log de auditoria de todas as emissões e validações de carteirinhas por 5 anos. | Não |
+| **ST13** <a id="st13"></a> | RNF | Desempenho: O aplicativo deve carregar as informações de eventos e parceiros em no máximo 3 segundos, mesmo com grande volume de dados. | Não |
+| **ST14** <a id="st14"></a> | RNF | Suportabilidade: O aplicativo deve ser compatível com a API mais recente e as duas versões anteriores do sistema operacional móvel. | Não |
+
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/eduardar0">Eduarda Rodrigues</a></p>
 
 ## Referências Bibliográficas
 

@@ -75,29 +75,28 @@ Além disso, a técnica contribuiu para verificar a coerência entre normas lega
 
 ### Requisitos Identificados
 
-| Tipo              | Requisito                                                                   |
-| ----------------- | --------------------------------------------------------------------------- |
-| **Funcional**     | Cadastro do jovem beneficiário por meio do CPF                                         |
-| **Funcional**     | Geração e emissão da carteira digital ID Jovem                              |
-| **Funcional**     | Integração com bancos de dados governamentais                               |
-| **Funcional**     | Autenticação e login do jovem beneficiário no aplicativo                               |
-| **Funcional**     | Possibilidade de emissão de mais de uma carteira digital                    |
-| **Funcional**     | Exibição clara das regras de acesso e direitos garantidos                   |
-| **Funcional**     | Disponibilização de perguntas frequentes e atendimento                      |
-| **Funcional**     | Validação da carteira em estabelecimentos conveniados                       |
-| **Não Funcional** | Usabilidade: Interface simples e acessível                                  |
-| **Não Funcional** | Portabilidade: Disponibilidade em múltiplas plataformas (web, Android, iOS) |
-| **Não Funcional** | Segurança: Proteção de dados pessoais (especialmente CPF)                   |
-| **Não Funcional** | Confiabilidade: Informações oficiais e atualizadas                          |
-| **Não Funcional** | Performance: Emissão rápida e estável da carteira digital                   |
-| **Não Funcional** | Acessibilidade: Informações claras e de fácil entendimento                  |
-| **Não Funcional** | Desempenho: O tempo de carregamento das páginas do site oficial não deve exceder 3 segundos em conexões de internet de baixa velocidade. |
-| **Não Funcional** |Confiabilidade: O aplicativo deve garantir que as informações sobre os benefícios estejam 100% sincronizadas com a base de dados oficial. |
-| **Não Funcional** |Suportabilidade: O sistema deve ser compatível com as duas versões anteriores dos principais navegadores web e sistemas operacionais móveis.|
-| **Não Funcional** |Usabilidade: A navegação entre as seções do site e do aplicativo deve ser consistente e previsível para o jovem beneficiário.| 
-<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
+| ID     | Tipo              | Requisito                                                                   |
+| ------ | ----------------- | --------------------------------------------------------------------------- |
+| **AD01** <a id="ad01"></a> | **Funcional**     | Cadastro do jovem beneficiário por meio do CPF                                         |
+| **AD02** <a id="ad02"></a> | **Funcional**     | Geração e emissão da carteira digital ID Jovem                              |
+| **AD03** <a id="ad03"></a> | **Funcional**     | Integração com bancos de dados governamentais                               |
+| **AD04** <a id="ad04"></a> | **Funcional**     | Autenticação e login do jovem beneficiário no aplicativo                               |
+| **AD05** <a id="ad05"></a> | **Funcional**     | Possibilidade de emissão de mais de uma carteira digital                    |
+| **AD06** <a id="ad06"></a> | **Funcional**     | Exibição clara das regras de acesso e direitos garantidos                   |
+| **AD07** <a id="ad07"></a> | **Funcional**     | Disponibilização de perguntas frequentes e atendimento                      |
+| **AD08** <a id="ad08"></a> | **Funcional**     | Validação da carteira em estabelecimentos conveniados                       |
+| **AD09** <a id="ad09"></a> | **Não Funcional** | Usabilidade: Interface simples e acessível                                  |
+| **AD10** <a id="ad10"></a> | **Não Funcional** | Portabilidade: Disponibilidade em múltiplas plataformas (web, Android, iOS) |
+| **AD11** <a id="ad11"></a> | **Não Funcional** | Segurança: Proteção de dados pessoais (especialmente CPF)                   |
+| **AD12** <a id="ad12"></a> | **Não Funcional** | Confiabilidade: Informações oficiais e atualizadas                          |
+| **AD13** <a id="ad13"></a> | **Não Funcional** | Performance: Emissão rápida e estável da carteira digital                   |
+| **AD14** <a id="ad14"></a> | **Não Funcional** | Acessibilidade: Informações claras e de fácil entendimento                  |
+| **AD15** <a id="ad15"></a> | **Não Funcional** | Desempenho: O tempo de carregamento das páginas do site oficial não deve exceder 3 segundos em conexões de internet de baixa velocidade. |
+| **AD16** <a id="ad16"></a> | **Não Funcional** | Confiabilidade: O aplicativo deve garantir que as informações sobre os benefícios estejam 100% sincronizadas com a base de dados oficial. |
+| **AD17** <a id="ad17"></a> | **Não Funcional** | Suportabilidade: O sistema deve ser compatível com as duas versões anteriores dos principais navegadores web e sistemas operacionais móveis. |
+| **AD18** <a id="ad18"></a> | **Não Funcional** | Usabilidade: A navegação entre as seções do site e do aplicativo deve ser consistente e previsível para o jovem beneficiário. |
 
----
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
 
 ## **Conclusão**
 

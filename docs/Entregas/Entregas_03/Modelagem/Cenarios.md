@@ -32,68 +32,20 @@ Essa divisão garantiu a *participação equilibrada* e permitiu uma análise ma
 
 A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cenários, assim como as **datas e horários de submissão** de seus respectivos cenários no documento correspondente.
 
-<font size="3"><p style="text-align: center">Tabela 1: Participação na Elaboração de Cenários</p></font>
+### Tabela 1: Participação na Elaboração de Cenários
 
-<div align="center">
-<table>
-<thead>
-<tr>
-<th>Nome</th>
-<th>Cenários Relacionados</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></td>
-<td>
-• <a href="#cenário-9-alertas-de-irregularidades-no-uso-dos-benefícios">Cenário 9: Alertas de Irregularidades no Uso dos Benefícios</a><br>
-• <a href="#cenário-10-visualização-geográfica-de-parceiros-e-eventos">Cenário 10: Visualização Geográfica de Parceiros e Eventos</a>
-</td>
-</tr>
-<tr>
-<td><a href="https://github.com/BrenoLTeixeira">Breno Lourenço</a></td>
-<td>
-• <a href="#cenário-11-atualização-de-cadastro-e-preferências-pessoais">Cenário 11: Atualização de Cadastro e Preferências Pessoais</a><br>
-• <a href="#cenário-12-canal-para-denúncia-ou-feedback-sobre-estabelecimentos">Cenário 12: Canal para Denúncia ou Feedback sobre Estabelecimentos</a>
-</td>
-</tr>
-<tr>
-<td><a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></td>
-<td>
-• <a href="#cenário-5-exibição-de-novidades-e-divulgação-de-novos-parceiros">Cenário 5: Exibição de Novidades e Divulgação de Novos Parceiros</a><br>
-• <a href="#cenário-6-consulta-ao-histórico-de-utilização-dos-benefícios">Cenário 6: Consulta ao Histórico de Utilização dos Benefícios</a>
-</td>
-</tr>
-<tr>
-<td><a href="https://github.com/eduardar0">Eduarda Domingos</a></td>
-<td>
-• <a href="#cenário-3-consulta-de-locais-e-parceiros-que-aceitam-o-benefício">Cenário 3: Consulta de Locais e Parceiros que Aceitam o Benefício</a><br>
-• <a href="#cenário-4-canal-de-suporte-via-chat-e-mail-ou-formulário-de-contato">Cenário 4: Canal de Suporte via Chat, E-mail ou Formulário de Contato</a>
-</td>
-</tr>
-<tr>
-<td><a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></td>
-<td>
-• <a href="#cenário-7-compartilhamento-da-carteirinha-em-pdf-ou-imagem">Cenário 7: Compartilhamento da Carteirinha em PDF ou Imagem</a><br>
-• <a href="#cenário-8-exibição-de-pendências-e-erros-relacionados-aos-benefícios">Cenário 8: Exibição de Pendências e Erros Relacionados aos Benefícios</a>
-</td>
-</tr>
-<tr>
-<td><a href="https://github.com/leticialopes20">Letícia Lopes</a></td>
-<td>
-• <a href="#cenário-1-integração-com-o-cadúnico-para-atualização-automática-de-dados">Cenário 1: Integração com o CadÚnico para Atualização Automática de Dados</a><br>
-• <a href="#cenário-2-notificações-sobre-vencimento-e-renovação-do-benefício">Cenário 2: Notificações sobre Vencimento e Renovação do Benefício</a>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
+| Nome | Cenários Relacionados |
+|------|---------------------------|
+| **[Arthur Fernandes](https://github.com/arthurfernandesj)** | • [Cenário 9: Alertas de Irregularidades no Uso dos Benefícios](#cenário-9-alertas-de-irregularidades-no-uso-dos-benefícios)<br>• [Cenário 10: Visualização Geográfica de Parceiros e Eventos](#cenário-10-visualização-geográfica-de-parceiros-e-eventos) |
+| **[Breno Lourenço](https://github.com/BrenoLTeixeira)** | • [Cenário 11: Atualização de Cadastro e Preferências Pessoais](#cenário-11-atualização-de-cadastro-e-preferências-pessoais)<br>• [Cenário 12: Canal para Denúncia ou Feedback sobre Estabelecimentos](#cenário-12-canal-para-denúncia-ou-feedback-sobre-estabelecimentos) |
+| **[Dylan Cavalcante](https://github.com/dylancavalcante)** | • [Cenário 5: Exibição de Novidades e Divulgação de Novos Parceiros](#cenário-5-exibição-de-novidades-e-divulgação-de-novos-parceiros)<br>• [Cenário 6: Consulta ao Histórico de Utilização dos Benefícios](#cenário-6-consulta-ao-histórico-de-utilização-dos-benefícios) |
+| **[Eduarda Domingos](https://github.com/eduardar0)** | • [Cenário 3: Consulta de Locais e Parceiros que Aceitam o Benefício](#cenário-3-consulta-de-locais-e-parceiros-que-aceitam-o-benefício)<br>• [Cenário 4: Canal de Suporte via Chat, E-mail ou Formulário de Contato](#cenário-4-canal-de-suporte-via-chat-e-mail-ou-formulário-de-contato) |
+| **[Giovana Fontes](https://github.com/GiovanaFontesS)** | • [Cenário 7: Compartilhamento da Carteirinha em PDF ou Imagem](#cenário-7-compartilhamento-da-carteirinha-em-pdf-ou-imagem)<br>• [Cenário 8: Exibição de Pendências e Erros Relacionados aos Benefícios](#cenário-8-exibição-de-pendências-e-erros-relacionados-aos-benefícios) |
+| **[Letícia Lopes](https://github.com/leticialopes20)** | • [Cenário 1: Integração com o CadÚnico para Atualização Automática de Dados](#cenário-1-integração-com-o-cadúnico-para-atualização-automática-de-dados)<br>• [Cenário 2: Notificações sobre Vencimento e Renovação do Benefício](#cenário-2-notificações-sobre-vencimento-e-renovação-do-benefício) |
 
-<font size="2"><p style="text-align: center">Fonte: <i><a href="https://github.com/leticialopes20">Letícia Lopes</a></i></p></font>
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/leticialopes20">Letícia Lopes</a></p>
 
-
-### Cenário 1: Integração com o CadÚnico para Atualização Automática de Dados
-
+### Cenário 1: Integração com o CadÚnico para Atualização Automática de Dados <a id="cenário-1-integração-com-o-cadúnico-para-atualização-automática-de-dados"></a>
 <font size="3"><p style="text-align: center">Tabela 1: Cenário de Integração com o CadÚnico para Atualização Automática de Dados</p></font>
 
 | **ID**         | [RF07](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf07)                                                                                                                                                                                                                                                                                                                                                                                                                                             |
@@ -111,7 +63,7 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 <font size="2"><p style="text-align: center">Fonte: [Letícia Lopes](https://github.com/leticialopes20)</p></font>
 
 
-### Cenário 2: Notificações sobre Vencimento e Renovação do Benefício
+### Cenário 2: Notificações sobre Vencimento e Renovação do Benefício <a id="cenário-2-notificações-sobre-vencimento-e-renovação-do-benefício"></a>
 
 <font size="3"><p style="text-align: center">Tabela 2: Cenário de Notificações sobre Vencimento e Renovação do Benefício</p></font>
 
@@ -130,7 +82,7 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 <font size="2"><p style="text-align: center">Fonte: [Letícia Lopes](https://github.com/leticialopes20)</p></font>
 
 
-### Cenário 3: Consulta de Locais e Parceiros que Aceitam o Benefício.
+### Cenário 3: Consulta de Locais e Parceiros que Aceitam o Benefício <a id="cenário-3-consulta-de-locais-e-parceiros-que-aceitam-o-benefício"></a>
 
 <font size="3"><p style="text-align: center">Tabela 3: Cenário de Consulta de Locais e Parceiros que Aceitam o Benefício</p></font>
 
@@ -150,7 +102,7 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 
 <font size="2"><p style="text-align: center">Fonte: [Eduarda Domingos](https://github.com/eduardar0)</p></font>
 
-### Cenário 4: Canal de Suporte via Chat, E-mail ou Formulário de Contato.
+### Cenário 4: Canal de Suporte via Chat, E-mail ou Formulário de Contato <a id="cenário-4-canal-de-suporte-via-chat-e-mail-ou-formulário-de-contato"></a>
 
 <font size="3"><p style="text-align: center">Tabela 4: Cenário de Canal de Suporte via Chat, E-mail ou Formulário de Contato</p></font>
 
@@ -168,7 +120,7 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 
 <font size="2"><p style="text-align: center">Fonte: [Eduarda Domingos](https://github.com/eduardar0)</p></font>
 
-### **Cenário 5: Exibição de Novidades e Divulgação de Novos Parceiros**
+### Cenário 5: Exibição de Novidades e Divulgação de Novos Parceiros <a id="cenário-5-exibição-de-novidades-e-divulgação-de-novos-parceiros"></a>
 
 <font size="3"><p style="text-align: center">Tabela 5: Cenário de Exibição de Novidades e Divulgação de Novos Parceiros</p></font>
 
@@ -185,7 +137,7 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 
 <font size="2"><p style="text-align: center">Fonte: [Dylan Cavalcante](https://github.com/dylancavalcante)</p></font>
 
-### Cenário 6: Consulta ao Histórico de Utilização dos Benefícios
+### Cenário 6: Consulta ao Histórico de Utilização dos Benefícios <a id="cenário-6-consulta-ao-histórico-de-utilização-dos-benefícios"></a>
 
 <font size="3"><p style="text-align: center">Tabela 6: Cenário de Consulta ao Histórico de Utilização dos Benefícios</p></font>
 
@@ -202,7 +154,7 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 
 <font size="2"><p style="text-align: center">Fonte: [Dylan Cavalcante](https://github.com/dylancavalcante)</p></font>
 
-### Cenário 7: Compartilhamento da Carteirinha em PDF ou Imagem
+### Cenário 7: Compartilhamento da Carteirinha em PDF ou Imagem <a id="cenário-7-compartilhamento-da-carteirinha-em-pdf-ou-imagem"></a>
 
 <font size="3"><p style="text-align: center">Tabela 7: Cenário de Compartilhamento da Carteirinha em PDF ou Imagem</p></font>
 
@@ -219,8 +171,7 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 
 <font size="2"><p style="text-align: center">Fonte: [Giovana Fontes](https://github.com/GiovanaFontesS)</p></font>
 
-### Cenário 8: Exibição de Pendências e Erros Relacionados aos Benefícios
-
+### Cenário 8: Exibição de Pendências e Erros Relacionados aos Benefícios <a id="cenário-8-exibição-de-pendências-e-erros-relacionados-aos-benefícios"></a>
 <font size="3"><p style="text-align: center">Tabela 8: Cenário de Exibição de Pendências e Erros Relacionados aos Benefícios</p></font>
 
 | **ID**         | [RF18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf18) |
@@ -236,7 +187,7 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 
  <font size="2"><p style="text-align: center">Fonte: [Giovana Fontes](https://github.com/GiovanaFontesS)</p></font>
 
-### Cenário 9: Alertas de Irregularidades no Uso dos Benefícios
+### Cenário 9: Alertas de Irregularidades no Uso dos Benefícios <a id="cenário-9-alertas-de-irregularidades-no-uso-dos-benefícios"></a>
 
 <font size="3"><p style="text-align: center">Tabela 9: Cenário de Exibição de Pendências e Erros Relacionados aos Benefícios</p></font>
 
@@ -255,7 +206,8 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
  <font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj)</p></font>
 
 
-### Cenário 10: Visualização Geográfica de Parceiros e Eventos
+### Cenário 10: Visualização Geográfica de Parceiros e Eventos <a id="cenário-10-visualização-geográfica-de-parceiros-e-eventos"></a>
+
 
 <font size="3"><p style="text-align: center">Tabela 10: Visualização Geográfica de Parceiros e Eventos</p></font>
 
@@ -273,7 +225,8 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 
  <font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj)</p></font>
 
-### Cenário 11: Atualização de Cadastro e Preferências Pessoais
+### Cenário 11: Atualização de Cadastro e Preferências Pessoais <a id="cenário-11-atualização-de-cadastro-e-preferências-pessoais"></a>
+
 
 <font size="3"><p style="text-align: center">Tabela 11: Cenário de Atualização de Cadastro e Preferências Pessoais</p></font>
 
@@ -290,7 +243,7 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 
 <font size="2"><p style="text-align: center">Fonte: [Breno Teixeira](https://github.com/BrenoLTeixeira)</p></font>
 
-### Cenário 12: Canal para Denúncia ou Feedback sobre Estabelecimentos
+### Cenário 12: Canal para Denúncia ou Feedback sobre Estabelecimentos <a id="cenário-12-canal-para-denúncia-ou-feedback-sobre-estabelecimentos"></a>
 
 <font size="3"><p style="text-align: center">Tabela 12: Cenário de Canal para Denúncia ou Feedback sobre Estabelecimentos</p></font>
 

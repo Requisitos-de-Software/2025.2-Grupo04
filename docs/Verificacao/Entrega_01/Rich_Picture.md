@@ -80,7 +80,6 @@
 
 <p style="text-align: justify;">A seguir, apresenta-se a tabela com os itens utilizados na verificação do artefato <b>Rich Picture</b> do aplicativo <b>ID Jovem</b>. Essa verificação tem como objetivo assegurar que o diagrama represente de forma clara e completa os elementos do sistema, incluindo atores, fluxos de informação, operações e limites. Além disso, a análise busca confirmar a coerência visual e conceitual do artefato, garantindo que ele atenda aos critérios definidos no planejamento e contribua para o entendimento do escopo e funcionamento do sistema.</p>
 
-
 <h3 style="text-align: center;">Tabela 2: Itens do artefato Rich Picture – ID Jovem</h3>
 
 <div align="center">
@@ -98,7 +97,7 @@
   <tbody>
     <tr>
       <td><b>01:</b> O Rich Picture representa todos os atores envolvidos no sistema?</td>
-      <td>[Item1](https://imgur.com/a/qmK9Uxm)</td>
+      <td><a href="https://imgur.com/a/qmK9Uxm" target="_blank">Item 1</a></td>
       <td></td>
       <td>-</td>
       <td><img src="/assets/Rich_verificacao/item1.png" alt="print Item 1" width="120"></td>
@@ -106,7 +105,7 @@
     </tr>
     <tr>
       <td><b>02:</b> Os fluxos de informação entre os elementos estão ilustrados?</td>
-      <td>-</td>
+      <td><a href="https://imgur.com/a/wPVxjSq" target="_blank">Item 2</a></td>
       <td></td>
       <td>-</td>
       <td><img src="/assets/Rich_verificacao/item2.png" alt="print Item 2" width="120"></td>
@@ -114,7 +113,7 @@
     </tr>
     <tr>
       <td><b>03:</b> As principais operações do sistema estão representadas?</td>
-      <td>-</td>
+      <td><a href="https://imgur.com/a/Gtfccce" target="_blank">Item 3</a></td>
       <td></td>
       <td>-</td>
       <td><img src="/assets/Rich_verificacao/item3.png" alt="print Item 3" width="120"></td>
@@ -122,7 +121,7 @@
     </tr>
     <tr>
       <td><b>04:</b> Os limites do sistema estão claramente indicados?</td>
-      <td>-</td>
+      <td><a href="https://imgur.com/a/IjHy7UK" target="_blank">Item 4</a></td>
       <td></td>
       <td>-</td>
       <td><img src="/assets/Rich_verificacao/item4.png" alt="print Item 4" width="120"></td>
@@ -130,7 +129,7 @@
     </tr>
     <tr>
       <td><b>05:</b> Os armazenamentos de dados (tabelas) estão representados adequadamente?</td>
-      <td>-</td>
+      <td><a href="https://imgur.com/a/aPN83CQ" target="_blank">Item 5</a></td>
       <td></td>
       <td>-</td>
       <td><img src="/assets/Rich_verificacao/item5.png" alt="print Item 5" width="120"></td>
@@ -142,11 +141,11 @@
       <td></td>
       <td>-</td>
       <td><img src="/assets/Rich_verificacao/item6.png" alt="print Item 6" width="120"></td>
-      <td><a href="https://github.com/leticialopes20" target="_blank">Leticia Maria</a></td>
+      <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a></td>
     </tr>
     <tr>
       <td><b>07:</b> O artefato possui uma legenda explicando os símbolos utilizados no diagrama?</td>
-      <td>-</td>
+      <td><a href="https://imgur.com/a/2ZVZFvz" target="_blank">Item 7</a></td>
       <td></td>
       <td>-</td>
       <td><img src="/assets/Rich_verificacao/item7.png" alt="print Item 7" width="120"></td>
@@ -159,7 +158,6 @@
 Fonte: <a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a>
 </p>
 </div>
-
 
 ## Análises dos resultados 
 

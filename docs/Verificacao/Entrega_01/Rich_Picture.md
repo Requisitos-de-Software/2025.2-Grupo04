@@ -31,37 +31,37 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
-      <td>Autora</td>
+      <td>Autora itens 1 e 7</td>
       <td>10/11/2025</td>
       <td>10:33</td>
     </tr>
     <tr>
       <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
-      <td>Verificador</td>
+      <td>Autor item 5</td>
       <td>10/11/2025</td>
       <td>11:00</td>
     </tr>
     <tr>
       <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
-      <td>Verificador</td>
+      <td>Autor item 2</td>
       <td>10/11/2025</td>
       <td>14:00</td>
     </tr>
     <tr>
       <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
-      <td>Verificador</td>
+      <td>Autor item 4</td>
       <td>10/11/2025</td>
       <td>15:25</td>
     </tr>
     <tr>
       <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
-      <td>Verificadora</td>
+      <td>Autora item 3</td>
       <td>10/11/2025</td>
       <td>17:05</td>
     </tr>
     <tr>
       <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a></td>
-      <td>Verificadora</td>
+      <td>Autora item 6</td>
       <td>10/11/2025</td>
       <td>22:00</td>
     </tr>

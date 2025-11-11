@@ -100,7 +100,7 @@
       <td><a href="https://imgur.com/a/qmK9Uxm" target="_blank">Item 1</a></td>
       <td></td>
       <td>-</td>
-      <td><img src="/assets/Rich_verificacao/item1.png" alt="print Item 1" width="120"></td>
+      <td><a href="https://imgur.com/a/VhGSYZC" target="_blank">Visualizar</a></td>
       <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
     </tr>
     <tr>
@@ -108,7 +108,7 @@
       <td><a href="https://imgur.com/a/wPVxjSq" target="_blank">Item 2</a></td>
       <td></td>
       <td>-</td>
-      <td><img src="/assets/Rich_verificacao/item2.png" alt="print Item 2" width="120"></td>
+      <td><a href="https://imgur.com/a/ym5VHjb" target="_blank">Visualizar</a></td>
       <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
     </tr>
     <tr>
@@ -116,7 +116,7 @@
       <td><a href="https://imgur.com/a/Gtfccce" target="_blank">Item 3</a></td>
       <td></td>
       <td>-</td>
-      <td><img src="/assets/Rich_verificacao/item3.png" alt="print Item 3" width="120"></td>
+      <td><a href="https://imgur.com/a/kyciZPo" target="_blank">Visualizar</a></td>
       <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
     </tr>
     <tr>
@@ -124,7 +124,7 @@
       <td><a href="https://imgur.com/a/IjHy7UK" target="_blank">Item 4</a></td>
       <td></td>
       <td>-</td>
-      <td><img src="/assets/Rich_verificacao/item4.png" alt="print Item 4" width="120"></td>
+      <td><a href="https://imgur.com/a/TOzZo6C" target="_blank">Visualizar</a></td>
       <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
     </tr>
     <tr>
@@ -132,7 +132,7 @@
       <td><a href="https://imgur.com/a/aPN83CQ" target="_blank">Item 5</a></td>
       <td></td>
       <td>-</td>
-      <td><img src="/assets/Rich_verificacao/item5.png" alt="print Item 5" width="120"></td>
+      <td><a href="https://imgur.com/a/hSuCZ9O" target="_blank">Visualizar</a></td>
       <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
     </tr>
     <tr>
@@ -140,7 +140,7 @@
       <td>-</td>
       <td></td>
       <td>-</td>
-      <td><img src="/assets/Rich_verificacao/item6.png" alt="print Item 6" width="120"></td>
+      <td><a href="https://imgur.com/a/DwNrOx6" target="_blank">Visualizar</a></td>
       <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a></td>
     </tr>
     <tr>
@@ -148,7 +148,7 @@
       <td><a href="https://imgur.com/a/2ZVZFvz" target="_blank">Item 7</a></td>
       <td></td>
       <td>-</td>
-      <td><img src="/assets/Rich_verificacao/item7.png" alt="print Item 7" width="120"></td>
+      <td><a href="https://imgur.com/a/2S58mLA" target="_blank">Visualizar</a></td>
       <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
     </tr>
   </tbody>
@@ -176,19 +176,20 @@ Após a análise da primeira versão da tabela de verificação, observou-se que
 
 ## Referencias Bibliograficas
 
-> <a id="RP1" href="#TEC1">1.</a> SERRANO, Milene. Requisitos - Aula 10. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: [Requisitos - Aula 10](https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf). Página 19. Acesso em: 11 de Outubro de 2025.
+> <a id="RP1" href="#TEC1">1.</a> SERRANO, Milene. Requisitos - Aula 10. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: [Requisitos - Aula 10](https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf). Página 19. Acesso em: 11 de novembro de 2025.
 
-> <a id="RP3" href="#TEC3">1.</a> VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira; SIMÕES. *Engenharia de Requisitos: Software Orientado ao Negócio.* São Paulo , 2016. Acesso em: 19 de outubro de 2025.
+> <a id="RP3" href="#TEC3">1.</a> VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira; SIMÕES. *Engenharia de Requisitos: Software Orientado ao Negócio.* São Paulo , 2016. Acesso em: 10 de novembro de 2025.
 
 ## Bibliografia 
-> SERRANO, Milene. Requisitos - Aula 10. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: [Requisitos](https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf). Acesso em: 11 de Outubro de 2025.
+> SERRANO, Milene. Requisitos - Aula 10. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: [Requisitos](https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf). Acesso em: 11 de novembro de 2025.
 >
 
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :--: | :--: | :-- | :-- | :-- |
-| `1.0` | 11/11/2025 | Criação de Verificação Rich Picture | [Giovana Fontes](https://github.com/GiovanaFontesS) | [ Dylan Cavalcante ](https://github.com/dylancavalcante) |
+| 1.0 | 11/11/2025 | Criação de Verificação Rich Picture | [Giovana Fontes](https://github.com/GiovanaFontesS) | [ Dylan Cavalcante ](https://github.com/dylancavalcante) |
+| 1.1 | 11/11/2025 | Adição de referencias e prints | [Giovana Fontes](https://github.com/GiovanaFontesS) | [ Dylan Cavalcante ](https://github.com/dylancavalcante) |
 
 ## Agrecimentos
 

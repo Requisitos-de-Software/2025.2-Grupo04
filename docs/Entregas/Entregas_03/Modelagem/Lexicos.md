@@ -57,6 +57,7 @@ Os léxicos do sistema ID Jovem foram identificados a partir da utilização do 
 | **[Letícia Lopes](https://github.com/leticialopes20)** | • [L09 - FAQ e Suporte](#l09)<br>• [L10 - Agenda de Eventos](#l10)<br>• [L19 - Favoritar](#l19)<br>• [L20 - Denunciar](#l20)<br>• [L27 - Em Análise](#l27)<br>• [L28 - Personalizado](#l28) |
 
 <p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/leticialopes20">Letícia Lopes</a></p>
+
 ## Objetos
 
 Os léxicos do tipo objeto referem-se às entidades, elementos ou objetos que são manipulados ou sobre os quais as ações são realizadas dentro do aplicativo ID Jovem. Nas tabelas à seguir, é possível verificar os principais léxicos classificados como objetos que foram identificados no ID Jovem. Esses léxicos incluem elementos como "Jovem Beeficiário", "Carteira Digital" entre outros. Cada um desses léxicos é descrito detalhadamente, incluindo sua noção, que define o objeto e seus relacionamentos com outros objetos, e seu impacto, que descreve as ações possíveis sobre o objeto dentro do sistema.

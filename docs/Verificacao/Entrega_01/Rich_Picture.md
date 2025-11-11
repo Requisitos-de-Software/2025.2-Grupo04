@@ -1,14 +1,14 @@
 ## Introdução
 
-A<p style="text-align: justify;">Após o planejamento da verificação, foi iniciada a inspeção do artefato <b>Rich Picture</b> referente ao aplicativo <b>ID Jovem</b>. Nesta etapa, aplicou-se o <b>método de inspeção proposto por Fagan</b>, uma técnica formal amplamente utilizada na engenharia de software para assegurar a qualidade dos artefatos desenvolvidos. O propósito da verificação é garantir que o Rich Picture esteja devidamente estruturado, coerente com os requisitos levantados e alinhado aos objetivos do aplicativo ID Jovem — voltado para facilitar o acesso de jovens de baixa renda a benefícios culturais e de transporte. Como referência, utilizou-se o guia <i>“Introducing Rich Pictures”</i><sup>1</sup>, baseado na disciplina <b>CTEC2402 – Software Development Project</b>. Durante o processo, foram coletadas informações, identificadas inconsistências e elaboradas sugestões de melhoria, com o intuito de aprimorar o artefato e assegurar sua adequação ao desenvolvimento do sistema.</p>
+<p style="text-align: justify;">Após o planejamento da verificação, foi iniciada a inspeção do artefato <b>Rich Picture</b> referente ao aplicativo <b>ID Jovem</b>. O propósito da verificação é garantir que o Rich Picture esteja devidamente estruturado, coerente com os requisitos levantados e alinhado aos objetivos do aplicativo ID Jovem, voltado para facilitar o acesso de jovens de baixa renda a benefícios culturais e de transporte. Como referência, utilizou-se (SERRANO Milene; SERRANO Mauricio) Requisitos – Aula 07. Universidade de Brasília. Durante o processo, foram coletadas informações, identificadas inconsistências e elaboradas sugestões de melhoria, com o intuito de aprimorar o artefato e assegurar sua adequação ao desenvolvimento do sistema.</p>
 
 ## Objetivo 
 
-<p style="text-align: justify;">O presente documento tem como finalidade relatar os resultados obtidos na verificação do artefato <b>Rich Picture</b> do aplicativo <b>ID Jovem</b>, em sua versão 1.0, datada de <b>10/11/2025</b>, integrante da <b>Entrega 1</b> do grupo 4.</p>
+<p style="text-align: justify;">O presente documento tem como finalidade relatar os resultados obtidos na verificação do artefato Rich Picture do aplicativo <b>ID Jovem</b>, em sua versão 1.0, datada de 08/09/2025 , integrante da Entrega 1 do grupo 4.</p>
 
 ## Metodologia 
 
-<p style="text-align: justify;">A verificação foi conduzida com base nas <b>checklists</b> definidas na etapa de planejamento. Cada item da lista foi avaliado individualmente, sendo marcado como <b>Sim</b>, <b>Não</b> ou <b>Incompleto</b>, conforme seu atendimento aos critérios estabelecidos. Quando necessário, o avaliador adicionou <b>observações complementares</b> para justificar as marcações e sugerir ajustes que contribuam para a melhoria do artefato.</p>
+<p style="text-align: justify;">A verificação foi conduzida com base nas checklists definidas na etapa de planejamento. Cada item da lista foi avaliado individualmente, sendo marcado como <b>Sim</b>, <b>Não</b> ou <b>Incompleto</b>, conforme seu atendimento aos critérios estabelecidos. Quando necessário, o avaliador adicionou <b>observações complementares</b> para justificar as marcações e sugerir ajustes que contribuam para a melhoria do artefato.</p>
 
 ## Cronograma e participantes
 
@@ -51,9 +51,8 @@ A<p style="text-align: justify;">Após o planejamento da verificação, foi inic
 <h3 style="text-align: center;">Tabela: Itens do artefato "Rich Picture" – ID Jovem</h3>
 
 <div align="center">
-
-<table>
-  <thead style="background-color:#004a99; color:white; text-align:center;">
+<table border="1" style="border-collapse: collapse; width: 95%; text-align: center;">
+  <thead>
     <tr>
       <th>Item</th>
       <th>Referência</th>

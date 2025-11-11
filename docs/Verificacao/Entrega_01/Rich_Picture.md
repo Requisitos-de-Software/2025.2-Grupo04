@@ -11,7 +11,7 @@
 
 ## Metodologia 
 
-<p style="text-align: justify;">A verificação foi conduzida com base nas checklists definidas na etapa de planejamento. Cada item da lista foi avaliado individualmente, sendo marcado como <b>Sim</b>, <b>Não</b> ou <b>Incompleto</b>, conforme seu atendimento aos critérios estabelecidos. Quando necessário, o avaliador adicionou <b>observações complementares</b> para justificar as marcações e sugerir ajustes que contribuam para a melhoria do artefato.</p>
+<p style="text-align: justify;">A verificação foi conduzida com base nas checklists definidas na etapa de planejamento. Cada item da lista foi avaliado individualmente, sendo marcado como <b>Sim</b>, <b>Não</b> ou <b>Incompleto</b>, conforme seu atendimento aos critérios estabelecidos. Quando necessário, os avaliadores adicionaram observações complementares para justificar as marcações e sugerir ajustes que contribuam para a melhoria do artefato.</p>
 
 ## Cronograma e participantes
 
@@ -19,7 +19,7 @@
 
 <div align="center">
 
-<table>
+<table border="1" style="border-collapse: collapse; width: 70%; text-align: center;">
   <thead>
     <tr>
       <th>Nome</th>
@@ -31,20 +31,43 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
-      <td>Verificadora</td>
+      <td>Autora</td>
       <td>10/11/2025</td>
-      <td>10:30</td>
+      <td>10:33</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur</a></td>
-      <td>Autor</td>
+      <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
+      <td>Verificador</td>
+      <td>10/11/2025</td>
+      <td>11:00</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
+      <td>Verificador</td>
       <td>10/11/2025</td>
       <td>14:00</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
+      <td>Verificador</td>
+      <td>10/11/2025</td>
+      <td>15:25</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
+      <td>Verificadora</td>
+      <td>10/11/2025</td>
+      <td>17:05</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a></td>
+      <td>Verificadora</td>
+      <td>10/11/2025</td>
+      <td>22:00</td>
     </tr>
   </tbody>
 </table>
 
-</div>
 
 ## Lista de Verificação 1.2 Rich Picture 
 
@@ -71,7 +94,7 @@
       <td>-</td>
       <td></td>
       <td>-</td>
-      <td><img src="../../assets/Rich_verificacao/item1.png" alt="print Item 1" width="120"></td>
+      <td><img src="/assets/Rich_verificacao/item1.png" alt="print Item 1" width="120"></td>
       <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
     </tr>
     <tr>
@@ -79,7 +102,7 @@
       <td>-</td>
       <td></td>
       <td>-</td>
-      <td><img src="../../assets/Rich_verificacao/item2.png" alt="print Item 2" width="120"></td>
+      <td><img src="/assets/Rich_verificacao/item2.png" alt="print Item 2" width="120"></td>
       <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
     </tr>
     <tr>
@@ -87,7 +110,7 @@
       <td>-</td>
       <td></td>
       <td>-</td>
-      <td><img src="../../assets/Rich_verificacao/item3.png" alt="print Item 3" width="120"></td>
+      <td><img src="/assets/Rich_verificacao/item3.png" alt="print Item 3" width="120"></td>
       <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
     </tr>
     <tr>
@@ -95,7 +118,7 @@
       <td>-</td>
       <td></td>
       <td>-</td>
-      <td><img src="../../assets/Rich_verificacao/item4.png" alt="print Item 4" width="120"></td>
+      <td><img src="/assets/Rich_verificacao/item4.png" alt="print Item 4" width="120"></td>
       <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
     </tr>
     <tr>
@@ -103,7 +126,7 @@
       <td>-</td>
       <td></td>
       <td>-</td>
-      <td><img src="../../assets/Rich_verificacao/item5.png" alt="print Item 5" width="120"></td>
+      <td><img src="/assets/Rich_verificacao/item5.png" alt="print Item 5" width="120"></td>
       <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
     </tr>
     <tr>
@@ -111,7 +134,7 @@
       <td>-</td>
       <td></td>
       <td>-</td>
-      <td><img src="../../assets/Rich_verificacao/item6.png" alt="print Item 6" width="120"></td>
+      <td><img src="/assets/Rich_verificacao/item6.png" alt="print Item 6" width="120"></td>
       <td><a href="https://github.com/leticialopes20" target="_blank">Leticia Maria</a></td>
     </tr>
     <tr>
@@ -119,7 +142,7 @@
       <td>-</td>
       <td></td>
       <td>-</td>
-      <td><img src="../../assets/Rich_verificacao/item7.png" alt="print Item 7" width="120"></td>
+      <td><img src="/assets/Rich_verificacao/item7.png" alt="print Item 7" width="120"></td>
       <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
     </tr>
   </tbody>

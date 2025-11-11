@@ -15,7 +15,7 @@
 
 ## Cronograma e participantes
 
-<h3 style="text-align: center;">Participantes</h3>
+<h3 style="text-align: center;">Tabela 1: Participantes</h3>
 
 <div align="center">
 
@@ -33,10 +33,10 @@
       <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
       <td>Verificadora</td>
       <td>10/11/2025</td>
-      <td>14:00</td>
+      <td>10:30</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Arthur" target="_blank">Arthur</a></td>
+      <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur</a></td>
       <td>Autor</td>
       <td>10/11/2025</td>
       <td>14:00</td>
@@ -51,7 +51,7 @@
 <p style="text-align: justify;">A seguir, apresenta-se a tabela com os itens utilizados na verificação do artefato <b>Rich Picture</b> do aplicativo <b>ID Jovem</b>. Essa verificação tem como objetivo assegurar que o diagrama represente de forma clara e completa os elementos do sistema, incluindo atores, fluxos de informação, operações e limites. Além disso, a análise busca confirmar a coerência visual e conceitual do artefato, garantindo que ele atenda aos critérios definidos no planejamento e contribua para o entendimento do escopo e funcionamento do sistema.</p>
 
 
-<h3 style="text-align: center;">Tabela: Itens do artefato "Rich Picture" – ID Jovem</h3>
+<h3 style="text-align: center;">Tabela 2: Itens do artefato Rich Picture – ID Jovem</h3>
 
 <div align="center">
 <table border="1" style="border-collapse: collapse; width: 95%; text-align: center;">
@@ -71,7 +71,7 @@
       <td>-</td>
       <td></td>
       <td>-</td>
-      <td><img src="../../assets/Rich_verificacao/item1.png" alt="print richpicture" width="120"></td>
+      <td><img src="../../assets/Rich_verificacao/item1.png" alt="print Item 1" width="120"></td>
       <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
     </tr>
     <tr>
@@ -79,7 +79,7 @@
       <td>-</td>
       <td></td>
       <td>-</td>
-      <td><img src="../../assets/Rich_verificacao/item2.png" alt="print richpicture" width="120"></td>
+      <td><img src="../../assets/Rich_verificacao/item2.png" alt="print Item 2" width="120"></td>
       <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
     </tr>
     <tr>
@@ -87,7 +87,7 @@
       <td>-</td>
       <td></td>
       <td>-</td>
-      <td><img src="../../assets/Rich_verificacao/item3.png" alt="print richpicture" width="120"></td>
+      <td><img src="../../assets/Rich_verificacao/item3.png" alt="print Item 3" width="120"></td>
       <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
     </tr>
     <tr>
@@ -95,7 +95,7 @@
       <td>-</td>
       <td></td>
       <td>-</td>
-      <td><img src="../../assets/Rich_verificacao/item4.png" alt="print richpicture" width="120"></td>
+      <td><img src="../../assets/Rich_verificacao/item4.png" alt="print Item 4" width="120"></td>
       <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
     </tr>
     <tr>
@@ -103,7 +103,7 @@
       <td>-</td>
       <td></td>
       <td>-</td>
-      <td><img src="../../assets/Rich_verificacao/item5.png" alt="print richpicture" width="120"></td>
+      <td><img src="../../assets/Rich_verificacao/item5.png" alt="print Item 5" width="120"></td>
       <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
     </tr>
     <tr>
@@ -111,7 +111,7 @@
       <td>-</td>
       <td></td>
       <td>-</td>
-      <td><img src="../../assets/Rich_verificacao/item6.png" alt="print richpicture" width="120"></td>
+      <td><img src="../../assets/Rich_verificacao/item6.png" alt="print Item 6" width="120"></td>
       <td><a href="https://github.com/leticialopes20" target="_blank">Leticia Maria</a></td>
     </tr>
     <tr>
@@ -119,7 +119,7 @@
       <td>-</td>
       <td></td>
       <td>-</td>
-      <td><img src="../../assets/Rich_verificacao/item7.png" alt="print richpicture" width="120"></td>
+      <td><img src="../../assets/Rich_verificacao/item7.png" alt="print Item 7" width="120"></td>
       <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
     </tr>
   </tbody>

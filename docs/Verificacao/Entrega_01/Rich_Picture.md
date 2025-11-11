@@ -13,17 +13,16 @@
 
 <p style="text-align: justify;">A verificação foi conduzida com base nas checklists definidas na etapa de planejamento. Cada item da lista foi avaliado individualmente, sendo marcado como <b>Sim</b>, <b>Não</b> ou <b>Incompleto</b>, conforme seu atendimento aos critérios estabelecidos. Quando necessário, os avaliadores adicionaram observações complementares para justificar as marcações e sugerir ajustes que contribuam para a melhoria do artefato.</p>
 
-## Cronograma e participantes
-
 <h3 style="text-align: center;">Tabela 1: Participantes</h3>
 
 <div align="center">
 
-<table border="1" style="border-collapse: collapse; width: 70%; text-align: center;">
+<table border="1" style="border-collapse: collapse; width: 80%; text-align: center;">
   <thead>
     <tr>
       <th>Nome</th>
       <th>Função</th>
+      <th>Item</th>
       <th>Data</th>
       <th>Hora</th>
     </tr>
@@ -31,42 +30,50 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
-      <td>Autora itens 1 e 7</td>
+      <td>Autora</td>
+      <td>1, 7</td>
       <td>10/11/2025</td>
       <td>10:33</td>
     </tr>
     <tr>
       <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
-      <td>Autor item 5</td>
+      <td>Autor</td>
+      <td>5</td>
       <td>10/11/2025</td>
       <td>11:00</td>
     </tr>
     <tr>
       <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
-      <td>Autor item 2</td>
+      <td>Autor</td>
+      <td>2</td>
       <td>10/11/2025</td>
       <td>14:00</td>
     </tr>
     <tr>
       <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
-      <td>Autor item 4</td>
+      <td>Autor</td>
+      <td>4</td>
       <td>10/11/2025</td>
       <td>15:25</td>
     </tr>
     <tr>
       <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
-      <td>Autora item 3</td>
+      <td>Autora</td>
+      <td>3</td>
       <td>10/11/2025</td>
       <td>17:05</td>
     </tr>
     <tr>
       <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a></td>
-      <td>Autora item 6</td>
+      <td>Autora</td>
+      <td>6</td>
       <td>10/11/2025</td>
       <td>22:00</td>
     </tr>
   </tbody>
 </table>
+</div>
+
 
 
 ## Lista de Verificação 1.2 Rich Picture 

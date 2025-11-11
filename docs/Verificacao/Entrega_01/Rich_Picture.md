@@ -71,7 +71,7 @@
       <td>-</td>
       <td></td>
       <td>-</td>
-      <td><img src="images/rich1.png" alt="print richpicture" width="120"></td>
+      <td><img src="../../assets/Rich_verificacao/item1.png" alt="print richpicture" width="120"></td>
       <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
     </tr>
     <tr>
@@ -79,7 +79,7 @@
       <td>-</td>
       <td></td>
       <td>-</td>
-      <td><img src="images/rich2.png" alt="print richpicture" width="120"></td>
+      <td><img src="../../assets/Rich_verificacao/item2.png" alt="print richpicture" width="120"></td>
       <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
     </tr>
     <tr>
@@ -87,7 +87,7 @@
       <td>-</td>
       <td></td>
       <td>-</td>
-      <td><img src="images/rich3.png" alt="print richpicture" width="120"></td>
+      <td><img src="../../assets/Rich_verificacao/item3.png" alt="print richpicture" width="120"></td>
       <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
     </tr>
     <tr>
@@ -95,7 +95,7 @@
       <td>-</td>
       <td></td>
       <td>-</td>
-      <td><img src="images/rich4.png" alt="print richpicture" width="120"></td>
+      <td><img src="../../assets/Rich_verificacao/item4.png" alt="print richpicture" width="120"></td>
       <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
     </tr>
     <tr>
@@ -103,7 +103,7 @@
       <td>-</td>
       <td></td>
       <td>-</td>
-      <td><img src="images/rich5.png" alt="print richpicture" width="120"></td>
+      <td><img src="../../assets/Rich_verificacao/item5.png" alt="print richpicture" width="120"></td>
       <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
     </tr>
     <tr>
@@ -111,7 +111,7 @@
       <td>-</td>
       <td></td>
       <td>-</td>
-      <td><img src="images/rich6.png" alt="print richpicture" width="120"></td>
+      <td><img src="../../assets/Rich_verificacao/item6.png" alt="print richpicture" width="120"></td>
       <td><a href="https://github.com/leticialopes20" target="_blank">Leticia Maria</a></td>
     </tr>
     <tr>
@@ -119,7 +119,7 @@
       <td>-</td>
       <td></td>
       <td>-</td>
-      <td><img src="images/rich7.png" alt="print richpicture" width="120"></td>
+      <td><img src="../../assets/Rich_verificacao/item7.png" alt="print richpicture" width="120"></td>
       <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
     </tr>
   </tbody>

@@ -98,7 +98,7 @@
   <tbody>
     <tr>
       <td><b>01:</b> O Rich Picture representa todos os atores envolvidos no sistema?</td>
-      <td>-</td>
+      <td>[Item1](https://imgur.com/a/qmK9Uxm)</td>
       <td></td>
       <td>-</td>
       <td><img src="/assets/Rich_verificacao/item1.png" alt="print Item 1" width="120"></td>

@@ -2,6 +2,9 @@
 
 <p style="text-align: justify;">Após o planejamento da verificação, foi iniciada a inspeção do artefato <b>Rich Picture</b> referente ao aplicativo <b>ID Jovem</b>. O propósito da verificação é garantir que o Rich Picture esteja devidamente estruturado, coerente com os requisitos levantados e alinhado aos objetivos do aplicativo ID Jovem, voltado para facilitar o acesso de jovens de baixa renda a benefícios culturais e de transporte. Como referência, utilizou-se (SERRANO Milene; SERRANO Mauricio) Requisitos – Aula 07. Universidade de Brasília. Durante o processo, foram coletadas informações, identificadas inconsistências e elaboradas sugestões de melhoria, com o intuito de aprimorar o artefato e assegurar sua adequação ao desenvolvimento do sistema.</p>
 
+<small><em>Revisado por [Chat GPT](https://chatgpt.com/share/691354f7-5404-8000-92b0-0138793cdd24), em 11 de Novembro 2025</em></small>
+
+
 ## Objetivo 
 
 <p style="text-align: justify;">O presente documento tem como finalidade relatar os resultados obtidos na verificação do artefato Rich Picture do aplicativo <b>ID Jovem</b>, em sua versão 1.0, datada de 08/09/2025 , integrante da Entrega 1 do grupo 4.</p>
@@ -139,21 +142,30 @@ Durante a análise de verificação do diagrama de sequência, foram adicionados
 
 ## Conclusão 
 
-<h3>Conclusão</h3>
-
 <p style="text-align: justify;">
 Após a análise da primeira versão da tabela de verificação, observou-se que não ocorreram alterações significativas nos itens já existentes. No entanto, foi identificado que alguns aspectos importantes ainda não estavam sendo inspecionados, o que poderia comprometer a completude da avaliação do artefato. Por esse motivo, foram incluídos dois novos itens na lista de verificação, voltados à representação dos armazenamentos de dados e à presença de uma legenda explicativa dos símbolos utilizados. Essas adições tornaram o processo de verificação mais completo e preciso, assegurando que o Rich Picture do aplicativo ID Jovem esteja devidamente estruturado e alinhado às boas práticas de modelagem visual.
 </p>
 
 ## Referencias Bibliograficas
 
+> <a id="RP1" href="#TEC1">1.</a> SERRANO, Milene. Requisitos - Aula 10. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: [Requisitos - Aula 10](https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf). Página 19. Acesso em: 11 de Outubro de 2025.
+
 > <a id="RP3" href="#TEC3">1.</a> VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira; SIMÕES. *Engenharia de Requisitos: Software Orientado ao Negócio.* São Paulo , 2016. Acesso em: 19 de outubro de 2025.
 
 ## Bibliografia 
-
+> SERRANO, Milene. Requisitos - Aula 10. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: [Requisitos](https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf). Acesso em: 11 de Outubro de 2025.
+>
 
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :--: | :--: | :-- | :-- | :-- |
 | `1.0` | 11/11/2025 | Criação de Verificação Rich Picture | [Giovana Fontes](https://github.com/GiovanaFontesS) | [ Dylan Cavalcante ](https://github.com/dylancavalcante) |
+
+## Agrecimentos
+
+Queremos agradecer ao [Chat GPT](https://chatgpt.com/share/691354f7-5404-8000-92b0-0138793cdd24), ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto ID Jovem. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.
+

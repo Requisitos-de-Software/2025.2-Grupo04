@@ -11,15 +11,16 @@
  
 ## Metodologia
 <p style="text-align: justify;">A verificação foi realizada utilizando uma lista de critérios de avaliação, elaborada com base no conteúdo dos arquivos PDF fornecidos. Com essa lista, foi feita uma verificação para confirmar se cada critério de avaliação havia sido atendido ou não, contando ainda com uma coluna para observações, permitindo o registro de detalhes adicionais ou outras considerações.
+</p>
+ 
 
 ## Links
 
 - *GitHub* do grupo inspecionado: [LINK](https://github.com/Requisitos-de-Software/2025.2-Grupo05)
 - *GitHub Pages* do grupo inspecionado: [LINK](https://github.com/Requisitos-de-Software/2025.2-Grupo05)
 
-## Gravação
 
----
+## Gravação
 
 <p align="center">
 <iframe width="560" height="315" 
@@ -30,8 +31,6 @@
         allowfullscreen>
 </iframe>
 </p>
-
----
 
 
 ## Lista de Inspeção do Grupo 05

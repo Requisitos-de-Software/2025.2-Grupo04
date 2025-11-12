@@ -42,7 +42,7 @@ Foi realizada a prototipação de todos os requisitos que ainda não haviam sido
     <td> <a href="https://github.com/eduardar0">Eduarda Domingos</a> </td>
     <td> 
       <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf08">RF08</a> - O sistema deve emitir notificações sobre vencimento e renovação do benefício. <br>
-      <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf12">RF12</a> - O aplicativo deve permitir que o Jovem Beneficiário visualize o histórico de utilização dos benefícios. <br>
+      <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf24">RF24</a> - O aplicativo deve permitir que o Jovem Beneficiário visualize o histórico de utilização dos benefícios. <br>
     </td>
   </tr>
 

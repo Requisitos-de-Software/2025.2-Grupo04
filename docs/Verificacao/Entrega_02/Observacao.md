@@ -188,7 +188,7 @@ Após a análise da primeira versão da tabela de verificação da técnica de o
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :--: | :--: | :-- | :-- | :-- |
-| 1.0 | 11/11/2025 | Criação de Verificação Rich Picture | [Arthur Fernandes](https://github.com/arthurfernandesj) | [ Dylan Cavalcante ](https://github.com/dylancavalcante) |
+| 1.0 | 11/11/2025 | Criação de Verificação Observação | [Arthur Fernandes](https://github.com/arthurfernandesj) | [ Dylan Cavalcante ](https://github.com/dylancavalcante) |
 | 1.1 | 11/11/2025 | Adição dos referencias e prints | [Arthur Fernandes](https://github.com/arthurfernandesj) | [ Dylan Cavalcante ](https://github.com/dylancavalcante) |
 
 ## Agrecimentos

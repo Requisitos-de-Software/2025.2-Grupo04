@@ -12,65 +12,56 @@ Foi realizada a prototipação de todos os requisitos que ainda não haviam sido
 <font size="3"><p style="text-align: center">Tabela 1: Requisitos atribuídos a cada integrante</p></font>
 
 <div align="center">
-
 <table>
-  <thead>
-    <tr>
-      <th>Nome</th>
-      <th>Requisito</th>
-    </tr>
-  </thead>
-  <tbody>
-     <tr>
-      <td> <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a> </td>
-      <td> 
-        <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf01">RF01</a> - O sistema deve permitir o cadastro do Jovem Beneficiário por meio do CPF. <br>
-        <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf06">RF06</a> - O sistema deve exibir uma seção de perguntas frequentes (FAQ) e suporte ao Jovem Beneficiário. <br>
-        <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf11">RF11</a> - O sistema deve fornecer canal de suporte via chat, e-mail ou formulário de contato. <br>
-        <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf18">RF18</a> - O sistema deve fornecer informações sobre pendências ou erros relacionados aos benefícios do usuário.
-      </td>
-    </tr>
-    <tr>
-      <td> <a href="https://github.com/BrenoLTeixeira">Breno Teixeira</a> </td>
-      <td> 
-        <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf02">RF02</a> - O sistema deve fornecer mecanismos de autenticação e login via Gov.br. <br>
-        <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf05">RF05</a> - O sistema deve validar a carteira digital em estabelecimentos conveniados. <br>
-        <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf13">RF13</a> - O sistema deve apresentar uma seção de "Vantagens e Parcerias" com novidades, divulgação sobre o programa e ofertas exclusivas. <br>
-        <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf20">RF20</a> - O sistema deve fornecer alertas sobre possíveis irregularidades no uso dos benefícios.
-      </td>
-    </tr>
-    <tr>
-      <td> <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a> </td>
-      <td> 
-        <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf07">RF07</a> - O sistema deve permitir integração com o CadÚnico para atualização automática de dados. <br>
-        <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf14">RF14</a> - O aplicativo deve permitir reserva e emissão de comprovantes de uso do benefício. <br>
-        <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf15">RF15</a> - O sistema deve validar automaticamente a elegibilidade do Jovem Beneficiário ao benefício.
-      </td>
-    </tr>
-    <tr>
-      <td> <a href="https://github.com/eduardar0">Eduarda Domingos</a> </td>
-      <td> 
-        <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf08">RF08</a> - O sistema deve emitir notificações sobre vencimento e renovação do benefício. <br>
-        <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf12">RF12</a> - O aplicativo deve permitir que o Jovem Beneficiário visualize o histórico de utilização dos benefícios.
-      </td>
-    </tr>
-    <tr>
-      <td> <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a> </td>
-      <td> 
-        <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf03">RF03</a> - O sistema deve permitir a geração e emissão da carteira digital ID Jovem. <br>
-        <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf04">RF04</a> - O sistema deve permitir a consulta de benefícios como transporte gratuito e meia-entrada em eventos. <br>
-        <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf16">RF16</a> - O sistema deve permitir integração com o Gov.br e outros serviços governamentais.
-      </td>
-    </tr>
-    <tr>
-      <td> <a href="https://github.com/leticialopes20">Leticia Lopes</a> </td>
-      <td> 
-        <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf09">RF09</a> - O sistema deve permitir o download da carteirinha para uso offline. <br>
-        <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf10">RF10</a> - O aplicativo deve disponibilizar informações sobre locais e parceiros que aceitam o benefício. <br>
-        <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf17">RF17</a> - O aplicativo deve permitir compartilhar a carteirinha em PDF ou imagem.
-      </td>
-    </tr>
+<table>
+  <tr>
+    <td> <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a> </td>
+    <td> 
+      <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf11">RF11</a> - O sistema deve fornecer canal de suporte via chat, e-mail ou formulário de contato. <br>
+      <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf18">RF18</a> - O sistema deve fornecer informações sobre pendências ou erros relacionados aos benefícios do usuário. <br>
+    </td>
+  </tr>
 
+  <tr>
+    <td> <a href="https://github.com/BrenoLTeixeira">Breno Teixeira</a> </td>
+    <td> 
+      <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf13">RF13</a> - O sistema deve apresentar uma seção de "Vantagens e Parcerias" com novidades e ofertas exclusivas. <br>
+      <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf20">RF20</a> - O sistema deve fornecer alertas sobre possíveis irregularidades no uso dos benefícios. <br>
+    </td>
+  </tr>
+
+  <tr>
+    <td> <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a> </td>
+    <td> 
+      <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf07">RF07</a> - O sistema deve permitir integração com o CadÚnico para atualização automática de dados. <br>
+      <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf18">RF18</a> - O sistema deve fornecer informações sobre pendências ou erros relacionados aos benefícios do usuário. <br>
+    </td>
+  </tr>
+
+  <tr>
+    <td> <a href="https://github.com/eduardar0">Eduarda Domingos</a> </td>
+    <td> 
+      <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf08">RF08</a> - O sistema deve emitir notificações sobre vencimento e renovação do benefício. <br>
+      <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf12">RF12</a> - O aplicativo deve permitir que o Jovem Beneficiário visualize o histórico de utilização dos benefícios. <br>
+    </td>
+  </tr>
+
+  <tr>
+    <td> <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a> </td>
+    <td> 
+      <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf16">RF16</a> - O sistema deve permitir integração com o Gov.br e outros serviços governamentais. <br>
+      <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf15">RF15</a> - O sistema deve permitir que o usuário acesse informações sobre o benefício mesmo offline. <br>
+    </td>
+  </tr>
+
+  <tr>
+    <td> <a href="https://github.com/leticialopes20">Leticia Lopes</a> </td>
+    <td> 
+      <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf10">RF10</a> - O aplicativo deve disponibilizar informações sobre locais e parceiros que aceitam o benefício. <br>
+      <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf19">RF19</a> - O sistema deve permitir que o usuário envie feedbacks ou sugestões sobre o serviço.
+    </td>
+  </tr>
+</table>
   </tbody>
 </table>
 

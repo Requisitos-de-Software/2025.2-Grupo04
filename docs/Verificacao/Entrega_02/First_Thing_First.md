@@ -181,7 +181,7 @@ A utilização da técnica <b>First Things First</b> mostrou-se eficaz para o pr
 ## Agradecimentos
 
 <p style="text-align: justify;">
-Queremos agradecer ao [Chat GPT](https://chatgpt.com/share/691354f7-5404-8000-92b0-0138793cdd24), ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto First Things First. Sua ajuda foi essencial na revisão de textos, organização das ideias e pesquisa de conteúdos complementares, contribuindo para deixar nossa documentação mais clara e completa.
+Queremos agradecer ao Chat GPT, ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto First Things First. Sua ajuda foi essencial na revisão de textos, organização das ideias e pesquisa de conteúdos complementares, contribuindo para deixar nossa documentação mais clara e completa.
 </p>
 
 <p style="text-align: justify;">

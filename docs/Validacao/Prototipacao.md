@@ -95,7 +95,7 @@ A validação ocorreu em **12/11/2025**, com o objetivo de verificar se as novas
 
 <div align="center">
   <p style="text-align: center">
-    <a href="https://youtu.be/_Yes4xzbsZQ" target="_blank"><b>Vídeo 1:</b> Cenários – Parte 1</a>
+    <a href="https://youtu.be/_Yes4xzbsZQ" target="_blank"><b>Vídeo 1:</b> Prototipo – Parte 1</a>
   </p>
 
   <iframe width="560" height="315"
@@ -109,7 +109,7 @@ A validação ocorreu em **12/11/2025**, com o objetivo de verificar se as novas
   <br>
 
   <p style="text-align: center">
-    <a href="https://youtu.be/Bekd0qrF73k" target="_blank"><b>Vídeo 2:</b> Cenários – Parte 2</a>
+    <a href="https://youtu.be/Bekd0qrF73k" target="_blank"><b>Vídeo 2:</b> Prototipo – Parte 2</a>
   </p>
 
   <iframe width="560" height="315"
@@ -123,7 +123,7 @@ A validação ocorreu em **12/11/2025**, com o objetivo de verificar se as novas
   <br>
 
   <p style="text-align: center">
-    <a href="https://youtu.be/CK9WiR31iWM" target="_blank"><b>Vídeo 3:</b> Cenários – Parte 3</a>
+    <a href="https://youtu.be/CK9WiR31iWM" target="_blank"><b>Vídeo 3:</b> Prototipo – Parte 3</a>
   </p>
 
   <iframe width="560" height="315"

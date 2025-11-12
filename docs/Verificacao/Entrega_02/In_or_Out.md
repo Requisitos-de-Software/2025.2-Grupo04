@@ -2,17 +2,17 @@
 
 ## Introdução
 
-Com o objetivo de garantir a qualidade e a consistência do artefato **In or Out**, foi realizada uma verificação seguindo as diretrizes estabelecidas no planejamento da entrega. O processo avaliou a completude, clareza, rastreabilidade e conformidade do documento com as boas práticas de documentação de requisitos.
+Para assegurar a qualidade do artefato **In or Out** no contexto do projeto **ID Jovem**, foi conduzida esta verificação. O processo seguiu o planejamento da entrega e focou em avaliar a clareza, completude e conformidade do documento, garantindo que a priorização dos requisitos esteja bem documentada.
 
-O conteúdo foi analisado com base nas orientações apresentadas na obra *Software Requirements*, de Karl Wiegers e Joy Beatty.<a id="anchor_1" href="#REF1"><sup>1</sup></a>
+A análise foi fundamentada nas práticas de priorização descritas na obra *Software Requirements*, de Karl Wiegers e Joy Beatty.<a id="anchor_1" href="#REF1"><sup>1</sup></a>
 
 ## Objetivo
 
-Este documento tem como objetivo relatar os resultados da verificação realizada sobre o artefato [In or Out](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Prioriza%C3%A7%C3%A3o/Tecnicas/InorOut/) na versão 1.0, datada de 30/09/2025, referente à Etapa 2 do [Grupo 04 - ID Jovem](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Apresenta%C3%A7%C3%A3o/).
+Este documento tem como objetivo relatar os resultados da verificação realizada sobre o artefato [In or Out](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Prioriza%C3%A7%C3%A3o/Tecnicas/InorOut/) na versão 1.0, datada de 11/10/2025, referente à Etapa 2 do [Grupo 04 - ID Jovem](https://requisitos-de-software.github.io/2025.2-Grupo04/).
 
 ## Metodologia
 
-A verificação foi realizada com base na checklist definida no [Planejamento de Verificação da Entrega 2](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Apresenta%C3%A7%C3%A3o/). Para cada item da lista, o avaliador marcou **conforme**, **Não-conforme** ou **Incompleto**, além de incluir observações quando necessário.
+A verificação foi realizada com base na checklist definida no [Planejamento de Verificação da Entrega 2](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Inspe%C3%A7%C3%A3o02/). Para cada item da lista, o avaliador marcou **Conforme**, **Não-conforme** ou **Incompleto**, além de incluir observações quando necessário.
 
 ## Cronograma e Participantes
 
@@ -57,38 +57,38 @@ Nesta etapa, o integrante [Breno](https://github.com/BrenoLteixeira) será respo
 
 | Item | Avaliação | Observação | Print | Autor |
 | :--- | :---: | :---: | :---: | :---: |
-| **01:** O artefato apresenta uma bibliografia/referência bibliográfica? | Não | - | --- | [Breno](https://github.com/BrenoLteixeira) |
-| **02:** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? | Não | - | --- | [Breno](https://github.com/BrenoLteixeira) |
-| **03:** As tabelas e imagens apresentam legenda e fonte? | Não | - | --- | [Breno](https://github.com/BrenoLteixeira) |
-| **04:** O artefato apresenta uma introdução? | Não | - | --- | [Breno](https://github.com/BrenoLteixeira) |
-| **05:** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? | Não | - | --- | [Breno](https://github.com/BrenoLteixeira) |
-| **06:** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? | Não | - | --- | [Breno](https://github.com/BrenoLteixeira) |
+| **01:** O artefato apresenta uma bibliografia/referência bibliográfica? | Sim | - | --- | [Breno](https://github.com/BrenoLteixeira) |
+| **02:** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? | Sim | - | --- | [Breno](https://github.com/BrenoLteixeira) |
+| **03:** As tabelas e imagens apresentam legenda e fonte? | Sim | - | --- | [Breno](https://github.com/BrenoLteixeira) |
+| **04:** O artefato apresenta uma introdução? | Sim | - | --- | [Breno](https://github.com/BrenoLteixeira) |
+| **05:** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? | Sim | - | --- | [Breno](https://github.com/BrenoLteixeira) |
+| **06:** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? | Sim | - | --- | [Breno](https://github.com/BrenoLteixeira) |
 
 ### In or Out
 
 | Item | Avaliação | Observação | Print | Autor |
 | :--- | :---: | :---: | :---: | :---: |
-| **01:** Existe um cronograma com data para realização da priorização dos requisitos? | Não | - | --- | [Breno](https://github.com/BrenoLteixeira) |
-| **02:** O local para a priorização foi definido? | Não | - | --- | [Breno](https://github.com/BrenoLteixeira) |
-| **03:** A prioridade de cada requisito foi decidida de forma binária (In/Out)? | Não | - | --- | [Breno](https://github.com/BrenoLteixeira) |
-| **04:** Houve participação de stakeholders? | Não | - | --- | [Breno](https://github.com/BrenoLteixeira) |
-| **05:** Todos os requisitos a serem priorizados foram reunidos em uma lista? | Não | - | --- | [Breno](https://github.com/BrenoLteixeira) |
+| **01:** Existe um cronograma com data para realização da priorização dos requisitos? | Sim | - | --- | [Breno](https://github.com/BrenoLteixeira) |
+| **02:** O local para a priorização foi definido? | Sim | - | --- | [Breno](https://github.com/BrenoLteixeira) |
+| **03:** A prioridade de cada requisito foi decidida de forma binária (In/Out)? | Sim | - | --- | [Breno](https://github.com/BrenoLteixeira) |
+| **04:** Houve participação de stakeholders? | Sim | - | --- | [Breno](https://github.com/BrenoLteixeira) |
+| **05:** Todos os requisitos a serem priorizados foram reunidos em uma lista? | Sim | - | --- | [Breno](https://github.com/BrenoLteixeira) |
 
 ## Análise de Resultados
 
-Durante a inspeção, constatou-se que não possue o artefato, houve um erro em alguma parte do processo onde duplicaram a tecnica MOSCOW e acabou apagando a In or Out, deixando assim não ser possivel avaliar o artefato.
+Durante a inspeção, constatou-se que o artefato está **em conformidade com os critérios gerais de qualidade documental**. A estrutura está bem organizada, o histórico de versões é completo e as fontes estão devidamente citadas.
 
-### Não Conformidade Identificada
+### Nenhuma Não Conformidade Identificada
 
-Com base nos itens avaliados, **há itens pendentes.**.
+Com base nos itens avaliados, **não foram encontradas não conformidades**.
 
 ## Correção
 
-Será necessario achar o que foi perdido da tecnica In or Out ou refazê-la.
+Até o presente momento, **não são necessárias correções**.
 
 ## Acompanhamento
 
-O artefato *In or Out* está considerado **reprovado**, tendo que haver todos os itens conformidade.
+O artefato *In or Out* está considerado **aprovado**, com todos os itens da checklist devidamente atendidos.
 
 ## Referências Bibliográficas
 
@@ -99,4 +99,3 @@ O artefato *In or Out* está considerado **reprovado**, tendo que haver todos os
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | :--- | :--- | :--- |
 | `1.0` | 11/10/2025 | Criação da página de verificação | [Breno](https://github.com/BrenoLteixeira) | [Dylan Cavalcante](https://github.com/dylancavalcante) |
-```eof

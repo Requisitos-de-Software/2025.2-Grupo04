@@ -89,12 +89,58 @@ Caso queira conferir o protótipo, <a href="" target="blanket">clique aqui</a>.
 
 ## Validação dos Protótipos
 
-A validação dos protótipos foi realizado(a) com a(o) jovem beneficiário(a) do programa **NOME**.
-A validação ocorreu em **xx/xx/2025**, com o objetivo de verificar se as novas interfaces apresentavam clareza, facilidade de navegação e aderência aos requisitos identificados durante a análise do aplicativo ID Jovem.
+A validação dos protótipos foi realizado com os jovens beneficiários do programa Yasmin Moreira, Rivadalvo e Fernando.
+A validação ocorreu em **12/11/2025**, com o objetivo de verificar se as novas interfaces apresentavam clareza, facilidade de navegação e aderência aos requisitos identificados durante a análise do aplicativo ID Jovem.
 
-<iframe width="560" height="xx5" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
----
+<div align="center">
+  <p style="text-align: center">
+    <a href="https://youtu.be/_Yes4xzbsZQ" target="_blank"><b>Vídeo 1:</b> Cenários – Parte 1</a>
+  </p>
+
+  <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/_Yes4xzbsZQ"
+          title="Cenários – Parte 1"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+  </iframe>
+
+  <br>
+
+  <p style="text-align: center">
+    <a href="https://youtu.be/Bekd0qrF73k" target="_blank"><b>Vídeo 2:</b> Cenários – Parte 2</a>
+  </p>
+
+  <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/Bekd0qrF73k"
+          title="Cenários – Parte 2"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+  </iframe>
+
+  <br>
+
+  <p style="text-align: center">
+    <a href="https://youtu.be/CK9WiR31iWM" target="_blank"><b>Vídeo 3:</b> Cenários – Parte 3</a>
+  </p>
+
+  <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/CK9WiR31iWM"
+          title="Cenários – Parte 3"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+  </iframe>
+
+  <font size="3">
+    <p style="text-align: center">
+      <b>Fontes:</b> <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, 2025
+    </p>
+  </font>
+</div>
+
 
 ## Bibliografia
 
@@ -106,4 +152,5 @@ A validação ocorreu em **xx/xx/2025**, com o objetivo de verificar se as novas
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :--: | :--: | :-- | :-- | :-- |
-| `1.0` | 31/10/2025 | Criação da página da Prototipação. | [Arthur Fernandes](https://github.com/arthurfernandesj) | [ ](https://github.com/) |
+| `1.0` | 31/10/2025 | Criação da página da Prototipação. | [Arthur Fernandes](https://github.com/arthurfernandesj) | [ Giovana Fontes ](https://github.com/Giovana FontesS) |
+| 1.1 | 12/11/2025 | Adição de videos |  [Giovana Fontes](https://github.com/GiovanaFontesS) | [ Arthur Fernandes ](https://github.com/https://github.com/arthurfernandesj)

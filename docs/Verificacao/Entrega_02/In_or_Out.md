@@ -80,7 +80,7 @@ Durante a inspeção, constatou-se que não possue o artefato, houve um erro em 
 
 ### Não Conformidade Identificada
 
-Com base nos itens avaliados, **há itens pendentes**.
+Com base nos itens avaliados, **há itens pendentes.**.
 
 ## Correção
 

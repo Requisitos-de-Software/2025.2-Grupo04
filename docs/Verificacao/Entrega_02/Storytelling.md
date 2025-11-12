@@ -7,7 +7,7 @@
 
 ## Objetivo 
 
-<p style="text-align: justify;">O presente documento tem como finalidade relatar os resultados obtidos na verificação do artefato <b>Storytelling</b> do aplicativo <b>ID Jovem</b>, em sua versão 1.1, datada de 10/10/2025 , integrante da Entrega 1 do grupo 4.</p>
+<p style="text-align: justify;">O presente documento tem como finalidade relatar os resultados obtidos na verificação do artefato <b>Storytelling</b> do aplicativo <b>ID Jovem</b>, em sua versão 1.1, datada de 10/10/2025 , integrante da Entrega 2 do grupo 4.</p>
 
 ## Metodologia 
 

@@ -90,55 +90,56 @@ Prints de tela foram utilizados como evidência para cada item avaliado.
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td><b>01:</b> O Storytelling está claramente vinculado às Personas (Quem se beneficia)?</td>
-      <td>VAZQUEZ; SIMÕES, 2016, p. 605</td>
-      <td>Sim</td>
-      <td>As três histórias mencionam explicitamente as personas Ana Clara, João Pedro e Camila Souza.</td>
-      <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
-    </tr>
-    <tr>
-      <td><b>02:</b> Cada história descreve o contexto e a necessidade (O que se quer)?</td>
-      <td>VAZQUEZ; SIMÕES, 2016, p. 605, 607</td>
-      <td>Sim</td>
-      <td>As histórias detalham as situações de uso, como a necessidade de Ana usar a carteirinha offline em viagens.</td>
-      <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
-    </tr>
-    <tr>
-      <td><b>03:</b> O benefício ou valor de negócio (Qual é o benefício?) está explícito em cada história?</td>
-      <td>VAZQUEZ; SIMÕES, 2016, p. 605-606</td>
-      <td>Sim</td>
-      <td>Exemplos claros: "para não depender de internet", "para visitar sua família", "para se sentir mais conectada à cidade".</td>
-      <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
-    </tr>
-    <tr>
-      <td><b>04:</b> Os requisitos (RF e RNF) foram elicitados a partir das narrativas?</td>
-      <td>VAZQUEZ; SIMÕES, 2016, p. 413</td>
-      <td>Sim</td>
-      <td>A tabela lista 14 requisitos (ST01 a ST14) derivados das histórias.</td>
-      <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
-    </tr>
-    <tr>
-      <td><b>05:</b> Existe rastreabilidade clara entre os elementos da história e os requisitos listados?</td>
-      <td>VAZQUEZ; SIMÕES, 2016, p. 160, 736</td>
-      <td>Incompleto</td>
-      <td>A tabela de requisitos não indica qual história (ou persona) originou cada requisito. Ex: Não está explícito que ST03 (Offline) veio da História 1 (Ana).</td>
-      <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
-    </tr>
-    <tr>
-      <td><b>06:</b> Os requisitos elicitados são verificáveis (testáveis)?</td>
-      <td>VAZQUEZ; SIMÕES, 2016, p. 158, 607</td>
-      <td>Sim</td>
-      <td>Requisitos como ST03 ("permitir baixar a carteirinha") e ST13 ("carregar em no máximo 3 segundos") são objetivamente verificáveis.</td>
-      <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
-    </tr>
-    <tr>
-      <td><b>07:</b> As histórias focam no "o quê" (necessidade) em vez do "como" (solução/implementação)?</td>
-      <td>VAZQUEZ; SIMÕES, 2016, p. 606</td>
-      <td>Sim</td>
-      <td>As histórias descrevem as necessidades (ex: "login rápido", "mapa interativo") sem ditar a tecnologia ou o design exato da interface.</td>
-      <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a></td>
-    </tr>
+<tr>
+  <td><b>01:</b> O Storytelling está claramente vinculado às Personas (Quem se beneficia)?</td>
+  <td>VAZQUEZ; SIMÕES, 2016, p. 605</td>
+  <td>Sim</td>
+  <td>As três histórias mencionam explicitamente as personas.</td>
+  <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
+</tr>
+<tr>
+  <td><b>02:</b> Cada história descreve o contexto e a necessidade (O que se quer)?</td>
+  <td>VAZQUEZ; SIMÕES, 2016, p. 605, 607</td>
+  <td>Sim</td>
+  <td>As histórias detalham as situações de uso, como a necessidade de Ana usar a carteirinha offline em viagens.</td>
+  <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
+</tr>
+<tr>
+  <td><b>03:</b> O benefício ou valor de negócio (Qual é o benefício?) está explícito em cada história?</td>
+  <td>VAZQUEZ; SIMÕES, 2016, p. 605-606</td>
+  <td>Sim</td>
+  <td>Exemplos claros: "para não depender de internet", "para visitar sua família", "para se sentir mais conectada à cidade".</td>
+  <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
+</tr>
+<tr>
+  <td><b>04:</b> Os requisitos (RF e RNF) foram elicitados a partir das narrativas?</td>
+  <td>VAZQUEZ; SIMÕES, 2016, p. 413</td>
+  <td>Sim</td>
+  <td>A tabela lista 14 requisitos (ST01 a ST14) derivados das histórias.</td>
+  <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
+</tr>
+<tr>
+  <td><b>05:</b> Existe rastreabilidade clara entre os elementos da história e os requisitos listados?</td>
+  <td>VAZQUEZ; SIMÕES, 2016, p. 160, 736</td>
+  <td>Incompleto</td>
+  <td>A tabela de requisitos não indica qual história (ou persona) originou cada requisito. Ex: Não está explícito que ST03 (Offline) veio da História 1 (Ana).</td>
+  <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
+</tr>
+<tr>
+  <td><b>06:</b> Os requisitos elicitados são verificáveis (testáveis)?</td>
+  <td>VAZQUEZ; SIMÕES, 2016, p. 158, 607</td>
+  <td>Sim</td>
+  <td>Requisitos como ST03 ("permitir baixar a carteirinha") e ST13 ("carregar em no máximo 3 segundos") são objetivamente verificáveis.</td>
+  <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
+</tr>
+<tr>
+  <td><b>07:</b> As histórias focam no "o quê" (necessidade) em vez do "como" (solução/implementação)?</td>
+  <td>VAZQUEZ; SIMÕES, 2016, p. 606</td>
+  <td>Sim</td>
+  <td>As histórias descrevem as necessidades (ex: "login rápido", "mapa interativo") sem ditar a tecnologia ou o design exato da interface.</td>
+  <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a></td>
+</tr>
+
   </tbody>
 </table>
 

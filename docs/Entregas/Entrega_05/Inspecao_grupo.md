@@ -63,7 +63,7 @@ Esta lista de verificação reúne os <b>itens gerais</b> utilizados para avalia
     <tr>
       <td><b>01:</b> O artefato apresenta uma bibliografia/referência bibliográfica?</td>
       <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
-      <td>sim</td>
+      <td></td>
       <td></td>
       <td>
         <a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a>,
@@ -76,7 +76,7 @@ Esta lista de verificação reúne os <b>itens gerais</b> utilizados para avalia
     </tr>
     <tr>
       <td><b>02:</b> O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? </td>
-      <td>sim<a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
+      <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
       <td></td>
       <td></td>
       <td>
@@ -91,7 +91,7 @@ Esta lista de verificação reúne os <b>itens gerais</b> utilizados para avalia
     <tr>
       <td><b>03:</b> As tabelas e imagens apresentam legenda e fonte?</td>
       <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
-      <td>sim</td>
+      <td></td>
       <td></td>
       <td>
         <a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a>,
@@ -105,7 +105,7 @@ Esta lista de verificação reúne os <b>itens gerais</b> utilizados para avalia
     <tr>
       <td><b>04:</b>O artefato apresenta uma introdução?</td>
       <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
-      <td>sim</td>
+      <td></td>
       <td></td>
       <td>
         <a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a>,
@@ -117,7 +117,7 @@ Esta lista de verificação reúne os <b>itens gerais</b> utilizados para avalia
     </tr>
     <tr>
       <td><b>05:</b> A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico?</td>
-      <td>sim<a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a></td>
+      <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a></td>
       <td></td>
       <td></td>
       <td>
@@ -132,7 +132,7 @@ Esta lista de verificação reúne os <b>itens gerais</b> utilizados para avalia
     <tr>
       <td><b>06:</b> O documento tem historico de versão?</td>
       <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
-      <td>sim</td>
+      <td></td>
       <td></td>
       <td>
         <a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a>,
@@ -145,7 +145,7 @@ Esta lista de verificação reúne os <b>itens gerais</b> utilizados para avalia
     <tr>
       <td><b>07:</b> O documento esta padronizado?</td>
       <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
-      <td>sim</td>
+      <td></td>
       <td></td>
       <td>
         <a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a>,

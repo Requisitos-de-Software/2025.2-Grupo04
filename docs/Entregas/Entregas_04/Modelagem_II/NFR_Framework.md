@@ -212,53 +212,18 @@ Essa validação assegurou que os requisitos não funcionais fossem não apenas 
 
 ### Cronograma de Participantes
 
-<p style="text-align: center; font-size: 12pt;"><strong>Tabela 2: Cronograma de Participantes</strong></p>
+### Tabela 2: Participação na Elaboração do Documento de NFR Framework
 
-<div align="center">
-<table>
-  <thead>
-    <tr>
-      <th>Nome</th>
-      <th>Data</th>
-      <th>Hora</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></td>
-      <td>19/10/2025</td>
-      <td>19:30</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/BrenoLTeixeira">Breno Teixeira</a></td>
-      <td>20/10/2025</td>
-      <td>23:23</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></td>
-      <td>20/10/2025</td>
-      <td>22:00</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/eduardar0">Eduarda Domingos</a></td>
-      <td>20/10/2025</td>
-      <td>22:47</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></td>
-      <td>20/10/2025</td>
-      <td>07:10</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/leticialopes20">Letícia Lopes</a></td>
-      <td>20/10/2025</td>
-      <td>19:30</td>
-    </tr>
-  </tbody>
-</table>
-</div>
+| Nome | Contribuições |
+|------|---------------|
+| **[Arthur Fernandes](https://github.com/arthurfernandesj)** | • Tabelas 4, 5, 6 (Cartões de Especificação RNF06, RNF07, RNF08)<br>• Figuras 4, 5, 6, 8, 9, 11 (SIGs Geral, Usabilidade, Segurança, Acessibilidade, Confiabilidade, Completo)<br>• Tabela 22 (Avaliação de Impactos - Usabilidade) |
+| **[Breno Lourenço](https://github.com/BrenoLTeixeira)** | • Tabelas 19, 20, 21 (Cartões de Especificação RNF22, RNF23, RNF24)<br>• Figura 7 (SIG Desempenho)<br>• Figura 10 (SIG Portabilidade)<br>• Tabela 27 (Avaliação de Impactos - Portabilidade) |
+| **[Dylan Cavalcante](https://github.com/dylancavalcante)** | • Tabelas 16, 17, 18 (Cartões de Especificação RNF19, RNF20, RNF21)<br>• Tabela 26 (Avaliação de Impactos - Confiabilidade) |
+| **[Eduarda Domingos](https://github.com/eduardar0)** | • Tabelas 13, 14, 15 (Cartões de Especificação RNF16, RNF17, RNF18)<br>• Tabela 25 (Avaliação de Impactos - Acessibilidade) |
+| **[Giovana Fontes](https://github.com/GiovanaFontesS)** | • Tabelas 7, 8, 9 (Cartões de Especificação RNF10, RNF11, RNF12)<br>• Tabela 23 (Avaliação de Impactos - Segurança) |
+| **[Letícia Lopes](https://github.com/leticialopes20)** | • Tabelas 10, 11, 12 (Cartões de Especificação RNF13, RNF14, RNF15)<br>• Tabela 24 (Avaliação de Impactos - Desempenho) |
 
-<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></p>
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/leticialopes20">Letícia Lopes</a></p>
 
 ### Requisitos Não-Funcionais
 

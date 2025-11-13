@@ -83,14 +83,6 @@ Tendo em vista os problemas abordados anteriormente, fica como sugestão a reali
 - Explicitar se as dependências entre requisitos foram consideradas;
 - Classificar os requisitos por níveis de prioridade (alta, média, baixa) após a execução da técnica.
 
-
-
-
-
-_Fonte: [Eduarda Domingos](https://github.com/eduardar0), 2025._
-
-</center>
-
 ## Retrabalho
 
 Como proposto por Fagan, para o retrabalho os autores do artefato verificado serão responsáveis em um primeiro momento por corrigir os problemas apresentados seguindo a lista de sugestão de correção apresentada anteriormente. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 3 a seguir apresenta o cronograma de correções.

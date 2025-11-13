@@ -17,28 +17,6 @@
 - *GitHub Pages* do grupo inspecionado: [[LINK]](https://requisitos-de-software.github.io/2025.2-Grupo04/)
 
 
-## Gravação 
-
----
-
-<p style="text-align: center">
-  <iframe width="560" height="315" 
-    src="" 
-    title="YouTube video player" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-    referrerpolicy="strict-origin-when-cross-origin" 
-    allowfullscreen>
-  </iframe>
-</p>
-
-<font size="3">
-  <p style="text-align: center">
-    <b>Fonte:</b> <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, 2025
-  </p>
-</font>
----
-
 
 ## Lista de Verificação 
 

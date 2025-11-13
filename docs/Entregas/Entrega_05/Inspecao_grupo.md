@@ -1,5 +1,5 @@
 ## Introdução
-<p style="text-align: justify;"> Aqui está definida a verificação do grupo 04, feita pelo grupo 4, cujo projeto aborda o aplicativo Jornada do estudante. Este documento inclui as verificações e Prototipo para entrega 5. Ao final, são apresentados em detalhes os resultados alcançados por meio dessa verificação. 
+<p style="text-align: justify;"> Aqui está definida a verificação do grupo 05, feita pelo grupo 4, cujo projeto aborda o aplicativo Jornada do estudante. Este documento inclui as verificações e Prototipo para entrega 5. Ao final, são apresentados em detalhes os resultados alcançados por meio dessa verificação. 
 </p>
 
 ## Objetivo
@@ -12,8 +12,8 @@
 
 ## Links
 
-- *GitHub* do grupo inspecionado: [[LINK]](https://github.com/Requisitos-de-Software/2025.2-Grupo04)
-- *GitHub Pages* do grupo inspecionado: [[LINK]](https://requisitos-de-software.github.io/2025.2-Grupo04/)
+- *GitHub* do grupo inspecionado: [[LINK]](https://github.com/Requisitos-de-Software/2025.2-Grupo05)
+- *GitHub Pages* do grupo inspecionado: [[LINK]](https://requisitos-de-software.github.io/2025.2-Grupo05/)
 
 
 ## Gravação 

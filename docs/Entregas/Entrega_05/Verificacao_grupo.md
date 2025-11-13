@@ -42,12 +42,6 @@
 
 ## Lista de Verificação 
 
-## Itens Gerais
-
-<p style="text-align: justify;">
-Esta lista de verificação reúne os <b>itens gerais</b> utilizados para avaliar a estrutura, coerência e completude do artefato analisado. Os critérios contemplam aspectos como presença de introdução, referências, adequação da linguagem e consistência entre o conteúdo textual e visual.
-</p>
-
 <h3 style="text-align: center;">Tabela 1: Itens Gerais</h3>
 
 <div align="center">
@@ -63,9 +57,9 @@ Esta lista de verificação reúne os <b>itens gerais</b> utilizados para avalia
   </thead>
   <tbody>
     <tr>
-      <td><b>01:</b> Foi utilizada alguma das seguintes técnicas na verificação dos artefatos: inspeções, estratégias formais ou reutilização de domínios?</td>
+      <td><b>01:</b> O artefato apresenta uma bibliografia/referência bibliográfica?</td>
       <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
-      <td></td>
+      <td>Sim</td>
       <td></td>
       <td>
         <a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a>,
@@ -77,9 +71,9 @@ Esta lista de verificação reúne os <b>itens gerais</b> utilizados para avalia
       </td>
     </tr>
     <tr>
-      <td><b>02:</b> Foi utilizada a técnica de inspeção com o modelo de Fagan?</td>
+      <td><b>02:</b> O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? </td>
       <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
-      <td></td>
+      <td>Sim</td>
       <td></td>
       <td>
         <a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a>,
@@ -91,9 +85,9 @@ Esta lista de verificação reúne os <b>itens gerais</b> utilizados para avalia
       </td>
     </tr>
     <tr>
-      <td><b>03:</b> No uso do método de Fagan, o passo de planejamento foi realizado?</td>
+      <td><b>03:</b> As tabelas e imagens apresentam legenda e fonte?</td>
       <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
-      <td></td>
+      <td>sim</td>
       <td></td>
       <td>
         <a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a>,
@@ -105,9 +99,9 @@ Esta lista de verificação reúne os <b>itens gerais</b> utilizados para avalia
       </td>
     </tr>
     <tr>
-      <td><b>04:</b> No uso do método de Fagan, o passo de visão geral foi realizado?</td>
-      <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
-      <td></td>
+      <td><b>04:</b>O artefato apresenta uma introdução?</td>
+      <td>Sim<a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
+      <td>sim</td>
       <td></td>
       <td>
         <a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a>,
@@ -118,9 +112,9 @@ Esta lista de verificação reúne os <b>itens gerais</b> utilizados para avalia
       </td>
     </tr>
     <tr>
-      <td><b>05:</b> No uso do método de Fagan, o passo de preparação foi realizado?</td>
+      <td><b>05:</b> A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico?</td>
       <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a></td>
-      <td></td>
+      <td>Sim</td>
       <td></td>
       <td>
         <a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a>,
@@ -132,9 +126,9 @@ Esta lista de verificação reúne os <b>itens gerais</b> utilizados para avalia
       </td>
     </tr>
     <tr>
-      <td><b>06:</b> O documento apresenta um tópico sobre as correções necessárias identificadas na verificação?</td>
+      <td><b>06:</b> O documento tem historico de versão?</td>
       <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
-      <td></td>
+      <td>sim</td>
       <td></td>
       <td>
         <a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a>,
@@ -145,9 +139,9 @@ Esta lista de verificação reúne os <b>itens gerais</b> utilizados para avalia
       </td>
     </tr>
     <tr>
-      <td><b>07:</b> O documento apresenta uma descrição sobre a conformidade ou não do artefato?</td>
+      <td><b>07:</b> O documento esta padronizado?</td>
       <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
-      <td></td>
+      <td>sim</td>
       <td></td>
       <td>
         <a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a>,

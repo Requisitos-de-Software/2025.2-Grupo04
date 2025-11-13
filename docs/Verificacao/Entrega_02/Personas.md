@@ -73,7 +73,7 @@
   </tbody>
 </table>
 <p style="text-align: center; font-size: 0.9em; color: gray;">
-Fonte: <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a>
+Fonte: <a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a>
 </p>
 </div>
 
@@ -147,7 +147,7 @@ Fonte: <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeir
 </table>
 
 <p style="text-align: center; font-size: 0.9em; color: gray;">
-Fonte: <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a>
+Fonte: <a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a>
 </p>
 </div>
 
@@ -179,8 +179,8 @@ O artefato <b>Personas</b> (versão 1.6) está completo, consistente e atende a 
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :--: | :--: | :-- | :-- | :-- |
-| 1.0 | 12/11/2025 | Criação da página de verificação do artefato Personas | [Breno Teixeira](https://github.com/BrenoLTeixeira) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
-| 1.1 | 12/11/2025 | Adição da coluna Print e referências formais | [Breno Teixeira](https://github.com/BrenoLTeixeira) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| 1.0 | 12/11/2025 | Criação da página de verificação do artefato Personas | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Breno Teixeira](https://github.com/BrenoLTeixeira) |
+| 1.1 | 12/11/2025 | Adição da coluna Print e referências formais | [Dylan Cavalcante](https://github.com/dylancavalcante) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
 
 ## Agrecimentos
 

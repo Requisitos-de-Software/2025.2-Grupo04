@@ -297,7 +297,7 @@ Esta lista de verificação reúne os <b>itens gerais</b> utilizados para avalia
       <td>
         <a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a>,
         <a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a>,
-        <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Rodrigues</a>,
+        <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a>,
         <a href="https://github.com/leticialopes20" target="_blank">Letícia Lopes</a>,
         <a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a>
       </td>
@@ -310,7 +310,7 @@ Esta lista de verificação reúne os <b>itens gerais</b> utilizados para avalia
       <td>
         <a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a>,
         <a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a>,
-        <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Rodrigues</a>,
+        <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a>,
         <a href="https://github.com/leticialopes20" target="_blank">Letícia Lopes</a>,
         <a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a>
       </td>
@@ -323,14 +323,14 @@ Esta lista de verificação reúne os <b>itens gerais</b> utilizados para avalia
       <td>
         <a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a>,
         <a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a>,
-        <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Rodrigues</a>,
+        <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a>,
         <a href="https://github.com/leticialopes20" target="_blank">Letícia Lopes</a>,
         <a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a>
       </td>
     </tr>
     <tr>
       <td><b>04:</b> A validação do protótipo foi feita presencialmente?</td>
-      <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Rodrigues</a></td>
+      <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
       <td></td>
       <td></td>
       <td>
@@ -350,7 +350,7 @@ Esta lista de verificação reúne os <b>itens gerais</b> utilizados para avalia
         <a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a>,
         <a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a>,
         <a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a>,
-        <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Rodrigues</a>,
+        <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a>,
         <a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a>
       </td>
     </tr>
@@ -363,7 +363,7 @@ Esta lista de verificação reúne os <b>itens gerais</b> utilizados para avalia
         <a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a>,
         <a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a>,
         <a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a>,
-        <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Rodrigues</a>,
+        <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a>,
         <a href="https://github.com/leticialopes20" target="_blank">Letícia Lopes</a>
       </td>
     </tr>

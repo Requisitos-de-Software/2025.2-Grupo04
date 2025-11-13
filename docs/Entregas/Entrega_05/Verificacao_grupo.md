@@ -375,8 +375,9 @@ Esta lista de verificação reúne os <b>itens gerais</b> utilizados para avalia
 
 ## Histórico de Versões
 
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
-|--------|------|-----------|-----------|-------------|
-| 1.0 | 30/09/2025 | Criação do ducumento  | Giovana |  Arthur, Breno, Dylan, Eduarda, Giovana, Leticia |
-| 1.1 | 12|11|2025 | Adição da lista de verificação | Giovana |  Dylan |
-| 1.2 | 12/11/2025 | Adção de video | Giovana | Arthur |
+
+| Versão |  Data  |  Descrição  |  Autor(es)  |  Revisor(es)  |
+| :----: | :--------: | :------------------: | :----------------------------------------------------------------------------------------: | :-------------------------------------------: |
+|  `1.0` | 12/11/2025 | Criação do documento |[Giovana Fontes](https://github.com/GiovanaFontesS) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+|  `1.1` | 12/11/2025 | Adição de tabelas | [Giovana Fontes](https://github.com/GiovanaFontesS) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+|  `1.2` | 12/11/2025 | Adição do video | [Giovana Fontes](https://github.com/GiovanaFontesS) | [Dylan Cavalcante](https://github.com/dylancavalcante) |

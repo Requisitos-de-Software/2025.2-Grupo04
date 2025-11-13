@@ -25,7 +25,7 @@ O foco da verificação é a consistência interna do modelo e a aderência aos 
 |--------------------|----------------|
 | [**Arthur Fernandes**](https://github.com/arthurfernandesj) | Verificação da técnica de Observação (Entrega 2), Verificação da técnica de Storytelling (Entrega 2), Verificação do NFR Framework (Entrega 4) |
 | [**Breno Teixeira**](https://github.com/BrenoLTeixeira) | Verificação do Perfil de Usuário (Entrega 2), Verificação da técnica de In or Out (Entrega 2), Verificação do Backlog (Entrega 4) |
-| [**Dylan Cavalcante**](https://github.com/dylancavalcante) | Verificação da técnica de Storytelling (Entrega 2), Verificação da técnica de Three-Level Scale (Entrega 2), Verificação dos Casos de Uso (Entrega 3) |
+| [**Dylan Cavalcante**](https://github.com/dylancavalcante) | Verificação da técnica de Storytelling (Entrega 2) e Verificação dos Casos de Uso (Entrega 3) |
 | [**Eduarda Domingos**](https://github.com/eduardar0) | Planejamento da verificação das entregas, Verificação da técnica de $100 Test (Entrega 2), Verificação das Histórias de Usuário (Entrega 4) |
 | [**Giovana Fontes**](https://github.com/GiovanaFontesS) | Verificação do Rich Picture (Entrega 1), Verificação da técnica de First Things First (Entrega 2), Verificação dos Cenários (Entrega 3) |
 | [**Leticia Lopes**](https://github.com/leticialopes20) | Verificação de Personas (Entrega 2), Verificação da técnica de Brainstorming (Entrega 2), Verificação dos Léxicos (Entrega 3) |

@@ -34,7 +34,7 @@ Foi realizada a prototipação de todos os requisitos que ainda não haviam sido
     <td> <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a> </td>
     <td> 
       <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf07">RF07</a> - O sistema deve permitir integração com o CadÚnico para atualização automática de dados. <br>
-      <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf18">RF18</a> - O sistema deve fornecer informações sobre pendências ou erros relacionados aos benefícios do usuário. <br>
+      <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf12">RF12</a> - O aplicativo deve permitir que o Jovem Beneficiário visualize o histórico de utilização dos benefícios <br>
     </td>
   </tr>
 
@@ -153,4 +153,5 @@ A validação ocorreu em **12/11/2025**, com o objetivo de verificar se as novas
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :--: | :--: | :-- | :-- | :-- |
 | `1.0` | 31/10/2025 | Criação da página da Prototipação. | [Arthur Fernandes](https://github.com/arthurfernandesj) | [ Giovana Fontes ](https://github.com/Giovana FontesS) |
-| 1.1 | 12/11/2025 | Adição de videos |  [Giovana Fontes](https://github.com/GiovanaFontesS) | [ Arthur Fernandes ](https://github.com/https://github.com/arthurfernandesj)
+| `1.1`  12/11/2025 | Adição de videos | [Giovana Fontes](https://github.com/GiovanaFontesS) | [ Arthur Fernandes](https://github.com/https://github.com/arthurfernandesj) |
+| `1.2`  12/11/2025 | Atualização de requisitos atribuidos | [ Arthur Fernandes](https://github.com/https://github.com/arthurfernandesj) | [Giovana Fontes](https://github.com/GiovanaFontesS) |

@@ -98,7 +98,7 @@
     <tr>
       <td><b>01:</b> O Rich Picture representa todos os atores envolvidos no sistema?</td>
       <td><a href="https://imgur.com/a/qmK9Uxm" target="_blank">Item 1</a></td>
-      <td></td>
+      <td>Sim</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/VhGSYZC" target="_blank">Print 1</a></td>
       <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
@@ -106,7 +106,7 @@
     <tr>
       <td><b>02:</b> Os fluxos de informação entre os elementos estão ilustrados?</td>
       <td><a href="https://imgur.com/a/wPVxjSq" target="_blank">Item 2</a></td>
-      <td></td>
+      <td>Sim</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/ym5VHjb" target="_blank">Print 2</a></td>
       <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
@@ -114,7 +114,7 @@
     <tr>
       <td><b>03:</b> As principais operações do sistema estão representadas?</td>
       <td><a href="https://imgur.com/a/Gtfccce" target="_blank">Item 3</a></td>
-      <td></td>
+      <td>Sim</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/kyciZPo" target="_blank">Print 3</a></td>
       <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
@@ -122,7 +122,7 @@
     <tr>
       <td><b>04:</b> Os limites do sistema estão claramente indicados?</td>
       <td><a href="https://imgur.com/a/IjHy7UK" target="_blank">Item 4</a></td>
-      <td></td>
+      <td>Sim</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/TOzZo6C" target="_blank">Print 4</a></td>
       <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
@@ -130,7 +130,7 @@
     <tr>
       <td><b>05:</b> Os armazenamentos de dados (tabelas) estão representados adequadamente?</td>
       <td><a href="https://imgur.com/a/aPN83CQ" target="_blank">Item 5</a></td>
-      <td></td>
+      <td>Sim</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/hSuCZ9O" target="_blank">Print 5</a></td>
       <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
@@ -138,7 +138,7 @@
     <tr>
       <td><b>06:</b> O Rich Picture foi validado com a equipe ou stakeholders?</td>
       <td>-</td>
-      <td></td>
+      <td>Sim</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/DwNrOx6" target="_blank">Print 6</a></td>
       <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a></td>
@@ -146,7 +146,7 @@
     <tr>
       <td><b>07:</b> O artefato possui uma legenda explicando os símbolos utilizados no diagrama?</td>
       <td><a href="https://imgur.com/a/2ZVZFvz" target="_blank">Item 7</a></td>
-      <td></td>
+      <td>Sim</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/2S58mLA" target="_blank">Print 7</a></td>
       <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>

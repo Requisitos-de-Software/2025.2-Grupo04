@@ -6,7 +6,7 @@ Realizado o planejamento do que verificar, é o momento de realizar a inspeção
 
 ## Objetivo
 
-O objetivo deste documento é relatar os resultados das verificações realizadas acerca do artefato [00 Dólares](https://requisitos-de-software.github.io/2025.2-Grupo04/elicitacao/priorizacao/100/) da Etapa 2 do [grupo](https://github.com/requisitos-de-software/2025.2-Grupo04).
+O objetivo deste documento é relatar os resultados das verificações realizadas acerca do artefato [100 Dólares](https://requisitos-de-software.github.io/2025.2-Grupo04/elicitacao/priorizacao/100DOLARES/) da Etapa 2 do [grupo 4](https://github.com/requisitos-de-software/2025.2-Grupo04).
 
 ## Metodologia
 
@@ -14,38 +14,32 @@ Os resultados da verificação do artefato foram obtidos a partir de checklist e
 
 ### Cronograma e Participantes
 
-Os participantes são os integrantes do grupo que serão responsáveis por realizar a verificação e a correção dos problemas encontrados. A tabela 1 apresenta os participantes.
+Os participantes são os integrantes do grupo que serão responsáveis por realizar a verificação e a correção dos problemas encontrados. A tabela abaixo apresenta os participantes.
 
-<center>
-
-**Tabela 1** - Participantes da Verificação.
+**Tabela 1 - Participantes da Verificação**
 
 | Participante | Papel |
 | :----------: | :---: |
-| [Arthur Fernandes](https://github.com/arthurfernandesj) | Avaliador |
+| [Eduarda Domingos](https://github.com/eduardar0) | Avaliador |
 | [Breno Lourenço](https://github.com/BrenoLTeixeira) | Revisor |
 
 _Fonte: [Eduarda Domingos](https://github.com/eduardar0), 2025._
 
-</center>
-
 ### Sumários dos Dados Encontrados
 
-A tabela 2 a seguir apresenta a checklist com os dados obtidos a partir da verificação.
+A tabela a seguir apresenta a checklist com os dados obtidos a partir da verificação.
 
-<center>
-
-**Tabela 2** - Checklist de Verificação.
+**Tabela 2 - Checklist de Verificação**
 
 | ID | Descrição | Avaliação | Observações |
-| :-: | :--------- | :-------: | :---------: |
-| **Padronização** | | | |
+| :-: | :-------- | :-------: | :---------: |
+| **Padronização** |  |  |  |
 | 1 | O artefato possui introdução? | Sim | - |
 | 2 | O artefato possui uma bibliografia/referência bibliográfica? | Sim | - |
 | 3 | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | Sim | - |
 | 4 | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | Sim | - |
 | 5 | Todos os textos estão na norma padrão? | Sim | - |
-| **$100** | | | |
+| **$100** |  |  |  |
 | 6 | A priorização foi realizada em conjunto com um usuário real? | Sim | - |
 | 6.1 | O usuário que participou se enquadrava no perfil de usuário estabelecido? | Sim | - |
 | 7 | Os requisitos priorizados haviam sido previamente elicitados? | Sim | - |
@@ -58,8 +52,6 @@ A tabela 2 a seguir apresenta a checklist com os dados obtidos a partir da verif
 | 10.1 | Os requisitos foram, posteriormente, separados por nível de prioridade? | Não | - |
 
 _Fonte: [Eduarda Domingos](https://github.com/eduardar0), 2025._
-
-</center>
 
 ## Problemas Encontrados e Análise dos Dados
 
@@ -83,21 +75,11 @@ Tendo em vista os problemas abordados anteriormente, fica como sugestão a reali
 - Explicitar se as dependências entre requisitos foram consideradas;
 - Classificar os requisitos por níveis de prioridade (alta, média, baixa) após a execução da técnica.
 
-
-
-
-
-_Fonte: [Eduarda Domingos](https://github.com/eduardar0), 2025._
-
-</center>
-
 ## Retrabalho
 
-Como proposto por Fagan, para o retrabalho os autores do artefato verificado serão responsáveis em um primeiro momento por corrigir os problemas apresentados seguindo a lista de sugestão de correção apresentada anteriormente. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 3 a seguir apresenta o cronograma de correções.
+Como proposto por Fagan, para o retrabalho os autores do artefato verificado serão responsáveis em um primeiro momento por corrigir os problemas apresentados seguindo a lista de sugestão de correção apresentada anteriormente. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela a seguir apresenta o cronograma de correções.
 
-<center>
-
-**Tabela 3** - Cronograma de Correções.
+**Tabela 3 - Cronograma de Correções**
 
 | Data de Correção | Descrição | Responsável(eis) | Revisor(es) | Status |
 | :--------------: | :-------- | :--------------: | :---------: | :----: |
@@ -107,18 +89,17 @@ Como proposto por Fagan, para o retrabalho os autores do artefato verificado ser
 
 _Fonte: [Eduarda Domingos](https://github.com/eduardar0), 2025._
 
-</center>
-
 ## Referências Bibliográficas
 
-> COURAGE, C. & BAXTER,K. **Understending your users: a pratical guide to user requirements, methods, tools, and techniques**. San Francisco: Morgan Kaufman Publishers, 2005.
+- COURAGE, C. & BAXTER, K. *Understanding your users: a practical guide to user requirements, methods, tools, and techniques*. San Francisco: Morgan Kaufman Publishers, 2005.
 
-> WIEGERS, Karl; BEATTY, Joy. **Software Requirements (Developer Best Practices)**, 3rd Edition, Microsoft Press, 2013.
+- WIEGERS, Karl; BEATTY, Joy. *Software Requirements (Developer Best Practices)*, 3rd Edition, Microsoft Press, 2013.
 
-> HACKOS, J.T. & REDISH, J.C. **User and task analysis for interface design**. New York: John Wiley & Sons, 1998.
+- HACKOS, J.T. & REDISH, J.C. *User and task analysis for interface design*. New York: John Wiley & Sons, 1998.
 
 ## Histórico de Versões
 
 | Versão | Data       | Descrição | Autor(es) | Revisor(es) |
-| :----: | :--------- | :-------- | :-------- | :---------- |
+| :----: | :--------: | :-------: | :-------- | :---------- |
 | `1.0`  | 12/11/2025 | Criação da página. | [Eduarda Domingos](https://github.com/eduardar0) | [Breno Lourenço](https://github.com/BrenoLTeixeira) |
+

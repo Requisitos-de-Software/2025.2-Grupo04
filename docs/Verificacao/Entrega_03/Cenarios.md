@@ -12,6 +12,70 @@ No contexto do <b>ID Jovem</b>, os cenários foram desenvolvidos com base em <b>
 Cada cenário é estruturado com os seguintes elementos: <b>título, metas/objetivo, contexto, atores, recursos, exceções</b> e <b>episódios</b> <b>[Serrano; Serrano, 2025]</b>. O objetivo é garantir que cada cenário seja claro, detalhado e útil, permitindo analisar o comportamento dos usuários, suas decisões, os obstáculos enfrentados e como o sistema pode apoiá-los de forma mais eficiente.
 </p>
 
+<h3 style="text-align: center;">Tabela 1: Participantes</h3>
+
+<div align="center">
+
+<table border="1" style="border-collapse: collapse; width: 80%; text-align: center;">
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Função</th>
+      <th>Item</th>
+      <th>Data</th>
+      <th>Hora</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
+      <td>Avaliadora</td>
+      <td>1, 2</td>
+      <td>12/11/2025</td>
+      <td>14:00</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
+      <td>Avaliador</td>
+      <td>3</td>
+      <td>12/11/2025</td>
+      <td>14:15</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
+      <td>Avaliador</td>
+      <td>4</td>
+      <td>12/11/2025</td>
+      <td>14:30</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
+      <td>Avaliador</td>
+      <td>5</td>
+      <td>12/11/2025</td>
+      <td>14:45</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
+      <td>Avaliadora</td>
+      <td>6</td>
+      <td>12/11/2025</td>
+      <td>15:00</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a></td>
+      <td>Avaliadora</td>
+      <td>7</td>
+      <td>12/11/2025</td>
+      <td>15:15</td>
+    </tr>
+  </tbody>
+</table>
+<p style="text-align: center; font-size: 0.9em; color: gray;">
+Fonte: <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a>
+</p>
+</div>
+
 <h3 style="text-align: center;">Tabela: Itens de verificação – Cenários de Uso</h3>
 
 <div align="center">

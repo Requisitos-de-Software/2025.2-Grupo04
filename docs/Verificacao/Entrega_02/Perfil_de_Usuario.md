@@ -1,97 +1,230 @@
-# Verificação do Perfil de Usuário - ID Jovem
-
 ## Introdução
 
-Com o objetivo de garantir a qualidade e a consistência do artefato **Perfil de Usuário**, foi realizada uma verificação seguindo as diretrizes estabelecidas no planejamento da entrega. O processo avaliou a completude, clareza, rastreabilidade e conformidade do documento com as boas práticas de documentação de requisitos.
+<p style="text-align: justify;">Com o objetivo de garantir a qualidade e a consistência do artefato <b>Perfil de Usuário</b>, foi realizada uma verificação seguindo as diretrizes estabelecidas no planejamento da entrega. O processo avaliou a completude, clareza, rastreabilidade e conformidade do documento com as boas práticas de documentação de requisitos.</p>
 
-O conteúdo foi analisado com base nas orientações apresentadas na obra *Interação Humano-Computador e Experiência do Usuário*.<a id="anchor_1" href="#REF1"><sup>1</sup></a>
+<small><em>Revisado por [Gemini](https://gemini.google.com/), em 12 de Novembro 2025</em></small>
 
-## Objetivo
 
-Este documento tem como objetivo relatar os resultados da verificação realizada sobre o artefato [Perfil de Usuário - ID Jovem](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Perfil_de_Usu%C3%A1rio/) na versão 1.2, datada de 09/10/2025, da Etapa 2 do Grupo 04 - ID Jovem.
+## Objetivo 
 
-## Metodologia
+<p style="text-align: justify;">O presente documento tem como finalidade relatar os resultados obtidos na verificação do artefato <b>Perfil de Usuário</b> do aplicativo <b>ID Jovem</b> (<a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Modelagem/Perfil_de_Usuario/" target="_blank">link</a>), em sua versão 1.2, datada de 09/10/2025 , integrante da Entrega 2 do grupo 4.</p>
 
-A verificação foi realizada com base na checklist definida no [Planejamento de Verificação da Entrega 2](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Inspe%C3%A7%C3%A3o02/). Para cada item da lista, o avaliador marcou **Conforme**, **Não** ou **Incompleto**, além de incluir observações quando necessário.
+## Metodologia 
 
-## Cronograma e Participantes
+<p style="text-align: justify;">A verificação foi conduzida com base na checklist definida no <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Verificacao/Entrega_02/Planejamento_Verificacao_E2/" target="_blank">Planejamento de Verificação da Entrega 2</a>. Para cada item da lista, os avaliadores marcaram <b>Conforme</b>, <b>Não Conforme</b> ou <b>Incompleto</b>, além de incluir observações quando necessário.</p>
 
-Nesta etapa, o integrante [Breno](https://github.com/BrenoLteixeira) será responsável pelo papel de avaliador (verificação dos problemas identificados). O integrante [Dylan Cavalcante](https://github.com/dylancavalcante) fará a revisão do artefato produzido pelo avaliador.
-
-<p style="text-align: center; font-size: 12pt;">Tabela 1: Participantes</p>
+<h3 style="text-align: center;">Tabela 1: Participantes da Verificação</h3>
 
 <div align="center">
-  <table>
-    <thead>
-      <tr>
-        <th>Nome</th>
-        <th>Função</th>
-        <th>Data</th>
-        <th>Hora</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Breno</td>
-        <td>Avaliador</td>
-        <td>10/10/2025</td>
-        <td>14:00</td>
-      </tr>
-      <tr>
-        <td>Dylan Cavalcante</td>
-        <td>Revisor</td>
-        <td>11/10/2025</td>
-        <td>10:30</td>
-      </tr>
-    </tbody>
-  </table>
+<table border="1" style="border-collapse: collapse; width: 80%; text-align: center;">
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Função</th>
+      <th>Itens Avaliados</th>
+      <th>Data</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/EngDann" target="_blank">Danilo</a></td>
+      <td>Avaliador</td>
+      <td>01</td>
+      <td>01/10/2025</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
+      <td>Avaliadora</td>
+      <td>02, 08</td>
+      <td>01/10/2025</td>
+    </tr>
+    <tr>
+      <td><a href="httpsS://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
+      <td>Avaliador</td>
+      <td>03, 09</td>
+      <td>01/10/2025</td>
+    </tr>
+    <tr>
+      <td><a href="httpsS://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
+      <td>Avaliador</td>
+      <td>04, 10</td>
+      <td>01/10/2025</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/leticialopes20" target="_blank">Leticia Lopes</a></td>
+      <td>Avaliadora</td>
+      <td>05</td>
+      <td>01/10/2025</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Domingos</a></td>
+      <td>Avaliadora</td>
+      <td>06</td>
+      <td>01/10/2025</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
+      <td>Avaliador</td>
+      <td>07</td>
+      <td>01/10/2025</td>
+    </tr>
+    <tr>
+    </tr>
+  </tbody>
+</table>
 </div>
-
-<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https:s//github.com/BrenoLteixeira">Breno</a></p>
+<p style="text-align: center; font-size: 0.9em; color: gray;">
+Fonte: <a href="httpsS://github.com/BrenoLteixeira" target="_blank">Breno</a>
+</p>
 
 ## Inspeção
 
-<p style="text-align: center; font-size: 12pt;">Tabela 2: Inspeção</p>
+<p style="text-align: justify;">A seguir, apresentam-se as tabelas com os itens utilizados na verificação do artefato <b>Perfil de Usuário</b> do aplicativo <b>ID Jovem</b>. A verificação assegura que os itens gerais de documentação e os elementos específicos do perfil estão em conformidade.</p>
 
-### Itens Gerais
+<h3 style="text-align: center;">Tabela 2: Inspeção - Itens Gerais</h3>
+<div align="center">
+<table border="1" style="border-collapse: collapse; width: 95%; text-align: center;">
+  <thead>
+    <tr>
+      <th style="width: 35%;">Item</th>
+      <th style="width: 15%;">Referência</th>
+      <th style="width: 10%;">Avaliação</th>
+      <th style="width: 20%;">Observação</th>
+      <th style="width: 5%;">Print</th>
+      <th style="width: 15%;">Avaliador</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01:</b> O artefato apresenta uma bibliografia/referência bibliográfica?</td>
+      <td><a href="#REF1">[1]</a></td>
+      <td>Conforme</td>
+      <td>-</td>
+      <td><a href="https://imgur.com/a/vFks4Kw" target="_blank">Print 1</a></td>
+      <td><a href="https://github.com/EngDann" target="_blank">Danilo</a></td>
+    </tr>
+    <tr>
+      <td><b>02:</b> O artefato apresenta um histórico de versões com id, Item das versões, autores e revisores?</td>
+      <td><a href="#REF1">[1]</a></td>
+      <td>Conforme</td>
+      <td>-</td>
+      <td><a href="https://imgur.com/a/LULnEHu" target="_blank">Print 2</a></td>
+      <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana</a></td>
+    </tr>
+    <tr>
+      <td><b>03:</b> As tabelas e imagens apresentam legenda e fonte?</td>
+      <td><a href="#REF1">[1]</a></td>
+      <td>Conforme</td>
+      <td>-</td>
+      <td><a href="https://imgur.com/a/2XIBHT1" target="_blank">Print 3</a></td>
+      <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur</a></td>
+    </tr>
+    <tr>
+      <td><b>04:</b> O artefato apresenta uma introdução?</td>
+      <td><a href="#REF1">[1]</a></td>
+      <td>Conforme</td>
+      <td>-</td>
+      <td><a href="https://imgur.com/a/ozqlhMC" target="_blank">Print 4</a></td>
+      <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
+    </tr>
+    <tr>
+      <td><b>05:</b> A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico?</td>
+      <td><a href="#REF1">[1]</a></td>
+      <td>Conforme</td>
+      <td>-</td>
+      <td><a href="https://imgur.com/a/Kxcmzzy" target="_blank">Print 5</a></td>
+      <td><a href="https://github.com/leticialopes20" target="_blank">Leticia Lopes</a></td>
+    </tr>
+    <tr>
+      <td><b>06:</b> Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)?</td>
+      <td><a href="#REF1">[1]</a></td>
+      <td>Conforme</td>
+      <td>-</td>
+      <td><a href="https://imgur.com/a/Kxcmzzy" target="_blank">Print 6</a></td>
+      <td><a href="https://github.com/eduardar0" target="_blank">Eduarda</a></td>
+    </tr>
+  </tbody>
+</table>
+<p style="text-align: center; font-size: 0.9em; color: gray;">
+Fonte: <a href="httpsS://github.com/BrenoLteixeira" target="_blank">Breno</a>
+</p>
+</div>
 
-| Item | Avaliação | Observação | Print | Autor |
-| :--- | :---: | :---: | :---: | :---: |
-| **01:** O artefato apresenta uma bibliografia/referência bibliográfica? | Conforme | - | ![print](https://i.imgur.com/cQ0oT1t.png) | [Breno](https://github.com/BrenoLteixeira) |
-| **02:** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? | Conforme | - | ![print](https://i.imgur.com/Uo2wJ6T.png) | [Breno](https://github.com/BrenoLteixeira) |
-| **03:** As tabelas e imagens apresentam legenda e fonte? | Conforme | - | ![print](https://i.imgur.com/xH94Q0w.png) | [Breno](https://github.com/BrenoLteixeira) |
-| **04:** O artefato apresenta uma introdução? | Conforme | - | ![print](https://i.imgur.com/A6jX6L9.png) | [Breno](https://github.com/BrenoLteixeira) |
-| **05:** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? | Conforme | - | ![print](https://i.imgur.com/Y171I3f.png) | [Breno](https://github.com/BrenoLteixeira) |
-| **06:** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? | Conforme | - | ![print](https://i.imgur.com/J3T4vD2.png) | [Breno](https://github.com/BrenoLteixeira) |
+<h3 style="text-align: center;">Tabela 3: Inspeção - Perfil de Usuário</h3>
+<div align="center">
+<table border="1" style="border-collapse: collapse; width: 95%; text-align: center;">
+  <thead>
+    <tr>
+      <th style="width: 35%;">Item</th>
+      <th style="width: 15%;">Referência</th>
+      <th style="width: 10%;">Avaliação</th>
+      <th style="width: 20%;">Observação</th>
+      <th style="width: 5%;">Print</th>
+      <th style="width: 15%;">Avaliador</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>07:</b> O perfil do usuário descreve claramente o público-alvo do sistema?</td>
+      <td><a href="#REF1">[1]</a></td>
+      <td>Conforme</td>
+      <td>-</td>
+      <td><a href="https://imgur.com/a/4IYigCz" target="_blank">Print 7</a></td>
+      <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan</a></td>
+    </tr>
+    <tr>
+      <td><b>08:</b> O perfil apresenta dados socioeconômicos relevantes?</td>
+      <td><a href="#REF1">[1]</a></td>
+      <td> Conforme</td>
+      <td>-</td>
+      <td><a href="https://imgur.com/a/irveUZp" target="_blank">Print 8</a></td>
+      <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana</a></td>
+    </tr>
+    <tr>
+      <td><b>09:</b> O perfil está embasado em fontes confiáveis ?</td>
+      <td><a href="#REF1">[1]</a></td>
+      <td>Conforme</td>
+      <td>-</td>
+      <td><a href="https://imgur.com/a/OajzZfS" target="_blank">Print 9</a></td>
+      <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur</a></td>
+    </tr>
+    <tr>
+      <td><b>10:</b> O perfil está atualizado?</td>
+      <td><a href="#REF1">[1]</a></td>
+      <td>Conforme</td>
+      <td>-</td>
+      <td><a href="https://imgur.com/a/5TpJFhc" target="_blank">Print 10</a></td>
+      <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
+    </tr>
+  </tbody>
+</table>
+<p style="text-align: center; font-size: 0.9em; color: gray;">
+Fonte: <a href="httpsS://github.com/BrenoLteixeira" target="_blank">Breno</a>
+</p>
+</div>
 
-### Perfil de Usuário
+## Análises dos resultados 
 
-| Item | Avaliação | Observação | Print | Autor |
-| :--- | :---: | :---: | :---: | :---: |
-| **01:** O perfil do usuário especifica características demográficas, como idade, gênero, nível de instrução e outras características relevantes? | Conforme | - | ![print](httpshttps://i.imgur.com/J3T4vD2.png) | [Breno](https://github.com/BrenoLteixeira) |
-| **02:** O perfil do usuário especifica características comportamentais, como nível de experiência e atitudes em relação à tecnologia (tecnófilos/tecnófobos)? | Conforme | - | ![print](https://i.imgur.com/39w6eT9.png) | [Breno](https://github.com/BrenoLteixeira) |
-| **03:** O perfil de usuário especifica as tarefas primárias dos usuários? | Conforme | - | ![print](https://i.imgur.com/97sC56r.png) | [Breno](https://github.com/BrenoLteixeira) |
-| **04:** Os dados utilizados para construir o perfil de usuário foram obtidos por meio de estudos, como entrevistas, questionários ou observação? | Conforme | - | ![print](httpsS://i.imgur.com/L1D3k6w.png) | [Breno](https://github.com/BrenoLteixeira) |
-| **05:** Ao final, os usuários foram categorizados em grupos com base em suas semelhanças, considerando a porcentagem em cada faixa? | Conforme | - | ![print](httpsS://i.imgur.com/J3T4vD2.png) | [Breno](https://github.com/BrenoLteixeira) |
+<p style="text-align: justify;">
+A verificação do artefato <b>Perfil de Usuário</b> foi majoritariamente positiva, com a maioria dos itens de documentação e conteúdo considerados "Conforme". No entanto, foi identificada uma não conformidade no <b>Item 08 (Dados Socioeconômicos)</b>, marcado como <b>Não Conforme</b>.
+</p>
 
-## Análise de Resultados
+## Conclusão 
 
-Durante a inspeção, constatou-se que o artefato **Perfil de Usuário - ID Jovem** está **em total conformidade com todos os itens da checklist**. O documento apresenta clareza, estrutura formal, uso adequado de fontes e, crucialmente, embasamento em métodos de coleta de dados primários (entrevistas) e secundários (análise documental).
+<p style="text-align: justify;">
+O artefato <b>Perfil de Usuário</b> cumpre seu objetivo principal de descrever o público-alvo, mas apresenta uma lacuna. Para que seja considerado totalmente conforme, é necessária a correção do <b>Item 08</b>, complementando o perfil com os dados socioeconômicos relevantes que embasam a definição do usuário. O documento segue para correção antes de ser considerado Aprovado.
+</p>
 
-## Não Conformidade Identificada
-
-Nenhuma não conformidade foi identificada durante a verificação.
-
-## Acompanhamento
-
-O artefato *Perfil de Usuário* (versão 1.2) é considerado **Aprovado** e totalmente conforme, não havendo pendências para esta etapa.
-
-## Referências Bibliográficas
+## Referencias Bibliograficas
 
 > <a id="REF1" href="#anchor_1">1.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021). *Interação Humano-Computador e Experiência do Usuário*. Autopublicação. ISBN: 978-65-00-19677-1.
 
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
-| :---: | :---: | :--- | :--- | :--- |
-| `1.0` | 10/10/2025 | Criação do documento de verificação | [Breno](https://github.com/BrenoLteixeira) | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+| :--: | :--: | :-- | :-- | :-- |
+| `1.0` | 12/11/2025 | Criação e consolidação do documento de verificação no formato HTML | [Breno](httpsS://github.com/BrenoLteixeira) | [Arthur Fernandes](httpsS://github.com/arthurfernandesj) |
+
+## Agradecimentos
+
+De acordo o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta (Gemini) foi utilizada apenas como apoio técnico e linguístico. Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.

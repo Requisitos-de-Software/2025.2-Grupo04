@@ -375,4 +375,6 @@ Esta lista de verificação reúne os <b>itens gerais</b> utilizados para avalia
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--------|------|-----------|-----------|-------------|
-| 1.0 | 30/09/2025 | Criação do ducumento  | Giovana |  Arthur, Breno, Danilo, Dylan, Eduarda, Giovana, Leticia |
+| 1.0 | 10/11/2025 | Criação do ducumento  | Giovana |  Arthur, Breno, Dylan, Eduarda, Giovana, Leticia |
+| 1.1 | 12|11|2025 | Adição da lista de verificação | Giovana |  Dylan |
+| 1.2 | 12/11/2025 | Adção de video | Giovana | Arthur |

@@ -76,8 +76,9 @@ Após a finalização dos protótipos, foram realizadas duas validações presen
 
 A seguir, apresenta-se o protótipo utilizado nas validações.
 
-Caso queira conferir o protótipo, <a href="" target="blanket">clique aqui</a>.
-
+<p style="text-align: justify;">
+  Caso queira conferir o protótipo, <a href="https://www.figma.com/design/1f9ynsKYXObJ7Xq5ZphOr5/ID-JOVEM---PROTOTIPA%C3%87%C3%83O?node-id=0-1&m=dev&t=p1NHdf3D7iJ98YyP-1" target="_blank"><b>clique aqui</b></a>.
+</p>
 <p style="text-align: center"><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="" allowfullscreen></iframe></p>
 
 <a href="" target="_blank">📄 Ver documento completo</a>

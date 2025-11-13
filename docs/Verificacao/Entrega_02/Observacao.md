@@ -30,11 +30,8 @@ e do funcionamento do ambiente analisado.
 
 <h3 style="text-align: center;">Tabela 2: Itens da verificação da técnica de Observação – ID Jovem</h3>
 
-
-
 <h3 style="text-align: center;">Tabela 1: Participantes</h3>
 
-<div align="center">
 <table border="1" style="border-collapse: collapse; width: 95%; text-align: center;">
   <thead>
     <tr>
@@ -79,7 +76,6 @@ e do funcionamento do ambiente analisado.
 
 <h3 style="text-align: center;">Tabela 2: Itens do Desenvolvimento do Projeto</h3>
 
-<div align="center">
 <table border="1" style="border-collapse: collapse; width: 95%; text-align: center;">
   <thead>
     <tr>
@@ -158,13 +154,11 @@ e do funcionamento do ambiente analisado.
     </tr>
   </tbody>
 </table>
-</div>
 
 
 <p style="text-align: center; font-size: 0.9em; color: gray;">
 Fonte: <a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a>
 </p>
-</div>
 
 
 

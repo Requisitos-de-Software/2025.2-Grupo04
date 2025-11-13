@@ -64,52 +64,99 @@ Esta lista de verificação reúne os <b>itens gerais</b> utilizados para avalia
   <tbody>
     <tr>
       <td><b>01:</b> Foi utilizada alguma das seguintes técnicas na verificação dos artefatos: inspeções, estratégias formais ou reutilização de domínios?</td>
-      <td>Arthur Fernandes</td>
+      <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
       <td></td>
       <td></td>
-      <td>Arthur Fernandes, Giovana Fontes, Eduarda Rodrigues, Breno Texeira, Letícia Maria, Dylan Cavalcante</td>
+      <td>
+        <a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a>,
+        <a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a>,
+        <a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a>,
+        <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a>,
+        <a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a>,
+        <a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a>
+      </td>
     </tr>
     <tr>
       <td><b>02:</b> Foi utilizada a técnica de inspeção com o modelo de Fagan?</td>
-      <td>Giovana Fontes</td>
+      <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
       <td></td>
       <td></td>
-      <td>Arthur Fernandes, Giovana Fontes, Eduarda Rodrigues, Breno Teixeira, Letícia Maria, Dylan Cavalcante</td>
+      <td>
+        <a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a>,
+        <a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a>,
+        <a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a>,
+        <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a>,
+        <a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a>,
+        <a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a>
+      </td>
     </tr>
     <tr>
       <td><b>03:</b> No uso do método de Fagan, o passo de planejamento foi realizado?</td>
-      <td>Eduarda Rodrigues</td>
+      <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
       <td></td>
       <td></td>
-      <td>Giovana Fontes, Arthur Fernandes, Eduarda Rodrigues, Breno Teixeira, Letícia Souza, Dylan Cavalcante</td>
+      <td>
+        <a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a>,
+        <a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a>,
+        <a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a>,
+        <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a>,
+        <a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a>,
+        <a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a>
+      </td>
     </tr>
     <tr>
       <td><b>04:</b> No uso do método de Fagan, o passo de visão geral foi realizado?</td>
-      <td>Breno Teixeira</td>
+      <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
       <td></td>
       <td></td>
-      <td>Giovana Fontes, Arthur Fernandes, Eduarda Rodrigues, Dylan Cavalcante, Letícia Maria</td>
+      <td>
+        <a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a>,
+        <a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a>,
+        <a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a>,
+        <a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a>,
+        <a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a>
+      </td>
     </tr>
     <tr>
       <td><b>05:</b> No uso do método de Fagan, o passo de preparação foi realizado?</td>
-      <td>Letícia Maria</td>
+      <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a></td>
       <td></td>
       <td></td>
-      <td>Giovana Fontes, Arthur Fernandes, Eduarda Rodrigues, Letícia Maria, Breno Teixeira, Dylan Cavalcante</td>
+      <td>
+        <a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a>,
+        <a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a>,
+        <a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a>,
+        <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a>,
+        <a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a>,
+        <a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a>
+      </td>
     </tr>
     <tr>
       <td><b>06:</b> O documento apresenta um tópico sobre as correções necessárias identificadas na verificação?</td>
-      <td>Dylan Cavalcante</td>
+      <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
       <td></td>
       <td></td>
-      <td>Giovana Fontes, Arthur Fernandes, Eduarda Rodrigues, Breno Rodrigues, Letícia Maria</td>
+      <td>
+        <a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a>,
+        <a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a>,
+        <a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a>,
+        <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a>,
+        <a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a>
+      </td>
     </tr>
     <tr>
       <td><b>07:</b> O documento apresenta uma descrição sobre a conformidade ou não do artefato?</td>
-      <td>Arthur Fernandes</td>
+      <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
       <td></td>
       <td></td>
-      <td>Arthur Fernandes, Giovana Fontes, Eduarda Rodrigues, Breno Teixeira, Letícia Maria, Dylan Cavalcante</td>
+      <td>
+        <a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a>,
+        <a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a>,
+        <a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a>,
+        <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a>,
+        <a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a>,
+        <a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -126,56 +173,106 @@ Esta lista de verificação reúne os <b>itens gerais</b> utilizados para avalia
       <th>Itens</th>
       <th>Autor</th>
       <th>Avaliação</th>
+      <th>Observação</th>
       <th>Avaliadores</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><b>01:</b> Foi utilizada alguma das seguintes técnicas na verificação dos artefatos: inspeções, estratégias formais ou reutilização de domínios?</td>
-      <td>Arthur</td>
+      <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
       <td></td>
-      <td>Giovana Fontes, Eduarda Rodrigues, Breno Teixeira, Letícia Maria, Dylan Cavalcante</td>
+      <td></td>
+      <td>
+        <a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a>, 
+        <a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a>, 
+        <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a>, 
+        <a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a>, 
+        <a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a>
+      </td>
     </tr>
     <tr>
       <td><b>02:</b> Foi utilizada a técnica de inspeção com o modelo de Fagan?</td>
-      <td>Giovana</td>
+      <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
       <td></td>
-      <td>Arthur Fernandes, Eduarda Rodrigues, Breno Teixeira, Letícia Maria, Dylan Cavalcante</td>
+      <td></td>
+      <td>
+        <a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a>, 
+        <a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a>, 
+        <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a>, 
+        <a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a>, 
+        <a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a>
+      </td>
     </tr>
     <tr>
       <td><b>03:</b> No uso do método de Fagan, o passo de planejamento foi realizado?</td>
-      <td>Eduarda</td>
+      <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
       <td></td>
-      <td>Arthur Fernandes, Giovana Fontes, Breno Teixeira, Letícia Maria, Dylan Cavalcante</td>
+      <td></td>
+      <td>
+        <a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a>, 
+        <a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a>, 
+        <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a>, 
+        <a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a>, 
+        <a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a>
+      </td>
     </tr>
     <tr>
       <td><b>04:</b> No uso do método de Fagan, o passo de visão geral foi realizado?</td>
-      <td>Breno</td>
+      <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
       <td></td>
-      <td>Arthur Fernandes, Giovana Fontes, Eduarda Rodrigues, Letícia Maria, Dylan Cavalcante</td>
+      <td></td>
+      <td>
+        <a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a>, 
+        <a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a>, 
+        <a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a>, 
+        <a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a>, 
+        <a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a>
+      </td>
     </tr>
     <tr>
       <td><b>05:</b> No uso do método de Fagan, o passo de preparação foi realizado?</td>
-      <td>Letícia</td>
+      <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a></td>
       <td></td>
-      <td>Arthur Fernandes, Giovana Fontes, Eduarda Rodrigues, Breno Teixeira, Dylan Cavalcante</td>
+      <td></td>
+      <td>
+        <a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a>, 
+        <a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a>, 
+        <a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a>, 
+        <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a>, 
+        <a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a>
+      </td>
     </tr>
     <tr>
       <td><b>06:</b> O documento apresenta um tópico sobre as correções necessárias identificadas na verificação?</td>
-      <td>Dylan</td>
+      <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
       <td></td>
-      <td>Arthur Fernandes, Giovana Fontes, Eduarda Rodrigues, Breno Teixeira, Letícia Maria</td>
+      <td></td>
+      <td>
+        <a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a>, 
+        <a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a>, 
+        <a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a>, 
+        <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a>, 
+        <a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a>
+      </td>
     </tr>
     <tr>
       <td><b>07:</b> O documento apresenta uma descrição sobre a conformidade ou não do artefato?</td>
-      <td>Arthur</td>
+      <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
       <td></td>
-      <td>Giovana Fontes, Eduarda Rodrigues, Breno Teixeira, Letícia Maria, Dylan Cavalcante</td>
+      <td></td>
+      <td>
+        <a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a>, 
+        <a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a>, 
+        <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a>, 
+        <a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a>, 
+        <a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a>
+      </td>
     </tr>
   </tbody>
 </table>
 
-<p style="text-align: center;"><b>Fonte:</b> Giovana Fontes, 2025</p>
+<p style="text-align: center;"><b>Fonte:</b> <a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a>, 2025</p>
 </div>
 
 ## Validação
@@ -196,45 +293,81 @@ Esta lista de verificação reúne os <b>itens gerais</b> utilizados para avalia
   <tbody>
     <tr>
       <td><b>01:</b> Foi feita a comprovação informal?</td>
-      <td>Giovana Fontes</td>
+      <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
       <td></td>
       <td></td>
-      <td>Arthur Fernandes, Eduarda Rodrigues, Breno Rodrigues, Letícia Souza, Dylan Cavalcante</td>
+      <td>
+        <a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a>,
+        <a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a>,
+        <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Rodrigues</a>,
+        <a href="https://github.com/leticialopes20" target="_blank">Letícia Lopes</a>,
+        <a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a>
+      </td>
     </tr>
     <tr>
       <td><b>02:</b> Foi utilizada a prototipagem?</td>
-      <td>Arthur Fernandes</td>
+      <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
       <td></td>
       <td></td>
-      <td>Giovana Fontes, Eduarda Rodrigues, Breno Rodrigues, Letícia Souza, Dylan Cavalcante</td>
+      <td>
+        <a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a>,
+        <a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a>,
+        <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Rodrigues</a>,
+        <a href="https://github.com/leticialopes20" target="_blank">Letícia Lopes</a>,
+        <a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a>
+      </td>
     </tr>
     <tr>
       <td><b>03:</b> O protótipo foi validado por um usuário?</td>
-      <td>Eduarda Rodrigues</td>
+      <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
       <td></td>
       <td></td>
-      <td>Giovana Fontes, Arthur Fernandes, Breno Rodrigues, Letícia Souza, Dylan Cavalcante</td>
+      <td>
+        <a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a>,
+        <a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a>,
+        <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Rodrigues</a>,
+        <a href="https://github.com/leticialopes20" target="_blank">Letícia Lopes</a>,
+        <a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a>
+      </td>
     </tr>
     <tr>
       <td><b>04:</b> A validação do protótipo foi feita presencialmente?</td>
-      <td>Breno Rodrigues</td>
+      <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Rodrigues</a></td>
       <td></td>
       <td></td>
-      <td>Giovana Fontes, Arthur Fernandes, Eduarda Rodrigues, Letícia Souza, Dylan Cavalcante</td>
+      <td>
+        <a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a>,
+        <a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a>,
+        <a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a>,
+        <a href="https://github.com/leticialopes20" target="_blank">Letícia Lopes</a>,
+        <a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a>
+      </td>
     </tr>
     <tr>
       <td><b>05:</b> Na comprovação informal houve ao menos tentativa de contato com a equipe técnica?</td>
-      <td>Letícia Souza</td>
+      <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Lopes</a></td>
       <td></td>
       <td></td>
-      <td>Giovana Fontes, Arthur Fernandes, Eduarda Rodrigues, Breno Rodrigues, Dylan Cavalcante</td>
+      <td>
+        <a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a>,
+        <a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a>,
+        <a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a>,
+        <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Rodrigues</a>,
+        <a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a>
+      </td>
     </tr>
     <tr>
       <td><b>06:</b> Na comprovação informal foi utilizada linguagem natural?</td>
-      <td>Dylan Cavalcante</td>
+      <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
       <td></td>
       <td></td>
-      <td>Giovana Fontes, Arthur Fernandes, Eduarda Rodrigues, Breno Rodrigues, Letícia Souza</td>
+      <td>
+        <a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a>,
+        <a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a>,
+        <a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a>,
+        <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Rodrigues</a>,
+        <a href="https://github.com/leticialopes20" target="_blank">Letícia Lopes</a>
+      </td>
     </tr>
   </tbody>
 </table>

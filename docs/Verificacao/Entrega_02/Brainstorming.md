@@ -112,4 +112,4 @@ Dessa forma, o artefato demonstra maturidade metodológica e alinhamento com as 
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :--: | :--: | :-- | :-- | :-- |
-| 1.0 | 12/11/2025 | Criação da verificação da técnica de Brainstorming | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+| 1.0 | 12/11/2025 | Criação da verificação da técnica de Brainstorming | [Leticia](https://github.com/leticialopes20) | [Dylan Cavalcante](https://github.com/dylancavalcante) |

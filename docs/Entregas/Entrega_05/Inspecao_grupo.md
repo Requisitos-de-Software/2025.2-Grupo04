@@ -371,6 +371,28 @@ Esta lista de verificação reúne os <b>itens gerais</b> utilizados para avalia
 </table>
 </div>
 
+## Gravação (Lista de verificação)
+
+<div align="center">
+  <p style="text-align: center">
+    <a href="https://youtu.be/btm16vbPYJs" target="_blank"><b>Vídeo 2:</b> Verificação da Equipe 04 - Entrega 05</a>
+  </p>
+
+  <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/btm16vbPYJs"
+          title="Verificação da Equipe - Entrega 05"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+  </iframe>
+
+  <font size="3">
+    <p style="text-align: center">
+      <b>Fontes:</b> <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, 2025
+    </p>
+  </font>
+</div>
+
 ## Histórico de Versões
 
 | Versão |  Data  |  Descrição  |  Autor(es)  |  Revisor(es)  |

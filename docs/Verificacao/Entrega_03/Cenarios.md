@@ -30,7 +30,7 @@ Cada cenário é estruturado com os seguintes elementos: <b>título, metas/objet
     <tr>
       <td><b>01:</b> Os cenários contemplam de forma adequada os principais fluxos de interação entre os atores e o sistema?</td>
       <td><a href="https://imgur.com/a/XEcbjxm" target="_blank">Fonte 1</a></td>
-      <td></td>
+      <td>Sim</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/AhVhdZe" target="_blank">Print 1</a></td>
       <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
@@ -38,7 +38,7 @@ Cada cenário é estruturado com os seguintes elementos: <b>título, metas/objet
     <tr>
       <td><b>02:</b> Os cenários foram elaborados com linguagem clara e acessível, evitando ambiguidades e garantindo compreensão por todos os envolvidos?</td>
       <td><a href="https://imgur.com/a/W2vS86m" target="_blank">Fonte 2</a></td>
-      <td></td>
+      <td>Sim</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/54YRLNF" target="_blank">Print 2</a></td>
       <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
@@ -46,7 +46,7 @@ Cada cenário é estruturado com os seguintes elementos: <b>título, metas/objet
     <tr>
       <td><b>03:</b> As especificações dos cenários estão suficientemente detalhadas e claras para orientar o desenvolvimento, abrangendo todos os elementos necessários e possíveis variações?</td>
       <td><a href="https://imgur.com/a/foNU0F5" target="_blank">Fonte 3</a></td>
-      <td></td>
+      <td>Sim</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/nBUgnSi" target="_blank">Print 3</a></td>
       <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
@@ -54,7 +54,7 @@ Cada cenário é estruturado com os seguintes elementos: <b>título, metas/objet
     <tr>
       <td><b>04:</b> Cada cenário possui um título que identifique de forma objetiva o propósito da interação?</td>
       <td><a href="https://imgur.com/a/8iwDGl8" target="_blank">Fonte 4</a></td>
-      <td></td>
+      <td>Sim</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/T22o1Qy" target="_blank">Print 4</a></td>
       <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
@@ -62,7 +62,7 @@ Cada cenário é estruturado com os seguintes elementos: <b>título, metas/objet
     <tr>
       <td><b>05:</b> Há a identificação clara do ambiente ou contexto da situação que motiva os objetivos e ações do cenário?</td>
       <td><a href="https://imgur.com/a/kDWyvZn" target="_blank">Fonte 5</a></td>
-      <td></td>
+      <td>Sim</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/OK7jz93" target="_blank">Print 5</a></td>
       <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
@@ -70,7 +70,7 @@ Cada cenário é estruturado com os seguintes elementos: <b>título, metas/objet
     <tr>
       <td><b>06:</b> Cada cenário possui um objetivo principal claramente definido?</td>
       <td><a href="https://imgur.com/a/1shX0rB" target="_blank">Fonte 6</a></td>
-      <td></td>
+      <td>Sim</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/nkvSCqj" target="_blank">Print 6</a></td>
       <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a></td>
@@ -78,7 +78,7 @@ Cada cenário é estruturado com os seguintes elementos: <b>título, metas/objet
     <tr>
       <td><b>07:</b> Os cenários incluem pelo menos um ator principal?</td>
       <td><a href="https://imgur.com/a/caxlTC2" target="_blank">Fonte 7</a></td>
-      <td></td>
+      <td>Sim</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/urNDrTr" target="_blank">Print 7</a></td>
       <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
@@ -86,7 +86,7 @@ Cada cenário é estruturado com os seguintes elementos: <b>título, metas/objet
     <tr>
       <td><b>08:</b> Os cenários descrevem claramente o comportamento e as experiências dos atores envolvidos?</td>
       <td><a href="https://imgur.com/a/dIcENiz" target="_blank">Fonte 8</a></td>
-      <td></td>
+      <td>Sim</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/g6P0xU1" target="_blank">Print 8</a></td>
       <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
@@ -94,7 +94,7 @@ Cada cenário é estruturado com os seguintes elementos: <b>título, metas/objet
     <tr>
       <td><b>09:</b> Cada cenário apresenta um contexto que descreve o estado inicial, incluindo pré-condições, local e tempo?</td>
       <td><a href="https://imgur.com/a/0B86uwT" target="_blank">Fonte 9</a></td>
-      <td></td>
+      <td>Sim</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/hO70GL9" target="_blank">Print 9</a></td>
       <td><a href="https://github.com/leticialopes20" target="_blank">Leticia Maria</a></td>
@@ -102,7 +102,7 @@ Cada cenário é estruturado com os seguintes elementos: <b>título, metas/objet
     <tr>
       <td><b>10:</b> Os cenários identificam os recursos (objetos passivos com os quais os atores interagem)?</td>
       <td><a href="https://imgur.com/a/ZMlL59h" target="_blank">Fonte 10</a></td>
-      <td></td>
+      <td>Sim</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/XdwY48T" target="_blank">Print 10</a></td>
       <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>

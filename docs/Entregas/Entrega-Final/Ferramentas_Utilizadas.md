@@ -19,32 +19,42 @@ Durante o desenvolvimento do projeto, diversas ferramentas foram empregadas de a
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Enzo</td>
-      <td>27/06/2025</td>
-      <td>14:10</td>
-    </tr>
-    <tr>
-      <td>Marcelo Makoto</td>
-      <td>05/07/2025</td>
-      <td>15:00</td>
-    </tr>
-    <tr>
-      <td>Victor Pontual</td>
-      <td>06/07/2025</td>
-      <td>10:45</td>
-    </tr>
-    <tr>
-      <td>Maria Eduarda</td>
-      <td>06/07/2025</td>
-      <td>18:10</td>
-    </tr>
+ <tr>
+  <td>Arthur Fernandes</td>
+  <td>16/11/2025</td>
+  <td>01:18</td>
+</tr>
+<tr>
+  <td>Breno Lourenço</td>
+ <td>xx/11/2025</td>
+  <td>00:00</td>
+</tr>
+<tr>
+  <td>Dylan Cavalcante</td>
+  <td>xx/11/2025</td>
+  <td>00:00</td>
+</tr>
+<tr>
+  <td>Eduarda Domingos</td>
+  <td>xx/11/2025</td>
+  <td>00:00</td>
+</tr>
+<tr>
+  <td>Giovana Fontes</td>
+ <td>xx/11/2025</td>
+  <td>00:00</td>
+</tr>
+<tr>
+  <td>Leticia Lopes</td>
+  <td>xx/11/2025</td>
+  <td>00:00</td>
+</tr>
   </tbody>
 </table>
-
 </div>
 
-<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></p>
+
 ## Ferramentas Utilizadas
 
 <font size="3"><p style="text-align: center">Tabela 2: Ferramentas Utilizadas no Projeto</p></font>
@@ -110,4 +120,4 @@ Durante o desenvolvimento do projeto, diversas ferramentas foram empregadas de a
 
 | Versão | Data       | Descrição                         | Autor(es)    | Revisor(es)  |
 |:-----: | :--------: | :------------------------------- | :---------- | :---------- |
-| `1.0`    | 27/06/2025 | Criação da página de Ferramentas Utilizadas | [Arthur Fernandes](https://github.com/arthurfernandesj)   | [Leticia Lopes](https://github.com/leticialopes20) |
+| `1.0`    | 16/11/2025 | Criação da página de Ferramentas Utilizadas | [Arthur Fernandes](https://github.com/arthurfernandesj)   | [Leticia Lopes](https://github.com/leticialopes20) |

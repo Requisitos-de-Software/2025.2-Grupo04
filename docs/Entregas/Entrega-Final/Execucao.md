@@ -209,7 +209,7 @@ Nas tabelas 3-8 abaixo, estão definidas todas as etapas executadas do projeto, 
 | Correção pós Inspeção do grupo 5 | Início: xx/xx <br> Fim: xx/xx | [Arthur](https://github.com/arthurfernandesj), [Breno](https://github.com/BrenoLTeixeira), [Dylan](https://github.com/dylancavalcante), [Eduarda](https://github.com/eduardar0), [Giovana](https://github.com/GiovanaFontesS), [Leticia](https://github.com/leticialopes20) | Início: xx/xx <br> Fim: xx/xx | [Leticia](https://github.com/leticialopes20) |
 | Correção pós apresentação | Início: xx/xx <br> Fim: xx/xx | [Arthur](https://github.com/arthurfernandesj), [Breno](https://github.com/BrenoLTeixeira), [Dylan](https://github.com/dylancavalcante), [Eduarda](https://github.com/eduardar0), [Giovana](https://github.com/GiovanaFontesS), [Leticia](https://github.com/leticialopes20) | Início: xx/xx <br> Fim: xx/xx | [Arthur](https://github.com/arthurfernandesj), [Dylan](https://github.com/dylancavalcante) |
 
-<font size="2"><p style="text-align: center">Autor(a): [Leticia Lopes](https://github.com/leticialopes20)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Leticia Lopes](https://github.com/leticialopes20)</p></font>
 
 <br>
 ### Entrega 2: Elicitação e Priorização de Requisitos
@@ -234,7 +234,7 @@ Nas tabelas 3-8 abaixo, estão definidas todas as etapas executadas do projeto, 
 | Formulação de Perfil de Usuário | Início: xx/xx <br> Fim: xx/xx |  | Início: xx/xx <br> Fim: xx/xx |  |
 | Gravação da Apresentação | Início: xx/xx <br> Fim: xx/xx |  | Início: xx/xx <br> Fim: xx/xx |  |
 
-<font size="2"><p style="text-align: center">Autor(a): [Arthur Fernandes](https://github.com/arthurfernandes)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj) </p></font>
 
 <br>
 ### Entrega 3: Modelagem de Requisitos I
@@ -253,7 +253,7 @@ Nas tabelas 3-8 abaixo, estão definidas todas as etapas executadas do projeto, 
 | Criação da Especificação Suplementar | Início: xx/xx <br> Fim: xx/xx |  | Início: xx/xx <br> Fim: xx/xx |  |
 | Gravação da Apresentação | Início: xx/xx <br> Fim: xx/xx |  | Início: xx/xx <br> Fim: xx/xx |  |
 
-<font size="2"><p style="text-align: center">Autor(a): [Leticia Lopes](https://github.com/leticialopes20)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Leticia Lopes](https://github.com/leticialopes20)</p></font>
 
 <br>
 
@@ -268,7 +268,7 @@ Nas tabelas 3-8 abaixo, estão definidas todas as etapas executadas do projeto, 
 | Implementação do NFR Framework | Início: xx/xx <br> Fim: xx/xx |  | Início: xx/xx <br> Fim: xx/xx |  |
 | Gravação da Apresentação | Início: xx/xx <br> Fim: xx/xx |  | Início: xx/xx <br> Fim: xx/xx |  |
 
-<font size="2"><p style="text-align: center">Autor(a): [Arthur Fernandes](https://github.com/arthurfernandes)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj) </p></font>
 
 ### Entrega 5: Verificação e Validação
 
@@ -282,7 +282,7 @@ Nas tabelas 3-8 abaixo, estão definidas todas as etapas executadas do projeto, 
 | Validação: Comprovação Informal | Início: xx/xx <br> Fim: xx/xx |  | Início: xx/xx <br> Fim: xx/xx |  |
 | Gravar apresentação | Início: xx/xx <br> Fim: xx/xx |  | Início: xx/xx <br> Fim: xx/xx |  |
 
-<font size="2"><p style="text-align: center">Autor(a): [Arthur Fernandes](https://github.com/arthurfernandes)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj) </p></font>
 
 <br>
 ### Entrega 6: Pós-Rastreabilidade
@@ -297,12 +297,12 @@ Tabela 8: *Cronograma Executado da Entrega 6*
 | Gravação da Apresentação | Início: xx/xx <br> Fim: xx/xx |  | Início: xx/xx <br> Fim: xx/xx |  |
 
 
-<font size="2"><p style="text-align: center">Autor(a): [Arthur Fernandes](https://github.com/arthurfernandes)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj) </p></font>
 
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                         | Autor(es)    | Revisor(es)  |
 |:-----: | :--------: | :------------------------------- | :---------- | :---------- |
-| `1.0`    | 15/11/2025 | Criação da página da Execução | [Arthur Fernandes](https://github.com/arthurfernandesj)   | [Giovana Fontes](https://github.com/) |
+| `1.0`    | 15/11/2025 | Criação da página da Execução | [Arthur Fernandes](https://github.com/arthurfernandesj)   | [Giovana Fontes](https://github.com/GiovanaFontesS) |
 | `1.1`    | 16/11/2025 | Tabela de Resumo da Execução do Projeto | [Arthur Fernandes](https://github.com/arthurfernandesj)  | [Leticia Lopes](https://github.com/leticialopes20) |
 

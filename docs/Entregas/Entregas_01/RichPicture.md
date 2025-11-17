@@ -45,6 +45,6 @@ _Figura 2: Legenda oficial da Rich Picture do ID Jovem._
 
 | Versão | Data       | Descrição                                   | Autor       | Revisor          |
 | :----- | :--------- | :------------------------------------------ | :---------- | :--------------- |
-| 1.0    | 08/09/2025 | Criação do documento para o projeto IdJovem | Danilo Melo | Arthur Fernandes |
-| 1.2    | 16/09/2025 | Atualização nas legendas                    | Arthur Fernandes | Giovana |
-| 1.3    | 18/09/2025 | Alteração Rich Picture e Legenda                    | Giovana | Arthur Fernandes |
+| 1.0    | 08/09/2025 | Criação do documento para o projeto IdJovem | Danilo Melo | [Arthur Fernandes](https://github.com/arthurfernandesj)|
+| 1.2    | 16/09/2025 | Atualização nas legendas                    | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Giovana Fontes](https://github.com/giovanaFontesS)|
+| 1.3    | 18/09/2025 | Alteração Rich Picture e Legenda                    |[Giovana Fontes](https://github.com/giovanaFontesS) | [Arthur Fernandes](https://github.com/arthurfernandesj)|

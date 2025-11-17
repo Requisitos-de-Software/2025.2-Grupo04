@@ -78,7 +78,7 @@ Tabela 01: Cronograma executado para todas as atividades da primeira entrega
 <td style="text-align: left">Arthur, Breno, Dylan, Eduarda, Giovana e Letícia</td>
 </tr>
 <tr>
-<td style="text-align: left">vericação e inspeção</td>
+<td style="text-align: left">Inspeção</td>
 <td style="text-align: left">Arthur, Breno, Dylan, Eduarda, Giovana e Letícia</td>
 <td style="text-align: left">11/09/2025 - 28/09/2025</td>
 <td style="text-align: left">18/11/2025</td>
@@ -183,13 +183,6 @@ Tabela 02: Cronograma executado para todas as atividades da segunda entrega
 <td style="text-align: left">27/09/2025 - 28/09/2025</td>
 <td style="text-align: left">10/10/2025</td>
 <td style="text-align: left">Eduarda</td>
-</tr>
-<tr>
-<td style="text-align: left">vericação</td>
-<td style="text-align: left">XXXX</td>
-<td style="text-align: left">XXXX</td>
-<td style="text-align: left">XXXX</td>
-<td style="text-align: left">XXXX</td>
 </tr>
 <tr>
 <td style="text-align: left">vericação grupo n+1</td>
@@ -410,7 +403,7 @@ Tabela 05: Cronograma executado para todas as atividades da quinta entrega
 <td style="text-align: left">Arthur, Breno, Dylan, Eduarda, Giovana e Letícia</td>
 <td style="text-align: left">19/10/2025 - 21/10/2025</td>
 <td style="text-align: left">21/10/2025</td>
-<td style="text-align: left">Dylan</td>
+<td style="text-align: left">Giovana</td>
 </tr>
 <tr>
 <td style="text-align: left">vericação grupo n+1</td>

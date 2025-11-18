@@ -123,17 +123,18 @@ nav:
               - Inspeção: Entregas/Entregas_04/Modelagem_II/Verificacao_e_Inspecao.md
               - Verificação grupo n+1: Entregas/Entregas_04/Modelagem_II/Inspecao04.md
 
-      - Entrega 05:
+      - Entrega 05: 
+          - Verificação e inspeção:
+            - Inspeção: Entregas/Entrega_05/Verificacao_grupo.md
+            - Verificação grupo n+1: Entregas/Entrega_05/Inspecao_grupo.md
+
+      - Entrega 06:
           - Matriz de Rastreabilidade: Entregas/Entregas_05/Matriz_de_Rastreabilidade.md
           - Elos: Entregas/Entregas_05/Elos.md
           - Verificação e inspeção: 
               - Inspeção: Entregas/Entregas_05/verificacao_inspecao/inspecao_grupo04.md
               - Verificação grupo n+1: Entregas/Entregas_05/verificacao_inspecao/verificacao_grupo05.md
 
-      - Entrega 06: 
-          - Verificação e inspeção:
-            - Inspeção: Entregas/Entrega_05/Verificacao_grupo.md
-            - Verificação grupo n+1: Entregas/Entrega_05/Inspecao_grupo.md
 
       - Entrega Final:
           - Conclusão: Entregas/Entrega-Final/Conclusao.md

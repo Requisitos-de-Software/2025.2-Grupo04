@@ -1,4 +1,4 @@
-# Entrega 1
+# Verificação n+1
 
 ## Introdução
 
@@ -6,10 +6,24 @@ A Entrega 1 correspondeu à estrutura inicial que servirá de guia para o time n
 
 ## Gravação
 
-[![Assista à gravação](https://img.youtube.com/vi/ukdPft-PSpA/0.jpg)](https://youtu.be/ukdPft-PSpA?feature=shared)     
 ---
 
-## Lista de Verificação e inspeção da Entrega 1
+<p align="center"> 
+<iframe width="560" height="315" 
+          src="https://www.youtube.com/embed/ukdPft-PSpA" 
+          title="YouTube video player" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+          referrerpolicy="strict-origin-when-cross-origin" 
+          allowfullscreen>
+  </iframe>
+</p>
+
+<p style="text-align: center; font-size: 10pt;">Gravação da verificação feita pelo grupo 04 <a href="https://youtu.be/ukdPft-PSpA">(Assistir aqui)</a></p>
+
+---
+
+## Lista de Verificação grupo n+1
 
 ### Equipe
 
@@ -70,5 +84,6 @@ A Entrega 1 correspondeu à estrutura inicial que servirá de guia para o time n
 | `1.1`  | 16/09/2025 | Mudança na descrição de avaliação | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Dylan Cavalcante](https://github.com/dylancavalcante) |
 | `1.2`  | 18/09/2025 | Remoção da coluna autores e refatoração das planilhas | [Dylan Cavalcante](https://github.com/dylancavalcante) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
 | `1.3`  | 31/10/2025 | Criação do documento ao aplicativo ID Jovem | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+| `1.4`  | 18/11/2025 | Revisão e alteração da documentação | [Dylan Cavalcante](https://github.com/dylancavalcante)  | [Arthur Fernandes](https://github.com/arthurfernandesj) |
 
 

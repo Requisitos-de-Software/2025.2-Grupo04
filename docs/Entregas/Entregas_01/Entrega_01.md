@@ -30,10 +30,10 @@ A inspeção na entrega 1 consiste na base inicial que guiará o time nas próxi
 
 | Item    | Fontes |    Avaliação    |                 Observação                 |   Print    |  Avaliador(es)   |
 | :-------------------------------------------------------------------------------------------------- | :-------: | :---------: | :-------------------------------------------: | :--------------: | :--------------: |
-| **_01:_** Os membros da equipe foram definidos?                                         | [André Barros](#RP2) | Conforme  |    | [image1](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7) |[Arthur Fernandes](https://github.com/arthurfernandesj) |
-| **_02:_** Os papéis e responsabilidades de cada membro estão claros?                    | [André Barros](#RP2)  | Conforme   | | [image2](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7)  |[Arthur Fernandes](https://github.com/arthurfernandesj) |
-| **_03:_** A forma de comunicação entre os membros foi estabelecida?                    | [André Barros](#RP2)  | Conforme  |       | [image3](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7) | [Eduarda Rodrigues](https://github.com/eduardar0) |
-| **_04:_** Há encontros periódicos agendados para acompanhamento do progresso da equipe? | [André Barros](#RP2)  | Conforme |      |[image4](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7)  |[Eduarda Rodrigues](https://github.com/eduardar0)|
+| **_01:_** Os membros da equipe foram definidos?                                         | [André Barros](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7) | Conforme  |    | [Print 1](https://imgur.com/lhRRhkS) |[Arthur Fernandes](https://github.com/arthurfernandesj) |
+| **_02:_** Os papéis e responsabilidades de cada membro estão claros?                    | [André Barros](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7)  | Conforme   | | [Print 2](https://imgur.com/oq5eqkr)  |[Arthur Fernandes](https://github.com/arthurfernandesj) |
+| **_03:_** A forma de comunicação entre os membros foi estabelecida?                    | [André Barros](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7)  | Conforme  |       | [Print 3](https://imgur.com/Sn9RZTW) | [Eduarda Rodrigues](https://github.com/eduardar0) |
+| **_04:_** Há encontros periódicos agendados para acompanhamento do progresso da equipe? | [André Barros](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7)  | Conforme |      |[Print 4](https://imgur.com/YaPLdJK)  |[Eduarda Rodrigues](https://github.com/eduardar0)|
 
 <p style="text-align: center; font-size: 10pt;">Autor: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
 
@@ -41,9 +41,9 @@ A inspeção na entrega 1 consiste na base inicial que guiará o time nas próxi
 
 | Item    | Fontes |    Avaliação    |                 Observação                 |   Print    |  Avaliador(es)   |
 | :------------------------------------------------------------------------- | :-------: | :---------: | :------------------------------------------: | :--------------: |:--------------: |
-| **_05:_** O aplicativo foi claramente escolhido e justificado? | [André Barros](#RP2)  |  Conforme    |     | [image5](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7) | [Dylan Cavalcante](https://github.com/dylancavalcante)|
-| **_06:_** As funcionalidades principais do app estão listadas?  | [André Barros](#RP2)  | Conforme    |    | [image6](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7) | [Dylan Cavalcante](https://github.com/dylancavalcante) |
-| **_07:_** O público-alvo do app está identificado?             | [André Barros](#RP2)  | Conforme    |     | [image7](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7) | [Letícia Lopes](https://github.com/leticialopes20)|
+| **_05:_** O aplicativo foi claramente escolhido e justificado? | [André Barros](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7)  |  Conforme    |     | [Print 5](https://imgur.com/Mn7KKV8) | [Dylan Cavalcante](https://github.com/dylancavalcante)|
+| **_06:_** As funcionalidades principais do app estão listadas?  | [André Barros](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7)  | Conforme    |    | [Print 6](https://imgur.com/7HQXckT) | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+| **_07:_** O público-alvo do app está identificado?             | [André Barros](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7)  | Conforme    |     | [Print 7](https://imgur.com/HYB3h4Y) | [Letícia Lopes](https://github.com/leticialopes20)|
 
  <p style="text-align: center; font-size: 10pt;">Autor: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
 
@@ -51,10 +51,10 @@ A inspeção na entrega 1 consiste na base inicial que guiará o time nas próxi
 
 | Item    | Fontes |    Avaliação    |                 Observação                 |   Print    |  Avaliador(es)   |
 | :----------------------------------------------------------------------------------------------------- | :-------: | :----------: | :------------------------------------------: | :-------------: |:-------------: |
-| **_08:_** As ferramentas de desenvolvimento foram selecionadas?                      | [André Barros](#RP2)     | Conforme  | | [image8](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7)   |  [Breno Texeira](https://github.com/BrenoLTeixeira) |
-| **_09:_** Ferramentas de versionamento (ex: Git) estão definidas?                     | [André Barros](#RP2)     | Conforme  |  | [image9](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7)   | [Breno Texeira](https://github.com/BrenoLTeixeira)|
-| **_10:_** Ferramentas de comunicação e organização (ex: Trello, Discord) foram escolhidas? | [André Barros](#RP2)  | Conforme  |  | [image10](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7)  | [Letícia Lopes](https://github.com/leticialopes20) |
-| **_11:_** Há uma estratégia definida para backup e recuperação das informações do projeto? | [André Barros](#RP2) | Conforme  | | [image9](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7)   | [Giovana Fontes](https://github.com/GiovanaFontesS) |
+| **_08:_** As ferramentas de desenvolvimento foram selecionadas?                      | [André Barros](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7)     | Conforme  | | [Print 8](https://imgur.com/br26Wil)   |  [Breno Texeira](https://github.com/BrenoLTeixeira) |
+| **_09:_** Ferramentas de versionamento (ex: Git) estão definidas?                     | [André Barros](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7)     | Conforme  |  | [Print 9](https://imgur.com/thyerfE)   | [Breno Texeira](https://github.com/BrenoLTeixeira)|
+| **_10:_** Ferramentas de comunicação e organização (ex: Trello, Discord) foram escolhidas? | [André Barros](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7)  | Conforme  |  | [Print 10](https://imgur.com/RxNd8l9)  | [Letícia Lopes](https://github.com/leticialopes20) |
+| **_11:_** Há uma estratégia definida para backup e recuperação das informações do projeto? | [André Barros](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7) | Conforme  | | [Print 9](https://imgur.com/thyerfE)   | [Giovana Fontes](https://github.com/GiovanaFontesS) |
 
 <p style="text-align: center; font-size: 10pt;">Autor: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
 
@@ -62,11 +62,11 @@ A inspeção na entrega 1 consiste na base inicial que guiará o time nas próxi
 
 | Item                               |  Fontes                               | Avaliação |  Observação |  Print     |                Avaliador(es)                 |  
 | :------------------------------------------------------------------------- | :-------: | :----------: | :------------------------------------------: | :--------------: |:--------------: |
-| **_12:_** As atividades do projeto estão listadas e descritas? | [André Barros](#RP2)      | Conforme  |  | [image11](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7) | [Giovana Fontes](https://github.com/GiovanaFontesS) | 
-| **_13:_** Cada atividade tem uma estimativa de duração?     | [André Barros](#RP2)      | Conforme  |  | [image11](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7) |     [Danilo Melo](https://github.com/EngDann)     | 
-| **_14:_** As datas de início e fim do projeto estão definidas?  | [André Barros](#RP2) | Conforme  |  | [image11](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7)|     [Danilo Melo](https://github.com/EngDann)     | 
-| **_15:_** As dependências entre atividades foram consideradas? | [André Barros](#RP2) | Conforme  | |  [image12](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7) |     [Danilo Melo](https://github.com/EngDann)     | 
-| **_16:_** O cronograma está sendo acompanhado e atualizado?     | [André Barros](#RP2) | Conforme  |  | [image13](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7) |  [Breno Texeira](https://github.com/BrenoLTeixeira)  | 
+| **_12:_** As atividades do projeto estão listadas e descritas? | [André Barros](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7)      | Conforme  |  | [Print 11](https://imgur.com/wz9Vtjx) | [Giovana Fontes](https://github.com/GiovanaFontesS) | 
+| **_13:_** Cada atividade tem uma estimativa de duração?     | [André Barros](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7)      | Conforme  |  | [Print 11](https://imgur.com/wz9Vtjx) |     [Danilo Melo](https://github.com/EngDann)     | 
+| **_14:_** As datas de início e fim do projeto estão definidas?  | [André Barros](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7) | Conforme  |  | [Print 11](https://imgur.com/wz9Vtjx)|     [Danilo Melo](https://github.com/EngDann)     | 
+| **_15:_** As dependências entre atividades foram consideradas? | [André Barros](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7) | Conforme  | |  [Print 11](https://imgur.com/wz9Vtjx) |     [Danilo Melo](https://github.com/EngDann)     | 
+| **_16:_** O cronograma está sendo acompanhado e atualizado?     | [André Barros](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7) | Conforme  |  | [Print 11](https://imgur.com/wz9Vtjx) |  [Breno Texeira](https://github.com/BrenoLTeixeira)  | 
 
 <p style="text-align: center; font-size: 10pt;">Autor: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
 
@@ -74,11 +74,11 @@ A inspeção na entrega 1 consiste na base inicial que guiará o time nas próxi
 
 | Item                               |  Fontes                               | Avaliação |  Observação |  Print     |                Avaliador(es)                 |  
 | :------------------------------------------------------------------------------------- | :-------: | :----------: | :-------------------------------------------: | :--------------: |:--------------: |
-| **_17:_** O Rich Picture representa todos os atores envolvidos no sistema?  | [UnB](#RP1) | Conforme  |  |  [image14](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7) | [Giovanna Fontes](https://github.com/GiovanaFontesS) | 
-| **_18:_** Os fluxos de informação entre os elementos estão ilustrados?     | [UnB](#RP1)  | Conforme  |  | [image15](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7) | [Giovana Fontes](https://github.com/GiovanaFontesS)  | 
-| **_19:_** As principais operações do sistema estão representadas?           | [UnB](#RP1)  | Conforme  |  | [image16](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7) | [Arthur Fernandes](https://github.com/arthurfernandesj) | 
-| **_20:_** Os limites do sistema estão claramente indicados?                | [UnB](#RP1)  |  Conforme |  | [image17](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7) |  [Dylan Cavalcante](https://github.com/dylancavalcante)  | 
-| **_21:_** O Rich Picture foi validado com a equipe ou stakeholders?         | [André Barros](#RP2) | Conforme  |  | [image18](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7) |    [Eduarda Rodrigues](https://github.com/eduardar0)    | 
+| **_17:_** O Rich Picture representa todos os atores envolvidos no sistema?  | [UnB](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7) | Conforme  |  |  [Print 14](https://imgur.com/si8CSXa) | [Giovanna Fontes](https://github.com/GiovanaFontesS) | 
+| **_18:_** Os fluxos de informação entre os elementos estão ilustrados?     | [UnB](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7)  | Conforme  |  | [Print 15](https://imgur.com/si8CSXa) | [Giovana Fontes](https://github.com/GiovanaFontesS)  | 
+| **_19:_** As principais operações do sistema estão representadas?           | [UnB](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7)  | Conforme  |  | [Print 16](https://imgur.com/si8CSXa) | [Arthur Fernandes](https://github.com/arthurfernandesj) | 
+| **_20:_** Os limites do sistema estão claramente indicados?                | [UnB](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7)  |  Conforme |  | [Print 17](https://imgur.com/si8CSXa) |  [Dylan Cavalcante](https://github.com/dylancavalcante)  | 
+| **_21:_** O Rich Picture foi validado com a equipe ou stakeholders?         | [André Barros](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7) | Conforme  |  | [Print 18](https://imgur.com/cfUrKpm) |    [Eduarda Rodrigues](https://github.com/eduardar0)    | 
 
 <p style="text-align: center; font-size: 10pt;">Autor: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
 

@@ -1,9 +1,9 @@
 # 100 Dólares
 
 ## **Introdução**
-A técnica dos 100 Dólares é uma técnica de priorização colaborativa que simula a alocação de recursos limitados para apoiar equipes na definição de quais requisitos ou funcionalidades são mais importantes em um projeto. Cada participante recebe $100 fictícios para distribuir entre os itens, atribuindo mais dinheiro aos que considera mais valiosos. A priorização se torna mais tangível ao ser expressa em termos de um recurso real: dinheiro (neste caso, "dinheiro de mentira")<a id="anchor_1" href="#QT1">[1]</a>.
+A técnica dos 100 Dólares é uma técnica de priorização colaborativa que simula a alocação de recursos limitados para apoiar equipes na definição de quais requisitos ou funcionalidades são mais importantes em um projeto. Cada participante recebe $100 fictícios para distribuir entre os itens, atribuindo mais dinheiro aos que considera mais valiosos. Conforme descrito por <a id="anchor_1" href="#QT1">Wiegers e Beatty (2013)</a>, esta abordagem torna o processo de priorização mais tangível ao expressá-lo em termos de um recurso familiar: dinheiro (neste caso, "dinheiro de mentira").
 
-## **Qual o objetivo da Técnica?**
+### **Qual o objetivo da Técnica?**
 
 A técnica busca alocar recursos limitados de forma ponderada para alcançar o máximo benefício em um projeto. A priorização se torna mais tangível ao ser expressa em termos de um recurso real: dinheiro (neste caso, "dinheiro de mentira").
 
@@ -11,7 +11,7 @@ A técnica busca alocar recursos limitados de forma ponderada para alcançar o m
 2.  Gera dados quantitativos: permite classificar os requisitos de forma colaborativa;
 3.  Estimula negociação saudável: promove discussões sobre as diferentes visões de valor.
 
-## **Como se usa?**
+### **Como se usa?**
 
 O processo é simples e participativo:
 
@@ -22,12 +22,12 @@ O processo é simples e participativo:
 5.  As alocações de valores individuais são consolidadas em uma planilha única;
 6.  Ao final, os valores atribuídos a cada requisito são somados para determinar quais deles possuem a maior prioridade coletiva.
 
-## **Vantagens**
+### **Vantagens**
 
 1.  O uso de um valor monetário torna o processo de priorização mais concreto e fácil de entender para todos os envolvidos.
 2.  Força uma negociação e um debate saudáveis sobre o que realmente agrega valor ao produto.
 
-## **Desvantagens**
+### **Desvantagens**
 
 1.  Os participantes podem "manipular" o processo para distorcer os resultados. Por exemplo, um membro pode alocar todos os seus 100 dólares a um único requisito que deseja muito, o que não é uma abordagem realista e pode inflar artificialmente a prioridade de um item.
 2.  A técnica não leva em consideração o esforço relativo (custo de desenvolvimento) necessário para implementar cada requisito. A equipe pode acabar priorizando um item de $15 que custa o mesmo que três itens de $10, sendo que os três itens poderiam agregar mais valor.
@@ -35,8 +35,12 @@ O processo é simples e participativo:
 
 ## Participantes
 
+#### Legenda
+Mediador: responsável por conduzir a sessão de aplicação da técnica;
+Equipe: colaboradores na aplicação da técnica;
+Usuário: responsável por atribuir 
 <div align="center">
-<p style="text-align: center; font-size: 12pt;"><strong>Tabela 1:</strong> Participantes</p>
+<p style="text-align: center; font-size: 12pt;"><strong>Tabela 1:</strong> Participantes da primeira aplicação da técnica</p>
 <table>
   <thead>
     <tr>
@@ -50,7 +54,7 @@ O processo é simples e participativo:
   </thead>
   <tbody>
     <tr>
-      <td rowspan="4"><strong>Sessão 2</strong></td>
+      <td rowspan="4"><strong>Sessão 1</strong></td>
       <td>Mediador</td>
       <td><a href="https://github.com/leticialopes20">Letícia Lopes</a></td>
       <td>29/09/2025</td>
@@ -75,6 +79,61 @@ O processo é simples e participativo:
       <td>Usuário</td>
       <td>Noemy</td>
       <td>29/09/2025</td>
+      <td>12:00</td>
+      <td>UnB Campus Gama</td>
+    </tr>
+  </tbody>
+</table>
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/leticialopes20">Letícia Lopes</a>, 2025.</p>
+</div>
+
+<div align="center">
+<p style="text-align: center; font-size: 12pt;"><strong>Tabela 2:</strong> Participantes da segunda aplicação da técnica</p>
+<table>
+  <thead>
+    <tr>
+      <th>Sessão</th>
+      <th>Papel</th>
+      <th>Nome</th>
+      <th>Data</th>
+      <th>Hora</th>
+      <th>Local</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="5"><strong>Sessão 2</strong></td>
+      <td>Mediador</td>
+      <td><a href="https://github.com/leticialopes20">Letícia Lopes</a></td>
+      <td>10/11/2025</td>
+      <td>12:00</td>
+      <td>UnB Campus Gama</td>
+    </tr>
+    <tr>
+      <td>Equipe</td>
+      <td><a href="https://github.com/eduardar0">Eduarda Domingos</a></td>
+      <td>10/11/2025</td>
+      <td>12:00</td>
+      <td>UnB Campus Gama</td>
+    </tr>
+    <tr>
+      <td>Equipe</td>
+      <td><a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></td>
+      <td>10/11/2025</td>
+      <td>12:00</td>
+      <td>UnB Campus Gama</td>
+    </tr>
+    <tr>
+      <td>Usuário</td>
+      <td>Noemy</td>
+      <td>10/11/2025</td>
+      <td>12:00</td>
+      <td>UnB Campus Gama</td>
+    </tr>
+      <tr>
+      <td>Usuário</td>
+      <td>Yasmin</td>
+      <td>10/11/2025</td>
       <td>12:00</td>
       <td>UnB Campus Gama</td>
     </tr>
@@ -114,10 +173,11 @@ Com o objetivo de registrar o estudo e realização da técnica de priorização
 
 ## Aplicação da Técnica
 
-A técnica foi aplicada de forma individual, sendo que cada participante aplicou a técnica de acordo com sua própria planilha. A Tabela 2 mostra os dados consolidados em uma única planilha, com os valores atribuídos a cada requisito, somados e filtrados por ordem de prioridade (do maior para o menor valor).
+**Nota Metodológica:** Conforme a fundamentação teórica corrigida, esta priorização foi realizada exclusivamente com as usuárias reais na distribuição dos dólares, com a equipe atuando apenas como apoio, garantindo que os resultados reflitam genuinamente o valor percebido pelo stakeholder.
+A Tabela 2 mostra os dados consolidados em uma única planilha, com os valores atribuídos a cada requisito, somados e filtrados por ordem de prioridade (do maior para o menor valor).
 
 <div align="center">
-<p style="text-align: center; font-size: 12pt;"><strong>Tabela 2:</strong> Planilha de priorização dos 100 dólares.</p>
+<p style="text-align: center; font-size: 12pt;"><strong>Tabela 3:</strong> Planilha de priorização dos 100 dólares.</p>
 <table>
     <thead>
         <tr>

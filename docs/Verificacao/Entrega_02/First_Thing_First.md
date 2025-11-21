@@ -92,7 +92,7 @@
   <tbody>
     <tr>
       <td><b>01:</b> Existe um cronograma com data para realização da priorização dos requisitos?</td>
-      <td><a href="https://imgur.com/a/meAxELs" target="_blank">Fonte 1</a></td>
+      <td><a href="https://imgur.com/a/meAxELs" target="_blank">SERRANO, Milene; SERRANO, Mauricio. *Requisitos – Aula 07*</a></td>
       <td>Sim</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/k2fhhsH" target="_blank">Print 1</a></td>
@@ -100,7 +100,7 @@
     </tr>
     <tr>
       <td><b>02:</b> O local para a priorização foi definido?</td>
-      <td><a href="https://imgur.com/a/NJDhW26" target="_blank">Fonte 2</a></td>
+      <td><a href="https://imgur.com/a/NJDhW26" target="_blank">SERRANO, Milene; SERRANO, Mauricio. *Requisitos – Aula 07*</a></td>
       <td>Sim</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/dJx1PoD" target="_blank">Print 2</a></td>
@@ -108,7 +108,7 @@
     </tr>
     <tr>
       <td><b>03:</b> O cronograma e local da priorização foram definidos com o cliente e/ou persona?</td>
-      <td><a href="https://imgur.com/a/SYR4M1j" target="_blank">Fonte 3</a></td>
+      <td><a href="https://imgur.com/a/SYR4M1j" target="_blank">SERRANO, Milene; SERRANO, Mauricio. *Requisitos – Aula 07*</a></td>
       <td>Sim</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/dJx1PoD" target="_blank">Print 3</a></td>
@@ -116,7 +116,7 @@
     </tr>
     <tr>
       <td><b>04:</b> Foi feita uma lista de todos os requisitos a serem priorizados em uma planilha antes do início da técnica?</td>
-      <td><a href="https://imgur.com/a/jnI5orQ" target="_blank">Fonte 4</a></td>
+      <td><a href="https://imgur.com/a/jnI5orQ" target="_blank">SERRANO, Milene; SERRANO, Mauricio. *Requisitos – Aula 07*</a></td>
       <td>Sim</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/RQ7Kckz" target="_blank">Print 4</a></td>
@@ -124,7 +124,7 @@
     </tr>
     <tr>
       <td><b>05:</b> Determinou-se uma escala de prioridade para ser aplicada (ex: 1-9)?</td>
-      <td><a href="https://imgur.com/a/TURbSNQ" target="_blank">Fonte 5</a></td>
+      <td><a href="https://imgur.com/a/TURbSNQ" target="_blank">SERRANO, Milene; SERRANO, Mauricio. *Requisitos – Aula 07*</a></td>
       <td>Sim</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/wIvIUSP" target="_blank">Print 5</a></td>
@@ -132,7 +132,7 @@
     </tr>
     <tr>
       <td><b>06:</b> Houve validação da priorização com a equipe e stakeholders?</td>
-      <td><a href="https://imgur.com/a/gBfZpLj" target="_blank">Fonte 6</a></td>
+      <td><a href="https://imgur.com/a/gBfZpLj" target="_blank">SERRANO, Milene; SERRANO, Mauricio. *Requisitos – Aula 07*</a></td>
       <td>Não</td>
       <td>-</td>
       <td>-</td>

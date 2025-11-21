@@ -1,6 +1,6 @@
 ## Introdução
 
-<p style="text-align: justify;">Com o objetivo de garantir a qualidade e a consistência do artefato <b>Entrevista</b>, foi realizada uma verificação seguindo as diretrizes estabelecidas no planejamento da entrega. O processo avaliou a completude, clareza, rastreabilidade e conformidade do documento com as boas práticas de elicitação de requisitos.</p>
+Com o objetivo de garantir a qualidade e a consistência do artefato [Entrevista](https://requisitos-de-software.github.io/2025.2-Grupo04/Verificacao/Entrega_02/Entrevista/) , foi realizada uma verificação seguindo as diretrizes estabelecidas no planejamento da entrega. O processo avaliou a completude, clareza, rastreabilidade e conformidade do documento com as boas práticas de elicitação de requisitos.
 
 <p style="text-align: justify;">A análise foi fundamentada nos conceitos de elicitação e documentação de entrevistas descritos na obra <i>Engenharia de Requisitos: Software Orientado ao Negócio</i>, de Vazquez e Simões.<a id="anchor_1" href="#REF1"><sup>1</sup></a></p>
 
@@ -9,11 +9,11 @@
 
 ## Objetivo 
 
-<p style="text-align: justify;">O presente documento tem como finalidade relatar os resultados obtidos na verificação do artefato <b>Entrevista</b> do aplicativo <b>ID Jovem</b> (<a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/" target="_blank">link</a>), em sua versão 1.3, datada de 10/10/2025 , integrante da Entrega 2 do grupo 4.</p>
+<p style="text-align: justify;">O presente documento tem como finalidade relatar os resultados obtidos na verificação do artefato <b>Entrevista</b> do aplicativo <b>ID Jovem</b> (<a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Verificacao/Entrega_02/Entrevista/" target="_blank">Entrevista</a>), em sua versão 1.3, datada de 10/10/2025 , integrante da Entrega 2 do grupo 4.</p>
 
 ## Metodologia 
 
-<p style="text-align: justify;">A verificação foi conduzida com base na checklist definida no <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Verificacao/Entrega_02/Planejamento_Verificacao_E2/" target="_blank">Planejamento de Verificação da Entrega 2</a>. Para cada item da lista, os avaliadores marcaram <b>Conforme</b>, <b>Não Conforme</b> ou <b>Incompleto</b>, além de incluir observações quando necessário.</p>
+<p style="text-align: justify;">A verificação foi conduzida com base na checklist definida no <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Verificacao/Entrega_02/Entrevista/" target="_blank">Planejamento de Verificação da Entrega 2</a>. Para cada item da lista, os avaliadores marcaram <b>Conforme</b>, <b>Não Conforme</b> ou <b>Incompleto</b>, além de incluir observações quando necessário.</p>
 
 <h3 style="text-align: center;">Tabela 1: Participantes da Verificação</h3>
 
@@ -207,8 +207,15 @@ O artefato <b>Entrevista</b> cumpre seu objetivo de elicitar e documentar os req
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :--: | :--: | :-- | :-- | :-- |
 | 1.0 | 12/11/2025 | Criação da página de verificação no formato HTML | [Dylan Cavalcante](https://github.com/dylancavalcante) | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+| 1.1 | 21/11/2025 | Correções | [Giovana Fontes](https://github.com/dylancavalcante) | [Dylan Cavalcante](https://github.com/dylancavalcante)
 
 
 ## Agradecimentos
 
-De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta (Gemini) foi utilizada apenas como apoio técnico e linguístico. Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.
+<p style="text-align: justify;">
+Queremos agradecer ao Chat GPT, ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto First Things First. Sua ajuda foi essencial na revisão de textos, organização das ideias e pesquisa de conteúdos complementares, contribuindo para deixar nossa documentação mais clara e completa.
+</p>
+
+<p style="text-align: justify;">
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico. Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.
+</p>

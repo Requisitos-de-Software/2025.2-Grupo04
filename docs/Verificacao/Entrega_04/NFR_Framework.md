@@ -1,7 +1,7 @@
 ## Lista de Verificação 2.3 do NFR Framework 
 
-<p style="text-align: justify;">
-A seguir, apresenta-se a tabela com os itens utilizados na verificação do artefato NFR Framework, aplicado no contexto do aplicativo ID Jovem. 
+
+A seguir, apresenta-se a tabela com os itens utilizados na verificação do artefato [NRF Framework](https://requisitos-de-software.github.io/2025.2-Grupo04/Verificacao/Entrega_04/NFR_Framework/), aplicado no contexto do aplicativo ID Jovem. 
 Essa verificação tem como objetivo assegurar que os requisitos não funcionais foram representados e analisados de forma sistemática, 
 coerente e alinhada aos objetivos definidos no planejamento. Além disso, busca-se garantir que o modelo NFR (Non-Functional Requirements Framework) 
 foi corretamente aplicado, com a definição de softgoals, interdependências e critérios de qualidade que contribuam para o entendimento e 
@@ -118,3 +118,13 @@ Após a análise da primeira versão da tabela de verificação referente ao NFR
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :--: | :--: | :-- | :-- | :-- |
 | 1.0 | 11/11/2025 | Criação de Verificação NFR Frameworkl | [Arthur Fernandes](https://github.com/arthurfernandesj) | [ Dylan Cavalcante ](https://github.com/dylancavalcante) |
+| 1.1 | 21/11/2025 | Correção de tabelas | [Giovana Fontes](httpsS://github.com/BrenoLteixeira) | [Leticia Maria](httpsS://github.com/arthurfernandesj) |
+
+## Agradecimentos 
+
+
+Queremos agradecer ao Gemini, ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto ID Jovem. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.
+

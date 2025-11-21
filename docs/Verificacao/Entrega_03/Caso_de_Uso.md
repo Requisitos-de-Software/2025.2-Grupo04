@@ -1,6 +1,6 @@
 ## Introdução
 
-<p style="text-align: justify;">Após o planejamento da verificação, foi iniciada a inspeção do artefato <b>Casos de Uso</b> referente ao aplicativo <b>ID Jovem</b>. O propósito da verificação é garantir que os Casos de Uso estejam devidamente estruturados, coerentes com os requisitos levantados e alinhados aos objetivos do aplicativo. A análise verifica se as interações dos atores, fluxos principais, alternativos e exceções estão corretamente documentados, seguindo os padrões da UML e as boas práticas de especificação. Como referência, utilizou-se (VAZQUEZ; SIMÕES, 2016) <a href="#RP1">[1]</a>, com foco no Capítulo 8.12 (Técnica: modelagem de casos de uso) e Capítulo 2.6 (Critérios de qualidade da especificação). Durante o processo, foram coletadas informações e identificadas inconsistências, com o intuito de aprimorar o artefato e assegurar sua adequação ao desenvolvimento do sistema.</p>
+Após o planejamento da verificação, foi iniciada a inspeção do artefato [Casos de Usos](https://requisitos-de-software.github.io/2025.2-Grupo04/Verificacao/Entrega_03/Caso_de_Uso/) referente ao aplicativo ID Jovem. O propósito da verificação é garantir que os Casos de Uso estejam devidamente estruturados, coerentes com os requisitos levantados e alinhados aos objetivos do aplicativo. A análise verifica se as interações dos atores, fluxos principais, alternativos e exceções estão corretamente documentados, seguindo os padrões da UML e as boas práticas de especificação. Como referência, utilizou-se (VAZQUEZ; SIMÕES, 2016) , com foco no Capítulo 8.12 (Técnica: modelagem de casos de uso) e Capítulo 2.6 (Critérios de qualidade da especificação). Durante o processo, foram coletadas informações e identificadas inconsistências, com o intuito de aprimorar o artefato e assegurar sua adequação ao desenvolvimento do sistema.
 
 <small><em>Revisado por [Gemini](https://gemini.google.com/), em 12 de Novembro 2025</em></small>
 
@@ -194,7 +194,13 @@ Recomenda-se complementar o artefato com as especificações textuais dos casos 
 | :--: | :--: | :-- | :-- | :-- |
 | 1.0 | 12/11/2025 | Criação da página de verificação dos Casos de Uso | [Breno Teixeira](https://github.com/BrenoLTeixeira) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
 | 1.1 | 12/11/2025 | Preenchimento da checklist e análise dos resultados | [Breno Teixeira](https://github.com/BrenoLTeixeira) | [Giovana Fontes](https://github.com/GiovanaFontesS) |
+| 1.2 | 21/11/2025 | Correção de tabelas | [Giovana Fontes](httpsS://github.com/BrenoLteixeira) | [Leticia Maria](httpsS://github.com/arthurfernandesj) |
 
 ## Agrecimentos
 
-De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta (Gemini) foi utilizada apenas como apoio técnico e linguístico. Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.
+
+Queremos agradecer ao Gemini, ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto ID Jovem. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.
+

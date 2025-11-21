@@ -36,6 +36,15 @@ Para guiar o processo, foram considerados os seguintes critérios de avaliação
 O uso desses critérios permitiu uma priorização mais objetiva e fundamentada, auxiliando a equipe a concentrar esforços nas funcionalidades que oferecem maior valor e minimizam riscos ao projeto.
 
 ## Tabela da Priorização 
+**Legenda:**
+
+* RFx: Requisito Funcional número x
+* RNFx: Requisito Não Funcional número x
+* ENTx: Entrevista número x 
+* BSx: Brainstorming número x
+* ISx: Introspecção número x
+* STx: Storytelling número x
+* IDJx: Introspecção número x
 
 | **ID** | **Categoria** | **Requisito** | **Benefício Relativo** | **Penalidade Relativa** | **Valor Total** | **Custo Relativo** | **Risco Relativo** | **Prioridade** |
 |--------|------|--------|------|--------|------|--------|------|------|

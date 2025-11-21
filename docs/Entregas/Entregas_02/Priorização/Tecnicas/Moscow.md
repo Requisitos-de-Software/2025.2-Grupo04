@@ -94,6 +94,16 @@ Para aplicar o MoSCoW ao **ID Jovem**, seguimos as etapas:
 
 A Tabela 2 apresenta a classificação dos requisitos do **ID Jovem**, considerando sua relevância para o sistema.
 
+**Legenda:**
+
+* RFx: Requisito Funcional número x
+* RNFx: Requisito Não Funcional número x
+* ENTx: Entrevista número x 
+* BSx: Brainstorming número x
+* ISx: Introspecção número x
+* STx: Storytelling número x
+* IDJx: Introspecção número x
+
 <div align="center">
 <p style="text-align: center; font-size: 12pt;"><strong>Tabela 2:</strong> Planilha de priorização - Técnica MoSCoW</p>
 <table>

@@ -176,6 +176,16 @@ Com o objetivo de registrar o estudo e realização da técnica de priorização
 **Nota Metodológica:** Conforme a fundamentação teórica corrigida, esta priorização foi realizada exclusivamente com as usuárias reais na distribuição dos dólares, com a equipe atuando apenas como apoio, garantindo que os resultados reflitam genuinamente o valor percebido pelo stakeholder.
 A Tabela 2 mostra os dados consolidados em uma única planilha, com os valores atribuídos a cada requisito, somados e filtrados por ordem de prioridade (do maior para o menor valor).
 
+**Legenda:**
+
+* RFx: Requisito Funcional número x
+* RNFx: Requisito Não Funcional número x
+* ENTx: Entrevista número x 
+* BSx: Brainstorming número x
+* ISx: Introspecção número x
+* STx: Storytelling número x
+* IDJx: Introspecção número x
+
 **Tabela 3:** Resultados da priorização com a técnica dos 100 dólares (aplicação corrigida)
 
 | Código | Origem | Descrição | Noemy | Yasmin | TOTAL |

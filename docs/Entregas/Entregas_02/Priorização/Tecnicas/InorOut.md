@@ -96,11 +96,15 @@ Requisitos classificados como **OUT** foram justificados com base em sua não es
 
 # Requisitos priorizados
 
-**Legendas:**
+**Legenda:**
 
 * RFx: Requisito Funcional número x
 * RNFx: Requisito Não Funcional número x
-
+* ENTx: Entrevista número x 
+* BSx: Brainstorming número x
+* ISx: Introspecção número x
+* STx: Storytelling número x
+* IDJx: Introspecção número x
 
 <p style="text-align: center; font-size: 12pt;"><strong>Tabela 2:</strong> Planilha de priorização - Técnica In or Out</p>
 

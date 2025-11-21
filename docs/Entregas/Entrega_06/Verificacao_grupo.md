@@ -68,7 +68,7 @@
       <td>Conforme</td>
       <td></td>
       <td>
-        <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a
+        <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a>
       </td>
       <td><a href="https://imgur.com/a/PVZzhZk" target="_blank">Print 4</a></td>
     </tr>
@@ -88,7 +88,7 @@
       <td>Conforme</td>
       <td></td>
       <td>
-        <a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a
+        <a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a>
       </td>
       <td><a href="https://imgur.com/a/IYPLUF2" target="_blank">Print 6</a></td>
     </tr>
@@ -179,7 +179,7 @@
       <td>Conforme</td>
       <td></td>
       <td>
-        <a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a
+        <a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a>
       </td>
       <td><a href="https://imgur.com/a/RoPo5vr" target="_blank">Print 6</a></td>
     </tr>

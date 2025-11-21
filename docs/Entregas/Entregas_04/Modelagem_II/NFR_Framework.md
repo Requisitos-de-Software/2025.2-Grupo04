@@ -837,8 +837,8 @@ A Tabela 25 apresenta a avaliação da propagação dos impactos identificados n
 
 Justificativa baseada na metodologia do documento:
 
-- **RNF14 (✓)**: "Satisfeito" - Feedback multimodal atende usuários com diferentes capacidades sensoriais
-- **RNF18 (✓)**: "Satisfeito" - Personalização de interface beneficia usuários com baixa visão ou preferências específicas
+- **RNF14 (✓)**: "Satisfeito" - Feedback multimodal atende Jovens Beneficiários com diferentes capacidades sensoriais
+- **RNF18 (✓)**: "Satisfeito" - Personalização de interface beneficia Jovens Beneficiários com baixa visão ou preferências específicas
 
 ## NFR05 - Confiabilidade
 

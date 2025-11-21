@@ -53,67 +53,67 @@ A história é validada com o Product Owner e a equipe, podendo ser ajustada ou 
     <tr>
       <td align="center"><a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></td>
       <td align="left">
-        <a href="#h10">US10</a> – Fornecer alertas sobre possíveis irregularidades no uso dos benefícios<br>
-        <a href="#h11">US11</a> – Possuir um mapa interativo para visualizar geograficamente parceiros e eventos<br>
-        <a href="#h33">US33</a> – Registro de Logs de Acesso e Ações do Jovem Beneficiário<br>
-        <a href="#h34">US34</a> – Alertas sobre Atualizações Importantes do Programa<br>
-        <a href="#h35">US35</a> – Alteração de Senha de Acesso pelo Aplicativo<br>
-        <a href="#h36">US36</a> – Integração com GPS para Localizar Estabelecimentos Próximos
+        <a href="#h10">H10</a> – Fornecer alertas sobre possíveis irregularidades no uso dos benefícios<br>
+        <a href="#h11">H11</a> – Possuir um mapa interativo para visualizar geograficamente parceiros e eventos<br>
+        <a href="#h33">H33</a> – Registro de Logs de Acesso e Ações do Jovem Beneficiário<br>
+        <a href="#h34">H34</a> – Alertas sobre Atualizações Importantes do Programa<br>
+        <a href="#h35">H35</a> – Alteração de Senha de Acesso pelo Aplicativo<br>
+        <a href="#h36">H36</a> – Integração com GPS para Localizar Estabelecimentos Próximos
       </td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/BrenoLTeixeira">Breno Teixeira</a></td>
       <td align="left">
-        <a href="#h09">US09</a> – Permitir que o jovem beneficiário atualize seu cadastro e defina preferências pessoais<br>
-        <a href="#h13">US13</a> – Fornecer um canal para denúncia ou feedback sobre estabelecimentos que recusam o benefício<br>
-        <a href="#h29">US29</a> – Exportação de Histórico de Uso em PDF<br>
-        <a href="#h30">US30</a> – Configuração de Preferências de Notificação<br>
-        <a href="#h31">US31</a> – Exibir Versão do Aplicativo e Informações de Atualização<br>
-        <a href="#h32">US32</a> – Acesso aos Termos de Uso e Política de Privacidade
+        <a href="#h09">H09</a> – Permitir que o jovem beneficiário atualize seu cadastro e defina preferências pessoais<br>
+        <a href="#h13">H13</a> – Fornecer um canal para denúncia ou feedback sobre estabelecimentos que recusam o benefício<br>
+        <a href="#h29">H29</a> – Exportação de Histórico de Uso em PDF<br>
+        <a href="#h30">H30</a> – Configuração de Preferências de Notificação<br>
+        <a href="#h31">H31</a> – Exibir Versão do Aplicativo e Informações de Atualização<br>
+        <a href="#h32">H32</a> – Acesso aos Termos de Uso e Política de Privacidade
       </td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></td>
       <td align="left">
-        <a href="#h05">US05</a> – Permitir que o Jovem Beneficiário visualize o histórico de utilização dos benefícios<br>
-        <a href="#h06">US06</a> – Seção de "Vantagens e Parcerias" com novidades, divulgação sobre o programa e ofertas exclusivas<br>
-        <a href="#h14">US14</a> – Permitir que o jovem beneficiário favorite eventos e estabelecimentos para consulta rápida<br>
-        <a href="#h26">US26</a> – Integração com Outros Serviços Governamentais<br>
-        <a href="#h27">US27</a> – Avaliação de Parceiros e Estabelecimentos<br>
-        <a href="#h28">US28</a> – Modo Acessível (Contraste e Leitura por Voz)
+        <a href="#h05">H05</a> – Permitir que o Jovem Beneficiário visualize o histórico de utilização dos benefícios<br>
+        <a href="#h06">H06</a> – Seção de "Vantagens e Parcerias" com novidades, divulgação sobre o programa e ofertas exclusivas<br>
+        <a href="#h14">H14</a> – Permitir que o jovem beneficiário favorite eventos e estabelecimentos para consulta rápida<br>
+        <a href="#h26">H26</a> – Integração com Outros Serviços Governamentais<br>
+        <a href="#h27">H27</a> – Avaliação de Parceiros e Estabelecimentos<br>
+        <a href="#h28">H28</a> – Modo Acessível (Contraste e Leitura por Voz)
       </td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/eduardar0">Eduarda Domingos</a></td>
       <td align="left">
-        <a href="#h03">US03</a> – Disponibilizar informações sobre locais e parceiros que aceitam o benefício<br>
-        <a href="#h04">US04</a> – Fornecer canal de suporte via chat, e-mail ou formulário de contato<br>
-        <a href="#h22">US22</a> – Exibir Seção de Perguntas Frequentes (FAQ)<br>
-        <a href="#h23">US23</a> – Download da Carteirinha para Uso Offline<br>
-        <a href="#h24">US24</a> – Reserva e Emissão de Comprovantes de Uso<br>
-        <a href="#h25">US25</a> – Validação Automática de Elegibilidade
+        <a href="#h03">H03</a> – Disponibilizar informações sobre locais e parceiros que aceitam o benefício<br>
+        <a href="#h04">H04</a> – Fornecer canal de suporte via chat, e-mail ou formulário de contato<br>
+        <a href="#h22">H22</a> – Exibir Seção de Perguntas Frequentes (FAQ)<br>
+        <a href="#h23">H23</a> – Download da Carteirinha para Uso Offline<br>
+        <a href="#h24">H24</a> – Reserva e Emissão de Comprovantes de Uso<br>
+        <a href="#h25">H25</a> – Validação Automática de Elegibilidade
       </td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></td>
       <td align="left">
-        <a href="#h07">US07</a> – Permitir compartilhar a carteirinha em PDF ou imagem<br>
-        <a href="#h08">US08</a> – Fornecer informações sobre pendências ou erros relacionados aos benefícios do jovem beneficiário<br>
-        <a href="#h01">US15</a> – Cadastro do Jovem Beneficiário via CPF<br>
-        <a href="#h02">US16</a> – Autenticação e Login via Gov.br<br>
-        <a href="#h17">US17</a> – Recuperação de Conta via Gov.br, E-mail ou SMS<br>
-        <a href="#h18">US18</a> – Tutorial Interativo do ID Jovem
+        <a href="#h07">H07</a> – Permitir compartilhar a carteirinha em PDF ou imagem<br>
+        <a href="#h08">H08</a> – Fornecer informações sobre pendências ou erros relacionados aos benefícios do jovem beneficiário<br>
+        <a href="#h01">H15</a> – Cadastro do Jovem Beneficiário via CPF<br>
+        <a href="#h02">H16</a> – Autenticação e Login via Gov.br<br>
+        <a href="#h17">H17</a> – Recuperação de Conta via Gov.br, E-mail ou SMS<br>
+        <a href="#h18">H18</a> – Tutorial Interativo do ID Jovem
       </td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/leticialopes20">Letícia Lopes</a></td>
       <td align="left">
-        <a href="#h01">US01</a> – Integração com o CadÚnico para atualização automática de dados<br>
-        <a href="#h02">US02</a> – Emitir notificações sobre vencimento e renovação do benefício<br>
-        <a href="#h12">US12</a> – Apresentar uma agenda integrada de eventos com filtros de busca<br>
-        <a href="#h19">US19</a> – Geração e Emissão da Carteira Digital ID Jovem<br>
-        <a href="#h20">US20</a> – Consulta de Benefícios (Transporte Gratuito e Meia-Entrada)<br>
-        <a href="#h21">US21</a> – Validação da Carteira Digital em Estabelecimentos
+        <a href="#h01">H01</a> – Integração com o CadÚnico para atualização automática de dados<br>
+        <a href="#h02">H02</a> – Emitir notificações sobre vencimento e renovação do benefício<br>
+        <a href="#h12">H12</a> – Apresentar uma agenda integrada de eventos com filtros de busca<br>
+        <a href="#h19">H19</a> – Geração e Emissão da Carteira Digital ID Jovem<br>
+        <a href="#h20">H20</a> – Consulta de Benefícios (Transporte Gratuito e Meia-Entrada)<br>
+        <a href="#h21">H21</a> – Validação da Carteira Digital em Estabelecimentos
       </td>
     </tr>
   </tbody>
@@ -151,12 +151,12 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 
 <font size="3"><p style="text-align: center">Tabela 3: História de Integração com o CadÚnico para Atualização Automática de Dados</p></font>
 
-| **ID** | US01 |
+| **ID** | H01 |
 |--------|-------|
-| **Rastreabilidade** | [RF07](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf07)  |
+| **Rastreabilidade** | [RF07](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf07) ([BS09](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/#bs09), [IDJ08](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspeccao/#idj08)) |
 | **Tema** | Integração do aplicativo com o CadÚnico |
 | **Descrição** | Eu, como Jovem Beneficiário, desejo que meus dados pessoais e cadastrais sejam atualizados automaticamente por meio da integração do aplicativo com o CadÚnico, para garantir que minhas informações estejam sempre corretas e evitar bloqueios ou inconsistências no benefício. |
-| **Critérios de Aceitação** | - O sistema deve se conectar automaticamente à base de dados do CadÚnico. <br>- As atualizações devem ocorrer periodicamente, sem necessidade de ação manual do Jovem Beneficiário.<br>- O Jovem Beneficiário deve ser notificado quando seus dados forem atualizados. <br>- Em caso de falha na atualização, o sistema deve informar o motivo e sugerir solução. |
+| **Critérios de Aceitação** | - O sistema deve se conectar automaticamente à base de dados do CadÚnico. <br>- As atualizações devem ocorrer periodicamente, sem necessidade de ação manual do usuário.<br>- O Jovem Beneficiário deve ser notificado quando seus dados forem atualizados. <br>- Em caso de falha na atualização, o sistema deve informar o motivo e sugerir solução. |
 | **Prioridade Usuário** | Alta|
 | **Status** | Validado |
 | **Autor** | [Letícia Lopes](https://github.com/leticialopes20) |
@@ -165,9 +165,9 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 
 ### <a name="h02"></a> **História 02: Emitir notificações sobre vencimento e renovação do benefício** <font size="3"><p style="text-align: center">Tabela 4: História de Emissão de notificações sobre vencimento e renovação de benefícios</p></font>
 
-| **ID** | US02 |
+| **ID** | H02 |
 |--------|-------|
-| **Rastreabilidade** | [RF08](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf08) |
+| **Rastreabilidade** | [RF08](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf08) ([BS11](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/), [ST04](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling/), [IDJ11](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspeccao/#idj11), [ENT13](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/))|
 | **Tema** | Emissão de notificações automáticas de renovação do benefício |
 | **Descrição** | Eu, como Jovem Beneficiário, desejo receber notificações sobre o vencimento e o prazo de renovação do meu benefício, para que eu possa manter o cadastro ativo e não perca o acesso aos direitos oferecidos pelo programa. |
 | **Critérios de Aceitação** | - O sistema deve emitir notificações automáticas 30, 15 e 5 dias antes do vencimento do benefício. <br>- As notificações devem estar disponíveis no aplicativo e opcionalmente por e-mail ou push notification. <br>- A mensagem deve conter o link ou instrução para realizar a renovação. <br>- O sistema deve confirmar quando a renovação for concluída com sucesso. |
@@ -181,9 +181,9 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 
 <font size="3"><p style="text-align: center">Tabela 5: História de disponibilização de informações sobre locais e parceiros que aceitam o benefício </p></font>
 
-| **ID** | US03 |
+| **ID** | H03 |
 |--------|-------|
-| **Rastreabilidade** | [RF10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf10) |
+| **Rastreabilidade** | [RF10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf10) ([ENT05](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/), [BS08](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/)) |
 | **Tema** | Consulta de Parceiros |
 | **Descrição** | Como jovem beneficiário, eu quero consultar os locais e parceiros que aceitam o ID Jovem, para saber onde posso utilizar meus benefícios de forma prática e planejada.  |
 | **Critérios de Aceitação** | -Jovem Beneficiário consegue acessar a lista de parceiros <br>- Sistema exibe informações completas dos estabelecimentos (nome, endereço, horário)<br> - Funcionalidade funciona em dispositivos móveis<br>- Busca por localização ou categoria disponível<br>- Informações atualizadas e precisas|
@@ -197,7 +197,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 
 <font size="3"><p style="text-align: center">Tabela 6: História de fornecimento de canal de suporte via chat, e-mail ou formulário de contato</p></font>
 
-| **ID** | US04 |
+| **ID** | H04 |
 |--------|-------|
 | **Rastreabilidade** | [RF11](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf11) |
 | **Tema** |  Canal de Suporte |
@@ -211,7 +211,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 
 ### <a name="h05"></a> **História 05: Permitir que o Jovem Beneficiário visualize o histórico de utilização dos benefícios** <font size="3"><p style="text-align: center">Tabela 7: História de permissão de que o Jovem Beneficiário visualize o histórico de utilização dos benefícios</p></font>
 
-| **ID** | US05|
+| **ID** | H05|
 |--------|-------|
 | **Rastreabilidade** | [RF12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf12) |
 | **Tema** | Permitir que o Jovem Beneficiário visualize o histórico de utilização dos benefícios  |
@@ -225,7 +225,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 
 ### <a name="h06"></a> **História 06: Seção de "Vantagens e Parcerias" com novidades, divulgação sobre o programa e ofertas exclusivas** <font size="3"><p style="text-align: center">Tabela 8: História de visualização da seção de "Vantagens e Parcerias" com novidades, divulgação sobre o programa e ofertas exclusivas</p></font>
 
-| **ID** | US06 |
+| **ID** | H06 |
 |--------|-------|
 | **Rastreabilidade** | [RF13](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf13) |
 | **Tema** | Seção de "Vantagens e Parcerias" com novidades, divulgação sobre o programa e ofertas exclusivas |
@@ -241,7 +241,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 
 <font size="3"><p style="text-align: center">Tabela 9: História de permissão de compartilhamento de carteirinha em PDF ou imagem</p></font>
 
-| **ID** | US07 |
+| **ID** | H07 |
 |--------|------------|
 | **Rastreabilidade** | [RF17](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf17) |
 | **Tema** | Compartilhamento da carteirinha digital |
@@ -258,12 +258,12 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 
 <font size="3"><p style="text-align: center">Tabela 10: História de fornecimento de informações sobre pendências ou erros relacionados aos benefícios do jovem beneficiário</p></font>
 
-| **ID** | US08 |
+| **ID** | H08 |
 |--------|------------|
 | **Rastreabilidade** | [RF18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf18)  |
 | **Tema** | Exibição de pendências e erros nos benefícios |
 | **Descrição** | Eu, como Jovem Beneficiário, desejo visualizar informações sobre pendências ou erros relacionados aos meus benefícios, para compreender o motivo de possíveis bloqueios ou falhas na emissão da carteirinha. |
-| **Critérios de Aceitação** | - O aplicativo deve exibir mensagens claras quando houver pendências ou erros nos dados do beneficiário. <br> - As mensagens devem conter instruções sobre como resolver o problema (ex: atualizar cadastro, verificar documentação). <br> - O sistema deve diferenciar visualmente os tipos de erro (pendência documental, erro no sistema, dados inválidos etc.). <br> - As notificações devem ser acessíveis na tela principal do Jovem Beneficiário. |
+| **Critérios de Aceitação** | - O aplicativo deve exibir mensagens claras quando houver pendências ou erros nos dados do beneficiário. <br> - As mensagens devem conter instruções sobre como resolver o problema (ex: atualizar cadastro, verificar documentação). <br> - O sistema deve diferenciar visualmente os tipos de erro (pendência documental, erro no sistema, dados inválidos etc.). <br> - As notificações devem ser acessíveis na tela principal do usuário. |
 | **Prioridade Usuário** | Alta |
 | **Status** | Validado |
 | **Autor** | [Giovana Fontes](https://github.com/GiovanaFontesS) |
@@ -273,7 +273,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 
 ### <a name="h09"></a> **História 09: Permitir que o jovem beneficiário atualize seu cadastro e defina preferências pessoais** <font size="3"><p style="text-align: center">Tabela 11:História de permissão de que o jovem beneficiário atualize seu cadastro e defina preferências pessoais</p></font>
 
-| **ID** | US09 |
+| **ID** | H09 |
 |--------|-------|
 | **Rastreabilidade** | [RF19](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf19) |
 | **Tema** | Gerenciamento de Perfil e Preferências |
@@ -286,7 +286,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 ### <a name="h10"></a> **História 10: Fornecer alertas sobre possíveis irregularidades no uso dos benefícios**  
 <font size="3"><p style="text-align: center">Tabela 12: História de fornecimento de alertas sobre possíveis irregularidades no uso dos benefícios</p></font>
 
-| **ID** | US10 |
+| **ID** | H10 |
 |--------|-------|
 | **Rastreabilidade** | [RF20](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf20) |
 | **Tema** | Segurança e Conformidade no uso de benefícios |
@@ -303,7 +303,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 ### <a name="h11"></a> **História 11: Possuir um mapa interativo para visualizar geograficamente parceiros e eventos**  
 <font size="3"><p style="text-align: center">Tabela 13: História de visualização de parceiros e eventos geograficamente por mapa interativo</p></font>
 
-| **ID** | US11 |
+| **ID** | H11 |
 |--------|-------|
 | **Rastreabilidade** | [RF21](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf21) |
 | **Tema** | Usabilidade e Visualização de Benefícios |
@@ -319,7 +319,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 
 ### <a name="h12"></a> **História 12: Apresentar uma agenda integrada de eventos com filtros de busca** <font size="3"><p style="text-align: center">Tabela 14: História de apresentação de uma agenda integrada de eventos com filtros de busca</p></font>
 
-| **ID** | US12|
+| **ID** | H12|
 |--------|-------|
 | **Rastreabilidade** | [RF22](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf22) |
 | **Tema** | Agenda integrada de eventos culturais e sociais|
@@ -335,7 +335,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 
 <font size="3"><p style="text-align: center">Tabela 15: História de fornecimento de canal para denúncia ou feedback sobre estabelecimentos que recusam o benefício</p></font>
 
-| **ID** | US13 |
+| **ID** | H13 |
 |--------|-------|
 | **Rastreabilidade** | [RF23](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf23) |
 | **Tema** | Canal de Denúncia e Feedback |
@@ -349,7 +349,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 
 ### <a name="h14"></a> **História 14: Permitir que o jovem beneficiário favorite eventos e estabelecimentos para consulta rápida** <font size="3"><p style="text-align: center">Tabela 16: História de permissão de que o jovem beneficiário favorite eventos e estabelecimentos para consulta rápida </p></font>
 
-| **ID** | US14 |
+| **ID** | H14 |
 |--------|-------|
 | **Rastreabilidade** | [RF24](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf24) |
 | **Tema** | Permitir que o jovem beneficiário favorite eventos e estabelecimentos para consulta rápida  |
@@ -365,7 +365,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 
 <font size="3"><p style="text-align: center">Tabela 1: História de cadastro do Jovem Beneficiário via CPF</p></font>
 
-| **ID** | US15 |
+| **ID** | H15 |
 |--------|------------|
 | **Rastreabilidade** | [RF01](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf01) |
 | **Tema** | Cadastro do Jovem Beneficiário |
@@ -382,7 +382,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 
 <font size="3"><p style="text-align: center">Tabela 2: História de autenticação e login via Gov.br</p></font>
 
-| **ID** | US16 |
+| **ID** | H16 |
 |--------|------------|
 | **Rastreabilidade** | [RF02](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf02),  |
 | **Tema** | Autenticação e Login |
@@ -399,7 +399,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 
 <font size="3"><p style="text-align: center">Tabela 3: História de recuperação de conta</p></font>
 
-| **ID** | US17 |
+| **ID** | H17 |
 |--------|------------|
 | **Rastreabilidade** | [RF25](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf25) |
 | **Tema** | Recuperação de Conta |
@@ -415,12 +415,12 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 
 <font size="3"><p style="text-align: center">Tabela 4: História do tutorial interativo</p></font>
 
-| **ID** | US18 |
+| **ID** | H18 |
 |--------|------------|
 | **Rastreabilidade** | [RF26](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf26) |
 | **Tema** | Tutorial Interativo |
 | **Descrição** | Eu, como Jovem Beneficiário, desejo acessar um tutorial interativo no aplicativo para ser orientado sobre como utilizar o ID Jovem e aproveitar seus benefícios. |
-| **Critérios de Aceitação** | - O aplicativo deve disponibilizar um tutorial interativo ao novo Jovem Beneficiário. <br> - O tutorial deve explicar passo a passo como acessar e usar o ID Jovem. <br> - O Jovem Beneficiário deve poder acessar o tutorial a qualquer momento pelo menu de ajuda. <br> - Feedbacks e instruções devem ser claros e de fácil compreensão. |
+| **Critérios de Aceitação** | - O aplicativo deve disponibilizar um tutorial interativo ao novo usuário. <br> - O tutorial deve explicar passo a passo como acessar e usar o ID Jovem. <br> - O Jovem Beneficiário deve poder acessar o tutorial a qualquer momento pelo menu de ajuda. <br> - Feedbacks e instruções devem ser claros e de fácil compreensão. |
 | **Prioridade Usuário** | Média |
 | **Status** | Validado |
 | **Autor** | <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a> |
@@ -430,7 +430,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 ### <a name="h19"></a> **História 19: Geração e Emissão da Carteira Digital ID Jovem**
 <font size="3"><p style="text-align: center">Tabela 17: História de Geração e Emissão da Carteira Digital ID Jovem</p></font>
 
-| **ID** | US19 |
+| **ID** | H19 |
 |--------|-------|
 | **Rastreabilidade** | [RF03](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf03) |
 | **Tema** | Emissão da Carteira Digital |
@@ -445,7 +445,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 ### <a name="h20"></a> **História 20: Consulta de Benefícios (Transporte Gratuito e Meia-Entrada)**
 <font size="3"><p style="text-align: center">Tabela 18: História de Consulta de Benefícios</p></font>
 
-| **ID** | US20 |
+| **ID** | H20 |
 |--------|-------|
 | **Rastreabilidade** | [RF04](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf04) |
 | **Tema** | Informações sobre Benefícios |
@@ -460,7 +460,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 ### <a name="h21"></a> **História 21: Validação da Carteira Digital em Estabelecimentos**
 <font size="3"><p style="text-align: center">Tabela 19: História de Validação da Carteira Digital</p></font>
 
-| **ID** | US21 |
+| **ID** | H21 |
 |--------|-------|
 | **Rastreabilidade** | [RF05](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf05) |
 | **Tema** | Validação da Carteira |
@@ -475,7 +475,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 ### <a name="h22"></a> **História 22: Exibir Seção de Perguntas Frequentes (FAQ)**
 <font size="3"><p style="text-align: center">Tabela 20: História de Exibição de Seção de Perguntas Frequentes (FAQ)</p></font>
 
-| **ID** | US22 |
+| **ID** | H22 |
 |--------|-------|
 | **Rastreabilidade** | [RF06](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf06) |
 | **Tema** | Suporte ao Jovem Beneficiário (FAQ) |
@@ -490,7 +490,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 ### <a name="h23"></a> **História 23: Download da Carteirinha para Uso Offline**
 <font size="3"><p style="text-align: center">Tabela 21: História de Download da Carteirinha para Uso Offline</p></font>
 
-| **ID** | US23 |
+| **ID** | H23 |
 |--------|-------|
 | **Rastreabilidade** | [RF09](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf09) |
 | **Tema** | Acesso Offline |
@@ -505,12 +505,12 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 ### <a name="h24"></a> **História 24: Reserva e Emissão de Comprovantes de Uso**
 <font size="3"><p style="text-align: center">Tabela 22: História de Reserva e Emissão de Comprovantes de Uso</p></font>
 
-| **ID** | US24 |
+| **ID** | H24 |
 |--------|-------|
 | **Rastreabilidade** | [RF14](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf14) |
 | **Tema** | Reserva de Benefícios |
 | **Descrição** | Eu, como Jovem Beneficiário, desejo poder reservar (quando aplicável, como em transporte) e emitir comprovantes de uso do benefício diretamente pelo aplicativo, para facilitar o controle e a organização. |
-| **Critérios de Aceitação** | - O sistema deve permitir a reserva de passagens interestaduais (se integrado às viações).<br>- Após a utilização de um benefício (ex: viagem), o sistema deve gerar um comprovante digital.<br>- O comprovante deve ser armazenado no histórico de utilização (referente à US05).<br>- O Jovem Beneficiário deve poder visualizar ou baixar este comprovante. |
+| **Critérios de Aceitação** | - O sistema deve permitir a reserva de passagens interestaduais (se integrado às viações).<br>- Após a utilização de um benefício (ex: viagem), o sistema deve gerar um comprovante digital.<br>- O comprovante deve ser armazenado no histórico de utilização (referente à H05).<br>- O Jovem Beneficiário deve poder visualizar ou baixar este comprovante. |
 | **Prioridade Usuário** | Média |
 | **Status** | Validado |
 | **Autor** | [Eduarda](https://github.com/eduardar0) |
@@ -520,12 +520,12 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 ### <a name="h25"></a> **História 25: Validação Automática de Elegibilidade**
 <font size="3"><p style="text-align: center">Tabela 23: História de Validação Automática de Elegibilidade</p></font>
 
-| **ID** | US25 |
+| **ID** | H25 |
 |--------|-------|
 | **Rastreabilidade** | [RF15](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf15) |
 | **Tema** | Validação de Cadastro |
 | **Descrição** | Eu, como Jovem, ao tentar me cadastrar, desejo que o sistema valide automaticamente minha elegibilidade (idade, renda familiar, inscrição no CadÚnico), para saber imediatamente se tenho direito ao benefício. |
-| **Critérios de Aceitação** | - Ao inserir o CPF (US15), o sistema deve consultar as bases do CadÚnico e outras bases governamentais.<br>- O sistema deve verificar a faixa etária (15-29 anos) e a renda familiar (até dois salários mínimos).<br>- Se elegível, o sistema permite prosseguir com o cadastro/login.<br>- Se inelegível, o sistema deve informar o motivo (ex: "Renda acima do limite", "Fora da faixa etária"). |
+| **Critérios de Aceitação** | - Ao inserir o CPF (H15), o sistema deve consultar as bases do CadÚnico e outras bases governamentais.<br>- O sistema deve verificar a faixa etária (15-29 anos) e a renda familiar (até dois salários mínimos).<br>- Se elegível, o sistema permite prosseguir com o cadastro/login.<br>- Se inelegível, o sistema deve informar o motivo (ex: "Renda acima do limite", "Fora da faixa etária"). |
 | **Prioridade Usuário** | Alta |
 | **Status** | Validado |
 | **Autor** | [Eduarda](https://github.com/eduardar0) |
@@ -535,7 +535,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 ### <a name="h26"></a> **História 26: Integração com Outros Serviços Governamentais**
 <font size="3"><p style="text-align: center">Tabela 24: História de Integração com Outros Serviços Governamentais</p></font>
 
-| **ID** | US26 |
+| **ID** | H26 |
 |--------|-------|
 | **Rastreabilidade** | [RF16](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf16) |
 | **Tema** | Integração de Serviços |
@@ -550,12 +550,12 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 ### <a name="h27"></a> **História 27: Avaliação de Parceiros e Estabelecimentos**
 <font size="3"><p style="text-align: center">Tabela 25: História de Avaliação de Parceiros e Estabelecimentos</p></font>
 
-| **ID** | US27 |
+| **ID** | H27 |
 |--------|-------|
 | **Rastreabilidade** | [RF27](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf27) |
 | **Tema** | Feedback de Parceiros |
 | **Descrição** | Eu, como Jovem Beneficiário, desejo poder avaliar (com notas e comentários) os parceiros e estabelecimentos conveniados onde utilizei meu benefício, para compartilhar minha experiência com outros jovens e ajudar o programa a monitorar a qualidade do serviço. |
-| **Critérios de Aceitação** | - Na página de detalhes de um parceiro (US03/US11), deve haver uma opção "Avaliar".<br>- O Jovem Beneficiário deve poder dar uma nota (ex: 1 a 5 estrelas).<br>- O Jovem Beneficiário deve poder deixar um comentário (opcional).<br>- A média das avaliações deve ser visível para outros Jovens Beneficiários.<br>- Comentários inadequados devem ser moderados. |
+| **Critérios de Aceitação** | - Na página de detalhes de um parceiro (H03/H11), deve haver uma opção "Avaliar".<br>- O Jovem Beneficiário deve poder dar uma nota (ex: 1 a 5 estrelas).<br>- O Jovem Beneficiário deve poder deixar um comentário (opcional).<br>- A média das avaliações deve ser visível para outros usuários.<br>- Comentários inadequados devem ser moderados. |
 | **Prioridade Usuário** | Média |
 | **Status** | Validado |
 | **Autor** | [Dylan Cavalcante](https://github.com/dylancavalcante) |
@@ -565,7 +565,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 ### <a name="h28"></a> **História 28: Modo Acessível (Contraste e Leitura por Voz)**
 <font size="3"><p style="text-align: center">Tabela 26: História de Modo Acessível</p></font>
 
-| **ID** | US28 |
+| **ID** | H28 |
 |--------|-------|
 | **Rastreabilidade** | [RF28](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf28) |
 | **Tema** | Acessibilidade |
@@ -580,11 +580,11 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 ### <a name="h29"></a> **História 29: Exportação de Histórico de Uso em PDF**
 <font size="3"><p style="text-align: center">Tabela 27: História de Exportação de Histórico de Uso em PDF</p></font>
 
-| **ID** | US29 |
+| **ID** | H29 |
 |--------|-------|
 | **Rastreabilidade** | [RF29](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf29) |
 | **Tema** | Exportação de Dados |
-| **Descrição** | Eu, como Jovem Beneficiário, desejo poder exportar meu histórico de utilização dos benefícios (US05) e meus comprovantes (US24) em formato PDF, para ter um registro formal ou para prestação de contas. |
+| **Descrição** | Eu, como Jovem Beneficiário, desejo poder exportar meu histórico de utilização dos benefícios (H05) e meus comprovantes (H24) em formato PDF, para ter um registro formal ou para prestação de contas. |
 | **Critérios de Aceitação** | - Na tela de "Histórico de Utilização", deve haver um botão "Exportar PDF".<br>- O Jovem Beneficiário deve poder selecionar um período (ex: "Últimos 6 meses", "Ano de 2025").<br>- O PDF gerado deve ser formatado de maneira clara, listando data, benefício e local.<br>- O arquivo deve poder ser salvo localmente ou compartilhado. |
 | **Prioridade Usuário** | Baixa |
 | **Status** | Validado |
@@ -595,11 +595,11 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 ### <a name="h30"></a> **História 30: Configuração de Preferências de Notificação**
 <font size="3"><p style="text-align: center">Tabela 28: História de Configuração de Preferências de Notificação</p></font>
 
-| **ID** | US30 |
+| **ID** | H30 |
 |--------|-------|
 | **Rastreabilidade** | [RF30](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf30) |
 | **Tema** | Configuração de Notificações |
-| **Descrição** | Eu, como Jovem Beneficiário, desejo configurar minhas preferências de notificação (RF08, RF34), para escolher quais tipos de alertas quero receber (ex: vencimento, novos parceiros) e com qual frequência. |
+| **Descrição** | Eu, como Jovem Jovem Beneficiário, desejo configurar minhas preferências de notificação (RF08, RF34), para escolher quais tipos de alertas quero receber (ex: vencimento, novos parceiros) e com qual frequência. |
 | **Critérios de Aceitação** | - Nas "Configurações" do aplicativo, deve haver uma seção "Notificações".<br>- O Jovem Beneficiário deve poder habilitar ou desabilitar categorias de notificação (ex: "Vencimento da ID", "Novos Eventos", "Promoções de Parceiros").<br>- O Jovem Beneficiário deve poder escolher o canal (Push, E-mail).<br>- As preferências devem ser salvas e respeitadas pelo sistema. |
 | **Prioridade Usuário** | Média |
 | **Status** | Validado |
@@ -610,11 +610,11 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 ### <a name="h31"></a> **História 31: Exibir Versão do Aplicativo e Informações de Atualização**
 <font size="3"><p style="text-align: center">Tabela 29: História de Exibição de Versão do Aplicativo</p></font>
 
-| **ID** | US31 |
+| **ID** | H31 |
 |--------|-------|
 | **Rastreabilidade** | [RF31](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf31) |
 | **Tema** | Informações do Sistema |
-| **Descrição** | Eu, como Jovem Beneficiário, desejo ver a versão atual do aplicativo em uma seção "Sobre", para saber se estou com a versão mais recente ou para reportar problemas ao suporte. |
+| **Descrição** | Eu, como usuário, desejo ver a versão atual do aplicativo em uma seção "Sobre", para saber se estou com a versão mais recente ou para reportar problemas ao suporte. |
 | **Critérios de Aceitação** | - O aplicativo deve ter uma seção "Sobre" ou "Informações".<br>- Esta seção deve exibir o número da versão atual (ex: "Versão 2.1.3").<br>- O sistema pode, opcionalmente, exibir um link para as notas da versão (o que há de novo) ou verificar se há atualizações. |
 | **Prioridade Usuário** | Baixa |
 | **Status** | Validado |
@@ -625,11 +625,11 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 ### <a name="h32"></a> **História 32: Acesso aos Termos de Uso e Política de Privacidade**
 <font size="3"><p style="text-align: center">Tabela 30: História de Acesso aos Termos de Uso e Política de Privacidade</p></font>
 
-| **ID** | US32 |
+| **ID** | H32 |
 |--------|-------|
 | **Rastreabilidade** | [RF32](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf32) |
 | **Tema** | Informações Legais |
-| **Descrição** | Eu, como Jovem Beneficiário, desejo acessar facilmente os Termos de Uso e a Política de Privacidade do aplicativo, para entender como meus dados são usados e quais são as regras do serviço. |
+| **Descrição** | Eu, como usuário, desejo acessar facilmente os Termos de Uso e a Política de Privacidade do aplicativo, para entender como meus dados são usados e quais são as regras do serviço. |
 | **Critérios de Aceitação** | - O menu de "Configurações" ou "Sobre" deve conter links para "Termos de Uso" e "Política de Privacidade".<br>- Os documentos devem ser exibidos dentro do aplicativo ou em um navegador web.<br>- Os textos devem estar atualizados conforme a legislação vigente (LGPD). |
 | **Prioridade Usuário** | Média |
 | **Status** | Validado |
@@ -637,15 +637,15 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 
 <font size="2"><p style="text-align: center">Fonte: [Breno Teixeira](https://github.com/BrenoLTeixeira)</p></font>
 
-### <a name="h33"></a> **História 33: Registro de Logs de Acesso e Ações do Jovem Beneficiário**
+### <a name="h33"></a> **História 33: Registro de Logs de Acesso e Ações do Usuário**
 <font size="3"><p style="text-align: center">Tabela 31: História de Registro de Logs para Auditoria</p></font>
 
-| **ID** | US33 |
+| **ID** | H33 |
 |--------|-------|
 | **Rastreabilidade** | [RF33](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf33) |
 | **Tema** | Segurança e Auditoria (Não-Funcional/Backend) |
 | **Descrição** | Eu, como Administrador do Sistema, desejo que o sistema registre logs de acesso e ações críticas do Jovem Beneficiário (como geração de carteira, alteração de dados), para fins de auditoria, segurança e depuração de erros. |
-| **Critérios de Aceitação** | - O sistema (backend) deve registrar logs para eventos de login (sucesso e falha).<br>- O sistema deve registrar logs para emissão de carteira (US19) e alteração de senha (US35).<br>- Os logs devem conter data/hora, ID do Jovem Beneficiário (anonimizado se necessário) e a ação realizada.<br>- Os logs devem ser armazenados de forma segura e acessíveis apenas por administradores autorizados. |
+| **Critérios de Aceitação** | - O sistema (backend) deve registrar logs para eventos de login (sucesso e falha).<br>- O sistema deve registrar logs para emissão de carteira (H19) e alteração de senha (H35).<br>- Os logs devem conter data/hora, ID do Jovem Beneficiário (anonimizado se necessário) e a ação realizada.<br>- Os logs devem ser armazenados de forma segura e acessíveis apenas por administradores autorizados. |
 | **Prioridade Usuário** | Alta |
 | **Status** | Validado |
 | **Autor** | [Arthur Fernandes](https://github.com/arthurfernandesj) |
@@ -655,12 +655,12 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 ### <a name="h34"></a> **História 34: Alertas sobre Atualizações Importantes do Programa**
 <font size="3"><p style="text-align: center">Tabela 32: História de Alertas sobre Atualizações do Programa</p></font>
 
-| **ID** | US34 |
+| **ID** | H34 |
 |--------|-------|
 | **Rastreabilidade** | [RF34](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf34) |
 | **Tema** | Notificações do Programa |
 | **Descrição** | Eu, como Jovem Beneficiário, desejo receber alertas (notificações) sobre atualizações importantes nas regras ou no funcionamento do programa ID Jovem, para me manter informado sobre meus direitos. |
-| **Critérios de Aceitação** | - O sistema deve enviar notificações push ou e-mail quando houver mudanças legais ou administrativas no programa (ex: mudança nas regras de renda).<br>- Os alertas devem ser claros e direcionar para uma fonte oficial (ex: site do governo) com mais detalhes.<br>- O Jovem Beneficiário pode configurar o recebimento desses alertas (relacionado à US30). |
+| **Critérios de Aceitação** | - O sistema deve enviar notificações push ou e-mail quando houver mudanças legais ou administrativas no programa (ex: mudança nas regras de renda).<br>- Os alertas devem ser claros e direcionar para uma fonte oficial (ex: site do governo) com mais detalhes.<br>- O Jovem Beneficiário pode configurar o recebimento desses alertas (relacionado à H30). |
 | **Prioridade Usuário** | Média |
 | **Status** | Validado |
 | **Autor** | [Arthur Fernandes](https://github.com/arthurfernandesj) |
@@ -670,12 +670,12 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 ### <a name="h35"></a> **História 35: Alteração de Senha de Acesso pelo Aplicativo**
 <font size="3"><p style="text-align: center">Tabela 33: História de Alteração de Senha</p></font>
 
-| **ID** | US35 |
+| **ID** | H35 |
 |--------|-------|
 | **Rastreabilidade** | [RF35](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf35) |
 | **Tema** | Segurança da Conta |
 | **Descrição** | Eu, como Jovem Beneficiário, desejo poder alterar minha senha de acesso (caso não esteja usando exclusivamente o Gov.br) pelo próprio aplicativo, para manter minha conta segura. |
-| **Critérios de Aceitação** | - Na seção "Segurança" ou "Perfil", deve haver a opção "Alterar Senha".<br>- O sistema deve solicitar a senha atual e a nova senha (duas vezes).<br>- O sistema deve validar a força da nova senha (ex: mínimo de 8 caracteres, letras e números).<br>- Se o login for exclusivo via Gov.br (US16), esta opção deve redirecionar o Jovem Beneficiário para alterar a senha no Gov.br. |
+| **Critérios de Aceitação** | - Na seção "Segurança" ou "Perfil", deve haver a opção "Alterar Senha".<br>- O sistema deve solicitar a senha atual e a nova senha (duas vezes).<br>- O sistema deve validar a força da nova senha (ex: mínimo de 8 caracteres, letras e números).<br>- Se o login for exclusivo via Gov.br (H16), esta opção deve redirecionar o Jovem Beneficiário para alterar a senha no Gov.br. |
 | **Prioridade Usuário** | Média |
 | **Status** | Validado |
 | **Autor** | [Arthur Fernandes](https://github.com/arthurfernandesj) |
@@ -685,12 +685,12 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 ### <a name="h36"></a> **História 36: Integração com GPS para Localizar Estabelecimentos Próximos**
 <font size="3"><p style="text-align: center">Tabela 34: História de Integração com GPS para Localização</p></font>
 
-| **ID** | US36 |
+| **ID** | H36 |
 |--------|-------|
 | **Rastreabilidade** | [RF36](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf36) |
 | **Tema** | Localização de Parceiros |
-| **Descrição** | Eu, como Jovem Beneficiário, desejo que o aplicativo use o GPS do meu celular para localizar e mostrar no mapa (US11) os estabelecimentos e parceiros próximos da minha localização atual. |
-| **Critérios de Aceitação** | - O aplicativo deve solicitar permissão para usar o GPS.<br>- O mapa interativo (US11) deve ter um botão "Usar minha localização" ou "Perto de mim".<br>- Ao ativar, o mapa deve centralizar na localização do Jovem Beneficiário.<br>- O sistema deve exibir os parceiros em um raio definido (ex: 5km) ou os mais próximos. |
+| **Descrição** | Eu, como Jovem Beneficiário, desejo que o aplicativo use o GPS do meu celular para localizar e mostrar no mapa (H11) os estabelecimentos e parceiros próximos da minha localização atual. |
+| **Critérios de Aceitação** | - O aplicativo deve solicitar permissão para usar o GPS.<br>- O mapa interativo (H11) deve ter um botão "Usar minha localização" ou "Perto de mim".<br>- Ao ativar, o mapa deve centralizar na localização do usuário.<br>- O sistema deve exibir os parceiros em um raio definido (ex: 5km) ou os mais próximos. |
 | **Prioridade Usuário** | Média |
 | **Status** | Validado |
 | **Autor** | [Arthur Fernandes](https://github.com/arthurfernandesj) |
@@ -773,17 +773,16 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--------|------|-----------|-----------|-------------|
 | 1.0 | 19/10/2025 | Criação do Documento: Introdução, Metodologia, justificativa de uso e objetivo  | [Giovana Fontes](https://github.com/GiovanaFontesS) | [ Letícia Lopes ](https://github.com/leticialopes20) |
-| 1.1 | 19/10/2025 | Adição das Historias de usuario [US05](#h05), [US06](#h06), [US14](#h14) | [Dylan Cavalcante](https://github.com/dylancavalcante) | [ Letícia Lopes](https://github.com/leticialopes20) |
-| 1.2 | 20/10/2025 | Adição das Historias de usuario [US07](#h07) e [US08](#h08) | [Giovana Fontes](https://github.com/GiovanaFontesS) | [ Letícia Lopes](https://github.com/leticialopes20) |  
-| 1.3 | 20/10/2025 |Adição das Historias de usuario [US01](#h01), [US02](#h02), [US12](#h12), refatoração do documento/edição de  hiperlinks| [ Letícia Lopes](https://github.com/leticialopes20)| [Dylan Cavalcante](https://github.com/dylancavalcante) |  
-| 1.4 | 20/10/2025 |Adição das Historias de usuario [US03](#h03), [US04](#h04)|[Eduarda Rodrigues](https://github.com/eduardar0)| [Dylan Cavalcante](https://github.com/dylancavalcante) |
-| 1.5 | 20/10/2025 | Adição das Histórias de Usuário [US09](#h09) e [US13](#h13) | [Breno Teixeira](https://github.com/BrenoLTeixeira) | [Eduarda Rodrigues](https://github.com/eduardar0) |
-| 1.6 | 20/10/2025 | Adição das Histórias de Usuário [US10](#h09) e [US11](#h13) | [Arthur Fernandes](https://github.com/arthurfernandesj) | [ Letícia Lopes](https://github.com/leticialopes20) |
+| 1.1 | 19/10/2025 | Adição das Historias de usuario [H05](#h05), [H06](#h06), [H14](#h14) | [Dylan Cavalcante](https://github.com/dylancavalcante) | [ Letícia Lopes](https://github.com/leticialopes20) |
+| 1.2 | 20/10/2025 | Adição das Historias de usuario [H07](#h07) e [H08](#h08) | [Giovana Fontes](https://github.com/GiovanaFontesS) | [ Letícia Lopes](https://github.com/leticialopes20) |  
+| 1.3 | 20/10/2025 |Adição das Historias de usuario [H01](#h01), [H02](#h02), [H12](#h12), refatoração do documento/edição de  hiperlinks| [ Letícia Lopes](https://github.com/leticialopes20)| [Dylan Cavalcante](https://github.com/dylancavalcante) |  
+| 1.4 | 20/10/2025 |Adição das Historias de usuario [H03](#h03), [H04](#h04)|[Eduarda Rodrigues](https://github.com/eduardar0)| [Dylan Cavalcante](https://github.com/dylancavalcante) |
+| 1.5 | 20/10/2025 | Adição das Histórias de Jovem Beneficiário [H09](#h09) e [H13](#h13) | [Breno Teixeira](https://github.com/BrenoLTeixeira) | [Eduarda Rodrigues](https://github.com/eduardar0) |
+| 1.6 | 20/10/2025 | Adição das Histórias de Jovem Beneficiário [H10](#h09) e [H11](#h13) | [Arthur Fernandes](https://github.com/arthurfernandesj) | [ Letícia Lopes](https://github.com/leticialopes20) |
 | 1.7 | 21/10/2025 | Adição de gravações de validação |  [Giovana Fontes](https://github.com/GiovanaFontesS) | [Arthur Fernandes](https://github.com/arthurfernandesj) | 
 | 1.8 | 21/10/2025 |  Adição de Contribuições | [Giovana Fontes](https://github.com/GiovanaFontesS) |  [Arthur Fernandes](https://github.com/arthurfernandesj) |
 | 1.9 | 21/10/2025 |  Fix tabela e adição de novas história | [Dylan Cavalcante](https://github.com/dylancavalcante) |  [Arthur Fernandes](https://github.com/arthurfernandesj) |
-| 2.0 | 20/11/2025 |  Correção de hiperlinks | [Breno Teixeira](https://github.com/Brenolteixeira) |  [Arthur Fernandes](https://github.com/arthurfernandesj) |
-| 2.1 | 20/11/2025 |  refinamento para a entrega final | [Breno Teixeira](https://github.com/Brenolteixeira) |  [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| 2.0 | 20/11/2025 |  Refinamento para entrega final | [Breno Teixeira](https://github.com/Brenolteixeira) |  [Arthur Fernandes](https://github.com/arthurfernandesj) |
 
 ## Agrecimentos
 

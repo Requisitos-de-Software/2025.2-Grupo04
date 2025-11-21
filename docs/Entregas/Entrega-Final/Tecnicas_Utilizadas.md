@@ -2,68 +2,18 @@
 
 Este documento apresenta uma síntese das principais técnicas utilizadas em cada etapa do projeto, detalhando sua aplicação e os participantes responsáveis por sua execução. O objetivo é fornecer uma visão clara e organizada das abordagens metodológicas adotadas, facilitando o entendimento do processo de desenvolvimento e promovendo a rastreabilidade das decisões tomadas ao longo do projeto. Além das explicações, será apresentada uma tabela relacionando as técnicas empregadas e os membros do grupo envolvidos em cada atividade.
 
-## Cronograma de Participantes
-
-<font size="3"><p style="text-align: center">Tabela 1: Cronograma de Participantes</p></font>
-
-<div align="center">
-
-<table>
-  <thead>
-    <tr>
-      <th>Nome</th>
-      <th>Data</th>
-      <th>Hora</th>
-    </tr>
-  </thead>
-  <tbody>
- <tr>
-  <td>Arthur Fernandes</td>
-  <td>16/11/2025</td>
-  <td>01:18</td>
-</tr>
-<tr>
-  <td>Breno Lourenço</td>
- <td>xx/11/2025</td>
-  <td>00:00</td>
-</tr>
-<tr>
-  <td>Dylan Cavalcante</td>
-  <td>xx/11/2025</td>
-  <td>00:00</td>
-</tr>
-<tr>
-  <td>Eduarda Domingos</td>
-  <td>xx/11/2025</td>
-  <td>00:00</td>
-</tr>
-<tr>
-  <td>Giovana Fontes</td>
- <td>xx/11/2025</td>
-  <td>00:00</td>
-</tr>
-<tr>
-  <td>Leticia Lopes</td>
-  <td>xx/11/2025</td>
-  <td>00:00</td>
-</tr>
-  </tbody>
-</table>
-</div>
-
-<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></p>
 
 ## Pré-rastreabilidade
 
 A tabela abaixo sintetiza a técnica utilizada na etapa de Pré-Rastreabilidade do projeto, indicando os participantes responsáveis:
 
-<font size="3"><p style="text-align: center">Tabela 2: Pré-Rastreabilidade</p></font>
+<font size="3"><p style="text-align: center">Tabela 1: Pré-Rastreabilidade</p></font>
 
 | Técnica      | Participantes |
 |--------------|----------------|
-| Rich Picture |  |
+| Rich Picture | [Arthur Fernandes](https://github.com/arthurfernandesj), [Breno Teixeira](https://github.com/BrenoLTeixeira), [Dylan Cavalcante](https://github.com/dylancavalcante), [Eduarda Domingos](https://github.com/eduardar0), [Giovana Fontes](https://github.com/GiovanaFontesS), [Letícia Lopes](https://github.com/leticialopes20)  |
 
-<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></p>
+<p style="text-align: center; font-size: 10pt;">Fontes: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a> & <a href="https://github.com/leticialopes20">Letícia Lopes (2025)</a></p>
 ---
 
 ## Elicitação
@@ -74,19 +24,21 @@ A tabela abaixo sintetiza as técnicas utilizadas na etapa de Elicitação do pr
 
 | Técnica              | Participantes |
 |----------------------|----------------|
-| Brainstorm           |  |
-| Entrevista           |  |
-| Introspecção         |  |
-| Brainstorm           |  |
-| Storytelling         |  |
-| 100                  |  |
-| First thing first    |  |
-| InorOut              |  |
-| Three Level Scale    |  |
-| Persona              |  |
-| Perfil de Usuário    |  |
+| Perfil de Usuário        | [Breno Teixeira](https://github.com/BrenoLTeixeira), [Dylan Cavalcante](https://github.com/dylancavalcante), [Eduarda Domingos](https://github.com/eduardar0)  |
+| Personas          |[Dylan Cavalcante](https://github.com/dylancavalcante), [Eduarda Domingos](https://github.com/eduardar0)  |
+| Análise de Documentos         |[Arthur Fernandes](https://github.com/arthurfernandesj), [Dylan Cavalcante](https://github.com/dylancavalcante), [Giovana Fontes](https://github.com/GiovanaFontesS)  |
+| Entrevista        | [Arthur Fernandes](https://github.com/arthurfernandesj), [Giovana Fontes](https://github.com/GiovanaFontesS), [Eduarda Domingos](https://github.com/eduardar0) |
+| Brainstorm           |[Arthur Fernandes](https://github.com/arthurfernandesj), [Breno Teixeira](https://github.com/BrenoLTeixeira), [Dylan Cavalcante](https://github.com/dylancavalcante), [Eduarda Domingos](https://github.com/eduardar0), [Giovana Fontes](https://github.com/GiovanaFontesS), [Letícia Lopes](https://github.com/leticialopes20)  |
+| Introspecção         |[Breno Teixeira](https://github.com/BrenoLTeixeira), [Letícia Lopes](https://github.com/leticialopes20)   |
+| Observação          |[Giovana Fontes](https://github.com/GiovanaFontesS), [Letícia Lopes](https://github.com/leticialopes20)  |
+| Storytelling         |[Eduarda Domingos](https://github.com/eduardar0) |
+| 100  dólares        |[Eduarda Domingos](https://github.com/eduardar0), [Giovana Fontes](https://github.com/GiovanaFontesS), [Letícia Lopes](https://github.com/leticialopes20)   |
+| First things first    |[Eduarda Domingos](https://github.com/eduardar0), [Giovana Fontes](https://github.com/GiovanaFontesS), [Letícia Lopes](https://github.com/leticialopes20)   |
+| InorOut              |[Eduarda Domingos](https://github.com/eduardar0), [Giovana Fontes](https://github.com/GiovanaFontesS), [Letícia Lopes](https://github.com/leticialopes20)   |
+| Moscow  | [Arthur Fernandes](https://github.com/arthurfernandesj),[Dylan Cavalcante](https://github.com/dylancavalcante),[Giovana Fontes](https://github.com/GiovanaFontesS) e [Letícia Lopes](https://github.com/leticialopes20)  |
 
-<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></p>
+
+<p style="text-align: center; font-size: 10pt;">Fontes: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a> & <a href="https://github.com/leticialopes20">Letícia Lopes (2025)</a></p>
 ---
 
 ## Modelagem I
@@ -97,12 +49,12 @@ A tabela abaixo sintetiza as técnicas utilizadas na etapa de Modelagem I do pro
 
 | Técnica                              | Participantes |
 |--------------------------------------|----------------|
-| Cenários                             |  |
-| Diagrama de Casos de uso             |  |
-| Especificação suplementar/FURPS+     |  |
-| Léxicos/LAL                          |  |
+| Cenários                             | [Arthur Fernandes](https://github.com/arthurfernandesj), [Breno Teixeira](https://github.com/BrenoLTeixeira), [Dylan Cavalcante](https://github.com/dylancavalcante), [Eduarda Domingos](https://github.com/eduardar0), [Giovana Fontes](https://github.com/GiovanaFontesS), [Letícia Lopes](https://github.com/leticialopes20)  |
+| Diagrama de Casos de uso             | [Arthur Fernandes](https://github.com/arthurfernandesj), [Breno Teixeira](https://github.com/BrenoLTeixeira), [Dylan Cavalcante](https://github.com/dylancavalcante), [Eduarda Domingos](https://github.com/eduardar0), [Giovana Fontes](https://github.com/GiovanaFontesS), [Letícia Lopes](https://github.com/leticialopes20)  |
+| Especificação suplementar/FURPS+     | [Arthur Fernandes](https://github.com/arthurfernandesj), [Breno Teixeira](https://github.com/BrenoLTeixeira), [Dylan Cavalcante](https://github.com/dylancavalcante), [Eduarda Domingos](https://github.com/eduardar0), [Giovana Fontes](https://github.com/GiovanaFontesS), [Letícia Lopes](https://github.com/leticialopes20)  |
+| Léxicos/LAL                          | [Arthur Fernandes](https://github.com/arthurfernandesj), [Breno Teixeira](https://github.com/BrenoLTeixeira), [Dylan Cavalcante](https://github.com/dylancavalcante), [Eduarda Domingos](https://github.com/eduardar0), [Giovana Fontes](https://github.com/GiovanaFontesS), [Letícia Lopes](https://github.com/leticialopes20)  |
 
-<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></p>
+<p style="text-align: center; font-size: 10pt;">Fontes: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a> & <a href="https://github.com/leticialopes20">Letícia Lopes (2025)</a></p>
 ---
 
 ## Modelagem II
@@ -113,11 +65,11 @@ A tabela abaixo sintetiza as técnicas utilizadas na etapa de Modelagem II do pr
 
 | Técnica              | Participantes |
 |----------------------|----------------|
-| Histórias de Usuário |  |
-| NFR Framework        |  |
-| Product Backlog      |  |
+| Histórias de Usuário | [Arthur Fernandes](https://github.com/arthurfernandesj), [Breno Teixeira](https://github.com/BrenoLTeixeira), [Dylan Cavalcante](https://github.com/dylancavalcante), [Eduarda Domingos](https://github.com/eduardar0), [Giovana Fontes](https://github.com/GiovanaFontesS), [Letícia Lopes](https://github.com/leticialopes20)  |
+| NFR Framework        | [Arthur Fernandes](https://github.com/arthurfernandesj), [Breno Teixeira](https://github.com/BrenoLTeixeira), [Dylan Cavalcante](https://github.com/dylancavalcante), [Eduarda Domingos](https://github.com/eduardar0), [Giovana Fontes](https://github.com/GiovanaFontesS), [Letícia Lopes](https://github.com/leticialopes20)  |
+| Product Backlog      |  [Arthur Fernandes](https://github.com/arthurfernandesj), [Breno Teixeira](https://github.com/BrenoLTeixeira), [Dylan Cavalcante](https://github.com/dylancavalcante), [Eduarda Domingos](https://github.com/eduardar0), [Giovana Fontes](https://github.com/GiovanaFontesS), [Letícia Lopes](https://github.com/leticialopes20) |
 
-<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></p>
+<p style="text-align: center; font-size: 10pt;">Fontes: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a> & <a href="https://github.com/leticialopes20">Letícia Lopes (2025)</a></p>
 ---
 
 ## Pós-rastreabilidade
@@ -128,11 +80,11 @@ A tabela abaixo sintetiza as técnicas utilizadas na etapa de Pós-Rastreabilida
 
 | Técnica                   | Participantes |
 |---------------------------|----------------|
-| Elos Backward from        |  |
-| Elos forward from         |  |
-| Matriz de Rastreabilidade |  |
+| Elos Backward from        | [Arthur Fernandes](https://github.com/arthurfernandesj), [Breno Teixeira](https://github.com/BrenoLTeixeira), [Dylan Cavalcante](https://github.com/dylancavalcante), [Eduarda Domingos](https://github.com/eduardar0), [Giovana Fontes](https://github.com/GiovanaFontesS), [Letícia Lopes](https://github.com/leticialopes20)  |
+| Elos forward from         | [Arthur Fernandes](https://github.com/arthurfernandesj), [Breno Teixeira](https://github.com/BrenoLTeixeira), [Dylan Cavalcante](https://github.com/dylancavalcante), [Eduarda Domingos](https://github.com/eduardar0), [Giovana Fontes](https://github.com/GiovanaFontesS), [Letícia Lopes](https://github.com/leticialopes20)  |
+| Matriz de Rastreabilidade |  [Arthur Fernandes](https://github.com/arthurfernandesj), [Breno Teixeira](https://github.com/BrenoLTeixeira), [Dylan Cavalcante](https://github.com/dylancavalcante), [Eduarda Domingos](https://github.com/eduardar0), [Giovana Fontes](https://github.com/GiovanaFontesS), [Letícia Lopes](https://github.com/leticialopes20) |
 
-<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></p>
+<p style="text-align: center; font-size: 10pt;">Fontes: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a> & <a href="https://github.com/leticialopes20">Letícia Lopes (2025)</a></p>
 ---
 
 ## Verificação e Validação
@@ -143,15 +95,15 @@ A tabela abaixo sintetiza as técnicas utilizadas na etapa de Verificação e Va
 
 | Técnica              | Participantes |
 |----------------------|----------------|
-| Comprovação          |  |
-| Prototipação         |  |
-| Lista de Verificação |  |
+| Comprovação          | [Arthur Fernandes](https://github.com/arthurfernandesj), [Breno Teixeira](https://github.com/BrenoLTeixeira), [Dylan Cavalcante](https://github.com/dylancavalcante), [Eduarda Domingos](https://github.com/eduardar0), [Giovana Fontes](https://github.com/GiovanaFontesS), [Letícia Lopes](https://github.com/leticialopes20)  |
+| Prototipação         | [Arthur Fernandes](https://github.com/arthurfernandesj), [Breno Teixeira](https://github.com/BrenoLTeixeira), [Dylan Cavalcante](https://github.com/dylancavalcante), [Eduarda Domingos](https://github.com/eduardar0), [Giovana Fontes](https://github.com/GiovanaFontesS), [Letícia Lopes](https://github.com/leticialopes20)  |
+| Lista de Verificação | [Arthur Fernandes](https://github.com/arthurfernandesj), [Breno Teixeira](https://github.com/BrenoLTeixeira), [Dylan Cavalcante](https://github.com/dylancavalcante), [Eduarda Domingos](https://github.com/eduardar0), [Giovana Fontes](https://github.com/GiovanaFontesS), [Letícia Lopes](https://github.com/leticialopes20)  |
 
-<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></p>
-
+<p style="text-align: center; font-size: 10pt;">Fontes: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a> & <a href="https://github.com/leticialopes20">Letícia Lopes (2025)</a></p>
 
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                                                        | Autor(es)                                                                 | Revisor(es)  |
 |:-----: | :--------: | :-------------------------------------------------------------- | :------------------------------------------------------------------------ | :---------- |
-| `1.0`    | 16/11/2025 | Criação da página de verificação                              | [Arthur Fernandes](https://github.com/arthurfernandesj)                                  | [Dylan Cavalcante](https://github.com/dylancavalcante)           |
+| `1.0`    | 16/11/2025 | Criação da página de Técnicas Utilizadas                            | [Arthur Fernandes](https://github.com/arthurfernandesj)                                  | [Dylan Cavalcante](https://github.com/dylancavalcante)           |
+| `1.1`    | 21/11/2025 | Adição de informações na página e finalização do documento |[Letícia Lopes](https://github.com/leticialopes20)                                | [Dylan Cavalcante](https://github.com/dylancavalcante)           |

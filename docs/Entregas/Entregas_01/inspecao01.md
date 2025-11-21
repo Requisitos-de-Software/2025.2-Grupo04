@@ -1,4 +1,4 @@
-# Entrega 1
+# Verificação n+1
 
 ## Introdução
 
@@ -6,61 +6,80 @@ A Entrega 1 correspondeu à estrutura inicial que servirá de guia para o time n
 
 ## Gravação
 
-[![Assista à gravação](https://img.youtube.com/vi/ukdPft-PSpA/0.jpg)](https://youtu.be/ukdPft-PSpA?feature=shared)     
 ---
 
-## Lista de Verificação e inspeção da Entrega 1
+<p align="center"> 
+<iframe width="560" height="315" 
+          src="https://www.youtube.com/embed/ukdPft-PSpA" 
+          title="YouTube video player" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+          referrerpolicy="strict-origin-when-cross-origin" 
+          allowfullscreen>
+  </iframe>
+</p>
 
-### ✅ Equipe
+<p style="text-align: center; font-size: 10pt;">Gravação da verificação feita pelo grupo 04 <a href="https://youtu.be/ukdPft-PSpA">(Assistir aqui)</a></p>
 
-| Item | Avaliação | Avaliador(es) | Data e Hora |
-| :---- | :---: | :---: | :---: |
-| ***01:*** Os membros da equipe foram definidos? [(2)](#RP2)| Conforme | Giovana | 09/09/2025 21:01 |
-| ***02:*** Os papéis e responsabilidades de cada membro estão claros? [(2)](#RP2) | Conforme | Giovana | 09/09/2025 21:03 |
-| ***03:*** A forma de comunicação entre os membros foi estabelecida? [(2)](#RP2) | Conforme | Dylan | 09/09/2025 21:05 |
-| ***04:*** Há encontros periódicos agendados para acompanhamento do progresso da equipe? [(2)](#RP2) | Conforme | Dylan | 09/09/2025 21:07 |
-<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></p>
+---
 
-### ✅ App Selecionado para o Projeto
+## Lista de Verificação grupo n+1
 
-| Item | Avaliação | Avaliador(es) | Data e Hora |
-| :---- | :---: | :---: | :---: |
-| ***05:*** O aplicativo foi claramente escolhido e justificado? [(2)](#RP2) | Conforme | Arthur | 09/09/2025 21:08 |
-| ***06:*** As funcionalidades principais do app estão listadas? [(2)](#RP2) | Conforme | Arthur | 09/09/2025 21:10 |
-| ***07:*** O público-alvo do app está identificado? [(2)](#RP2) | Não Conforme | Danilo | 09/09/2025 21:12 |
-<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></p>
+###  Equipe
 
-### ✅ Ferramentas do Projeto
+| Item    | Fontes |    Avaliação    |                 Observação                 |   Print    |  Avaliador(es)   |
+| :-------------------------------------------------------------------------------------------------- | :-------: | :---------: | :-------------------------------------------: | :--------------: | :--------------: |
+| **_01:_** Os membros da equipe foram definidos?                                         | [André Barros](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7) | Conforme  |    | [Print 1](https://imgur.com/VcCJG0l) |[Arthur Fernandes](https://github.com/arthurfernandesj) |
+| **_02:_** Os papéis e responsabilidades de cada membro estão claros?                    | [André Barros](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7)  | Conforme   | | [Print 2](https://imgur.com/B3GajCM)  |[Arthur Fernandes](https://github.com/arthurfernandesj) |
+| **_03:_** A forma de comunicação entre os membros foi estabelecida?                    | [André Barros](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7)  | Conforme  |       | [Print 3](https://imgur.com/fZCcnrI) | [Eduarda Rodrigues](https://github.com/eduardar0) |
+| **_04:_** Há encontros periódicos agendados para acompanhamento do progresso da equipe? | [André Barros](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7)  | Conforme |      |[Print 4]()  |[Eduarda Rodrigues](https://github.com/eduardar0)|
 
-| Item | Avaliação | Avaliador(es) | Data e Hora |
-| :---- | :---: | :---: | :---: |
-| ***08:*** As ferramentas de desenvolvimento foram selecionadas? [(2)](#RP2) | Sugestão de Melhoria | Leticia | 09/09/2025 21:13 |
-| ***09:*** Ferramentas de versionamento (ex: Git) estão definidas? [(2)](#RP2) | Conforme | Leticia | 09/09/2025 21:14 |
-| ***10:*** Ferramentas de comunicação e organização (ex: Trello, Discord) foram escolhidas? [(2)](#RP2) | Conforme | Leticia | 09/09/2025 21:15 |
-| ***11:*** Há uma estratégia definida para backup e recuperação das informações do projeto? [(2)](#RP2) | Conforme | Leticia | 09/09/2025 21:16 |
-<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></p>
+<p style="text-align: center; font-size: 10pt;">Autor: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
 
-### ✅ Cronograma das Atividades
+###  App Selecionado para o Projeto
 
-| Item | Avaliação | Avaliador(es) | Data e Hora |
-| :---- | :---: | :---: | :---: |
-| ***12:*** As atividades do projeto estão listadas e descritas? [(2)](#RP2) | Conforme | Breno | 09/09/2025 21:17 |
-| ***13:*** Cada atividade tem uma estimativa de duração? [(2)](#RP2) | Conforme | Breno | 09/09/2025 21:18 |
-| ***14:*** As datas de início e fim do projeto estão definidas? [(2)](#RP2) | Não Conforme | Breno | 09/09/2025 21:19 |
-| ***15:*** As dependências entre atividades foram consideradas? [(2)](#RP2) | Conforme | Eduarda | 09/09/2025 21:20 |
-| ***16:*** O cronograma está sendo acompanhado e atualizado? [(2)](#RP2) | Conforme | Eduarda | 09/09/2025 21:20 |
-<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></p>
+| Item    | Fontes |    Avaliação    |                 Observação                 |   Print    |  Avaliador(es)   |
+| :------------------------------------------------------------------------- | :-------: | :---------: | :------------------------------------------: | :--------------: |:--------------: |
+| **_05:_** O aplicativo foi claramente escolhido e justificado? | [André Barros](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7)  |  Conforme    |     | [Print 5](https://imgur.com/YNvhNG9) | [Dylan Cavalcante](https://github.com/dylancavalcante)|
+| **_06:_** As funcionalidades principais do app estão listadas?  | [André Barros](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7)  | Conforme    |    | [Print 6](https://imgur.com/YNvhNG9) | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+| **_07:_** O público-alvo do app está identificado?             | [André Barros](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7)  | Não conforme    | Não foi localizado em nenhuma das páginas.    | -- | [Letícia Lopes](https://github.com/leticialopes20)|
 
-### ✅ Rich Picture
+ <p style="text-align: center; font-size: 10pt;">Autor: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
 
-| Item | Avaliação | Avaliador(es) | Data e Hora |
-| :---- | :---: | :---: | :---: |
-| ***17:*** O Rich Picture representa todos os atores envolvidos no sistema? [(1)](#RP1) | Conforme | Danilo | 09/09/2025 21:02 |
-| ***18:*** Os fluxos de informação entre os elementos estão ilustrados? [(1)](#RP1) | Conforme | Danilo | 09/09/2025 21:04 |
-| ***19:*** As principais operações do sistema estão representadas? [(1)](#RP1) | Conforme | Giovana | 09/09/2025 21:06 |
-| ***20:*** Os limites do sistema estão claramente indicados? [(1)](#RP1) | Conforme | Dylan | 09/09/2025 21:09 |
-| ***21:*** O Rich Picture foi validado com a equipe ou stakeholders? [(2)](#RP2) | Não Conforme | Dylan | 09/09/2025 21:11 |
-<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></p>
+###  Ferramentas do Projeto
+
+| Item    | Fontes |    Avaliação    |                 Observação                 |   Print    |  Avaliador(es)   |
+| :----------------------------------------------------------------------------------------------------- | :-------: | :----------: | :------------------------------------------: | :-------------: |:-------------: |
+| **_08:_** As ferramentas de desenvolvimento foram selecionadas?                      | [André Barros](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7)     | Conforme  | | [Print 8]()   |  [Breno Texeira](https://github.com/BrenoLTeixeira) |
+| **_09:_** Ferramentas de versionamento (ex: Git) estão definidas?                     | [André Barros](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7)     | Conforme  |  | [Print 9]()   | [Breno Texeira](https://github.com/BrenoLTeixeira)|
+| **_10:_** Ferramentas de comunicação e organização (ex: Trello, Discord) foram escolhidas? | [André Barros](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7)  | Conforme  |  | [Print 10]()  | [Letícia Lopes](https://github.com/leticialopes20) |
+| **_11:_** Há uma estratégia definida para backup e recuperação das informações do projeto? | [André Barros](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7) | Conforme  | | [Print 9]()   | [Giovana Fontes](https://github.com/GiovanaFontesS) |
+
+<p style="text-align: center; font-size: 10pt;">Autor: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
+
+###  Cronograma das Atividades
+
+| Item                               |  Fontes                               | Avaliação |  Observação |  Print     |                Avaliador(es)                 |  
+| :------------------------------------------------------------------------- | :-------: | :----------: | :------------------------------------------: | :--------------: |:--------------: |
+| **_12:_** As atividades do projeto estão listadas e descritas? | [André Barros](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7)      | Conforme  |  | [Print 11](https://imgur.com/Bldbzwc) | [Giovana Fontes](https://github.com/GiovanaFontesS) | 
+| **_13:_** Cada atividade tem uma estimativa de duração?     | [André Barros](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7)      | Conforme  |  | [Print 11](https://imgur.com/Bldbzwc) |     [Danilo Melo](https://github.com/EngDann)     | 
+| **_14:_** As datas de início e fim do projeto estão definidas?  | [André Barros](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7) | Não conforme  | Nem todas as atividades possuem data de entrega. | [Print 11](https://imgur.com/Bldbzwc)|     [Danilo Melo](https://github.com/EngDann)     | 
+| **_15:_** As dependências entre atividades foram consideradas? | [André Barros](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7) | Conforme  | |  [Print 11](https://imgur.com/Bldbzwc) |     [Danilo Melo](https://github.com/EngDann)     | 
+| **_16:_** O cronograma está sendo acompanhado e atualizado?     | [André Barros](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7) | Conforme  |  | [Print 11](https://imgur.com/Bldbzwc) |  [Breno Texeira](https://github.com/BrenoLTeixeira)  | 
+
+<p style="text-align: center; font-size: 10pt;">Autor: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
+
+###  Rich Picture
+
+| Item                               |  Fontes                               | Avaliação |  Observação |  Print     |                Avaliador(es)                 |  
+| :------------------------------------------------------------------------------------- | :-------: | :----------: | :-------------------------------------------: | :--------------: |:--------------: |
+| **_17:_** O Rich Picture representa todos os atores envolvidos no sistema?  | [UnB](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7) | Conforme  |  |  [Print 14](https://imgur.com/CSwZZwF) | [Giovanna Fontes](https://github.com/GiovanaFontesS) | 
+| **_18:_** Os fluxos de informação entre os elementos estão ilustrados?     | [UnB](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7)  | Conforme  |  | [Print 15](https://imgur.com/Olg117g) | [Giovana Fontes](https://github.com/GiovanaFontesS)  | 
+| **_19:_** As principais operações do sistema estão representadas?           | [UnB](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7)  | Conforme  |  | [Print 16](https://imgur.com/Olg117g) | [Arthur Fernandes](https://github.com/arthurfernandesj) | 
+| **_20:_** Os limites do sistema estão claramente indicados?                | [UnB](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7)  |  Conforme |  | [Print 17](https://imgur.com/Olg117g) |  [Dylan Cavalcante](https://github.com/dylancavalcante)  | 
+| **_21:_** O Rich Picture foi validado com a equipe ou stakeholders?         | [André Barros](https://drive.google.com/drive/folders/1d6YrDYpDKiuVUw7gEPC2H75l8PTm31a7) | Não conforme  | Nenhuma documentação fala sobre isso.  | [Print 18](https://imgur.com/Olg117g) |    [Eduarda Rodrigues](https://github.com/eduardar0)    | 
+
+<p style="text-align: center; font-size: 10pt;">Autor: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
 
 ## Histórico de Versões
 
@@ -70,5 +89,6 @@ A Entrega 1 correspondeu à estrutura inicial que servirá de guia para o time n
 | `1.1`  | 16/09/2025 | Mudança na descrição de avaliação | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Dylan Cavalcante](https://github.com/dylancavalcante) |
 | `1.2`  | 18/09/2025 | Remoção da coluna autores e refatoração das planilhas | [Dylan Cavalcante](https://github.com/dylancavalcante) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
 | `1.3`  | 31/10/2025 | Criação do documento ao aplicativo ID Jovem | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+| `1.4`  | 18/11/2025 | Revisão e alteração da documentação | [Dylan Cavalcante](https://github.com/dylancavalcante)  | [Arthur Fernandes](https://github.com/arthurfernandesj) |
 
 

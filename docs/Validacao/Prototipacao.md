@@ -76,11 +76,12 @@ Após a finalização dos protótipos, foram realizadas duas validações presen
 
 A seguir, apresenta-se o protótipo utilizado nas validações.
 
-Caso queira conferir o protótipo, <a href="" target="blanket">clique aqui</a>.
-
+<p style="text-align: justify;">
+  Caso queira conferir o protótipo, <a href="https://www.figma.com/proto/1f9ynsKYXObJ7Xq5ZphOr5/ID-JOVEM---PROTOTIPA%C3%87%C3%83O?node-id=341-668&p=f&t=bVyjKVLeIXGXkPur-1&scaling=contain&content-scaling=fixed&page-id=0%3A1" target="_blank"><b>clique aqui</b></a>.
+</p>
 <p style="text-align: center"><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="" allowfullscreen></iframe></p>
 
-<a href="" target="_blank">📄 Ver documento completo</a>
+<a href="https://www.figma.com/proto/1f9ynsKYXObJ7Xq5ZphOr5/ID-JOVEM---PROTOTIPA%C3%87%C3%83O?node-id=341-668&p=f&t=bVyjKVLeIXGXkPur-1&scaling=contain&content-scaling=fixed&page-id=0%3A1" target="_blank">📄 Ver documento completo</a>
 
 <iframe src="" width="100%" height="450px">
     Este navegador não suporta PDFs. Faça o download <a href="">aqui</a>.

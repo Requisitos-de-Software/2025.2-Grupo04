@@ -74,11 +74,11 @@ nav:
       - Entrega 01:
           - Pré-Rastreabilidade (RichPicture): Entregas/Entregas_01/RichPicture.md
           - Apresentação: Entregas/Entregas_01/apresentacao01.md
-          - Verificação e inspeção: Entregas/Entregas_01/Entrega_01.md
-          - Inspeção grupo n+1: Entregas/Entregas_01/inspecao01.md
+          - Verificação e inspeção: 
+                - Inspeção: Entregas/Entregas_01/Entrega_01.md
+                - Verificação grupo n+1: Entregas/Entregas_01/inspecao01.md
 
       - Entrega 02:
-          - Apresentação: Entregas/Entregas_02/Apresentação.md 
           - Elicitação:
               - Perfil de Usuário: Entregas/Entregas_02/Elicitacao/Perfil_de_Usuário.md
               - Personas: Entregas/Entregas_02/Elicitacao/Definicao_de_Personas.md
@@ -86,7 +86,7 @@ nav:
               - Analise de Documentos: Entregas/Entregas_02/Elicitacao/Analise_de_Documentos.md
               - Entrevista: Entregas/Entregas_02/Elicitacao/Entrevista.md
               - Brainstorming: Entregas/Entregas_02/Elicitacao/Brainstorming.md
-              - Introspecção: Entregas/Entregas_02/Elicitacao/Introspecção.md
+              - Introspecção: Entregas/Entregas_02/Elicitacao/Introspeccao.md
               - Observação: Entregas/Entregas_02/Elicitacao/Observação.md
               - Storytelling: Entregas/Entregas_02/Elicitacao/Storytelling.md
               - Requisitos Elicitados: Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados.md
@@ -99,7 +99,9 @@ nav:
               - Decisão: Entregas/Entregas_02/Priorização/Decisao.md
               - Guia: Entregas/Entregas_02/Priorização/Guia.md
               - Tabela: Entregas/Entregas_02/Priorização/Tabela.md
-          - Inspeção grupo n+1: Entregas/Entregas_02/Inspeção02.md
+          - Verificação e inspeção: 
+              - Inspeção: Entregas/Entregas_02/Apresentação.md 
+              - Verificação grupo n+1: Entregas/Entregas_02/Inspeção02.md
 
       - Entrega 03:
           - Modelagem:
@@ -108,32 +110,37 @@ nav:
               - Cenário: Entregas/Entregas_03/Modelagem/Cenarios.md
               - Léxicos: Entregas/Entregas_03/Modelagem/Lexicos.md
               - Requisitos Não Implementados: Entregas/Entregas_03/Modelagem/Requisitos_Implementados.md
-          - Apresentação: Entregas/Entregas_03/Apresentação.md
-          - Inspeção grupo n+1: Entregas/Entregas_03/Modelagem/Inspecao03.md
+          - Verificação e inspeção: 
+              - Verificação grupo n+1: Entregas/Entregas_03/Modelagem/Inspecao03.md
+              - Inspeção: Entregas/Entregas_03/Apresentação.md
 
       - Entrega 04:
           - Modelagem-II:
               - NFR Framework: Entregas/Entregas_04/Modelagem_II/NFR_Framework.md
               - Histórias de Usuário: Entregas/Entregas_04/Modelagem_II/Historias_de_Usuario.md
               - Product Backlog: Entregas/Entregas_04/Modelagem_II/Product_Backlog.md
-          - Verificação e inspeção: Entregas/Entregas_04/Modelagem_II/Verificacao_e_Inspecao.md
-          - Inspeção grupo n+1: Entregas/Entregas_04/Modelagem_II/Inspecao04.md
+          - Verificação e inspeção: 
+              - Inspeção: Entregas/Entregas_04/Modelagem_II/Verificacao_e_Inspecao.md
+              - Verificação grupo n+1: Entregas/Entregas_04/Modelagem_II/Inspecao04.md
+
+      - Entrega 05: 
+          - Verificação e inspeção:
+            - Inspeção: Entregas/Entrega_05/Verificacao_grupo.md
+            - Verificação grupo n+1: Entregas/Entrega_05/Inspecao_grupo.md
 
       - Entrega 06:
           - Matriz de Rastreabilidade: Entregas/Entregas_05/Matriz_de_Rastreabilidade.md
           - Elos: Entregas/Entregas_05/Elos.md
           - Verificação e inspeção: 
-              - Grupo 4: Entregas/Entregas_05/verificacao_inspecao/inspecao_grupo04.md
-              - Grupo n+1: Entregas/Entregas_05/verificacao_inspecao/verificacao_grupo05.md
-      - Entrega 05: 
-          - Verificacao grupo 04: Entregas/Entrega_05/Verificacao_grupo.md
-          - Inspeção grupo 05: Entregas/Entrega_05/Inspecao_grupo.md
+              - Inspeção: Entregas/Entregas_05/verificacao_inspecao/inspecao_grupo04.md
+              - Verificação grupo n+1: Entregas/Entregas_05/verificacao_inspecao/verificacao_grupo05.md
+
 
       - Entrega Final:
           - Conclusão: Entregas/Entrega-Final/Conclusao.md
           - Anexos: Entregas/Entrega-Final/Anexos.md
 
-  - Verificação:
+  - Verificação final:
       - Planejamento Geral: Verificacao/Planejamento_Geral.md
       - Entrega 1:
           - Rich Picture: Verificacao/Entrega_01/Rich_Picture.md
@@ -160,11 +167,19 @@ nav:
           - Histórias de Usuário: Verificacao/Entrega_04/Historias_de_Usuario.md
           - Product Backlog: Verificacao/Entrega_04/Product_Backlog.md
 
-  - Validação:
+  - Validação final:
       - Protótipação: Validacao/Prototipacao.md
       - Comprovação Informal: Validacao/Comprovacao_Informal.md
 
 
   - Entrega Final:
-      - Conclusão: Entregas/Entrega-Final/Conclusao.md
-      - Anexos: Entregas/Entrega-Final/Anexos.md
+      - Execução do Projeto: Entregas/Entrega-Final/Execucao.md
+      - Resultados Obtidos: Entregas/Entrega-Final/Resultados_Obtidos.md
+      - Ferramentas Utilizadas: Entregas/Entrega-Final/Ferramentas_Utilizadas.md
+      - Tecnicas Utilizadas: Entregas/Entrega-Final/Tecnicas_Utilizadas.md
+      - Artefatos Criados: Entregas/Entrega-Final/Artefatos_Criados.md
+      - Tabela de Verificação/Validação: Entregas/Entrega-Final/Tabela_de_Verificacao_Validacao.md
+      - Vídeos do Projeto: Entregas/Entrega-Final/Videos_do_Projeto.md
+      - Considerações Finais: Entregas/Entrega-Final/Consideracoes_Finais.md
+
+

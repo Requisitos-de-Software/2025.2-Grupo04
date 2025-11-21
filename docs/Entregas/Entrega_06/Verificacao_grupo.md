@@ -273,24 +273,6 @@
 
 <p style="text-align: center;"><b>Fonte:</b> <a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a>, 2025</p>
 
-## Gravação 
-
-<div style="text-align: center;">
-  <p>
-    <a href="https://youtu.be/btm16vbPYJs" target="_blank"><b>Vídeo 2:</b> Verificação da Equipe - Entrega 03</a>
-  </p>
-
-  <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/btm16vbPYJs"
-          title="Verificação da Equipe - Entrega 05"
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          allowfullscreen>
-  </iframe>
-
-  <p style="font-size: 14px; text-align: center;">     <b>Fontes:</b> <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, 2025
-  </p>
-</div>
 
 ## Histórico de Versões
 

@@ -37,9 +37,7 @@
       <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
       <td>Conforme</td>
       <td></td>
-      <td>
-        <a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a>,
-      </td>
+      <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
       <td><a href="https://imgur.com/a/xDvZyf3" target="_blank">Print 1</a></td>
     </tr>
     <tr>
@@ -47,9 +45,7 @@
       <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
       <td>Conforme</td>
       <td></td>
-      <td>
-        <a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a>,
-      </td>
+      <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
       <td><a href="https://imgur.com/a/klof6aN" target="_blank">Print 2</a></td>
     </tr>
     <tr>
@@ -57,8 +53,7 @@
       <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
       <td>Conforme</td>
       <td></td>
-      <td>
-        <a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a>
+      <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
       <td><a href="https://imgur.com/a/JlhoZH7" target="_blank">Print 3</a></td>
     </tr>
     <tr>
@@ -66,9 +61,7 @@
       <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
       <td>Conforme</td>
       <td></td>
-      <td>
-        <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a>
-      </td>
+      <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
       <td><a href="https://imgur.com/a/oLNJ24a" target="_blank">Print 4</a></td>
     </tr>
     <tr>
@@ -76,9 +69,7 @@
       <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a></td>
       <td>Conforme</td>
       <td></td>
-      <td>
-        <a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a>,
-      </td>
+      <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a></td>
       <td><a href="https://imgur.com/a/oLNJ24a" target="_blank">Print 5</a></td>
     </tr>
     <tr>
@@ -86,9 +77,7 @@
       <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
       <td>Conforme</td>
       <td></td>
-      <td>
-        <a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a>
-      </td>
+      <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
       <td><a href="https://imgur.com/a/ZKAPd1t" target="_blank">Print 6</a></td>
     </tr>
     <tr>
@@ -96,9 +85,7 @@
       <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
       <td>Conforme</td>
       <td></td>
-      <td>
-        <a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a>,
-      </td>
+      <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
       <td><a href="https://imgur.com/a/ZKAPd1t" target="_blank">Print 7</a></td>
     </tr>
   </tbody>
@@ -127,9 +114,7 @@
       <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
       <td>Conforme</td>
       <td></td>
-      <td>
-        <a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a>
-      </td>
+      <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
       <td><a href="https://imgur.com/a/ALi7BKk" target="_blank">Print 1</a></td>
     </tr>
     <tr>
@@ -137,9 +122,7 @@
       <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
       <td>Conforme</td>
       <td></td>
-      <td>
-        <a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a>
-      </td>
+      <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
       <td><a href="https://imgur.com/a/mOY2KpF" target="_blank">Print 2</a></td>
     </tr>
     <tr>
@@ -147,9 +130,7 @@
       <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
       <td>Conforme</td>
       <td></td>
-      <td>
-        <a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a>
-      </td>
+      <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
       <td><a href="https://imgur.com/a/mOY2KpF" target="_blank">Print 3</a></td>
     </tr>
     <tr>
@@ -157,9 +138,7 @@
       <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
       <td>Conforme</td>
       <td></td>
-      <td>
-        <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a>
-      </td>
+      <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
       <td><a href="https://imgur.com/a/mOY2KpF" target="_blank">Print 4</a></td>
     </tr>
     <tr>
@@ -167,9 +146,7 @@
       <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a></td>
       <td>Conforme</td>
       <td></td>
-      <td>
-        <a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a>
-      </td>
+      <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a></td>
       <td><a href="https://imgur.com/a/mOY2KpF" target="_blank">Print 5</a></td>
     </tr>
     <tr>
@@ -177,9 +154,7 @@
       <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
       <td>Conforme</td>
       <td></td>
-      <td>
-        <a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a>
-      </td>
+      <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
       <td><a href="https://imgur.com/a/QzRaQIk" target="_blank">Print 6</a></td>
     </tr>
     <tr>
@@ -187,13 +162,12 @@
       <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
       <td>Conforme</td>
       <td></td>
-      <td>
-        <a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a>
-      </td>
+      <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
       <td><a href="https://imgur.com/a/QzRaQIk" target="_blank">Print 7</a></td>
     </tr>
   </tbody>
 </table>
+</div>
 
 ## Validação
 
@@ -217,9 +191,7 @@
       <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
       <td>Conforme</td>
       <td></td>
-      <td>
-        <a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a>
-      </td>
+      <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
       <td><a href="https://imgur.com/a/wlX2l8w" target="_blank">Print 1</a></td>
     </tr>
     <tr>
@@ -227,9 +199,7 @@
       <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
       <td>Conforme</td>
       <td></td>
-      <td>
-        <a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a>
-      </td>
+      <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
       <td><a href="https://imgur.com/a/hai0kDO" target="_blank">Print 2</a></td>
     </tr>
     <tr>
@@ -237,9 +207,7 @@
       <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
       <td>Conforme</td>
       <td></td>
-      <td>
-        <a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a>
-      </td>
+      <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
       <td><a href="https://imgur.com/a/oeyCiMj" target="_blank">Print 3</a></td>
     </tr>
     <tr>
@@ -247,9 +215,7 @@
       <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
       <td>Conforme</td>
       <td></td>
-      <td>
-        <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a>
-      </td>
+      <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
       <td><a href="https://imgur.com/a/oeyCiMj" target="_blank">Print 4</a></td>
     </tr>
     <tr>
@@ -257,9 +223,7 @@
       <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Lopes</a></td>
       <td>Conforme</td>
       <td></td>
-      <td>
-        <a href="https://github.com/leticialopes20" target="_blank">Letícia Lopes</a>
-      </td>
+      <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Lopes</a></td>
       <td><a href="https://imgur.com/a/wlX2l8w" target="_blank">Print 5</a></td>
     </tr>
     <tr>
@@ -267,9 +231,7 @@
       <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
       <td>Conforme</td>
       <td></td>
-      <td>
-        <a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a>
-      </td>
+      <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
       <td><a href="https://imgur.com/a/wlX2l8w" target="_blank">Print 6</a></td>
     </tr>
   </tbody>
@@ -277,8 +239,6 @@
 </div>
 
 <p style="text-align: center;"><b>Fonte:</b> <a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a>, 2025</p>
-</div>
-
 
 ## Gravação 
 
@@ -302,7 +262,6 @@
   </font>
 </div>
 
-
 ## Histórico de Versões
 
 | Versão |  Data  |  Descrição  |  Autor(es)  |  Revisor(es)  |
@@ -311,4 +270,3 @@
 |  `1.1` | 12/11/2025 | Adição de tabelas | [Giovana Fontes](https://github.com/GiovanaFontesS) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
 |  `1.2` | 12/11/2025 | Adição do video | [Giovana Fontes](https://github.com/GiovanaFontesS) | [Dylan Cavalcante](https://github.com/dylancavalcante) |
 | `1.3` | 21/11/2025 | Correção de listas | [Giovana Fontes](https://github.com/GiovanaFontesS) | [Dylan Cavalcante](https://github.com/dylancavalcante) |
-

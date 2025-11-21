@@ -268,6 +268,13 @@ Para acessar a gravação da aplicação da técnica, acesse o vídeo através d
 
 > SERRANO, Milene; SERRANO, Maurício. **Requisitos – Aula 07**. Gama, DF: Universidade de Brasília, [s.d.]. Material de aula.
 
+## Agrecimentos
+
+Queremos agradecer ao [Chat GPT](), ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto ID Jovem. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.
+
 
 ## Histórico de Versões
 
@@ -278,3 +285,4 @@ Para acessar a gravação da aplicação da técnica, acesse o vídeo através d
 | `1.2` | 30/09/2025 | Atualização da tabela de Requisitos com novos dados, finalização do documento | [Letícia Lopes](https://github.com/leticialopes20) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
 | `1.3` | 10/10/2025 | Arrumando citação das Referências | [Breno](https://github.com/BrenoLteixeira) | [Arthur](https://github.com/) |
 | `1.4` | 20/11/2025 | Refinamento da descrição da técnica "$100", com embasamento teórico melhorado, atualização de tabelas de requisitos e novos tópicos | [Letícia Lopes](https://github.com/leticialopes20) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+

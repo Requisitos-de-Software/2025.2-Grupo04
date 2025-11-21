@@ -46,6 +46,10 @@ Requisitos classificados como **OUT** foram justificados com base em sua não es
 
 ## Participantes
 
+* Mediadora: Responsável por conduzir a sessão de aplicação da técnica;
+* Membro apoiadora de fundamentação teórica: Responsável por garantir a aplicação correta da técnica seguindo embasamento teórico claro.
+* Usuária: Responsável por realizar a classificação dos requisitos de acordo com a técnica;
+
 <div align="center">
 <p style="text-align: center; font-size: 12pt;"><strong>Tabela 1:</strong> Participantes da sessão</p>
 <table>
@@ -69,14 +73,14 @@ Requisitos classificados como **OUT** foram justificados com base em sua não es
       <td>UnB Campus Gama</td>
     </tr>
     <tr>
-      <td>Equipe</td>
+      <td>Membro Apoiadora</td>
       <td>Eduarda</td>
       <td>29/09/2025</td>
       <td>12:30</td>
       <td>UnB Campus Gama</td>
     </tr>
     <tr>
-      <td>Equipe</td>
+      <td>Membro Apoiadora</td>
       <td>Giovana</td>
       <td>29/09/2025</td>
       <td>12:30</td>
@@ -180,6 +184,13 @@ Requisitos classificados como **OUT** foram justificados com base em sua não es
 ## Bibliografia
 
 > SERRANO, Milene; SERRANO, Maurício. **Requisitos – Aula 07**. Gama, DF: Universidade de Brasília, [s.d.]. Material de aula.
+
+## Agrecimentos
+
+Queremos agradecer ao [Chat GPT](), ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto ID Jovem. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.
 
 ## Histórico de Versões
 

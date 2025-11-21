@@ -1,6 +1,6 @@
 ## Introdução
 
-<p style="text-align: justify;">Após o planejamento da verificação, foi iniciada a inspeção do artefato <b>Personas</b> referente ao aplicativo <b>ID Jovem</b>. O propósito da verificação é garantir que as personas (arquétipos de usuários) estejam devidamente estruturadas, sejam coerentes com os dados elicitados e representem adequadamente os grupos de usuários do sistema. Como referência, utilizou-se o livro (VAZQUEZ; SIMÕES, 2016) <a href="#RP1">[1]</a>, especificamente os conceitos de identificação de Partes Interessadas (Capítulo 5.4), Usuários (Capítulo 5.4.3) e a importância de entender suas necessidades (Capítulo 5.5). Durante o processo, foram analisados os perfis, objetivos e frustrações de cada persona, com o intuito de aprimorar o artefato e assegurar sua adequação ao desenvolvimento do sistema.</p>
+Após o planejamento da verificação, foi iniciada a inspeção do artefato [Personas](https://requisitos-de-software.github.io/2025.2-Grupo04/Verificacao/Entrega_02/Personas/) referente ao aplicativo ID Jovem<. O propósito da verificação é garantir que as personas (arquétipos de usuários) estejam devidamente estruturadas, sejam coerentes com os dados elicitados e representem adequadamente os grupos de usuários do sistema. Como referência, utilizou-se o livro (VAZQUEZ; SIMÕES, 2016) , especificamente os conceitos de identificação de Partes Interessadas (Capítulo 5.4), Usuários (Capítulo 5.4.3) e a importância de entender suas necessidades (Capítulo 5.5). Durante o processo, foram analisados os perfis, objetivos e frustrações de cada persona, com o intuito de aprimorar o artefato e assegurar sua adequação ao desenvolvimento do sistema.
 
 <small><em>Revisado por [Gemini](https://gemini.google.com/), em 12 de Novembro 2025</em></small>
 
@@ -30,42 +30,42 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
-      <td>Avaliadora</td>
+      <td>Autor</td>
       <td>1</td>
       <td>12/11/2025</td>
       <td>16:00</td>
     </tr>
     <tr>
       <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
-      <td>Avaliador</td>
+      <td>Autor</td>
       <td>2</td>
       <td>12/11/2025</td>
       <td>16:10</td>
     </tr>
     <tr>
       <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
-      <td>Avaliador</td>
+      <td>Autor</td>
       <td>3</td>
       <td>12/11/2025</td>
       <td>16:20</td>
     </tr>
     <tr>
       <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
-      <td>Avaliador</td>
+      <td>Autor</td>
       <td>4</td>
       <td>12/11/2025</td>
       <td>16:30</td>
     </tr>
     <tr>
       <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
-      <td>Avaliadora</td>
+      <td>Autor</td>
       <td>5</td>
       <td>12/11/2025</td>
       <td>16:40</td>
     </tr>
     <tr>
       <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a></td>
-      <td>Avaliadora</td>
+      <td>Autor</td>
       <td>6</td>
       <td>12/11/2025</td>
       <td>16:50</td>
@@ -97,49 +97,49 @@ Fonte: <a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalc
   <tbody>
     <tr>
       <td><b>01:</b> As personas (primárias e secundária) representam os principais grupos de usuários e partes interessadas do sistema?</td>
-      <td>(VAZQUEZ; SIMÕES, 2016, p. 265)</td>
+      <td><a href="#REF1">(VAZQUEZ; SIMÕES, 2016, p. 269)</a></td>
       <td>Sim</td>
-      <td>As personas Ana, João e Camila representam os "Usuários". Rafaela representa outra "Parte Interessada" (professora/agente).</td>
+      <td>.</td>
       <td><a href="#" target="_blank">Print 1</a></td>
       <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
     </tr>
     <tr>
       <td><b>02:</b> Cada persona possui "Objetivos" e "Necessidades" claros e distintos, que ajudam a elicitar requisitos?</td>
-      <td>(VAZQUEZ; SIMÕES, 2016, p. 269)</td>
+      <td><a href="#REF1">(VAZQUEZ; SIMÕES, 2016, p. 269)</a></td>
       <td>Sim</td>
-      <td>Os objetivos (ex: "acessar meia-entrada") e necessidades (ex: "App intuitivo") são claros e base para os "Requisitos das partes interessadas".</td>
+      <td></td>
       <td><a href="#" target="_blank">Print 2</a></td>
       <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
     </tr>
     <tr>
       <td><b>03:</b> As "Frustrações" de cada persona identificam problemas claros que o sistema pode resolver?</td>
-      <td>(VAZQUEZ; SIMÕES, 2016, p. 238-239)</td>
+      <td><a href="#REF1">(VAZQUEZ; SIMÕES, 2016, p. 269)</a></td>
       <td>Sim</td>
-[cite_start]      <td>As frustrações (ex: "dificuldade para atualizar dados") apontam "problemas a resolver", que são a base dos "Requisitos de negócio" [cite: 1618-1619].</td>
+  <td></td>
       <td><a href="#" target="_blank">Print 3</a></td>
       <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
     </tr>
     <tr>
       <td><b>04:</b> A Antipersona (Carlos Henrique) define claramente quem *não* é o foco do sistema, ajudando a delimitar o escopo?</td>
-      <td>(VAZQUEZ; SIMÕES, 2016, p. 335)</td>
+      <td><a href="#REF1">(VAZQUEZ; SIMÕES, 2016, p. 269)</a></td>
       <td>Sim</td>
-      <td>A antipersona (45 anos, empresário) ajuda a definir o "Requisito inverso" (o que o sistema não fará), focando no público-alvo correto.</td>
+      <td></td>
       <td><a href="#" target="_blank">Print 4</a></td>
       <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
     </tr>
     <tr>
       <td><b>05:</b> Os detalhes (ex: 'Competências digitais', 'Escolaridade') são realistas e fornecem contexto para o design da solução?</td>
-      <td>(VAZQUEZ; SIMÕES, 2016, p. 132)</td>
+      <td><a href="#REF1">(VAZQUEZ; SIMÕES, 2016, p. 269)</a></td>
       <td>Sim</td>
-[cite_start]      <td>As "Competências digitais" (Alta, Média, Baixa) são cruciais para definir a usabilidade, alinhando-se ao "Conhecimento da equipe no domínio" do usuário [cite: 1547-1549].</td>
+     <td></td>
       <td><a href="#" target="_blank">Print 5</a></td>
       <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
     </tr>
     <tr>
       <td><b>06:</b> A distinção entre personas primárias e secundária está clara e justificada?</td>
-      <td>(VAZQUEZ; SIMÕES, 2016, p. 265)</td>
+      <td><a href="#REF1">(VAZQUEZ; SIMÕES, 2016, p. 269)</a></td>
       <td>Sim</td>
-      <td>As personas primárias (Ana, João, Camila) são "Usuários" diretos. A secundária (Rafaela) é uma "Parte Interessada" que usa o sistema de forma indireta (para orientar).</td>
+      <td></td>
       <td><a href="#" target="_blank">Print 6</a></td>
       <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a></td>
     </tr>
@@ -168,12 +168,14 @@ O artefato <b>Personas</b> (versão 1.6) está completo, consistente e atende a 
 
 ## Referencias Bibliograficas
 
-> <a id="RP1" href="#TEC1">1.</a> VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. *Engenharia de Requisitos: Software Orientado ao Negócio.* 1. ed. Rio de Janeiro: Brasport, 2016. [Referenciado: Cap 2.5.7, Cap 5.2, Cap 5.4, Cap 5.5, Cap 5.11].
+> <a id="REF1" href="#anchor_1">1.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021). *Interação Humano-Computador e Experiência do Usuário*. Autopublicação. ISBN: 978-65-00-19677-1.
+
+> <a id="FTF2" href="#TEC2">2.</a> LARMAN, Craig. *Aplicando UML e Padrões: Uma Introdução à Análise e Projeto Orientados a Objetos e Desenvolvimento Ágil*. 3ª ed. Porto Alegre: Bookman, 2005.
 
 ## Bibliografia 
-> BARBOSA, S. D. J. et al. Personas. In: BARBOSA, S. D. J. et al. <b>Interação Humano-Computador e Experiência do usuário</b>. [S. l.]: Autopublicação, 2021. cap. 8.2, p. 167.
->
-> VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. *Engenharia de Requisitos: Software Orientado ao Negócio.* 1. ed. Rio de Janeiro: Brasport, 2016.
+
+> SERRANO, Milene; SERRANO, Mauricio. *Requisitos – Aula 07*. Universidade de Brasília. Local: UnB-FGA, Gama, DF. Disponível em: [Aula 07](https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2007.pdf). Acesso em: 11 de novembro de 2025.
+
 
 ## Histórico de Versões
 
@@ -181,8 +183,12 @@ O artefato <b>Personas</b> (versão 1.6) está completo, consistente e atende a 
 | :--: | :--: | :-- | :-- | :-- |
 | 1.0 | 12/11/2025 | Criação da página de verificação do artefato Personas | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Breno Teixeira](https://github.com/BrenoLTeixeira) |
 | 1.1 | 12/11/2025 | Adição da coluna Print e referências formais | [Dylan Cavalcante](https://github.com/dylancavalcante) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| 1.2 | 21/11/2025 | Correção de tabelas | [Giovana Fontes](https://github.com/dylancavalcante) | [Arthur Fernandes](https://github.com/arthurfernandesj) 
 
 ## Agrecimentos
 
+Queremos agradecer ao Gemini, ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto ID Jovem. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
 De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
 Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.
+

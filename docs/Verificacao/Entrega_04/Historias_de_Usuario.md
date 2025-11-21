@@ -1,6 +1,6 @@
 ## Introdução
 
-<p style="text-align: justify;">Após o planejamento da verificação, foi iniciada a inspeção do artefato <b>Histórias de Usuário</b> referente ao aplicativo <b>ID Jovem</b>. O propósito dessa verificação é assegurar que as histórias estejam bem definidas, representando corretamente as necessidades dos usuários e refletindo as funcionalidades que o sistema deve oferecer. Segundo Vazquez e Simões (2016), as histórias de usuário surgiram no contexto da <b>Extreme Programming (XP)</b> como uma unidade de funcionalidade que demonstra o progresso do projeto por meio da entrega de código testado e integrado. Cada história deve ser compreensível para o cliente, testável pelos desenvolvedores e pequena o suficiente para ser implementada dentro de uma iteração. Atualmente, essa técnica é amplamente utilizada em métodos ágeis, como o <b>Scrum</b>, em que o Product Owner é responsável por elaborá-las com base nas necessidades dos usuários.</p>
+Após o planejamento da verificação, foi iniciada a inspeção do artefato [Historia de Usuario](https://requisitos-de-software.github.io/2025.2-Grupo04/Verificacao/Entrega_04/Historias_de_Usuario/) referente ao aplicativo ID Jovem. O propósito dessa verificação é assegurar que as histórias estejam bem definidas, representando corretamente as necessidades dos usuários e refletindo as funcionalidades que o sistema deve oferecer. Segundo Vazquez e Simões (2016), as histórias de usuário surgiram no contexto da Extreme Programming (XP) como uma unidade de funcionalidade que demonstra o progresso do projeto por meio da entrega de código testado e integrado. Cada história deve ser compreensível para o cliente, testável pelos desenvolvedores e pequena o suficiente para ser implementada dentro de uma iteração. Atualmente, essa técnica é amplamente utilizada em métodos ágeis, como o , em que o Product Owner é responsável por elaborá-las com base nas necessidades dos usuários.
 
 <p style="text-align: justify;">Durante a verificação, foram observados critérios como clareza, rastreabilidade, participação de personas e definição de critérios de aceitação, com base nas orientações de (VAZQUEZ; SIMÕES, 2016) <a href="#RP1">[1]</a>. O processo teve como objetivo principal avaliar a completude e a consistência das histórias, garantindo que o artefato esteja alinhado às boas práticas de Engenharia de Requisitos e às necessidades dos stakeholders.</p>
 
@@ -34,42 +34,42 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
-      <td>Avaliadora</td>
+      <td>Autor</td>
       <td>1, 2</td>
       <td>12/11/2025</td>
       <td>14:00</td>
     </tr>
     <tr>
       <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
-      <td>Avaliador</td>
+      <td>Autor</td>
       <td>3</td>
       <td>12/11/2025</td>
       <td>14:15</td>
     </tr>
     <tr>
       <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
-      <td>Avaliador</td>
+      <td>Autor</td>
       <td>4</td>
       <td>12/11/2025</td>
       <td>14:30</td>
     </tr>
     <tr>
       <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
-      <td>Avaliador</td>
+      <td>Autor</td>
       <td>5</td>
       <td>12/11/2025</td>
       <td>14:45</td>
     </tr>
     <tr>
       <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
-      <td>Avaliadora</td>
+      <td>Autor</td>
       <td>6</td>
       <td>12/11/2025</td>
       <td>15:00</td>
     </tr>
     <tr>
       <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a></td>
-      <td>Avaliadora</td>
+      <td>Autor</td>
       <td>7</td>
       <td>12/11/2025</td>
       <td>15:15</td>
@@ -103,50 +103,50 @@ Fonte: <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeir
     <tr>
       <td><b>01:</b> Os títulos das histórias de usuário são autoexplicativos?</td>
       <td>Sim</td>
-      <td>Os títulos são claros e permitem compreender rapidamente o propósito de cada história.</td>
-      <td>-</td>
+      <td></td>
+      <td><a href="https://imgur.com/mk3e08P" target="_blank">Print</a></td>
       <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
     </tr>
     <tr>
       <td><b>02:</b> O “quem”, “o que” e “por que” estão devidamente definidos nas histórias de usuário?</td>
       <td>Sim</td>
-      <td>As histórias seguem o modelo padrão: “Como [usuário], eu quero [funcionalidade] para [benefício]”.</td>
-      <td>-</td>
+      <td></td>
+      <td><a href="https://imgur.com/mk3e08P" target="_blank">Print</a></td>
       <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
     </tr>
     <tr>
       <td><b>03:</b> Há participação do cliente e/ou persona na validação das histórias de usuário?</td>
       <td>Incompleto</td>
-      <td>Algumas histórias foram revisadas com base em personas, mas a validação direta do cliente ainda é limitada.</td>
-      <td>-</td>
+      <td></td>
+      <td><a href="https://imgur.com/mk3e08P" target="_blank">Print</a></td>
       <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
     </tr>
     <tr>
       <td><b>04:</b> As histórias de usuário possuem critérios de aceitação bem definidos?</td>
       <td>Sim</td>
-      <td>Todos os casos apresentam critérios objetivos que permitem verificar o sucesso da entrega.</td>
-      <td>-</td>
+      <td></td>
+      <td><a href="https://imgur.com/mk3e08P" target="_blank">Print</a></td>
       <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
     </tr>
     <tr>
       <td><b>05:</b> Existe participação do cliente e/ou persona no processo de elicitação de requisitos?</td>
       <td>Sim</td>
-      <td>O levantamento inicial foi feito com base nas necessidades identificadas por personas representativas.</td>
-      <td>-</td>
+      <td></td>
+      <td><a href="https://imgur.com/mk3e08P" target="_blank">Print</a></td>
       <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
     </tr>
     <tr>
       <td><b>06:</b> Todas as histórias de usuário são testáveis?</td>
       <td>Sim</td>
-      <td>Cada história pode ser validada por meio de testes de aceitação claros e mensuráveis.</td>
-      <td>-</td>
+      <td></td>
+      <td><a href="https://imgur.com/mk3e08P" target="_blank">Print</a></td>
       <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
     </tr>
     <tr>
       <td><b>07:</b> As histórias de usuário seguem um modelo ou padrão definido?</td>
       <td>Sim</td>
-      <td>Todas as histórias seguem o formato ágil recomendado e estão padronizadas de forma consistente.</td>
-      <td>-</td>
+      <td></td>
+      <td><a href="https://imgur.com/mk3e08P" target="_blank">Print</a></td>
       <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a></td>
     </tr>
   </tbody>
@@ -194,10 +194,15 @@ As melhorias implementadas, incluindo a inclusão dos novos itens de verificaç�
 | :--: | :--: | :-- | :-- | :-- |
 | 1.0 | 12/11/2025 | Criação da página de verificação das Histórias de Usuário | [Breno Teixeira](https://github.com/BrenoLTeixeira) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
 | 1.1 | 12/11/2025 | Inclusão da checklist, análise dos resultados e novos itens de verificação | [Giovana Fontes](https://github.com/GiovanaFontesS) | [Breno Teixeira](https://github.com/BrenoLTeixeira) |
+| 1.2 | 21/11/2025 | Correção de tabelas | [Giovana Fontes](httpsS://github.com/BrenoLteixeira) | [Leticia Maria](httpsS://github.com/arthurfernandesj) |
 
 
 ## Agradecimentos
 
-<p style="text-align: justify;">
-De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta (Gemini) foi utilizada apenas como apoio técnico e linguístico. Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.
-</p>
+
+Queremos agradecer ao Gemini, ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto ID Jovem. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.
+
+

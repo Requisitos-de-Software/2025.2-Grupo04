@@ -1,6 +1,6 @@
 ## Introdução
 
-<p style="text-align: justify;">Após o planejamento da verificação, foi iniciada a inspeção do artefato <b>Storytelling</b> referente ao aplicativo <b>ID Jovem</b>. O propósito da verificação é garantir que as histórias dos usuários (Storytelling) estejam devidamente estruturadas, sejam coerentes com as personas definidas e capturem adequadamente as necessidades dos usuários, gerando requisitos claros. Como referência, utilizou-se o livro (VAZQUEZ, 2016) <a href="#RP1">[1]</a>, especificamente os conceitos de Histórias do Usuário (Capítulo 8.8) e Critérios de Qualidade (Capítulo 2.6). Durante o processo, foram analisadas as narrativas e a lista de requisitos elicitados, com o intuito de aprimorar o artefato e assegurar sua adequação ao desenvolvimento do sistema.</p>
+Após o planejamento da verificação, foi iniciada a inspeção do artefato [Storytelling](https://requisitos-de-software.github.io/2025.2-Grupo04/Verificacao/Entrega_02/Storytelling/) referente ao aplicativo ID Jovem. O propósito da verificação é garantir que as histórias dos usuários (Storytelling) estejam devidamente estruturadas, sejam coerentes com as personas definidas e capturem adequadamente as necessidades dos usuários, gerando requisitos claros. Como referência, utilizou-se o livro (VAZQUEZ, 2016) , especificamente os conceitos de Histórias do Usuário (Capítulo 8.8) e Critérios de Qualidade (Capítulo 2.6). Durante o processo, foram analisadas as narrativas e a lista de requisitos elicitados, com o intuito de aprimorar o artefato e assegurar sua adequação ao desenvolvimento do sistema.
 
 <small><em>Revisado por [Gemini](https://gemini.google.com/), em 12 de Novembro 2025</em></small>
 
@@ -177,6 +177,11 @@ Recomenda-se apenas a melhoria da rastreabilidade explícita entre as histórias
 ## Referencias Bibliograficas
 
 > <a id="RP1" href="#TEC1">1.</a> VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. *Engenharia de Requisitos: Software Orientado ao Negócio.* 1. ed. Rio de Janeiro: Brasport, 2016. [Referenciado: Cap 2.6, Cap 7.1, Cap 8.8, Cap 9.6].
+> <a id="FTF2" href="#TEC2">2.</a> LARMAN, Craig. *Aplicando UML e Padrões: Uma Introdução à Análise e Projeto Orientados a Objetos e Desenvolvimento Ágil*. 3ª ed. Porto Alegre: Bookman, 2005.
+
+## Bibliografia 
+
+> SERRANO, Milene; SERRANO, Mauricio. *Requisitos – Aula 07*. Universidade de Brasília. Local: UnB-FGA, Gama, DF. Disponível em: [Aula 07](https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2007.pdf). Acesso em: 11 de novembro de 2025.
 
 ## Histórico de Versões
 
@@ -185,7 +190,12 @@ Recomenda-se apenas a melhoria da rastreabilidade explícita entre as histórias
 | 1.0 | 11/11/2025 | Criação da verificação do artefato Storytelling | [Arthur Fernandes](https://github.com/arthurfernandesj)|[Dylan Cavalcante](https://github.com/dylancavalcante)  |
 | 1.1 | 12/11/2025 | Preenchimento da checklist e conclusões | [Dylan Cavalcante](https://github.com/dylancavalcante)  | [Arthur Fernandes](https://github.com/arthurfernandesj) |
 | 1.2 | 12/11/2025 | Adição da coluna "Print" e referências formais | [Dylan Cavalcante](https://github.com/dylancavalcante)  | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| 1.3 | 21/11/2025 | Correção de tabelas | [Giovana Fontes](https://github.com/dylancavalcante) | [Arthur Fernandes](https://github.com/arthurfernandesj) 
 
 ## Agradecimentos
 
-De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta (Gemini) foi utilizada apenas como apoio técnico e linguístico. Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.
+Queremos agradecer ao Gemini, ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto ID Jovem. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.
+

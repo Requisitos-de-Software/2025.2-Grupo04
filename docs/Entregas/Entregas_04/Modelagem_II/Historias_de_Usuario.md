@@ -1,32 +1,31 @@
 # Introdução 
 
-
-As histórias de usuário são uma forma simples e ágil de representar requisitos funcionais de um sistema, descrevendo de maneira breve o que o usuário precisa que o software faça. Segundo **Vazquez e Simões (Engenharia de Requisitos)**, elas surgiram no contexto da Extreme Programming (XP) como uma unidade de funcionalidade que demonstra o progresso do projeto por meio da entrega de código testado e integrado. Cada história de usuário deve ser compreensível para o cliente, testável pelos desenvolvedores e pequena o suficiente para ser implementada dentro de uma iteração. Atualmente, essa técnica é amplamente utilizada em métodos ágeis, como o Scrum, em que o Product Owner é responsável por elaborá-las com base nas necessidades dos usuários. O uso de histórias de usuário promove a colaboração da equipe, facilita a priorização e garante que o valor entregue seja claro, embora não seja indicado para ambientes que exigem documentação extensa e formal.
+As histórias de usuário são uma forma simples e ágil de representar requisitos funcionais de um sistema, descrevendo de maneira breve o que o Jovem Beneficiário precisa que o software faça. Segundo <a id="cit-vazquez-1"></a>[**Vazquez e Simões (Engenharia de Requisitos)**](#ref-vazquez), elas surgiram no contexto da Extreme Programming (XP) como uma unidade de funcionalidade que demonstra o progresso do projeto por meio da entrega de código testado e integrado. Cada história de usuário deve ser compreensível para o cliente, testável pelos desenvolvedores e pequena o suficiente para ser implementada dentro de uma iteração. Atualmente, essa técnica é amplamente utilizada em métodos ágeis, como o Scrum, em que o Product Owner é responsável por elaborá-las com base nas necessidades dos Jovens Beneficiários. O uso de histórias de usuário promove a colaboração da equipe, facilita a priorização e garante que o valor entregue seja claro, embora não seja indicado para ambientes que exigem documentação extensa e formal.<a id="cit-roger-1"></a>[**PRESSMAN, Roger S.**](#ref-roger)
 
 <small><em>Revisado por [Chat GPT](https://chatgpt.com/share/68fa1aea-f1e0-8000-92d0-4f83227ea1d0), em 20 de outubro de 2025</em></small>
 
 
 ### Objetivo
 
-O principal objetivo das histórias de usuário no contexto do ID Jovem é traduzir as necessidades dos jovens beneficiários em funcionalidades claras e testáveis, garantindo que o aplicativo seja acessível, funcional e atenda aos requisitos de inclusão digital. Através delas, o time de desenvolvimento consegue priorizar entregas que realmente impactam a experiência do usuário, assegurando que cada iteração do projeto contribua para um produto final mais eficiente e alinhado às expectativas do público.
+O principal objetivo das histórias de usuário no contexto do ID Jovem é traduzir as necessidades dos jovens beneficiários em funcionalidades claras e testáveis, garantindo que o aplicativo seja acessível, funcional e atenda aos requisitos de inclusão digital. Através delas, o time de desenvolvimento consegue priorizar entregas que realmente impactam a experiência do Jovem Beneficiário, assegurando que cada iteração do projeto contribua para um produto final mais eficiente e alinhado às expectativas do público.
 
 ### Justificativa de Uso
 
-O uso de histórias de usuário no desenvolvimento do aplicativo ID Jovem se justifica por se tratar de uma abordagem ágil, que permite compreender e documentar de forma simples as necessidades reais dos usuários do sistema — jovens que buscam acesso facilitado a benefícios culturais, esportivos e de transporte. Esse formato favorece a comunicação entre a equipe de desenvolvimento e o Product Owner, garantindo que cada funcionalidade desenvolvida tenha valor prático e direto para o público-alvo. Além disso, as histórias de usuário tornam o processo mais dinâmico e colaborativo, possibilitando ajustes contínuos conforme o feedback dos usuários e a evolução do projeto.
+O uso de histórias de usuário no desenvolvimento do aplicativo ID Jovem se justifica por se tratar de uma abordagem ágil, que permite compreender e documentar de forma simples as necessidades reais dos Jovens Beneficiários do sistema — jovens que buscam acesso facilitado a benefícios culturais, esportivos e de transporte. Esse formato favorece a comunicação entre a equipe de desenvolvimento e o Product Owner, garantindo que cada funcionalidade desenvolvida tenha valor prático e direto para o público-alvo. Além disso, as histórias de usuário tornam o processo mais dinâmico e colaborativo, possibilitando ajustes contínuos conforme o feedback dos Jovens Beneficiários e a evolução do projeto.
 
 ## Metodologia 
 
-As Histórias de Usuário foram elaboradas a partir dos requisitos funcionais, reinterpretados do ponto de vista do usuário do ID Jovem. Cada narrativa descreve de forma clara o que o aplicativo deve fazer e como contribui para o aprendizado, garantindo uma abordagem centrada no usuário e alinhada às práticas ágeis.
-A elaboração de uma história de usuário segue um processo simples e objetivo, que busca transformar as necessidades dos usuários em funcionalidades claras e de valor para o sistema. Segundo **Vazquez e Simões (Engenharia de Requisitos)**, uma boa história de usuário deve responder a três perguntas essenciais: quem se beneficia, o que se quer e qual é o benefício.
+As Histórias de Usuário foram elaboradas a partir dos requisitos funcionais, reinterpretados do ponto de vista do Jovem Beneficiário do ID Jovem. Cada narrativa descreve de forma clara o que o aplicativo deve fazer e como contribui para o aprendizado, garantindo uma abordagem centrada no Jovem Beneficiário e alinhada às práticas ágeis.
+A elaboração de uma história de usuário segue um processo simples e objetivo, que busca transformar as necessidades dos Jovens Beneficiários em funcionalidades claras e de valor para o sistema. Segundo <a id="cit-vazquez-2"></a>[**Vazquez e Simões (Engenharia de Requisitos)**](#ref-vazquez), uma boa história de usuário deve responder a três perguntas essenciais: quem se beneficia, o que se quer e qual é o benefício.
 
 - *Passo 1* – Identificar o ator **(Quem se beneficia?)**
 Define-se quem é o usuário ou parte interessada que se beneficiará da funcionalidade. No caso do aplicativo ID Jovem, esse ator pode ser o jovem beneficiário, o administrador do sistema ou o atendente de suporte.
 
 - *Passo 2* – Definir a funcionalidade **(O que se quer?)**
-Descreve-se de forma simples o que o usuário deseja fazer no sistema, sem entrar em detalhes técnicos.
+Descreve-se de forma simples o que o Jovem Beneficiário deseja fazer no sistema, sem entrar em detalhes técnicos.
 
 - *Passo 3* – Determinar o valor ou benefício **(Por quê?)**
-Explica-se o motivo e o valor que essa funcionalidade traz ao usuário ou ao negócio.
+Explica-se o motivo e o valor que essa funcionalidade traz ao Jovem Beneficiário ou ao negócio.
 
 - *Passo 4* – Escrever a história de usuário
 Com as informações anteriores, a história é escrita de forma padronizada:
@@ -56,7 +55,7 @@ A história é validada com o Product Owner e a equipe, podendo ser ajustada ou 
       <td align="left">
         <a href="#h10">US10</a> – Fornecer alertas sobre possíveis irregularidades no uso dos benefícios<br>
         <a href="#h11">US11</a> – Possuir um mapa interativo para visualizar geograficamente parceiros e eventos<br>
-        <a href="#h33">US33</a> – Registro de Logs de Acesso e Ações do Usuário<br>
+        <a href="#h33">US33</a> – Registro de Logs de Acesso e Ações do Jovem Beneficiário<br>
         <a href="#h34">US34</a> – Alertas sobre Atualizações Importantes do Programa<br>
         <a href="#h35">US35</a> – Alteração de Senha de Acesso pelo Aplicativo<br>
         <a href="#h36">US36</a> – Integração com GPS para Localizar Estabelecimentos Próximos
@@ -137,10 +136,10 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 |--------|------|
 | **Rastreabilidade** | Relacionamento com o(s) requisito(s) funcional(is) correspondente(s) à história |
 | **Tema** | Funcionalidade principal que a história aborda |
-| **Descrição** | Breve explicação do que o usuário deseja fazer e o valor que isso traz  |
-| **Critérios de Aceitação** | - Usuário consegue acessar a funcionalidade.<br>- Sistema retorna informações corretas.<br>- Funcionalidade funciona em dispositivos móveis. |
+| **Descrição** | Breve explicação do que o Jovem Beneficiário deseja fazer e o valor que isso traz  |
+| **Critérios de Aceitação** | - Jovem Beneficiário consegue acessar a funcionalidade.<br>- Sistema retorna informações corretas.<br>- Funcionalidade funciona em dispositivos móveis. |
 | **Prioridade Usuário** | Alta, média ou baixa |
-| **Status** | Validada ou não pelo usuário |
+| **Status** | Validada ou não pelo Jovem Beneficiário |
 | **Autor** | Autorx |
 
 <font size="2"><p style="text-align: center">Fonte: [Giovana Fontes ](https://github.com/GiovanaFontesS)</p></font>
@@ -154,10 +153,10 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 
 | **ID** | US01 |
 |--------|-------|
-| **Rastreabilidade** | [RF07](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf07) ([BS09](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/#bs09), [IDJ08](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/)) |
+| **Rastreabilidade** | [RF07](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf07)  |
 | **Tema** | Integração do aplicativo com o CadÚnico |
 | **Descrição** | Eu, como Jovem Beneficiário, desejo que meus dados pessoais e cadastrais sejam atualizados automaticamente por meio da integração do aplicativo com o CadÚnico, para garantir que minhas informações estejam sempre corretas e evitar bloqueios ou inconsistências no benefício. |
-| **Critérios de Aceitação** | - O sistema deve se conectar automaticamente à base de dados do CadÚnico. <br>- As atualizações devem ocorrer periodicamente, sem necessidade de ação manual do usuário.<br>- O usuário deve ser notificado quando seus dados forem atualizados. <br>- Em caso de falha na atualização, o sistema deve informar o motivo e sugerir solução. |
+| **Critérios de Aceitação** | - O sistema deve se conectar automaticamente à base de dados do CadÚnico. <br>- As atualizações devem ocorrer periodicamente, sem necessidade de ação manual do Jovem Beneficiário.<br>- O Jovem Beneficiário deve ser notificado quando seus dados forem atualizados. <br>- Em caso de falha na atualização, o sistema deve informar o motivo e sugerir solução. |
 | **Prioridade Usuário** | Alta|
 | **Status** | Validado |
 | **Autor** | [Letícia Lopes](https://github.com/leticialopes20) |
@@ -168,7 +167,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 
 | **ID** | US02 |
 |--------|-------|
-| **Rastreabilidade** | [RF08](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf08) ([BS11](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/), [ST04](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling/), [IDJ11](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspecção/), [ENT13](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/))|
+| **Rastreabilidade** | [RF08](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf08) |
 | **Tema** | Emissão de notificações automáticas de renovação do benefício |
 | **Descrição** | Eu, como Jovem Beneficiário, desejo receber notificações sobre o vencimento e o prazo de renovação do meu benefício, para que eu possa manter o cadastro ativo e não perca o acesso aos direitos oferecidos pelo programa. |
 | **Critérios de Aceitação** | - O sistema deve emitir notificações automáticas 30, 15 e 5 dias antes do vencimento do benefício. <br>- As notificações devem estar disponíveis no aplicativo e opcionalmente por e-mail ou push notification. <br>- A mensagem deve conter o link ou instrução para realizar a renovação. <br>- O sistema deve confirmar quando a renovação for concluída com sucesso. |
@@ -184,10 +183,10 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 
 | **ID** | US03 |
 |--------|-------|
-| **Rastreabilidade** | [RF10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf10) ([ENT05](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/), [BS08](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/)) |
+| **Rastreabilidade** | [RF10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf10) |
 | **Tema** | Consulta de Parceiros |
 | **Descrição** | Como jovem beneficiário, eu quero consultar os locais e parceiros que aceitam o ID Jovem, para saber onde posso utilizar meus benefícios de forma prática e planejada.  |
-| **Critérios de Aceitação** | -Usuário consegue acessar a lista de parceiros <br>- Sistema exibe informações completas dos estabelecimentos (nome, endereço, horário)<br> - Funcionalidade funciona em dispositivos móveis<br>- Busca por localização ou categoria disponível<br>- Informações atualizadas e precisas|
+| **Critérios de Aceitação** | -Jovem Beneficiário consegue acessar a lista de parceiros <br>- Sistema exibe informações completas dos estabelecimentos (nome, endereço, horário)<br> - Funcionalidade funciona em dispositivos móveis<br>- Busca por localização ou categoria disponível<br>- Informações atualizadas e precisas|
 | **Prioridade Usuário** |Média  |
 | **Status** | Validado |
 | **Autor** | [Eduarda](https://github.com/eduardar0) |
@@ -202,8 +201,8 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 |--------|-------|
 | **Rastreabilidade** | [RF11](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf11) |
 | **Tema** |  Canal de Suporte |
-| **Descrição** | Como usuário do ID Jovem, eu quero ter acesso a um canal de suporte eficiente, para resolver minhas dúvidas e problemas de forma rápida e satisfatória.  |
-| **Critérios de Aceitação** |- Usuário consegue acessar o canal de suporte <br>- Múltiplas opções disponíveis (chat, e-mail, formulário)<br>- Sistema fornece confirmação de recebimento<br>- Tempo de resposta dentro do esperado<br>- Funcionalidade funciona em dispositivos móveis<br>- Histórico de atendimento disponível  |
+| **Descrição** | Como Jovem Beneficiário do ID Jovem, eu quero ter acesso a um canal de suporte eficiente, para resolver minhas dúvidas e problemas de forma rápida e satisfatória.  |
+| **Critérios de Aceitação** |- Jovem Beneficiário consegue acessar o canal de suporte <br>- Múltiplas opções disponíveis (chat, e-mail, formulário)<br>- Sistema fornece confirmação de recebimento<br>- Tempo de resposta dentro do esperado<br>- Funcionalidade funciona em dispositivos móveis<br>- Histórico de atendimento disponível  |
 | **Prioridade Usuário** | Alta  |
 | **Status** | Validado |
 | **Autor** | [Eduarda](https://github.com/eduardar0) |
@@ -264,7 +263,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 | **Rastreabilidade** | [RF18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf18)  |
 | **Tema** | Exibição de pendências e erros nos benefícios |
 | **Descrição** | Eu, como Jovem Beneficiário, desejo visualizar informações sobre pendências ou erros relacionados aos meus benefícios, para compreender o motivo de possíveis bloqueios ou falhas na emissão da carteirinha. |
-| **Critérios de Aceitação** | - O aplicativo deve exibir mensagens claras quando houver pendências ou erros nos dados do beneficiário. <br> - As mensagens devem conter instruções sobre como resolver o problema (ex: atualizar cadastro, verificar documentação). <br> - O sistema deve diferenciar visualmente os tipos de erro (pendência documental, erro no sistema, dados inválidos etc.). <br> - As notificações devem ser acessíveis na tela principal do usuário. |
+| **Critérios de Aceitação** | - O aplicativo deve exibir mensagens claras quando houver pendências ou erros nos dados do beneficiário. <br> - As mensagens devem conter instruções sobre como resolver o problema (ex: atualizar cadastro, verificar documentação). <br> - O sistema deve diferenciar visualmente os tipos de erro (pendência documental, erro no sistema, dados inválidos etc.). <br> - As notificações devem ser acessíveis na tela principal do Jovem Beneficiário. |
 | **Prioridade Usuário** | Alta |
 | **Status** | Validado |
 | **Autor** | [Giovana Fontes](https://github.com/GiovanaFontesS) |
@@ -279,12 +278,12 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 | **Rastreabilidade** | [RF19](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf19) |
 | **Tema** | Gerenciamento de Perfil e Preferências |
 | **Descrição** | Eu, como Jovem Beneficiário, desejo poder atualizar minhas informações de cadastro e definir preferências pessoais, para manter meus dados corretos e receber conteúdo alinhado aos meus interesses. |
-| **Critérios de Aceitação** | - O usuário deve conseguir acessar uma seção "Meu Perfil" ou "Configurações".<br>- O usuário deve conseguir editar campos cadastrais (ex: e-mail, telefone).<br>- O usuário deve conseguir salvar as alterações no perfil.<br>- O usuário deve poder selecionar categorias de interesse (ex: shows, esportes, teatro) para personalizar notificações. |
+| **Critérios de Aceitação** | - O Jovem Beneficiário deve conseguir acessar uma seção "Meu Perfil" ou "Configurações".<br>- O Jovem Beneficiário deve conseguir editar campos cadastrais (ex: e-mail, telefone).<br>- O Jovem Beneficiário deve conseguir salvar as alterações no perfil.<br>- O Jovem Beneficiário deve poder selecionar categorias de interesse (ex: shows, esportes, teatro) para personalizar notificações. |
 | **Prioridade Usuário** | Média |
 | **Status** | Validado |
 | **Autor** | [Breno Teixeira](https://github.com/BrenoLTeixeira) |
 
-### <a name="h10"></a> **História 10: Fornecer alertas sobre possíveis irregularidades no uso dos benefícios**  
+### <a name="h10"></a> **História 10: Fornecer alertas sobre possíveis irregularidades no uso dos benefícios**  
 <font size="3"><p style="text-align: center">Tabela 12: História de fornecimento de alertas sobre possíveis irregularidades no uso dos benefícios</p></font>
 
 | **ID** | US10 |
@@ -301,7 +300,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 
 ---
 
-### <a name="h11"></a> **História 11: Possuir um mapa interativo para visualizar geograficamente parceiros e eventos**  
+### <a name="h11"></a> **História 11: Possuir um mapa interativo para visualizar geograficamente parceiros e eventos**  
 <font size="3"><p style="text-align: center">Tabela 13: História de visualização de parceiros e eventos geograficamente por mapa interativo</p></font>
 
 | **ID** | US11 |
@@ -325,7 +324,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 | **Rastreabilidade** | [RF22](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf22) |
 | **Tema** | Agenda integrada de eventos culturais e sociais|
 | **Descrição** | Eu, como Jovem Beneficiário, desejo acessar uma agenda de eventos integrados ao aplicativo, com possibilidade de filtrar por data, local e tipo de evento, para planejar melhor minha participação em atividades culturais, esportivas e educacionais.|
-| **Critérios de Aceitação** | - A agenda deve listar eventos culturais, esportivos e educacionais disponíveis aos beneficiários do programa.<br>- O usuário deve conseguir filtrar eventos por data, cidade e categoria. <br>- Cada evento deve exibir informações detalhadas (nome, local, horário, parceiro envolvido e se há meia-entrada ou gratuidade). <br>- Deve haver opção para adicionar eventos à agenda pessoal ou marcar como favorito. |
+| **Critérios de Aceitação** | - A agenda deve listar eventos culturais, esportivos e educacionais disponíveis aos beneficiários do programa.<br>- O Jovem Beneficiário deve conseguir filtrar eventos por data, cidade e categoria. <br>- Cada evento deve exibir informações detalhadas (nome, local, horário, parceiro envolvido e se há meia-entrada ou gratuidade). <br>- Deve haver opção para adicionar eventos à agenda pessoal ou marcar como favorito. |
 | **Prioridade Usuário** | Média |
 | **Status** | Validado |
 | **Autor** | [Letícia Lopes](https://github.com/leticialopes20) |
@@ -385,10 +384,10 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 
 | **ID** | US16 |
 |--------|------------|
-| **Rastreabilidade** | [RF02](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf02),  |
+| **Rastreabilidade** | [RF02](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf02),  |
 | **Tema** | Autenticação e Login |
 | **Descrição** | Eu, como Jovem Beneficiário, desejo me autenticar e fazer login no aplicativo via Gov.br para garantir a segurança e confiabilidade do acesso às minhas informações. |
-| **Critérios de Aceitação** | - O sistema deve permitir login via Gov.br. <br> - O processo de autenticação deve validar as credenciais do usuário em tempo real. <br> - O sistema deve redirecionar o usuário para a tela inicial após login bem-sucedido. <br> - Mensagens de erro devem ser exibidas em caso de falha na autenticação. |
+| **Critérios de Aceitação** | - O sistema deve permitir login via Gov.br. <br> - O processo de autenticação deve validar as credenciais do Jovem Beneficiário em tempo real. <br> - O sistema deve redirecionar o Jovem Beneficiário para a tela inicial após login bem-sucedido. <br> - Mensagens de erro devem ser exibidas em caso de falha na autenticação. |
 | **Prioridade Usuário** | Alta |
 | **Status** | Validado |
 | **Autor** | [Giovana Fontes](https://github.com/GiovanaFontesS) |
@@ -405,7 +404,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 | **Rastreabilidade** | [RF25](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf25) |
 | **Tema** | Recuperação de Conta |
 | **Descrição** | Eu, como Jovem Beneficiário, desejo recuperar o acesso à minha conta por meio de verificação via e-mail, SMS ou Gov.br, para garantir que possa acessar meus dados mesmo em caso de perda de credenciais. |
-| **Critérios de Aceitação** | - O sistema deve permitir recuperação de conta via e-mail, SMS ou Gov.br. <br> - O usuário deve receber instruções claras para concluir a recuperação. <br> - Mensagens de erro devem ser exibidas em caso de falha no processo de verificação. <br> - A conta só deve ser recuperada após validação segura das informações fornecidas. |
+| **Critérios de Aceitação** | - O sistema deve permitir recuperação de conta via e-mail, SMS ou Gov.br. <br> - O Jovem Beneficiário deve receber instruções claras para concluir a recuperação. <br> - Mensagens de erro devem ser exibidas em caso de falha no processo de verificação. <br> - A conta só deve ser recuperada após validação segura das informações fornecidas. |
 | **Prioridade Usuário** | Alta |
 | **Status** | Validado |
 | **Autor** | <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a> |
@@ -421,7 +420,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 | **Rastreabilidade** | [RF26](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf26) |
 | **Tema** | Tutorial Interativo |
 | **Descrição** | Eu, como Jovem Beneficiário, desejo acessar um tutorial interativo no aplicativo para ser orientado sobre como utilizar o ID Jovem e aproveitar seus benefícios. |
-| **Critérios de Aceitação** | - O aplicativo deve disponibilizar um tutorial interativo ao novo usuário. <br> - O tutorial deve explicar passo a passo como acessar e usar o ID Jovem. <br> - O usuário deve poder acessar o tutorial a qualquer momento pelo menu de ajuda. <br> - Feedbacks e instruções devem ser claros e de fácil compreensão. |
+| **Critérios de Aceitação** | - O aplicativo deve disponibilizar um tutorial interativo ao novo Jovem Beneficiário. <br> - O tutorial deve explicar passo a passo como acessar e usar o ID Jovem. <br> - O Jovem Beneficiário deve poder acessar o tutorial a qualquer momento pelo menu de ajuda. <br> - Feedbacks e instruções devem ser claros e de fácil compreensão. |
 | **Prioridade Usuário** | Média |
 | **Status** | Validado |
 | **Autor** | <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a> |
@@ -479,7 +478,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 | **ID** | US22 |
 |--------|-------|
 | **Rastreabilidade** | [RF06](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf06) |
-| **Tema** | Suporte ao Usuário (FAQ) |
+| **Tema** | Suporte ao Jovem Beneficiário (FAQ) |
 | **Descrição** | Eu, como Jovem Beneficiário, desejo acessar uma seção de Perguntas Frequentes (FAQ) para tirar dúvidas comuns sobre o programa ID Jovem, elegibilidade e uso dos benefícios. |
 | **Critérios de Aceitação** | - O aplicativo deve ter um item de menu "FAQ" ou "Dúvidas Frequentes".<br>- As perguntas devem ser organizadas por categorias (ex: Cadastro, Uso, Renovação).<br>- Deve haver uma barra de busca para filtrar as perguntas.<br>- As respostas devem ser claras e objetivas. |
 | **Prioridade Usuário** | Média |
@@ -511,7 +510,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 | **Rastreabilidade** | [RF14](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf14) |
 | **Tema** | Reserva de Benefícios |
 | **Descrição** | Eu, como Jovem Beneficiário, desejo poder reservar (quando aplicável, como em transporte) e emitir comprovantes de uso do benefício diretamente pelo aplicativo, para facilitar o controle e a organização. |
-| **Critérios de Aceitação** | - O sistema deve permitir a reserva de passagens interestaduais (se integrado às viações).<br>- Após a utilização de um benefício (ex: viagem), o sistema deve gerar um comprovante digital.<br>- O comprovante deve ser armazenado no histórico de utilização (referente à US05).<br>- O usuário deve poder visualizar ou baixar este comprovante. |
+| **Critérios de Aceitação** | - O sistema deve permitir a reserva de passagens interestaduais (se integrado às viações).<br>- Após a utilização de um benefício (ex: viagem), o sistema deve gerar um comprovante digital.<br>- O comprovante deve ser armazenado no histórico de utilização (referente à US05).<br>- O Jovem Beneficiário deve poder visualizar ou baixar este comprovante. |
 | **Prioridade Usuário** | Média |
 | **Status** | Validado |
 | **Autor** | [Eduarda](https://github.com/eduardar0) |
@@ -541,7 +540,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 | **Rastreabilidade** | [RF16](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf16) |
 | **Tema** | Integração de Serviços |
 | **Descrição** | Eu, como Jovem Beneficiário, desejo que o aplicativo ID Jovem se integre com outros serviços governamentais (além do Gov.br e CadÚnico), para centralizar o acesso a outros programas de interesse juvenil. |
-| **Critérios de Aceitação** | - O aplicativo deve prover links ou integrações diretas (APIs) com outros serviços (ex: SINE, programas de capacitação do MEC).<br>- A integração deve aproveitar η autenticação Gov.br (Single Sign-On).<br>- O usuário deve ser informado sobre quais dados estão sendo compartilhados entre os serviços. |
+| **Critérios de Aceitação** | - O aplicativo deve prover links ou integrações diretas (APIs) com outros serviços (ex: SINE, programas de capacitação do MEC).<br>- A integração deve aproveitar η autenticação Gov.br (Single Sign-On).<br>- O Jovem Beneficiário deve ser informado sobre quais dados estão sendo compartilhados entre os serviços. |
 | **Prioridade Usuário** | Baixa |
 | **Status** | Validado |
 | **Autor** | [Dylan Cavalcante](https://github.com/dylancavalcante) |
@@ -556,7 +555,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 | **Rastreabilidade** | [RF27](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf27) |
 | **Tema** | Feedback de Parceiros |
 | **Descrição** | Eu, como Jovem Beneficiário, desejo poder avaliar (com notas e comentários) os parceiros e estabelecimentos conveniados onde utilizei meu benefício, para compartilhar minha experiência com outros jovens e ajudar o programa a monitorar a qualidade do serviço. |
-| **Critérios de Aceitação** | - Na página de detalhes de um parceiro (US03/US11), deve haver uma opção "Avaliar".<br>- O usuário deve poder dar uma nota (ex: 1 a 5 estrelas).<br>- O usuário deve poder deixar um comentário (opcional).<br>- A média das avaliações deve ser visível para outros usuários.<br>- Comentários inadequados devem ser moderados. |
+| **Critérios de Aceitação** | - Na página de detalhes de um parceiro (US03/US11), deve haver uma opção "Avaliar".<br>- O Jovem Beneficiário deve poder dar uma nota (ex: 1 a 5 estrelas).<br>- O Jovem Beneficiário deve poder deixar um comentário (opcional).<br>- A média das avaliações deve ser visível para outros Jovens Beneficiários.<br>- Comentários inadequados devem ser moderados. |
 | **Prioridade Usuário** | Média |
 | **Status** | Validado |
 | **Autor** | [Dylan Cavalcante](https://github.com/dylancavalcante) |
@@ -570,7 +569,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 |--------|-------|
 | **Rastreabilidade** | [RF28](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf28) |
 | **Tema** | Acessibilidade |
-| **Descrição** | Eu, como usuário com deficiência visual, desejo que o aplicativo ofereça um modo acessível, com contraste ajustável e leitura por voz, para que eu possa navegar e utilizar o ID Jovem sem dificuldades. |
+| **Descrição** | Eu, como Jovem Beneficiário com deficiência visual, desejo que o aplicativo ofereça um modo acessível, com contraste ajustável e leitura por voz, para que eu possa navegar e utilizar o ID Jovem sem dificuldades. |
 | **Critérios de Aceitação** | - O aplicativo deve ter uma opção "Acessibilidade" nas configurações.<br>- Deve haver uma opção para "Alto Contraste".<br>- O aplicativo deve ser compatível com os leitores de tela nativos do sistema operacional (TalkBack/VoiceOver).<br>- Fontes devem ser redimensionáveis de acordo com a preferência do sistema. |
 | **Prioridade Usuário** | Média |
 | **Status** | Validado |
@@ -586,7 +585,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 | **Rastreabilidade** | [RF29](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf29) |
 | **Tema** | Exportação de Dados |
 | **Descrição** | Eu, como Jovem Beneficiário, desejo poder exportar meu histórico de utilização dos benefícios (US05) e meus comprovantes (US24) em formato PDF, para ter um registro formal ou para prestação de contas. |
-| **Critérios de Aceitação** | - Na tela de "Histórico de Utilização", deve haver um botão "Exportar PDF".<br>- O usuário deve poder selecionar um período (ex: "Últimos 6 meses", "Ano de 2025").<br>- O PDF gerado deve ser formatado de maneira clara, listando data, benefício e local.<br>- O arquivo deve poder ser salvo localmente ou compartilhado. |
+| **Critérios de Aceitação** | - Na tela de "Histórico de Utilização", deve haver um botão "Exportar PDF".<br>- O Jovem Beneficiário deve poder selecionar um período (ex: "Últimos 6 meses", "Ano de 2025").<br>- O PDF gerado deve ser formatado de maneira clara, listando data, benefício e local.<br>- O arquivo deve poder ser salvo localmente ou compartilhado. |
 | **Prioridade Usuário** | Baixa |
 | **Status** | Validado |
 | **Autor** | [Breno Teixeira](https://github.com/BrenoLTeixeira) |
@@ -601,7 +600,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 | **Rastreabilidade** | [RF30](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf30) |
 | **Tema** | Configuração de Notificações |
 | **Descrição** | Eu, como Jovem Beneficiário, desejo configurar minhas preferências de notificação (RF08, RF34), para escolher quais tipos de alertas quero receber (ex: vencimento, novos parceiros) e com qual frequência. |
-| **Critérios de Aceitação** | - Nas "Configurações" do aplicativo, deve haver uma seção "Notificações".<br>- O usuário deve poder habilitar ou desabilitar categorias de notificação (ex: "Vencimento da ID", "Novos Eventos", "Promoções de Parceiros").<br>- O usuário deve poder escolher o canal (Push, E-mail).<br>- As preferências devem ser salvas e respeitadas pelo sistema. |
+| **Critérios de Aceitação** | - Nas "Configurações" do aplicativo, deve haver uma seção "Notificações".<br>- O Jovem Beneficiário deve poder habilitar ou desabilitar categorias de notificação (ex: "Vencimento da ID", "Novos Eventos", "Promoções de Parceiros").<br>- O Jovem Beneficiário deve poder escolher o canal (Push, E-mail).<br>- As preferências devem ser salvas e respeitadas pelo sistema. |
 | **Prioridade Usuário** | Média |
 | **Status** | Validado |
 | **Autor** | [Breno Teixeira](https://github.com/BrenoLTeixeira) |
@@ -615,7 +614,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 |--------|-------|
 | **Rastreabilidade** | [RF31](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf31) |
 | **Tema** | Informações do Sistema |
-| **Descrição** | Eu, como usuário, desejo ver a versão atual do aplicativo em uma seção "Sobre", para saber se estou com a versão mais recente ou para reportar problemas ao suporte. |
+| **Descrição** | Eu, como Jovem Beneficiário, desejo ver a versão atual do aplicativo em uma seção "Sobre", para saber se estou com a versão mais recente ou para reportar problemas ao suporte. |
 | **Critérios de Aceitação** | - O aplicativo deve ter uma seção "Sobre" ou "Informações".<br>- Esta seção deve exibir o número da versão atual (ex: "Versão 2.1.3").<br>- O sistema pode, opcionalmente, exibir um link para as notas da versão (o que há de novo) ou verificar se há atualizações. |
 | **Prioridade Usuário** | Baixa |
 | **Status** | Validado |
@@ -630,7 +629,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 |--------|-------|
 | **Rastreabilidade** | [RF32](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf32) |
 | **Tema** | Informações Legais |
-| **Descrição** | Eu, como usuário, desejo acessar facilmente os Termos de Uso e a Política de Privacidade do aplicativo, para entender como meus dados são usados e quais são as regras do serviço. |
+| **Descrição** | Eu, como Jovem Beneficiário, desejo acessar facilmente os Termos de Uso e a Política de Privacidade do aplicativo, para entender como meus dados são usados e quais são as regras do serviço. |
 | **Critérios de Aceitação** | - O menu de "Configurações" ou "Sobre" deve conter links para "Termos de Uso" e "Política de Privacidade".<br>- Os documentos devem ser exibidos dentro do aplicativo ou em um navegador web.<br>- Os textos devem estar atualizados conforme a legislação vigente (LGPD). |
 | **Prioridade Usuário** | Média |
 | **Status** | Validado |
@@ -638,15 +637,15 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 
 <font size="2"><p style="text-align: center">Fonte: [Breno Teixeira](https://github.com/BrenoLTeixeira)</p></font>
 
-### <a name="h33"></a> **História 33: Registro de Logs de Acesso e Ações do Usuário**
+### <a name="h33"></a> **História 33: Registro de Logs de Acesso e Ações do Jovem Beneficiário**
 <font size="3"><p style="text-align: center">Tabela 31: História de Registro de Logs para Auditoria</p></font>
 
 | **ID** | US33 |
 |--------|-------|
 | **Rastreabilidade** | [RF33](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf33) |
 | **Tema** | Segurança e Auditoria (Não-Funcional/Backend) |
-| **Descrição** | Eu, como Administrador do Sistema, desejo que o sistema registre logs de acesso e ações críticas do usuário (como geração de carteira, alteração de dados), para fins de auditoria, segurança e depuração de erros. |
-| **Critérios de Aceitação** | - O sistema (backend) deve registrar logs para eventos de login (sucesso e falha).<br>- O sistema deve registrar logs para emissão de carteira (US19) e alteração de senha (US35).<br>- Os logs devem conter data/hora, ID do usuário (anonimizado se necessário) e a ação realizada.<br>- Os logs devem ser armazenados de forma segura e acessíveis apenas por administradores autorizados. |
+| **Descrição** | Eu, como Administrador do Sistema, desejo que o sistema registre logs de acesso e ações críticas do Jovem Beneficiário (como geração de carteira, alteração de dados), para fins de auditoria, segurança e depuração de erros. |
+| **Critérios de Aceitação** | - O sistema (backend) deve registrar logs para eventos de login (sucesso e falha).<br>- O sistema deve registrar logs para emissão de carteira (US19) e alteração de senha (US35).<br>- Os logs devem conter data/hora, ID do Jovem Beneficiário (anonimizado se necessário) e a ação realizada.<br>- Os logs devem ser armazenados de forma segura e acessíveis apenas por administradores autorizados. |
 | **Prioridade Usuário** | Alta |
 | **Status** | Validado |
 | **Autor** | [Arthur Fernandes](https://github.com/arthurfernandesj) |
@@ -661,7 +660,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 | **Rastreabilidade** | [RF34](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf34) |
 | **Tema** | Notificações do Programa |
 | **Descrição** | Eu, como Jovem Beneficiário, desejo receber alertas (notificações) sobre atualizações importantes nas regras ou no funcionamento do programa ID Jovem, para me manter informado sobre meus direitos. |
-| **Critérios de Aceitação** | - O sistema deve enviar notificações push ou e-mail quando houver mudanças legais ou administrativas no programa (ex: mudança nas regras de renda).<br>- Os alertas devem ser claros e direcionar para uma fonte oficial (ex: site do governo) com mais detalhes.<br>- O usuário pode configurar o recebimento desses alertas (relacionado à US30). |
+| **Critérios de Aceitação** | - O sistema deve enviar notificações push ou e-mail quando houver mudanças legais ou administrativas no programa (ex: mudança nas regras de renda).<br>- Os alertas devem ser claros e direcionar para uma fonte oficial (ex: site do governo) com mais detalhes.<br>- O Jovem Beneficiário pode configurar o recebimento desses alertas (relacionado à US30). |
 | **Prioridade Usuário** | Média |
 | **Status** | Validado |
 | **Autor** | [Arthur Fernandes](https://github.com/arthurfernandesj) |
@@ -676,7 +675,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 | **Rastreabilidade** | [RF35](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf35) |
 | **Tema** | Segurança da Conta |
 | **Descrição** | Eu, como Jovem Beneficiário, desejo poder alterar minha senha de acesso (caso não esteja usando exclusivamente o Gov.br) pelo próprio aplicativo, para manter minha conta segura. |
-| **Critérios de Aceitação** | - Na seção "Segurança" ou "Perfil", deve haver a opção "Alterar Senha".<br>- O sistema deve solicitar a senha atual e a nova senha (duas vezes).<br>- O sistema deve validar a força da nova senha (ex: mínimo de 8 caracteres, letras e números).<br>- Se o login for exclusivo via Gov.br (US16), esta opção deve redirecionar o usuário para alterar a senha no Gov.br. |
+| **Critérios de Aceitação** | - Na seção "Segurança" ou "Perfil", deve haver a opção "Alterar Senha".<br>- O sistema deve solicitar a senha atual e a nova senha (duas vezes).<br>- O sistema deve validar a força da nova senha (ex: mínimo de 8 caracteres, letras e números).<br>- Se o login for exclusivo via Gov.br (US16), esta opção deve redirecionar o Jovem Beneficiário para alterar a senha no Gov.br. |
 | **Prioridade Usuário** | Média |
 | **Status** | Validado |
 | **Autor** | [Arthur Fernandes](https://github.com/arthurfernandesj) |
@@ -691,79 +690,81 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 | **Rastreabilidade** | [RF36](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf36) |
 | **Tema** | Localização de Parceiros |
 | **Descrição** | Eu, como Jovem Beneficiário, desejo que o aplicativo use o GPS do meu celular para localizar e mostrar no mapa (US11) os estabelecimentos e parceiros próximos da minha localização atual. |
-| **Critérios de Aceitação** | - O aplicativo deve solicitar permissão para usar o GPS.<br>- O mapa interativo (US11) deve ter um botão "Usar minha localização" ou "Perto de mim".<br>- Ao ativar, o mapa deve centralizar na localização do usuário.<br>- O sistema deve exibir os parceiros em um raio definido (ex: 5km) ou os mais próximos. |
+| **Critérios de Aceitação** | - O aplicativo deve solicitar permissão para usar o GPS.<br>- O mapa interativo (US11) deve ter um botão "Usar minha localização" ou "Perto de mim".<br>- Ao ativar, o mapa deve centralizar na localização do Jovem Beneficiário.<br>- O sistema deve exibir os parceiros em um raio definido (ex: 5km) ou os mais próximos. |
 | **Prioridade Usuário** | Média |
 | **Status** | Validado |
 | **Autor** | [Arthur Fernandes](https://github.com/arthurfernandesj) |
 
 <font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj)</p></font>
 
-## Validação  
+## Validação  
 
 ### Gravação 1 - Validação Dylan e Arthur 
 
 <p style="text-align: center">
-  <iframe width="560" height="315" 
-    src="https://www.youtube.com/embed/ej2ZI_-7yVc" 
-    title="YouTube video player" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-    referrerpolicy="strict-origin-when-cross-origin" 
-    allowfullscreen>
-  </iframe>
+  <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/ej2ZI_-7yVc" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+  </iframe>
 </p>
 
- <font size="3">
-    <p style="text-align: center">
-      <b>Fonte:</b> <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, 2025
-    </p>
-  </font>
-  
-### Gravação 2 - Validação Eduarda e Leticia  
+ <font size="3">
+    <p style="text-align: center">
+      <b>Fonte:</b> <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, 2025
+    </p>
+  </font>
+  
+### Gravação 2 - Validação Eduarda e Leticia  
 
 <p style="text-align: center">
-  <iframe width="560" height="315" 
-    src="https://www.youtube.com/embed/FzFgf3r_DWU" 
-    title="YouTube video player" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-    referrerpolicy="strict-origin-when-cross-origin" 
-    allowfullscreen>
-  </iframe>
+  <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/FzFgf3r_DWU" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+  </iframe>
 </p>
 
- <font size="3">
-    <p style="text-align: center">
-      <b>Fonte:</b> <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, 2025
-    </p>
-  </font>
-  
+ <font size="3">
+    <p style="text-align: center">
+      <b>Fonte:</b> <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, 2025
+    </p>
+  </font>
+  
 ---
 
 ### Gravação 3 - Validação Breno e Giovana
 
 <p style="text-align: center">
-  <iframe width="560" height="315" 
-    src="https://www.youtube.com/embed/I0Id9MMhdqA" 
-    title="YouTube video player" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-    referrerpolicy="strict-origin-when-cross-origin" 
-    allowfullscreen>
-  </iframe>
+  <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/I0Id9MMhdqA" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+  </iframe>
 </p>
 
- <font size="3">
-    <p style="text-align: center">
-      <b>Fonte:</b> <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, 2025
-    </p>
-  </font>
-  
+ <font size="3">
+    <p style="text-align: center">
+      <b>Fonte:</b> <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, 2025
+    </p>
+  </font>
+  
 ---
 
 ##  Referências Bibliográficas
 
-> <a id="RP3" href="#TEC3">1.</a> VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira; SIMÕES. *Engenharia de Requisitos: Software Orientado ao Negócio.* São Paulo , 2016. Acesso em: 19 de outubro de 2025.
+> <a id="ref-vazquez"></a> <a href="#cit-vazquez-1">1.</a> VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira; SIMÕES. *Engenharia de Requisitos: Software Orientado ao Negócio.* São Paulo , 2016. Acesso em: 19 de outubro de 2025.
+
+> <a id="ref-roger"></a> <a href="#cit-roger-1">2.</a> PRESSMAN, Roger S.; MAXIM, Bruce R.. Engenharia de software: uma abordagem profissional. 8 Porto Alegre: AMGH, 2016, 940 p. Acesso em: 19 de outubro de 2025.
 
 
 
@@ -778,9 +779,11 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 | 1.4 | 20/10/2025 |Adição das Historias de usuario [US03](#h03), [US04](#h04)|[Eduarda Rodrigues](https://github.com/eduardar0)| [Dylan Cavalcante](https://github.com/dylancavalcante) |
 | 1.5 | 20/10/2025 | Adição das Histórias de Usuário [US09](#h09) e [US13](#h13) | [Breno Teixeira](https://github.com/BrenoLTeixeira) | [Eduarda Rodrigues](https://github.com/eduardar0) |
 | 1.6 | 20/10/2025 | Adição das Histórias de Usuário [US10](#h09) e [US11](#h13) | [Arthur Fernandes](https://github.com/arthurfernandesj) | [ Letícia Lopes](https://github.com/leticialopes20) |
-| 1.7 | 21/10/2025 | Adição de gravações de validação |  [Giovana Fontes](https://github.com/GiovanaFontesS) | [Arthur Fernandes](https://github.com/arthurfernandesj) | 
-| 1.8 | 21/10/2025 |  Adição de Contribuições | [Giovana Fontes](https://github.com/GiovanaFontesS) |  [Arthur Fernandes](https://github.com/arthurfernandesj) |
-| 1.9 | 21/10/2025 |  Fix tabela e adição de novas história | [Dylan Cavalcante](https://github.com/dylancavalcante) |  [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| 1.7 | 21/10/2025 | Adição de gravações de validação |  [Giovana Fontes](https://github.com/GiovanaFontesS) | [Arthur Fernandes](https://github.com/arthurfernandesj) | 
+| 1.8 | 21/10/2025 |  Adição de Contribuições | [Giovana Fontes](https://github.com/GiovanaFontesS) |  [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| 1.9 | 21/10/2025 |  Fix tabela e adição de novas história | [Dylan Cavalcante](https://github.com/dylancavalcante) |  [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| 2.0 | 20/11/2025 |  Correção de hiperlinks | [Breno Teixeira](https://github.com/Brenolteixeira) |  [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| 2.1 | 20/11/2025 |  refinamento para a entrega final | [Breno Teixeira](https://github.com/Brenolteixeira) |  [Arthur Fernandes](https://github.com/arthurfernandesj) |
 
 ## Agrecimentos
 

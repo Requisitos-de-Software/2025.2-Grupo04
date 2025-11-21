@@ -61,13 +61,13 @@ Este documento tem como objetivo apresentar todos os artefatos que foram desenvo
 
 | Artefato | Descrição | Autor(es) | Revisor(es) |
 |----------|-----------|-----------|-------------|
-| [Home]() | Página inicial do projeto, contendo apresentação, links para os artefatos criados e membros da equipe. |  |  |
+| [Home]() | Página inicial do projeto, contendo apresentação, links para os artefatos criados e membros da equipe. |[Dylan Cavalcante](https://github.com/dylancavalcante)  | [Arthur Fernandes](https://github.com/arthurfernandesj) |
 | [Aplicativo Selecionado]() | Critérios, motivações da escolha, funcionalidades e termos de uso. |  |  |
-| [Cronograma]() | Cronogramas planejados e executados de todas as entregas. |  |  |
-| [Ferramentas]() | Ferramentas utilizadas no projeto. |  |  |
-| [Metodologia]() | Descrição da metodologia usada. |  |  |
-| [Plano de Reuniões]() | Planejamento das reuniões da equipe. |  |  |
-| [Pré-Rastreabilidade]() | Página do Rich Picture desenvolvido e validado. |  |  |
+| [Cronograma]() | Cronogramas planejados e executados de todas as entregas. |[Breno Teixeira](https://github.com/BrenoLTeixeira), [Eduarda Domingos](https://github.com/eduardar0), [Letícia Lopes](https://github.com/leticialopes20)  |[Arthur Fernandes](https://github.com/arthurfernandesj),  [Dylan Cavalcante](https://github.com/dylancavalcante), [Letícia Lopes](https://github.com/leticialopes20)  |
+| [Ferramentas]() | Ferramentas utilizadas no projeto. |[Breno Teixeira](https://github.com/BrenoLTeixeira), [Letícia Lopes](https://github.com/leticialopes20)   |[Arthur Fernandes](https://github.com/arthurfernandesj), [Dylan Cavalcante](https://github.com/dylancavalcante), [Eduarda Domingos](https://github.com/eduardar0), [Letícia Lopes](https://github.com/leticialopes20)  |
+| [Metodologia]() | Descrição da metodologia usada. | [Eduarda Domingos](https://github.com/eduardar0) | [Letícia Lopes](https://github.com/leticialopes20) |
+| [Plano de Reuniões]() | Planejamento das reuniões da equipe. | [Arthur Fernandes](https://github.com/arthurfernandesj), [Breno Teixeira](https://github.com/BrenoLTeixeira), [Dylan Cavalcante](https://github.com/dylancavalcante), [Eduarda Domingos](https://github.com/eduardar0), [Giovana Fontes](https://github.com/GiovanaFontesS), [Letícia Lopes](https://github.com/leticialopes20) |[Letícia Lopes](https://github.com/leticialopes20)  |
+| [Pré-Rastreabilidade]() | Página do Rich Picture desenvolvido e validado. |[Arthur Fernandes](https://github.com/arthurfernandesj), [Giovana Fontes](https://github.com/GiovanaFontesS)  | [Arthur Fernandes](https://github.com/arthurfernandesj), [Giovana Fontes](https://github.com/GiovanaFontesS)  |
 
 <font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj) </p></font>
 
@@ -79,7 +79,7 @@ Este documento tem como objetivo apresentar todos os artefatos que foram desenvo
 
 | Artefato | Descrição | Autor(es) | Revisor(es) |
 |----------|-----------|-----------|-------------|
-| [Perfil de Usuário]() | Definição do perfil do usuário a partir de investigação e estudo. |  |  |
+| [Perfil de Usuário]() | Definição do perfil do usuário a partir de investigação e estudo. |[Breno Teixeira](https://github.com/BrenoLTeixeira), [Dylan Cavalcante](https://github.com/dylancavalcante), [Eduarda Domingos](https://github.com/eduardar0)  | [Arthur Fernandes](https://github.com/arthurfernandesj),  |
 | [Personas]() | Definição das personas e antipersonas. |  |  |
 | [Analise de Documentos]() | Técnica de elicitação "Analise de Documentos". |  |  |
 | [Brainstorming]() | Técnica de elicitação "Brainstorming". |  |  |

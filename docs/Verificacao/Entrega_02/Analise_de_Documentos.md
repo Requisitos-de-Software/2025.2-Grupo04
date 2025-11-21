@@ -30,42 +30,42 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
-      <td>Avaliadora</td>
+      <td>Autor</td>
       <td>1</td>
       <td>12/11/2025</td>
       <td>17:00</td>
     </tr>
     <tr>
       <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
-      <td>Avaliador</td>
+      <td>Autor</td>
       <td>2</td>
       <td>12/11/2025</td>
       <td>17:10</td>
     </tr>
     <tr>
       <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
-      <td>Avaliador</td>
+      <td>Autor</td>
       <td>3</td>
       <td>12/11/2025</td>
       <td>17:20</td>
     </tr>
     <tr>
       <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
-      <td>Avaliador</td>
+      <td>Autor</td>
       <td>4</td>
       <td>12/11/2025</td>
       <td>17:30</td>
     </tr>
     <tr>
       <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
-      <td>Avaliadora</td>
+      <td>Autor</td>
       <td>5</td>
       <td>12/11/2025</td>
       <td>17:40</td>
     </tr>
     <tr>
       <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a></td>
-      <td>Avaliadora</td>
+      <td>Autor</td>
       <td>6</td>
       <td>12/11/2025</td>
       <td>17:50</td>

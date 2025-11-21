@@ -1,4 +1,3 @@
-
 ## Introdução
 <p style="text-align: justify;"> Aqui está definida a verificação do grupo 04, feita pelo grupo 4, cujo projeto aborda o aplicativo Jornada do estudante. Este documento inclui as verificações e Prototipo para entrega 5. Ao final, são apresentados em detalhes os resultados alcançados por meio dessa verificação. 
 </p>
@@ -195,6 +194,7 @@
     </tr>
   </tbody>
 </table>
+</div>
 
 ## Validação
 
@@ -278,7 +278,6 @@
 </div>
 
 <p style="text-align: center;"><b>Fonte:</b> <a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a>, 2025</p>
-</div>
 
 ## Gravação 
 
@@ -303,7 +302,6 @@
 </div>
 
 ## Histórico de Versões
-
 
 | Versão |  Data  |  Descrição  |  Autor(es)  |  Revisor(es)  |
 | :----: | :--------: | :------------------: | :----------------------------------------------------------------------------------------: | :-------------------------------------------: |

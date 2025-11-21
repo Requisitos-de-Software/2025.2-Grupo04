@@ -12,39 +12,44 @@ A técnica **In or Out** é um método de priorização direto e binário, utili
 
 O processo é extremamente direto e pode ser realizado em uma única sessão de trabalho com os principais stakeholders:
 
-1.  **Listar Requisitos:** Todos os requisitos candidatos são listados em cartões, post-its ou em uma planilha compartilhada.
-2.  **Classificação Binária:** Para cada requisito, pergunta-se: "Este item é absolutamente essencial para a primeira versão do produto?"
-3.  **Decisão In/Out:**
-    -   **In:** Requisitos considerados fundamentais para o produto funcionar ou entregar valor mínimo ao usuário.
-    -   **Out:** Requisitos que, embora possam ser desejáveis, não são críticos para o lançamento inicial. Estes podem ser reconsiderados para versões futuras.
-4.  **Validação:** A lista final de itens "In" forma o escopo mínimo viável (MVP) ou a base para priorizações mais detalhadas subsequentes.
+
+* **Listar Requisitos:** Todos os requisitos candidatos são listados em cartões, post-its ou em uma planilha compartilhada.
+* **Classificação Binária:** Para cada requisito, pergunta-se: "Este item é absolutamente essencial para a primeira versão do produto?"
+* **Decisão In/Out:**
+   **In:** Requisitos considerados fundamentais para o produto funcionar ou entregar valor mínimo ao usuário.
+   **Out:** Requisitos que, embora possam ser desejáveis, não são críticos para o lançamento inicial. Estes podem ser reconsiderados para versões futuras.
+* **Validação:** A lista final de itens "In" forma o escopo mínimo viável (MVP) ou a base para priorizações mais detalhadas subsequentes.
 
 #### **Vantagens**
 
--   **Extrema simplicidade e velocidade:** A classificação binária torna o processo muito ágil.
--   **Clareza imediata:** Gera uma divisão clara e compreensível para toda a equipe sobre o que é essencial.
--   **Ideal para definir MVP:** Perfeita para estabelecer o escopo mínimo de um produto ou de uma release inicial.
--   **Ótimo ponto de partida:** Serve como um primeiro filtro antes da aplicação de técnicas de priorização mais refinadas (como MoSCoW ou First Things First).
+*  **Extrema simplicidade e velocidade:** A classificação binária torna o processo muito ágil.
+* **Clareza imediata:** Gera uma divisão clara e compreensível para toda a equipe sobre o que é essencial.
+* **Ideal para definir MVP:** Perfeita para estabelecer o escopo mínimo de um produto ou de uma release inicial.
+*  **Ótimo ponto de partida:** Serve como um primeiro filtro antes da aplicação de técnicas de priorização mais refinadas (como MoSCoW ou First Things First).
 
 #### **Desvantagens**
 
--   **Falta de nuance:** Não considera o valor relativo, custo, risco ou esforço entre os requisitos classificados como "In".
--   **Pode ser muito radical:** A natureza binária pode forçar a exclusão de funcionalidades valiosas que não são "absolutamente essenciais", mas que teriam um alto retorno com baixo custo.
--   **Depende do bom senso:** A qualidade do resultado depende muito do julgamento e da experiência dos participantes.
+*  **Falta de nuance:** Não considera o valor relativo, custo, risco ou esforço entre os requisitos classificados como "In".
+*  **Pode ser muito radical:** A natureza binária pode forçar a exclusão de funcionalidades valiosas que não são "absolutamente essenciais", mas que teriam um alto retorno com baixo custo.
+*  **Depende do bom senso:** A qualidade do resultado depende muito do julgamento e da experiência dos participantes.
 
 ## Metodologia
 
 Durante a aplicação da técnica **In or Out**, os membros da equipe de requisitos analisaram cada funcionalidade proposta com base nos seguintes critérios:
 
-1.  **Valor essencial para o usuário final:** o requisito é crítico para a experiência do usuário?
-2.  **Obrigatoriedade legal ou contratual:** o requisito é exigido por regulação ou contrato?
-3.  **Impacto direto na funcionalidade central do sistema:** sua ausência compromete o uso do sistema?
+*  **Valor essencial para o usuário final:** o requisito é crítico para a experiência do usuário?
+* **Obrigatoriedade legal ou contratual:** o requisito é exigido por regulação ou contrato?
+*  **Impacto direto na funcionalidade central do sistema:** sua ausência compromete o uso do sistema?
 
 Caso a resposta fosse afirmativa para qualquer um dos pontos acima, o requisito foi classificado como **IN**. Caso contrário, foi considerado **OUT**.
 
 Requisitos classificados como **OUT** foram justificados com base em sua não essencialidade ou por se tratarem de melhorias de experiência, que podem ser postergadas.
 
 ## Participantes
+
+* Mediadora: Responsável por conduzir a sessão de aplicação da técnica;
+* Membro de apoio: Responsável por garantir a aplicação correta da técnica seguindo embasamento teórico claro.
+* Usuária: Responsável por realizar a classificação dos requisitos de acordo com a técnica;
 
 <div align="center">
 <p style="text-align: center; font-size: 12pt;"><strong>Tabela 1:</strong> Participantes da sessão</p>
@@ -69,14 +74,14 @@ Requisitos classificados como **OUT** foram justificados com base em sua não es
       <td>UnB Campus Gama</td>
     </tr>
     <tr>
-      <td>Equipe</td>
+      <td>Membro de apoio</td>
       <td>Eduarda</td>
       <td>29/09/2025</td>
       <td>12:30</td>
       <td>UnB Campus Gama</td>
     </tr>
     <tr>
-      <td>Equipe</td>
+       <td>Membro de apoio</td>
       <td>Giovana</td>
       <td>29/09/2025</td>
       <td>12:30</td>
@@ -94,433 +99,80 @@ Requisitos classificados como **OUT** foram justificados com base em sua não es
 <p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/leticialopes20">Letícia Lopes</a>, 2025.</p>
 </div>
 
-# Requisitos priorizados
+## Requisitos Priorizados
 
-**Legendas:**
+**Legenda:**
 
 * RFx: Requisito Funcional número x
 * RNFx: Requisito Não Funcional número x
+* ENTx: Entrevista número x 
+* BSx: Brainstorming número x
+* ISx: Introspecção número x
+* STx: Storytelling número x
+* IDJx: Introspecção número x
 
-<div align="center">
 <p style="text-align: center; font-size: 12pt;"><strong>Tabela 2:</strong> Planilha de priorização - Técnica In or Out</p>
-<table>
-  <thead>
-    <tr>
-      <th>ID</th>
-      <th>Fonte</th>
-      <th>Requisito</th>
-      <th>IN or OUT</th>
-      <th>Justificativa</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>RNF-01</strong></td>
-      <td>USA-01</td>
-      <td>O processo de login deve ser simplificado e otimizado para minimizar o número de passos e a carga cognitiva do usuário</td>
-      <td>IN</td>
-      <td>Essencial para garantir a usabilidade básica do aplicativo</td>
-    </tr>
-    <tr>
-      <td><strong>RNF-02</strong></td>
-      <td>USA-02</td>
-      <td>A interface do aplicativo deve ser intuitiva, com navegação clara, textos legíveis e design acessível</td>
-      <td>IN</td>
-      <td>Fundamental para a experiência do usuário e adoção do app</td>
-    </tr>
-    <tr>
-      <td><strong>RNF-03</strong></td>
-      <td>PER-01</td>
-      <td>A geração e exibição do documento digital devem ser concluídas em no máximo 5 segundos</td>
-      <td>IN</td>
-      <td>Performance crítica para a funcionalidade principal</td>
-    </tr>
-    <tr>
-      <td><strong>RNF-04</strong></td>
-      <td>SEG-01</td>
-      <td>Os dados pessoais devem ser armazenados e transmitidos utilizando criptografia forte</td>
-      <td>IN</td>
-      <td>Requisito de segurança obrigatório para dados pessoais</td>
-    </tr>
-    <tr>
-      <td><strong>RNF-05</strong></td>
-      <td>CON-01</td>
-      <td>O aplicativo deve manter uma disponibilidade de serviço de 99.5%</td>
-      <td>IN</td>
-      <td>Confiabilidade essencial para serviço governamental</td>
-    </tr>
-    <tr>
-      <td><strong>RNF-06</strong></td>
-      <td>POR-01</td>
-      <td>O aplicativo deve ser compatível com as duas versões mais recentes do Android e iOS</td>
-      <td>IN</td>
-      <td>Compatibilidade básica para alcançar o público-alvo</td>
-    </tr>
-    <tr>
-      <td><strong>RF-01</strong></td>
-      <td>CAD-01</td>
-      <td>O sistema deve permitir o cadastro do usuário por meio do CPF</td>
-      <td>OUT</td>
-      <td>Substituído pelo login gov.br (RF-09)</td>
-    </tr>
-    <tr>
-      <td><strong>RF-02</strong></td>
-      <td>AUT-01</td>
-      <td>O sistema deve fornecer mecanismos de autenticação e login para o usuário</td>
-      <td>IN</td>
-      <td>Segurança básica e controle de acesso</td>
-    </tr>
-    <tr>
-      <td><strong>RF-03</strong></td>
-      <td>EMI-01</td>
-      <td>O sistema deve permitir a geração e emissão da carteira digital ID Jovem</td>
-      <td>IN</td>
-      <td>Funcionalidade principal do aplicativo</td>
-    </tr>
-    <tr>
-      <td><strong>RF-04</strong></td>
-      <td>BEN-01</td>
-      <td>O sistema deve permitir a consulta de benefícios como transporte gratuito e acesso a eventos</td>
-      <td>IN</td>
-      <td>Valor principal para o usuário final</td>
-    </tr>
-    <tr>
-      <td><strong>RF-05</strong></td>
-      <td>VAL-01</td>
-      <td>O sistema deve permitir a validação da carteira por estabelecimentos conveniados</td>
-      <td>IN</td>
-      <td>Essencial para a utilidade do programa</td>
-    </tr>
-    <tr>
-      <td><strong>RF-06</strong></td>
-      <td>FAQ-01</td>
-      <td>O sistema deve disponibilizar uma seção de perguntas frequentes e informações de atendimento</td>
-      <td>OUT</td>
-      <td>Pode ser implementado em versão posterior</td>
-    </tr>
-    <tr>
-      <td><strong>RF-07</strong></td>
-      <td>SUP-01</td>
-      <td>O sistema deve prover um canal de comunicação direto para suporte ao usuário</td>
-      <td>IN</td>
-      <td>Suporte essencial para usuários</td>
-    </tr>
-    <tr>
-      <td><strong>RF-08</strong></td>
-      <td>COM-01</td>
-      <td>O sistema deve apresentar uma seção de "Novidades e Divulgação"</td>
-      <td>OUT</td>
-      <td>Não essencial para MVP</td>
-    </tr>
-    <tr>
-      <td><strong>RF-09</strong></td>
-      <td>BS-01</td>
-      <td>O usuário deve realizar o login com o acesso unificado do gov.br</td>
-      <td>IN</td>
-      <td>Integração essencial com governo</td>
-    </tr>
-    <tr>
-      <td><strong>RF-10</strong></td>
-      <td>BS-02</td>
-      <td>O usuário deve aceitar um termo de uso em seu primeiro acesso</td>
-      <td>IN</td>
-      <td>Requisito legal e de segurança</td>
-    </tr>
-    <tr>
-      <td><strong>RF-11</strong></td>
-      <td>BS-03</td>
-      <td>O usuário deve conseguir consultar se está dentro dos critérios para ter direito ao ID Jovem</td>
-      <td>IN</td>
-      <td>Funcionalidade central de elegibilidade</td>
-    </tr>
-    <tr>
-      <td><strong>RF-12</strong></td>
-      <td>BS-04</td>
-      <td>O usuário deve poder emitir sua carteirinha digital do ID Jovem</td>
-      <td>IN</td>
-      <td>Funcionalidade principal do sistema</td>
-    </tr>
-    <tr>
-      <td><strong>RF-13</strong></td>
-      <td>BS-05</td>
-      <td>O usuário deve conseguir visualizar os benefícios disponíveis</td>
-      <td>IN</td>
-      <td>Valor direto para o usuário</td>
-    </tr>
-    <tr>
-      <td><strong>RF-14</strong></td>
-      <td>BS-06</td>
-      <td>O usuário deve poder verificar a validade da sua carteirinha</td>
-      <td>IN</td>
-      <td>Informação essencial para uso</td>
-    </tr>
-    <tr>
-      <td><strong>RF-15</strong></td>
-      <td>BS-07</td>
-      <td>O usuário deve ter acesso a um guia/tutorial explicativo</td>
-      <td>OUT</td>
-      <td>Pode ser simplificado na primeira versão</td>
-    </tr>
-    <tr>
-      <td><strong>RF-16</strong></td>
-      <td>BS-08</td>
-      <td>O usuário deve ter acesso a perguntas frequentes e suporte</td>
-      <td>IN</td>
-      <td>Suporte básico necessário</td>
-    </tr>
-    <tr>
-      <td><strong>RF-17</strong></td>
-      <td>BS-09</td>
-      <td>O aplicativo deve permitir atualização automática dos dados via CadÚnico</td>
-      <td>IN</td>
-      <td>Atualização automática evita retrabalho</td>
-    </tr>
-    <tr>
-      <td><strong>RF-18</strong></td>
-      <td>BS-10</td>
-      <td>O usuário deve conseguir acessar informações sobre locais onde o ID Jovem é aceito</td>
-      <td>IN</td>
-      <td>Informação prática essencial</td>
-    </tr>
-    <tr>
-      <td><strong>RF-19</strong></td>
-      <td>BS-11</td>
-      <td>O aplicativo deve oferecer notificações sobre vencimento e renovação</td>
-      <td>IN</td>
-      <td>Funcionalidade importante para usuário</td>
-    </tr>
-    <tr>
-      <td><strong>RF-20</strong></td>
-      <td>BS-12</td>
-      <td>O usuário deve poder compartilhar a carteirinha digital em PDF ou imagem</td>
-      <td>IN</td>
-      <td>Funcionalidade importante para uso</td>
-    </tr>
-    <tr>
-      <td><strong>RF-21</strong></td>
-      <td>BS-13</td>
-      <td>O sistema deve validar em tempo real a autenticidade da carteirinha</td>
-      <td>IN</td>
-      <td>Prevenção de fraudes essencial</td>
-    </tr>
-    <tr>
-      <td><strong>RF-22</strong></td>
-      <td>BS-14</td>
-      <td>O aplicativo deve oferecer processo de onboarding adaptado</td>
-      <td>IN</td>
-      <td>Melhora experiência de primeiro uso</td>
-    </tr>
-    <tr>
-      <td><strong>RF-23</strong></td>
-      <td>INT-01</td>
-      <td>O sistema deve permitir emissão da carteira com NIS, nome completo, data nascimento e nome da mãe</td>
-      <td>IN</td>
-      <td>Dados essenciais para identificação</td>
-    </tr>
-    <tr>
-      <td><strong>RF-24</strong></td>
-      <td>INT-02</td>
-      <td>O sistema deve permitir que estabelecimentos validem a autenticidade da carteira</td>
-      <td>IN</td>
-      <td>Funcionalidade crítica para estabelecimentos</td>
-    </tr>
-    <tr>
-      <td><strong>RF-25</strong></td>
-      <td>INT-03</td>
-      <td>O sistema deve exibir claramente os benefícios do programa</td>
-      <td>IN</td>
-      <td>Comunicação clara do valor oferecido</td>
-    </tr>
-    <tr>
-      <td><strong>RF-26</strong></td>
-      <td>INT-04</td>
-      <td>O sistema deve fornecer uma seção de "Dúvidas Frequentes"</td>
-      <td>IN</td>
-      <td>Suporte básico necessário</td>
-    </tr>
-    <tr>
-      <td><strong>RNF-07</strong></td>
-      <td>BS-01</td>
-      <td>O aplicativo deve ser leve e compatível com diferentes modelos de smartphones</td>
-      <td>IN</td>
-      <td>Acessibilidade para público diverso</td>
-    </tr>
-    <tr>
-      <td><strong>RNF-08</strong></td>
-      <td>BS-02</td>
-      <td>O aplicativo deve ser intuitivo, com ícones e textos de fácil compreensão</td>
-      <td>IN</td>
-      <td>Usabilidade básica necessária</td>
-    </tr>
-    <tr>
-      <td><strong>RNF-09</strong></td>
-      <td>BS-03</td>
-      <td>O aplicativo deve enviar notificações sobre prazos e eventos próximos</td>
-      <td>OUT</td>
-      <td>Funcionalidade secundária</td>
-    </tr>
-    <tr>
-      <td><strong>RNF-10</strong></td>
-      <td>BS-04</td>
-      <td>O aplicativo deve organizar os menus de forma clara e acessível</td>
-      <td>IN</td>
-      <td>Navegação básica essencial</td>
-    </tr>
-    <tr>
-      <td><strong>RNF-11</strong></td>
-      <td>BS-05</td>
-      <td>O aplicativo deve garantir funcionamento offline para exibição da carteirinha</td>
-      <td>IN</td>
-      <td>Crítico para situações sem internet</td>
-    </tr>
-    <tr>
-      <td><strong>RNF-12</strong></td>
-      <td>BS-06</td>
-      <td>O aplicativo deve oferecer recursos de acessibilidade</td>
-      <td>IN</td>
-      <td>Requisito de inclusão importante</td>
-    </tr>
-    <tr>
-      <td><strong>RNF-13</strong></td>
-      <td>BS-07</td>
-      <td>O sistema deve integrar-se com o CadÚnico e serviços digitais do governo</td>
-      <td>IN</td>
-      <td>Integração central do sistema</td>
-    </tr>
-    <tr>
-      <td><strong>RNF-14</strong></td>
-      <td>BS-08</td>
-      <td>O aplicativo deve proteger os dados em conformidade com a LGPD</td>
-      <td>IN</td>
-      <td>Conformidade legal obrigatória</td>
-    </tr>
-    <tr>
-      <td><strong>RNF-15</strong></td>
-      <td>BS-09</td>
-      <td>O aplicativo deve ser compatível com Android e iOS</td>
-      <td>IN</td>
-      <td>Alcance máximo do público-alvo</td>
-    </tr>
-    <tr>
-      <td><strong>RNF-16</strong></td>
-      <td>BS-10</td>
-      <td>O aplicativo deve funcionar com baixo consumo de internet</td>
-      <td>IN</td>
-      <td>Otimização para realidade brasileira</td>
-    </tr>
-    <tr>
-      <td><strong>RNF-17</strong></td>
-      <td>BS-11</td>
-      <td>O aplicativo deve estar disponível em português e suporte em outros idiomas</td>
-      <td>IN</td>
-      <td>Acessibilidade linguística importante</td>
-    </tr>
-    <tr>
-      <td><strong>RNF-18</strong></td>
-      <td>INT-01</td>
-      <td>O sistema deve ser gratuito para o cidadão</td>
-      <td>IN</td>
-      <td>Princípio fundamental do programa</td>
-    </tr>
-    <tr>
-      <td><strong>RNF-19</strong></td>
-      <td>INT-02</td>
-      <td>O sistema deve ser compatível com Android, iOS e navegadores web</td>
-      <td>IN</td>
-      <td>Multiplataforma amplia acesso</td>
-    </tr>
-    <tr>
-      <td><strong>RNF-20</strong></td>
-      <td>INT-03</td>
-      <td>O sistema deve proteger os dados pessoais conforme leis vigentes</td>
-      <td>IN</td>
-      <td>Conformidade legal essencial</td>
-    </tr>
-    <tr>
-      <td><strong>RNF-21</strong></td>
-      <td>INT-04</td>
-      <td>O sistema deve conectar à base do CadÚnico para verificar elegibilidade</td>
-      <td>IN</td>
-      <td>Funcionalidade central do sistema</td>
-    </tr>
-    <tr>
-      <td><strong>RI-01</strong></td>
-      <td>RI-01</td>
-      <td>A interface deve ser intuitiva e acessível</td>
-      <td>IN</td>
-      <td>Usabilidade básica necessária</td>
-    </tr>
-    <tr>
-      <td><strong>RI-02</strong></td>
-      <td>RI-02</td>
-      <td>A carteira virtual deve conter QR Code para validação rápida</td>
-      <td>IN</td>
-      <td>Método prático de validação</td>
-    </tr>
-    <tr>
-      <td><strong>RI-03</strong></td>
-      <td>RI-03</td>
-      <td>O sistema deve enviar notificações sobre vencimento</td>
-      <td>IN</td>
-      <td>Lembretes importantes para usuário</td>
-    </tr>
-    <tr>
-      <td><strong>RR-01</strong></td>
-      <td>RR-01</td>
-      <td>Risco de dados desatualizados no CadÚnico</td>
-      <td>IN</td>
-      <td>Risco que precisa ser mitigado</td>
-    </tr>
-    <tr>
-      <td><strong>RR-02</strong></td>
-      <td>RR-02</td>
-      <td>Risco de indisponibilidade do serviço de consulta ao CadÚnico</td>
-      <td>IN</td>
-      <td>Contingência necessária</td>
-    </tr>
-    <tr>
-      <td><strong>RR-03</strong></td>
-      <td>RR-03</td>
-      <td>Risco de empresas recusarem aceitar o benefício</td>
-      <td>IN</td>
-      <td>Risco operacional importante</td>
-    </tr>
-    <tr>
-      <td><strong>RT-01</strong></td>
-      <td>RT-01</td>
-      <td>Teste de emissão com diferentes perfis de jovens</td>
-      <td>IN</td>
-      <td>Testes de emissão com diferentes perfis de jovens</td>
-    </tr>
-    <tr>
-      <td><strong>RT-02</strong></td>
-      <td>RT-02</td>
-      <td>Teste de validação por estabelecimentos comerciais</td>
-      <td>IN</td>
-      <td>Testes de validação por estabelecimentos comerciais</td>
-    </tr>
-    <tr>
-      <td><strong>RT-03</strong></td>
-      <td>RT-03</td>
-      <td>Testes de usabilidade com jovens de 15 a 29 anos</td>
-      <td>IN</td>
-      <td>Validação com público-alvo crítico</td>
-    </tr>
-  </tbody>
-</table>
+
+| Código | Origem | Descrição | IN or OUT | Justificativa|
+|--------|-----------|--------|-------|-------|
+|[RF01](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf01)  |[ADD01](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Analise_de_Documentos/#ad01)  |O sistema deve permitir o cadastro do Jovem Beneficiário por meio do CPF.  |IN| Funcionalidade fundamental para existência do sistema. Sem cadastro, não há usuários nem benefícios a serem utilizados.|
+|[RF02](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf02) |[ADD02](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Analise_de_Documentos/#ad02), [BS01](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/#bs01), [ST01](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling/#st01)  |O sistema deve fornecer mecanismos de autenticação e login via Gov.br.  |IN| Segurança obrigatória para dados pessoais e integração com base governamental. Garante identidade única do usuário.|
+|[RF03](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf03) | [ADD03](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Analise_de_Documentos/#ad03), [IDJ01](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspeccao/#idj01), [BS04](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/#bs04)  |O sistema deve permitir a geração e emissão da carteira digital ID Jovem.  |IN|  Produto principal do programa. Razão pelo qual existe o aplicativo|
+|[RF04](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf04) |[ENT02](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/#ent02), [IDJ03](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspeccao/#idj03), [BS05](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/#bs05)  |O sistema deve permitir a consulta de benefícios como transporte gratuito e meia-entrada em eventos.  |IN|Valor direto para o usuário entender seus direitos. Motiva a utilização do aplicativo.|
+|[RF05](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf05)|[ADD04](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Analise_de_Documentos/#ad04), [IDJ02](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspeccao/#idj02)  |O sistema deve validar a carteira digital em estabelecimentos conveniados.  |IN| Funcionalidade crítica que permite o uso prático dos benefícios no mundo real.|
+|[RF06](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf06) | [ADD05](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Analise_de_Documentos/#ad05), [BS08](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/#bs08), [IDJ04](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspeccao/#idj04)  |O sistema deve exibir uma seção de perguntas frequentes (FAQ) e suporte ao Jovem Beneficiário.  |OUT|Conteúdo pode ser disponibilizado em portal web externo inicialmente. Não é funcionalidade crítica para operação do sistema.|
+|[RF07](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf07) | [BS09](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/#bs09), [IDJ08](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspeccao/#idj08)  | O sistema deve permitir integração com o CadÚnico para atualização automática de dados. |OUT|Complexidade técnica alta para MVP.|
+|[RF08](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf08)  |[BS11](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/#bs11), [ST04](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling/#st04), [IDJ11](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspeccao/#idj11), [ENT13](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/#ent13)  |O sistema deve emitir notificações sobre vencimento, renovação do benefício, novos parceiros e eventos de interesse.  |IN|Comunicação proativa evita perda de benefícios e melhora experiência do usuário.|
+|[RF09](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf09)  |[ST03](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling/#st03), [BS19](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/#bs19)  |O sistema deve permitir o download da carteirinha para uso offline.  |OUT|Funcionalidade avançada de persistência local. App online com QR Code dinâmico atende necessidade inicial de segurança.|
+|[RF10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf10)  |[BS10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/#bs10), [ST06](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling/#st06)  |O aplicativo deve disponibilizar informações sobre locais e parceiros que aceitam o benefício.  |IN|Informação prática essencial para o usuário encontrar onde usar seus benefícios.|
+|[RF11](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf11)  |[ENT05](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/#ent05), [BS08](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/#bs08), [IDJ05](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspeccao/#idj05)  |O sistema deve fornecer canal de suporte via chat, e-mail ou formulário de contato.  |IN|Suporte básico necessário para resolver problemas críticos dos usuários.|
+|[RF12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf12)  | [ST08](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling/#st08), [ENT12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/#ent12)  |O aplicativo deve permitir que o Jovem Beneficiário visualize o histórico de utilização dos benefícios.  |OUT|Sistema de analytics e relatórios avançados. Não essencial para funcionalidade básica do MVP.|
+|[RF13](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf13)  |[ADD07](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Analise_de_Documentos/#ad07), [BS07](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/#bs07), [ENT16](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/#ent16)  |O sistema deve apresentar uma seção de "Vantagens e Parcerias" com novidades, divulgação sobre o programa e ofertas exclusivas.|OUT|Conteúdo promocional/marketing. Pode ser implementado como conteúdo estático inicial ou em versões posteriores.|
+|[RF14](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf14)  |[ENT03](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/#ent03)  |O aplicativo deve permitir reserva e emissão de comprovantes de uso do benefício.  |OUT|Complexo para MVP com múltiplos fluxos. Validação via QR Code já atende a necessidade básica de comprovação.|
+|[RF15](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf15)  | [ST02](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling/#st02)  |O sistema deve validar automaticamente a elegibilidade do Jovem Beneficiário ao benefício.  |IN|Controle de acesso obrigatório para prevenir fraudes e uso indevido.|
+|[RF16](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf16)  | [BS21](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/#bs21), [ST10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling/#st10)  |O sistema deve permitir integração com o Gov.br e outros serviços governamentais.  |IN|Base técnica para validação de dados e conformidade com sistemas governamentais.|
+|[RF17](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf17)  | [BS12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/#bs12)  |O aplicativo deve permitir compartilhar a carteirinha em PDF ou imagem.  |IN|Funcionalidade importante para situações onde o app não está disponível ou acesso offline.|
+|[RF18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf18)  |[ENT04](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/#ent04)  |O sistema deve fornecer informações sobre pendências ou erros relacionados aos benefícios do usuário. |OUT|Sistema detalhado de status e tratativa de erros. Mensagens de erro básicas atendem necessidade inicial.|
+|[RF19](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf19)  |[ENT06](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/#ent06)  |O sistema deve permitir que os usuários atualizem seu cadastro e definam preferências pessoais.  |IN|Manutenção de dados atualizados é essencial para precisão das informações.|
+|[RF20](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf20)  |[ENT09](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/#ent09)  |	O sistema deve fornecer alertas sobre possíveis irregularidades no uso dos benefícios.  |OUT|Sistema complexo de detecção de fraudes. Pode ser implementado após validação dos padrões de uso reais.|
+|[RF21](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf21)  |[ENT10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/#ent10)  |O sistema deve possuir um mapa interativo para visualizar geograficamente parceiros e eventos.  |OUT|Funcionalidade avançada de UX com custo de desenvolvimento alto. Lista textual com filtros resolve no MVP.|
+|[RF22](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf22)  |[ENT11](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/#ent11)  |	O sistema deve apresentar uma agenda integrada de eventos com filtros de busca.  |OUT|Sistema de calendário complexo. Lista simples de eventos com datas atende necessidade inicial.|
+|[RF23](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf23)   |[ENT14](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/#ent14)  |O sistema deve fornecer um canal para denúncia ou feedback sobre estabelecimentos que recusam o benefício.  |OUT|Sistema de denúncias e moderação complexo. Email de contato resolve casos críticos inicialmente.|
+|[RF24](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf24)   |[ENT15](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/#ent15)  |O sistema deve permitir que o usuário favorite eventos e estabelecimentos para consulta rápida.  |OUT|Funcionalidade de engajamento e personalização não essencial para MVP.|
+|[RF25](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf25)   |[ADD07](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Analise_de_Documentos/#ad07), [ENT16](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/#ent16)  |	O sistema deve permitir que o usuário recupere o acesso à conta por meio de verificação via e-mail, SMS ou Gov.br.  |IN|Segurança básica e prevenção de perda de acesso à conta.|
+|[RF26](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf26)   |[BS09](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/#bs09), [IDJ09](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspeccao/#idj09)  |	O aplicativo deve disponibilizar um tutorial interativo para orientar novos usuários sobre como utilizar o ID Jovem e seus benefícios.  |OUT| Onboarding complexo com custo de desenvolvimento. Telas estáticas de boas-vindas atendem necessidade inicial.|
+|[RF27](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf27)   |[BS10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/#bs10), [ENT18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/#ent18)  |	O sistema deve permitir que o usuário avalie parceiros e estabelecimentos conveniados com notas e comentários.  |OUT| Sistema de avaliações e moderação de conteúdo complexo para versão inicial.|
+|[RNF01](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf01)  |[ENT17](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/#ent17)  |O processo de login deve ser simples e com o menor número de etapas possível.  |IN|Usabilidade básica essencial. Login complexo é uma grande barreira de entrada para usuários.|
+|[RNF02](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf01)  |[BS16](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/#bs16), [IDJ09](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspeccao/#idj09), [ENT16](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/#ent16), [ENT20](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/#ent20), [ENT21](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/#ent21)  |A interface deve ser intuitiva, acessível, com layout claro e legível, mesmo para jovens com pouca experiência digital.  |IN| Usabilidade fundamental para inclusão digital de todos os perfis de usuários.|
+|[RNF03](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf01)  |[BS28](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/#bs28)  |A emissão da carteira deve ocorrer em até 2 segundos após a solicitação.  |IN|Performance crítica para primeira impressão e experiência do usuário.|
+|[RNF04](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf01)  |[IDJ06](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspeccao/#idj06)  |O aplicativo deve ser gratuito e compatível com Android e iOS.  |OUT|Desenvolvimento nativo para duas plataformas dobra custo e tempo. Focar em Android (maior penetração no público-alvo) inicialmente.|
+|[RNF05](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf01)  |[BS22](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/#bs22), [ENT19](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/#ent19)  |Os dados pessoais do Jovem Beneficiário devem ser protegidos com criptografia conforme a LGPD.  |IN|Conformidade legal obrigatória para tratamento de dados pessoais.|
+|[RNF06](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf01)  |[BS24](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/#bs24)  | O aplicativo deve funcionar com baixo consumo de internet e ser acessível em regiões carentes. |IN|Inclusão digital - público-alvo pode ter internet limitada ou de baixa qualidade.
+|[RNF07](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf01)  |[BS20](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/#bs20), [IDJ09](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspeccao/#idj09)  |O aplicativo deve possuir recursos de acessibilidade (alto contraste, leitura de tela, voz e Libras).  |IN| Obrigatório por lei para serviços governamentais|
+|[RNF08](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf01)  |[BS27](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/#bs27)  |O sistema deve garantir disponibilidade mínima de 99,5%.  |IN|Confiabilidade essencial para serviço público que afeta direitos dos cidadãos.|
+|[RNF09](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf01)  |[ST09](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling/#st09)  |O design deve ser responsivo em diferentes tamanhos de tela e dispositivos.  |IN|Adaptação básica a diferentes dispositivos é fundamental para acessibilidade e experiência do usuário.|
+|[RNF10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf01)  |[BS24](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/#bs24) |O tempo de carregamento das páginas do site oficial não deve exceder 3 segundos em conexões de internet de baixa velocidade.  |OUT|Otimização avançada de performance para condições específicas. Performance básica já atende o MVP.|
+|[RNF11](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf01)  | [IDJ08](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspeccao/#idj08)  |O aplicativo deve garantir que as informações sobre os benefícios estejam 100% sincronizadas com a base de dados oficial.  |IN|Evita inconsistências que podem causar prejuízos aos usuários.|
+|[RNF12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf01)  | [BS15](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/#bs15), [BS23](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/#bs23), [ST09](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling/#st09)  |O sistema deve ser compatível com as duas versões anteriores dos principais navegadores web e sistemas operacionais móveis.  |OUT|Suporte a versões antigas aumenta complexidade de teste e desenvolvimento significativamente.|
+|[RNF13](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf01)  |[BS16](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/#bs16), [ENT17](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/#ent17)  |	A navegação entre as seções do site e do aplicativo deve ser consistente e previsível para o jovem beneficiário.  |OUT|Refinamento de UX avançado. Padrões básicos de navegação atendem MVP.|
+|[RNF14](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf01)  | [BS26](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/#bs26)  |O aplicativo deve apresentar um feedback visual e sonoro claro para cada interação do jovem beneficiário.  |IN|Feedback básico de UI é essencial para usabilidade e confirmação de ações importantes.|
+|[RNF15](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf01)  |[BS27](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/#bs27)  |O sistema deve ter um tempo máximo de inatividade de 2 horas por mês, fora das janelas de manutenção programada.	  |OUT|A disponibilidade de 99,5% (RNF08) já estabelece um padrão adequado.|
+|[RNF16](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf01)  |[BS28](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/#bs28)  |O tempo de resposta para validação da carteirinha (QR Code) não deve exceder 2 segundos.  |IN|Performance crítica no ponto de uso|
+|[RNF17](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf01)  |[BS29](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/#bs29)  |	A equipe de desenvolvimento deve disponibilizar atualizações de segurança e correções de bugs em um ciclo de, no máximo, 3 meses.  |OUT|Processo de desenvolvimento/operações, não funcionalidade do sistema. Além disso, atualizações de segurança devem ser contínuas.|
+|[RNF18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf01)  |[IDJ18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspeccao/#idj18)  |O aplicativo deve permitir que o jovem beneficiário personalize o tamanho da fonte e o esquema de cores para melhorar a legibilidade.|OUT|Embora a personalização de acessibilidade seja importante, para o MVP podemos garantir uma tipografia e contraste adequados por padrão|
+|[RNF19](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf01)  | [IDJ19](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspeccao/#idj19)  |O sistema deve registrar todas as tentativas de validação da carteira, bem-sucedidas ou não, para fins de auditoria.  |OUT|Sistema de auditoria e logs avançado. Logs básicos de segurança atendem necessidade inicial.|
+|[RNF20](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rnf01)  | [IDJ20](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspeccao/#idj20)  |A consulta à elegibilidade do CadÚnico deve retornar o resultado em no máximo 3 segundos.  |OUT|Performance específica pode ser otimizada após validação do fluxo principal em produção.|
+
 <p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/leticialopes20">Letícia Lopes</a>, 2025.</p>
-</div>
+
 
 ## Gravação
 
 <div align="center">
-<p style="text-align: center"><a href="https://youtu.be/dIxnYHoZO44" target="_blank"><b>Vídeo 1:</b> Técnica de Priorização - Moscow</a></p>
 
 <p style="text-align: center"><a href="https://youtu.be/ywmlErJ7bdA" target="_blank"><b>Vídeo 1:</b> Técnica de Priorização - In or Out</a></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ywmlErJ7bdA" title="Sessão de Técnica de Priorização - In or Out" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dIxnYHoZO44" title="Sessão de Técnica de Priorização - Moscow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 <p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, 2025.</p>
 
 </div>
@@ -529,20 +181,23 @@ Requisitos classificados como **OUT** foram justificados com base em sua não es
 
 ><p><a id="QT1" href="#anchor_intro_serrano">1.</a> SERRANO, Milene; SERRANO, Maurício. <b>Requisitos – Aula 07</b>. Gama, DF: Universidade de Brasília, [s.d.]. Material de aula.</p>
 ><p><a id="QT2" href="#anchor_intro_wiegers">2.</a> WIEGERS, Karl E. **Software Requirements**. 2. ed. Redmond, WA: Microsoft Press, 2003.</p>
-<p><a id="QT1" href="#anchor_intro_wiegers">1.</a> WIEGERS, Karl E. **Software Requirements**. 2. ed. Redmond, WA: Microsoft Press, 2003.</p>
 
 ## Bibliografia
 
 > SERRANO, Milene; SERRANO, Maurício. **Requisitos – Aula 07**. Gama, DF: Universidade de Brasília, [s.d.]. Material de aula.
 
+## Agrecimentos
+
+Queremos agradecer ao [Chat GPT](), ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto ID Jovem. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.
+
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :--: | :--: | :-- | :-- | :-- |
-| `1.0` | 28/09/2025 | Criação do documento com a descrição da técnica de priorização " In or Out" | [Danilo Melo](https://github.com/EngDann) | [Letícia Lopes](https://github.com/leticialopes20) |
-| `1.1` | 30/09/2025 | Atualização da tabela de priorização e finalização do documento | [Letícia Lopes](https://github.com/leticialopes20) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
-| `1.2`  | 10/10/2025 | Arrumando citação das Referências | [Breno](https://github.com/BrenoLteixeira) | [Arthur](https://github.com/) |
-| `1.0` | 28/09/2025 | Criação do documento com a descrição da técnica de priorização "MoSCoW" | [Danilo Melo](https://github.com/EngDann) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
-| `1.1` | 29/09/2025 | Atualização da técnica de priorização "MoSCoW e tabela de priorização adicionada" | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Letícia Lopes](https://github.com/leticialopes20) |
-| `1.2` | 30/09/2025 | Atualização da tabela de priorização de requisitos | [Letícia Lopes](https://github.com/leticialopes20) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
-| `1.3` | 30/09/2025 | Atualização da tabela de priorização de requisitos com novos dados e finalização do documento | [Letícia Lopes](https://github.com/leticialopes20) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| `1.0` | 28/09/2025 | Criação do documento com a descrição da técnica de priorização " In or Out" | [Letícia Lopes](https://github.com/leticialopes20) | [Giovana Fontes](https://github.com/GiovanaFontesS) |
+| `1.1` | 30/09/2025 | Criação da tabela de priorização e finalização do documento | [Letícia Lopes](https://github.com/leticialopes20) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| `1.2`  | 10/10/2025 | Arrumando citação das Referências | [Breno](https://github.com/BrenoLteixeira) | [Letícia Lopes](https://github.com/leticialopes20) |
+| `1.3` | 20/11/2025 | Atualização da tabela de priorização de requisitos com novos dados| [Letícia Lopes](https://github.com/leticialopes20) | [Arthur Fernandes](https://github.com/arthurfernandesj) |

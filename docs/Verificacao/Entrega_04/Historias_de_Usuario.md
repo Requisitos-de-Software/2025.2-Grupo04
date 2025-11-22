@@ -107,10 +107,10 @@ Fonte: <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeir
 ## Análise dos Resultados 
 
 <p style="text-align: justify;">
-A verificação do artefato <b>Histórias de Usuário</b> evidenciou melhorias significativas em relação às versões anteriores. O grupo aprimorou a estrutura das histórias, garantindo maior clareza, testabilidade e rastreabilidade dos requisitos. 
+A verificação do artefato <b>Histórias de Usuário</b> evidenciou melhorias significativas em relação às entregas anteriores. O grupo aprimorou a estrutura das histórias, garantindo maior clareza, testabilidade e rastreabilidade dos requisitos. 
 </p>
 <p style="text-align: justify;">
-Além disso, foram adicionados dois novos itens à checklist — os <b>Itens 05 e 06</b> — que reforçam a importância da participação das personas no processo de elicitação e da testabilidade das histórias. Essas adições contribuíram para uma avaliação mais completa do artefato e trouxeram mais consistência ao processo de verificação. No geral, o artefato está bem estruturado, com histórias claras e objetivas, que seguem o modelo ágil recomendado por (VAZQUEZ; SIMÕES, 2016) <a href="#RP1">[1]</a>.
+No geral, o artefato está bem estruturado, com histórias claras e objetivas, que seguem o modelo ágil recomendado por (VAZQUEZ; SIMÕES, 2016) <a href="#RP1">[1]</a>.
 </p>
 
 
@@ -118,9 +118,6 @@ Além disso, foram adicionados dois novos itens à checklist — os <b>Itens 05 
 
 <p style="text-align: justify;">
 O artefato <b>Histórias de Usuário</b> apresenta um nível elevado de conformidade com as boas práticas de Engenharia de Requisitos Ágeis. As histórias estão completas, seguem um padrão uniforme e permitem fácil entendimento por parte da equipe de desenvolvimento e dos stakeholders. 
-</p>
-<p style="text-align: justify;">
-As melhorias implementadas, incluindo a inclusão dos novos itens de verificação, reforçam o compromisso do grupo com a qualidade do processo e a entrega de valor ao usuário final. Recomenda-se manter o formato atual e ampliar a participação dos clientes nas validações futuras.
 </p>
 
 

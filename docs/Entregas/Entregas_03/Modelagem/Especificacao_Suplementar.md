@@ -9,55 +9,18 @@ A **Especificação Suplementar**, no contexto da engenharia de software, refere
 
 A Metodologia utilizada neste artefato foi baseada no modelo FURPS+. "É um sistema para a classificação de requisitos, o acrônimo representa categorias que podem ser usadas na definição de requisitos" <a id="TEC2" href="#RP2">[2]</a>. Dentre elas: Funcionalidade, Usabilidade, Confiabilidade, Desempenho, Suportabilidade. <a id="TEC2" href="#RP2">[2]</a>
 
-A Tabela 1 apresenta os membros responsáveis pelo desenvolvimento deste artefato.
+### Tabela 1: Participação na Elaboração da Especificação Suplementar
 
-<p style="text-align: center"><strong>Tabela 1-</strong> Participantes</p>
-<div align="center">
-<table>
-<thead>
-<tr>
-<th>Nome</th>
-<th>Data</th>
-<th>Hora</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></td>
-<td>12/10/2025</td>
-<td>17:50</td>
-</tr>
-<tr>
-<td><a href="https://github.com/BrenoLTeixeira">Breno Teixeira</a></td>
-<td>12/10/2025</td>
-<td>17:50</td>
-</tr>
-<tr>
-<td><a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></td>
-<td>12/10/2025</td>
-<td>17:50</td>
-</tr>
-<tr>
-<td><a href="https://github.com/eduardar0">Eduarda Domingos</a></td>
-<td>12/10/2025</td>
-<td>17:50</td>
-</tr>
-<tr>
-<td><a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></td>
-<td>12/10/2025</td>
-<td>17:50</td>
-</tr>
-<tr>
-<td><a href="https://github.com/leticialopes20">Letícia Lopes</a></td>
-<td>12/10/2025</td>
-<td>17:50</td>
-</tr>
-</tbody>
-</table>
-</div>
-<font size="2"><p style="text-align: center">Fonte: <i>[Leticia Lopes](https://github.com/leticialopes20)</i> </p></font>
+| Nome | Seções Relacionadas da Especificação Suplementar |
+|------|--------------------------------------------------|
+| **[Arthur Fernandes](https://github.com/arthurfernandesj)** | • [RNF01 – Processo de Login Simplificado](#rnf01)<br>• [RNF02 – Interface Intuitiva e Acessível](#rnf02)<br>• [RNF10 – Carregamento Eficiente](#rnf10)<br>• [RNF16 – Validação Rápida da Carteirinha](#rnf16) |
+| **[Breno Teixeira](https://github.com/BrenoLTeixeira)** | • [RNF19 – Registro de Validações](#rnf19)<br>• [RNF22 – Log de Auditoria](#rnf22)<br>• [RNF12 – Compatibilidade Retroativa](#rnf12)<br>• [RNF17 – Ciclo de Atualização](#rnf17) |
+| **[Dylan Cavalcante](https://github.com/dylancavalcante)** | • [RNF11 – Sincronização de Dados](#rnf11)<br>• [RNF15 – Controle de Inatividade](#rnf15)<br>• [RNF04 – Compatibilidade com Android e iOS](#rnf04)<br>• [RNF09 – Design Responsivo](#rnf09) |
+| **[Eduarda Domingos](https://github.com/eduardar0)** | • [RNF07 – Recursos de Acessibilidade](#rnf07)<br>• [RNF13 – Navegação Consistente](#rnf13)<br>• [RNF21 – Escalabilidade do Sistema](#rnf21)<br>• [RNF24 – Compatibilidade com API](#rnf24) |
+| **[Giovana Fontes](https://github.com/GiovanaFontesS)** | • [RNF14 – Feedback Visual e Sonoro](#rnf14)<br>• [RNF18 – Personalização de Leitura](#rnf18)<br>• [RNF03 – Emissão Rápida da Carteirinha](#rnf03)<br>• [RNF06 – Operação com Baixo Consumo de Internet](#rnf06) |
+| **[Letícia Lopes](https://github.com/leticialopes20)** | • [RNF05 – Proteção de Dados Pessoais](#rnf05)<br>• [RNF08 – Alta Disponibilidade](#rnf08)<br>• [RNF20 – Consulta Rápida ao CadÚnico](#rnf20)<br>• [RNF23 – Carregamento de Dados](#rnf23) |
 
----
+<p style="text-align: center; font-size: 10pt;">Fonte: Especificação Suplementar – Requisitos Não Funcionais (2025)</p>
 
 ## Modelo FURPS
 

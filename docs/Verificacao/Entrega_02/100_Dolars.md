@@ -8,7 +8,7 @@ Realizado o planejamento do que verificar, é o momento de realizar a inspeção
 
 ## Objetivo
 
-O objetivo deste documento é relatar os resultados das verificações realizadas acerca do artefato [100 Dólares](https://requisitos-de-software.github.io/2025.2-Grupo04/Verificacao/Entrega_02/100_Dolars/) da Etapa 2 do [grupo 4](https://github.com/requisitos-de-software/2025.2-Grupo04).
+O objetivo deste documento é relatar os resultados das verificações realizadas acerca do artefato [100 Dólares](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Prioriza%C3%A7%C3%A3o/Tecnicas/100_Dolars/) da Etapa 2 do [grupo 4](https://github.com/requisitos-de-software/2025.2-Grupo04).
 
 ## Metodologia
 
@@ -107,7 +107,7 @@ A tabela a seguir apresenta a checklist com os dados obtidos a partir da verific
       <td><b>1</b></td>
       <td>O artefato possui introdução?</td>
       <td><a href="https://imgur.com/a/qmK9Uxm" target="_blank">SERRANO, Milene. Requisitos - Aula 10</a></td>
-      <td>Sim</td>
+      <td>Conforme</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/VhGSYZC" target="_blank">Print</a></td>
       <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
@@ -116,7 +116,7 @@ A tabela a seguir apresenta a checklist com os dados obtidos a partir da verific
       <td><b>2</b></td>
       <td>O artefato possui bibliografia/referência bibliográfica?</td>
       <td><a href="https://imgur.com/a/wPVxjSq" target="_blank">SERRANO, Milene. Requisitos - Aula 10</a></td>
-      <td>Sim</td>
+      <td>Conforme</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/ym5VHjb" target="_blank">Print</a></td>
       <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
@@ -125,7 +125,7 @@ A tabela a seguir apresenta a checklist com os dados obtidos a partir da verific
       <td><b>3</b></td>
       <td>O artefato possui histórico de versões com id, descrição, data, autores e revisores?</td>
       <td><a href="https://imgur.com/a/Gtfccce" target="_blank">SERRANO, Milene. Requisitos - Aula 10</a></td>
-      <td>Sim</td>
+      <td>Conforme</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/kyciZPo" target="_blank">Print</a></td>
       <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
@@ -134,7 +134,7 @@ A tabela a seguir apresenta a checklist com os dados obtidos a partir da verific
       <td><b>4</b></td>
       <td>Tabelas e imagens são chamadas no texto, possuem legendas e fonte?</td>
       <td><a href="https://imgur.com/a/IjHy7UK" target="_blank">SERRANO, Milene. Requisitos - Aula 10</a></td>
-      <td>Sim</td>
+      <td>Conforme</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/TOzZo6C" target="_blank">Print</a></td>
       <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
@@ -143,7 +143,7 @@ A tabela a seguir apresenta a checklist com os dados obtidos a partir da verific
       <td><b>5</b></td>
       <td>Todos os textos estão na norma padrão?</td>
       <td><a href="https://imgur.com/a/aPN83CQ" target="_blank">SERRANO, Milene. Requisitos - Aula 10</a></td>
-      <td>Sim</td>
+      <td>Conforme</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/hSuCZ9O" target="_blank">Print</a></td>
       <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
@@ -156,7 +156,7 @@ A tabela a seguir apresenta a checklist com os dados obtidos a partir da verific
       <td><b>6</b></td>
       <td>A priorização foi realizada com um usuário real?</td>
       <td><a href="https://imgur.com/a/aPN83CQ" target="_blank">SERRANO, Milene. Requisitos - Aula 10</a></td>
-      <td>Sim</td>
+      <td>Conforme</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/DwNrOx6" target="_blank">Print</a></td>
       <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a></td>
@@ -165,7 +165,7 @@ A tabela a seguir apresenta a checklist com os dados obtidos a partir da verific
       <td><b>6.1</b></td>
       <td>O usuário participante se enquadrava no perfil?</td>
       <td><a href="https://imgur.com/a/aPN83CQ" target="_blank">SERRANO, Milene. Requisitos - Aula 10</a></td>
-      <td>Sim</td>
+      <td>Conforme</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/2ZVZFvz" target="_blank">Print</a></td>
       <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
@@ -174,7 +174,7 @@ A tabela a seguir apresenta a checklist com os dados obtidos a partir da verific
       <td><b>7</b></td>
       <td>Os requisitos priorizados haviam sido previamente elicitados?</td>
       <td><a href="https://imgur.com/a/aPN83CQ" target="_blank">SERRANO, Milene. Requisitos - Aula 10</a></td>
-      <td>Sim</td>
+      <td>Conforme</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/2S58mLA" target="_blank">Print</a></td>
       <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
@@ -192,7 +192,7 @@ A tabela a seguir apresenta a checklist com os dados obtidos a partir da verific
       <td><b>7.2</b></td>
       <td>Requisitos tinham ID identificando a técnica de elicitação?</td>
       <td><a href="https://imgur.com/a/aPN83CQ" target="_blank">SERRANO, Milene. Requisitos - Aula 10</a></td>
-      <td>Sim</td>
+      <td>Conforme</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/2S58mLA" target="_blank">Print</a></td>
       <td>-</td>
@@ -201,7 +201,7 @@ A tabela a seguir apresenta a checklist com os dados obtidos a partir da verific
       <td><b>8</b></td>
       <td>Utilizou-se o $100 para priorizar os requisitos?</td>
       <td><a href="https://imgur.com/a/aPN83CQ" target="_blank">SERRANO, Milene. Requisitos - Aula 10</a></td>
-      <td>Sim</td>
+      <td>Conforme</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/2S58mLA" target="_blank">Print</a></td>
       <td>-</td>
@@ -237,7 +237,7 @@ A tabela a seguir apresenta a checklist com os dados obtidos a partir da verific
       <td><b>10.1</b></td>
       <td>Requisitos foram posteriormente reorganizados por nível?</td>
       <td><a href="https://imgur.com/a/aPN83CQ" target="_blank">SERRANO, Milene. Requisitos - Aula 10</a></td>
-      <td>Não</td>
+      <td>Não Conforme</td>
       <td>-</td>
       <td>-</td>
       <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a></td>

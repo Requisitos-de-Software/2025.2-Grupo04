@@ -1,6 +1,6 @@
 ## Introdução
 
-<p style="text-align: justify;">Após o planejamento da verificação, foi iniciada a inspeção do artefato <b>Rich Picture</b> referente ao aplicativo <b>ID Jovem</b>. O propósito da verificação é garantir que o Rich Picture esteja devidamente estruturado, coerente com os requisitos levantados e alinhado aos objetivos do aplicativo ID Jovem, voltado para facilitar o acesso de jovens de baixa renda a benefícios culturais e de transporte. Como referência, utilizou-se (SERRANO Milene; SERRANO Mauricio) Requisitos – Aula 07. Universidade de Brasília. Durante o processo, foram coletadas informações, identificadas inconsistências e elaboradas sugestões de melhoria, com o intuito de aprimorar o artefato e assegurar sua adequação ao desenvolvimento do sistema.</p>
+Após o planejamento da verificação, foi iniciada a inspeção do artefato [Rich Picture] (https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_01/RichPicture/) referente ao aplicativo ID Jovem. O propósito da verificação é garantir que o Rich Picture esteja devidamente estruturado, coerente com os requisitos levantados e alinhado aos objetivos do aplicativo ID Jovem, voltado para facilitar o acesso de jovens de baixa renda a benefícios culturais e de transporte. Como referência, utilizou-se (SERRANO Milene; SERRANO Mauricio) Requisitos – Aula 07. Universidade de Brasília. Durante o processo, foram coletadas informações, identificadas inconsistências e elaboradas sugestões de melhoria, com o intuito de aprimorar o artefato e assegurar sua adequação ao desenvolvimento do sistema.
 
 <small><em>Revisado por [Chat GPT](https://chatgpt.com/share/691354f7-5404-8000-92b0-0138793cdd24), em 11 de Novembro 2025</em></small>
 
@@ -98,7 +98,7 @@
     <tr>
       <td><b>01:</b> O Rich Picture representa todos os atores envolvidos no sistema?</td>
       <td><a href="https://imgur.com/a/qmK9Uxm" target="_blank">SERRANO, Milene. Requisitos - Aula 10</a></td>
-      <td>Sim</td>
+      <td>Conforme</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/VhGSYZC" target="_blank">Print 1</a></td>
       <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
@@ -106,7 +106,7 @@
     <tr>
       <td><b>02:</b> Os fluxos de informação entre os elementos estão ilustrados?</td>
       <td><a href="https://imgur.com/a/wPVxjSq" target="_blank">SERRANO, Milene. Requisitos - Aula 10</a></td>
-      <td>Sim</td>
+      <td>Conforme</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/ym5VHjb" target="_blank">Print 2</a></td>
       <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
@@ -114,7 +114,7 @@
     <tr>
       <td><b>03:</b> As principais operações do sistema estão representadas?</td>
       <td><a href="https://imgur.com/a/Gtfccce" target="_blank">SERRANO, Milene. Requisitos - Aula 10</a></td>
-      <td>Sim</td>
+      <td>Conforme</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/kyciZPo" target="_blank">Print 3</a></td>
       <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
@@ -122,7 +122,7 @@
     <tr>
       <td><b>04:</b> Os limites do sistema estão claramente indicados?</td>
       <td><a href="https://imgur.com/a/IjHy7UK" target="_blank">SERRANO, Milene. Requisitos - Aula 10</a></td>
-      <td>Sim</td>
+      <td>Conforme</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/TOzZo6C" target="_blank">Print 4</a></td>
       <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
@@ -130,7 +130,7 @@
     <tr>
       <td><b>05:</b> Os armazenamentos de dados (tabelas) estão representados adequadamente?</td>
       <td><a href="https://imgur.com/a/aPN83CQ" target="_blank">SERRANO, Milene. Requisitos - Aula 10</a></td>
-      <td>Sim</td>
+      <td>Conforme</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/hSuCZ9O" target="_blank">Print 5</a></td>
       <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
@@ -138,7 +138,7 @@
     <tr>
       <td><b>06:</b> O Rich Picture foi validado com a equipe ou stakeholders?</td>
       <td>-</td>
-      <td>Sim</td>
+      <td>Conforme</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/DwNrOx6" target="_blank">SERRANO, Milene. Requisitos - Aula 10</a></td>
       <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a></td>
@@ -146,7 +146,7 @@
     <tr>
       <td><b>07:</b> O artefato possui uma legenda explicando os símbolos utilizados no diagrama?</td>
       <td><a href="https://imgur.com/a/2ZVZFvz" target="_blank">SERRANO, Milene. Requisitos - Aula 10</a></td>
-      <td>Sim</td>
+      <td>Conforme</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/2S58mLA" target="_blank">Print 7</a></td>
       <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>

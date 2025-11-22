@@ -95,7 +95,7 @@ e do funcionamento do ambiente analisado.
     <tr>
       <td><b>01:</b> Existe um cronograma com data para realização da elicitação de requisito?</td>
       <td><a href="https://imgur.com/acHCCir">SERRANO, Milene. Requisitos - Aula 10</a></td>
-      <td>Sim</td>
+      <td>Conforme</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/4tH2tRQ" target="_blank">Print 1</a></td>
       <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
@@ -103,7 +103,7 @@ e do funcionamento do ambiente analisado.
     <tr>
       <td><b>02:</b> O local de realização da elicitação foi especificado?</td>
       <td><a href="https://imgur.com/acHCCir">SERRANO, Milene. Requisitos - Aula 10</a></td>
-      <td>Não</td>
+      <td>Não Conforme</td>
       <td>-</td>
       <td>-</td>
       <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
@@ -111,7 +111,7 @@ e do funcionamento do ambiente analisado.
     <tr>
       <td><b>03:</b> O cronograma e local foram definidos em conjunto com o cliente e/ou persona?</td>
       <td><a href="">SERRANO, Milene. Requisitos - Aula 10</a></td>
-      <td>Não</td>
+      <td>Não Conforme</td>
       <td>Não especificado.</td>
       <td>-</td>
       <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Lopes</a></td>
@@ -119,7 +119,7 @@ e do funcionamento do ambiente analisado.
     <tr>
       <td><b>04:</b> Caso aplicável à técnica, foi registrada a participação do cliente e/ou persona na elicitação de requisitos?</td>
       <td><a href="https://imgur.com/acHCCir">SERRANO, Milene. Requisitos - Aula 10</a></td>
-      <td>Não</td>
+      <td>Não Conforme</td>
       <td>-</td>
       <td>-</td>
       <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
@@ -127,7 +127,7 @@ e do funcionamento do ambiente analisado.
     <tr>
       <td><b>05:</b> Foram feitas gravações e registros formais das atividades de elicitação?</td>
       <td><a href="https://imgur.com/acHCCir">SERRANO, Milene. Requisitos - Aula 10</a></td>
-      <td>Sim</td>
+      <td>Conforme</td>
       <td>-</td>
       <td><a href="" target="_blank">Print 5</a></td>
       <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
@@ -135,7 +135,7 @@ e do funcionamento do ambiente analisado.
     <tr>
       <td><b>06:</b> O observador tomou notas das tarefas em execução?</td>
       <td><a href="https://imgur.com/acHCCir">SERRANO, Milene. Requisitos - Aula 10</a></td>
-      <td>Não</td>
+      <td>Não Conforme</td>
       <td>-</td>
       <td><a href="" target="_blank">Print 6</a></td>
       <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
@@ -143,7 +143,7 @@ e do funcionamento do ambiente analisado.
     <tr>
       <td><b>07:</b> As pessoas a serem observadas estão claramente identificadas?</td>
       <td><a href="https://imgur.com/acHCCir">SERRANO, Milene. Requisitos - Aula 10</a></td>
-      <td>Sim</td>
+      <td>Conforme</td>
       <td>-</td>
       <td><a href="https://imgur.com/DiVnxNA" target="_blank">Print 7</a></td>
       <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
@@ -151,7 +151,7 @@ e do funcionamento do ambiente analisado.
     <tr>
       <td><b>08:</b> O tipo de postura do observador (ativa ou passiva) foi definida?</td>
       <td><a href="https://imgur.com/acHCCir">SERRANO, Milene. Requisitos - Aula 10</a></td>
-      <td>Não</td>
+      <td>Não Conforme</td>
       <td>Não especificado.</td>
       <td>-</td>
       <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>

@@ -1,6 +1,6 @@
 ## Introdução
 
-Com o objetivo de garantir a qualidade e a consistência do artefato [Perfil de usuario](https://requisitos-de-software.github.io/2025.2-Grupo04/Verificacao/Entrega_02/Personas/), foi realizada uma verificação seguindo as diretrizes estabelecidas no planejamento da entrega. O processo avaliou a completude, clareza, rastreabilidade e conformidade do documento com as boas práticas de documentação de requisitos.
+Com o objetivo de garantir a qualidade e a consistência do artefato [Perfil de usuario](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Perfil_de_Usu%C3%A1rio/), foi realizada uma verificação seguindo as diretrizes estabelecidas no planejamento da entrega. O processo avaliou a completude, clareza, rastreabilidade e conformidade do documento com as boas práticas de documentação de requisitos.
 
 <small><em>Revisado por [Gemini](https://gemini.google.com/), em 12 de Novembro 2025</em></small>
 

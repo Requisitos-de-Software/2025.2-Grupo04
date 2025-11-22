@@ -2,7 +2,7 @@
 
 <p style="text-align: justify;">
 Após o planejamento da verificação, foi realizada a inspeção do artefato 
-<a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Verificacao/Entrega_02/Moscow/" 
+<a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Prioriza%C3%A7%C3%A3o/Tecnicas/Moscow/" 
 target="_blank"><b>Moscow</b></a>
 referente ao projeto <b>ID Jovem</b>. Nessa etapa, aplicou-se o método de inspeção de Fagan, uma abordagem formal amplamente utilizada na engenharia de software para avaliar a consistência, clareza e completude de documentos técnicos.
 </p>
@@ -82,6 +82,7 @@ A verificação teve como objetivo garantir que o processo de priorização esti
   </tbody>
 </table>
 </div>
+
 ## Inspeção
 
 <p style="text-align: justify;">A seguir, apresentam-se as tabelas com os itens utilizados na verificação do artefato <b>MOSCOW</b> do aplicativo <b>ID Jovem</b>. A verificação assegura que os elementos específicos da técnica de priorização estão em conformidade.</p>

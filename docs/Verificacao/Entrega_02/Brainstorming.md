@@ -1,7 +1,7 @@
 ## Lista de Verificação 2.2 do Brainstorming
 
 
-A seguir, apresenta-se a tabela com os itens utilizados na verificação do artefato da técnica de [Brainstorming](https://requisitos-de-software.github.io/2025.2-Grupo04/Verificacao/Entrega_02/Brainstorming/), aplicado no contexto do aplicativo ID Jovem.
+A seguir, apresenta-se a tabela com os itens utilizados na verificação do artefato da técnica de [Brainstorming](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/), aplicado no contexto do aplicativo ID Jovem.
 Essa verificação tem como objetivo assegurar que o processo de geração de ideias foi realizado de forma colaborativa, estruturada e documentada,
 de modo a contribuir efetivamente para a elicitação de requisitos do sistema. Além disso, busca-se garantir que os resultados obtidos no Brainstorming
 foram devidamente organizados, analisados e utilizados para o refinamento dos requisitos funcionais e não funcionais do projeto.

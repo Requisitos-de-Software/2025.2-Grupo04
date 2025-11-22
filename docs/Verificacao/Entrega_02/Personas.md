@@ -1,6 +1,6 @@
 ## Introdução
 
-Após o planejamento da verificação, foi iniciada a inspeção do artefato [Personas](https://requisitos-de-software.github.io/2025.2-Grupo04/Verificacao/Entrega_02/Personas/) referente ao aplicativo ID Jovem<. O propósito da verificação é garantir que as personas (arquétipos de usuários) estejam devidamente estruturadas, sejam coerentes com os dados elicitados e representem adequadamente os grupos de usuários do sistema. Como referência, utilizou-se o livro (VAZQUEZ; SIMÕES, 2016) , especificamente os conceitos de identificação de Partes Interessadas (Capítulo 5.4), Usuários (Capítulo 5.4.3) e a importância de entender suas necessidades (Capítulo 5.5). Durante o processo, foram analisados os perfis, objetivos e frustrações de cada persona, com o intuito de aprimorar o artefato e assegurar sua adequação ao desenvolvimento do sistema.
+Após o planejamento da verificação, foi iniciada a inspeção do artefato [Personas](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Definicao_de_Personas/) referente ao aplicativo ID Jovem<. O propósito da verificação é garantir que as personas (arquétipos de usuários) estejam devidamente estruturadas, sejam coerentes com os dados elicitados e representem adequadamente os grupos de usuários do sistema. Como referência, utilizou-se o livro (VAZQUEZ; SIMÕES, 2016) , especificamente os conceitos de identificação de Partes Interessadas (Capítulo 5.4), Usuários (Capítulo 5.4.3) e a importância de entender suas necessidades (Capítulo 5.5). Durante o processo, foram analisados os perfis, objetivos e frustrações de cada persona, com o intuito de aprimorar o artefato e assegurar sua adequação ao desenvolvimento do sistema.
 
 <small><em>Revisado por [Gemini](https://gemini.google.com/), em 12 de Novembro 2025</em></small>
 
@@ -98,7 +98,7 @@ Fonte: <a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalc
     <tr>
       <td><b>01:</b> As personas (primárias e secundária) representam os principais grupos de usuários e partes interessadas do sistema?</td>
       <td><a href="#REF1">(VAZQUEZ; SIMÕES, 2016, p. 269)</a></td>
-      <td>Sim</td>
+      <td>Conforme</td>
       <td>.</td>
       <td><a href="#" target="_blank">Print 1</a></td>
       <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
@@ -106,7 +106,7 @@ Fonte: <a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalc
     <tr>
       <td><b>02:</b> Cada persona possui "Objetivos" e "Necessidades" claros e distintos, que ajudam a elicitar requisitos?</td>
       <td><a href="#REF1">(VAZQUEZ; SIMÕES, 2016, p. 269)</a></td>
-      <td>Sim</td>
+      <td>Conforme</td>
       <td></td>
       <td><a href="#" target="_blank">Print 2</a></td>
       <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
@@ -114,7 +114,7 @@ Fonte: <a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalc
     <tr>
       <td><b>03:</b> As "Frustrações" de cada persona identificam problemas claros que o sistema pode resolver?</td>
       <td><a href="#REF1">(VAZQUEZ; SIMÕES, 2016, p. 269)</a></td>
-      <td>Sim</td>
+      <td>Conforme</td>
   <td></td>
       <td><a href="#" target="_blank">Print 3</a></td>
       <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
@@ -122,7 +122,7 @@ Fonte: <a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalc
     <tr>
       <td><b>04:</b> A Antipersona (Carlos Henrique) define claramente quem *não* é o foco do sistema, ajudando a delimitar o escopo?</td>
       <td><a href="#REF1">(VAZQUEZ; SIMÕES, 2016, p. 269)</a></td>
-      <td>Sim</td>
+      <td>Conforme</td>
       <td></td>
       <td><a href="#" target="_blank">Print 4</a></td>
       <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
@@ -130,7 +130,7 @@ Fonte: <a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalc
     <tr>
       <td><b>05:</b> Os detalhes (ex: 'Competências digitais', 'Escolaridade') são realistas e fornecem contexto para o design da solução?</td>
       <td><a href="#REF1">(VAZQUEZ; SIMÕES, 2016, p. 269)</a></td>
-      <td>Sim</td>
+      <td>Conforme</td>
      <td></td>
       <td><a href="#" target="_blank">Print 5</a></td>
       <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
@@ -138,7 +138,7 @@ Fonte: <a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalc
     <tr>
       <td><b>06:</b> A distinção entre personas primárias e secundária está clara e justificada?</td>
       <td><a href="#REF1">(VAZQUEZ; SIMÕES, 2016, p. 269)</a></td>
-      <td>Sim</td>
+      <td>Conforme</td>
       <td></td>
       <td><a href="#" target="_blank">Print 6</a></td>
       <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a></td>

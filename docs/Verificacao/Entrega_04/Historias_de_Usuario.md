@@ -1,3 +1,6 @@
+## Lista de Verificação 2.3 do NFR Framework 
+
+
 ## Introdução
 
 Após o planejamento da verificação, foi iniciada a inspeção do artefato [Historia de Usuario](https://requisitos-de-software.github.io/2025.2-Grupo04/Verificacao/Entrega_04/Historias_de_Usuario/) referente ao aplicativo ID Jovem. O propósito dessa verificação é assegurar que as histórias estejam bem definidas, representando corretamente as necessidades dos usuários e refletindo as funcionalidades que o sistema deve oferecer. Segundo Vazquez e Simões<a href="#RP1">[1]</a>, as histórias de usuário surgiram no contexto da Extreme Programming (XP) como uma unidade de funcionalidade que demonstra o progresso do projeto por meio da entrega de código testado e integrado. Cada história deve ser compreensível para o cliente, testável pelos desenvolvedores e pequena o suficiente para ser implementada dentro de uma iteração. Atualmente, essa técnica é amplamente utilizada em métodos ágeis, como o , em que o Product Owner é responsável por elaborá-las com base nas necessidades dos usuários.
@@ -20,7 +23,6 @@ Após o planejamento da verificação, foi iniciada a inspeção do artefato [Hi
 <h3 style="text-align: center;">Tabela 1: Participantes</h3>
 
 <div align="center">
-
 <table border="1" style="border-collapse: collapse; width: 80%; text-align: center;">
   <thead>
     <tr>
@@ -34,37 +36,37 @@ Após o planejamento da verificação, foi iniciada a inspeção do artefato [Hi
     <tr>
       <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
       <td>Autor</td>
-      <td>1, 7, 13</td>
+      <td><a href="#item-01">01</a>, <a href="#item-07">07</a>, <a href="#item-13">13</a></td>
       <td>12/11/2025</td>
     </tr>
     <tr>
       <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
       <td>Autor</td>
-      <td>4, 10</td>
+      <td><a href="#item-04">04</a>, <a href="#item-10">10</a></td>
       <td>12/11/2025</td>
     </tr>
     <tr>
       <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
       <td>Autor</td>
-      <td>2, 8</td>
+      <td><a href="#item-02">02</a>, <a href="#item-08">08</a></td>
       <td>12/11/2025</td>
     </tr>
     <tr>
       <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
       <td>Autor</td>
-      <td>5, 11</td>
+      <td><a href="#item-05">05</a>, <a href="#item-11">11</a></td>
       <td>12/11/2025</td>
     </tr>
     <tr>
       <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
       <td>Autor</td>
-      <td>6, 12</td>
+      <td><a href="#item-06">06</a>, <a href="#item-12">12</a></td>
       <td>12/11/2025</td>
     </tr>
     <tr>
       <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a></td>
       <td>Autor</td>
-      <td>3, 9</td>
+      <td><a href="#item-03">03</a>, <a href="#item-09">09</a></td>
       <td>12/11/2025</td>
     </tr>
   </tbody>
@@ -79,28 +81,151 @@ Fonte: <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeir
 
 ### Itens Gerais
 
-| Item | Fontes | Avaliação | Observação | Print | Avaliador(es) |
-| :---- | :---: | :---: | :---: | :---: | :---: | 
-| **01:** O artefato apresenta uma bibliografia/referência bibliográfica? | [André Barros](#ref-sales) | Sim | | [image1](https://imgur.com/a/vfORkK7) | [Giovana Fontes](https://github.com/GiovanaFontesS) | 
-| **02:** O artefato apresenta um histórico de versões com id, item das versões, autores и revisores? | [André Barros](#ref-sales) | Sim | | [image2](https://imgur.com/SEzFfbz) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
-| **03:** As tabelas e imagens apresentam legenda e fonte? | [André Barros](#ref-sales) | Sim | | [image3](https://imgur.com/9xyijgv) | [Letícia Lopes](https://github.com/leticialopes20) |
-| **04:** O artefato apresenta uma introdução? | [André Barros](#ref-sales) | Sim | | [image4](https://imgur.com/pJgNNbJ) | [Breno Teixeira](https://github.com/BrenoLTeixeira) | 21/10/2025 21:05 |
-| **05:** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? | [André Barros](#ref-sales) | Sim | | [image5](https://imgur.com/a/XGMSVSE) | [Dylan Cavalcante](https://github.com/dylancavalcante) | 
-| **06:** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? | [André Barros](#ref-sales) | Sim | | [image6](https://imgur.com/a/PGF77VS) | [Eduarda Domingos](https://github.com/eduardar0) | 
-<p style="text-align: center; font-size: 10pt;">Autor: <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></p>
+<div align="center">
+<table border="1" style="border-collapse: collapse; width: 95%; text-align: center;">
+  <thead>
+    <tr>
+      <th style="width: 35%;">Item</th>
+      <th style="width: 15%;">Fontes</th>
+      <th style="width: 10%;">Avaliação</th>
+      <th style="width: 20%;">Observação</th>
+      <th style="width: 5%;">Print</th>
+      <th style="width: 15%;">Avaliador</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr id="item-01">
+      <td><b>01:</b> O artefato apresenta uma bibliografia/referência bibliográfica?</td>
+      <td><a href="#ref-sales">André Barros</a></td>
+      <td>Sim</td>
+      <td>-</td>
+      <td><a href="https://imgur.com/a/vfORkK7" target="_blank">image1</a></td>
+      <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
+    </tr>
+    <tr id="item-02">
+      <td><b>02:</b> O artefato apresenta um histórico de versões com id, item das versões, autores e revisores?</td>
+      <td><a href="#ref-sales">André Barros</a></td>
+      <td>Sim</td>
+      <td>-</td>
+      <td><a href="https://imgur.com/SEzFfbz" target="_blank">image2</a></td>
+      <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
+    </tr>
+    <tr id="item-03">
+      <td><b>03:</b> As tabelas e imagens apresentam legenda e fonte?</td>
+      <td><a href="#ref-sales">André Barros</a></td>
+      <td>Sim</td>
+      <td>-</td>
+      <td><a href="https://imgur.com/9xyijgv" target="_blank">image3</a></td>
+      <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Lopes</a></td>
+    </tr>
+    <tr id="item-04">
+      <td><b>04:</b> O artefato apresenta uma introdução?</td>
+      <td><a href="#ref-sales">André Barros</a></td>
+      <td>Sim</td>
+      <td>-</td>
+      <td><a href="https://imgur.com/pJgNNbJ" target="_blank">image4</a></td>
+      <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
+    </tr>
+    <tr id="item-05">
+      <td><b>05:</b> A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico?</td>
+      <td><a href="#ref-sales">André Barros</a></td>
+      <td>Sim</td>
+      <td>-</td>
+      <td><a href="https://imgur.com/a/XGMSVSE" target="_blank">image5</a></td>
+      <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
+    </tr>
+    <tr id="item-06">
+      <td><b>06:</b> Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)?</td>
+      <td><a href="#ref-sales">André Barros</a></td>
+      <td>Sim</td>
+      <td>-</td>
+      <td><a href="https://imgur.com/a/PGF77VS" target="_blank">image6</a></td>
+      <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Domingos</a></td>
+    </tr>
+  </tbody>
+</table>
+<p style="text-align: center; font-size: 0.9em; color: gray;">
+Fonte: <a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a>
+</p>
+</div>
 
 ### Histórias de Usuário
 
-| Item | Fontes | Avaliação | Observação | Print | Avaliador(es) |
-| :---- | :---: | :---: | :---: | :---: | :---: | 
-| **07:** Os títulos das histórias de usuário são autoexplicativos? | [Milene Serrano](#ref-serrano) | Sim | | [image7](https://imgur.com/a/LpgNFS1) | [Giovana Fontes](https://github.com/GiovanaFontesS) |
-| **08:** O “quem”, “o que” e o “por que” estão definidos na história de usuário? | [André Barros](#ref-sales) | Sim | | [image8](https://imgur.com/pjU2ryR) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
-| **09:** Existe a participação do público jovem na validação das histórias de usuário? | [André Barros](#ref-sales) | Sim | | [image9](https://imgur.com/TWGSHCk) | [Letícia Lopes](https://github.com/leticialopes20) |
-| **10:** As histórias possuem critérios de aceitação bem definidos? | [Roger S. Pressman](#ref-pressman) | Sim | | [image10](https://imgur.com/a/bjKXl6e) | [Breno Teixeira](https://github.com/BrenoLTeixeira) |
-| **11:** As histórias foram construídas com base em entrevistas com jovens beneficiários do ID Jovem? | [André Barros](#ref-sales) | Sim | | [image11](https://imgur.com/O8De5Jp) | [Dylan Cavalcante](https://github.com/dylancavalcante) |
-| **12:** Todas as histórias de usuário podem ser testadas? | [Roger S. Pressman](#ref-pressman) | Sim | | [image12](https://imgur.com/a/bjKXl6e) | [Eduarda Domingos](https://github.com/eduardar0) | 
-| **13:** As histórias seguem o modelo padrão "Como um [tipo de jovem], eu desejo [ação] para [benefício]"? | [Milene Serrano](#ref-serrano) | Sim | | [image13](https://imgur.com/a/fBl0v9b) | [Giovana Fontes](https://github.com/GiovanaFontesS) |
-<p style="text-align: center; font-size: 10pt;">Autor: <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></p>
+<div align="center">
+<table border="1" style="border-collapse: collapse; width: 95%; text-align: center;">
+  <thead>
+    <tr>
+      <th style="width: 35%;">Item</th>
+      <th style="width: 15%;">Fontes</th>
+      <th style="width: 10%;">Avaliação</th>
+      <th style="width: 20%;">Observação</th>
+      <th style="width: 5%;">Print</th>
+      <th style="width: 15%;">Avaliador</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr id="item-07">
+      <td><b>07:</b> Os títulos das histórias de usuário são autoexplicativos?</td>
+      <td><a href="#ref-serrano">Milene Serrano</a></td>
+      <td>Sim</td>
+      <td>-</td>
+      <td><a href="https://imgur.com/a/LpgNFS1" target="_blank">image7</a></td>
+      <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
+    </tr>
+    <tr id="item-08">
+      <td><b>08:</b> O “quem”, “o que” e o “por que” estão definidos na história de usuário?</td>
+      <td><a href="#ref-sales">André Barros</a></td>
+      <td>Sim</td>
+      <td>-</td>
+      <td><a href="https://imgur.com/pjU2ryR" target="_blank">image8</a></td>
+      <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
+    </tr>
+    <tr id="item-09">
+      <td><b>09:</b> Existe a participação do público jovem na validação das histórias de usuário?</td>
+      <td><a href="#ref-sales">André Barros</a></td>
+      <td>Sim</td>
+      <td>-</td>
+      <td><a href="https://imgur.com/TWGSHCk" target="_blank">image9</a></td>
+      <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Lopes</a></td>
+    </tr>
+    <tr id="item-10">
+      <td><b>10:</b> As histórias possuem critérios de aceitação bem definidos?</td>
+      <td><a href="#ref-pressman">Roger S. Pressman</a></td>
+      <td>Sim</td>
+      <td>-</td>
+      <td><a href="https://imgur.com/a/bjKXl6e" target="_blank">image10</a></td>
+      <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
+    </tr>
+    <tr id="item-11">
+      <td><b>11:</b> As histórias foram construídas com base em entrevistas com jovens beneficiários do ID Jovem?</td>
+      <td><a href="#ref-sales">André Barros</a></td>
+      <td>Sim</td>
+      <td>-</td>
+      <td><a href="https://imgur.com/O8De5Jp" target="_blank">image11</a></td>
+      <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
+    </tr>
+    <tr id="item-12">
+      <td><b>12:</b> Todas as histórias de usuário podem ser testadas?</td>
+      <td><a href="#ref-pressman">Roger S. Pressman</a></td>
+      <td>Sim</td>
+      <td>-</td>
+      <td><a href="https://imgur.com/a/bjKXl6e" target="_blank">image12</a></td>
+      <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Domingos</a></td>
+    </tr>
+    <tr id="item-13">
+      <td><b>13:</b> As histórias seguem o modelo padrão "Como um [tipo de jovem], eu desejo [ação] para [benefício]"?</td>
+      <td><a href="#ref-serrano">Milene Serrano</a></td>
+      <td>Sim</td>
+      <td>-</td>
+      <td><a href="https://imgur.com/a/fBl0v9b" target="_blank">image13</a></td>
+      <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
+    </tr>
+  </tbody>
+</table>
+<p style="text-align: center; font-size: 0.9em; color: gray;">
+Fonte: <a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a>
+</p>
+</div>
 
 
 
@@ -149,5 +274,3 @@ Queremos agradecer ao Gemini, ferramenta de Inteligência Artificial Generativa,
 
 De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
 Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.
-
-

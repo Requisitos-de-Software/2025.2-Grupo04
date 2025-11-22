@@ -66,7 +66,7 @@ Com o objetivo de garantir a qualidade e a consistência do artefato [Product Ba
 </table>
 </div>
 <p style="text-align: center; font-size: 0.9em; color: gray;">
-Fonte: <a href="https://github.com/BrenoLteixeira" target="_blank">Breno</a>
+Fonte: <a href="https://github.com/BrenoLteixeira" target="_blank">Breno Teixeira</a>
 </p>
 
 ## Inspeção
@@ -199,7 +199,7 @@ Fonte: <a href="https://github.com/BrenoLteixeira" target="_blank">Breno Teixeir
   </tbody>
 </table>
 <p style="text-align: center; font-size: 0.9em; color: gray;">
-Fonte: <a href="https://github.com/BrenoLteixeira" target="_blank">Breno</a>
+Fonte: <a href="https://github.com/BrenoLteixeira" target="_blank">Breno Teixeira</a>
 </p>
 </div>
 
@@ -228,10 +228,13 @@ O artefato <b>Product Backlog</b> cumpre seu objetivo principal de organizar os 
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :--: | :--: | :-- | :-- | :-- |
-| `1.0` | 21/10/2025 | Criação e consolidação do documento de verificação | [Breno](https://github.com/BrenoLteixeira) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
-| `1.1` | 12/11/2025 | Reestruturação do documento para formato HTML | [Breno](https://github.com/BrenoLteixeira) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
-| `1.2` | 12/11/2025 | Atualização dos avaliadores e identificação de não conformidade  | [Breno](https://github.com/BrenoLteixeira) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
-| 1.3 | 21/11/2025 | Correção de tabelas | [Breno](https://github.com/BrenoLteixeira) | [Leticia Maria](https://github.com/arthurfernandesj) |
+| `1.0` | 21/10/2025 | Criação e consolidação do documento de verificação | [Breno Teixeira](https://github.com/BrenoLteixeira) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| `1.1` | 12/11/2025 | Reestruturação do documento para formato HTML | [Breno Teixeira](https://github.com/BrenoLteixeira) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| `1.2` | 12/11/2025 | Atualização dos avaliadores e identificação de não conformidade  | [Breno Teixeira](https://github.com/BrenoLteixeira) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| 1.3 | 21/11/2025 | Correção de tabelas | [Breno Teixeira](https://github.com/BrenoLteixeira) | [Leticia Lopes](https://github.com/Leticialopes20) |
+| 1.4 | 21/11/2025 | Correção das Referências Bibliográficas | [Breno Teixeira](https://github.com/BrenoLteixeira) | [Leticia Lopes](https://github.com/Leticialopes20) |
+| 1.5 | 21/11/2025 | Refinamento para a entrega final | [Breno Teixeira](https://github.com/BrenoLteixeira) | [Leticia Lopes](https://github.com/Leticialopes20) |
+
 
 
 ## Agradecimentos

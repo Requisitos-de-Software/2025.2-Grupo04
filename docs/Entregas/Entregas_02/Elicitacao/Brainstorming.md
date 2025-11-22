@@ -1,11 +1,10 @@
-
 # Brainstorming
 
 ## Introdução
 
 O Brainstorming é uma técnica de elicitação de requisitos que busca gerar um grande volume de ideias de forma colaborativa, criativa e espontânea. Para isso, reúne-se um grupo de pessoas de diferentes áreas — como usuários, clientes, desenvolvedores e demais stakeholders — para discutir um problema específico ou um tema central do projeto <a id="anchor_text_intro_1" href="#QT1">[1]</a>.
 
-Cada participante tem seu momento para contribuir, apresentando opiniões e sugestões sem críticas ou julgamentos imediatos. Essa liberdade incentiva os envolvidos a pensar “fora da caixa”, ampliando o potencial criativo e permitindo que surjam soluções inovadoras.
+Cada participante tem seu momento para contribuir, apresentando opiniões e sugestões sem críticas ou julgamentos imediatos. Essa liberdade incentiva os envolvidos a pensar "fora da caixa", ampliando o potencial criativo e permitindo que surjam soluções inovadoras.
 O foco inicial está na quantidade de ideias, pois quanto mais contribuições forem geradas, maiores serão as chances de identificar propostas relevantes e criativas.
 
 Posteriormente, essas ideias passam por um processo de organização e refinamento, no qual as inapropriadas são descartadas e as mais promissoras são priorizadas, de modo a atender às necessidades do projeto.
@@ -20,10 +19,13 @@ Quando bem conduzido, o Brainstorming gera maior engajamento dos participantes, 
 - Amplia a compreensão das necessidades e expectativas dos usuários.
 
 Quando bem conduzido, o Brainstorming se mostra especialmente útil nas fases iniciais do desenvolvimento, servindo como um instrumento poderoso para estimular a criatividade e alinhar a visão do projeto.
+<small><em>Revisado por [Chat GPT](https://chatgpt.com/), em 22 de Novembro 2025</em></small>
 
 
 ### Metodologia
 O brainstorming foi realizado em formato de reunião e contou com a presença de todos os membros do grupo. O moderador foi [Arthur Fernandes](https://github.com/arthurfernandesj) e o secretário [Dylan Cavalcante](https://github.com/dylancavalcante). Durante a atividade, foram feitas 10 perguntas no total, com um tempo inicial de 1 minuto e 20 segundos para elaborar as respostas e 1 minuto para discuti-las, havendo ajustes nos tempos durante a sessão. Após a reunião, o moderador e o secretário analisaram as respostas e, com base nelas, formalizaram os requisitos apresentados na **Tabela 12**. Como referência, utilizamos o livro *Interação humano-computador e experiência de usuário* <a id="anchor_text_metodo_1" href="#QT2">[2]</a>. Adotamos as regras e a metodologia propostas na obra, mas realizamos algumas adaptações para melhor adequação ao nosso projeto e grupo, como a inclusão de perguntas e a redução no tempo de duração das etapas.
+<small><em>Revisado por [Chat GPT](https://chatgpt.com/), em 22 de Novembro 2025</em></small>
+
 
 <p align="center"><strong>Tabela 1 - Participantes</strong></p>
 
@@ -425,7 +427,7 @@ O brainstorming foi realizado em formato de reunião e contou com a presença de
 
 <p><a id="QT1" href="#anchor_text_intro_1">1.</a> Retraining - Universidade Federal de Santa Catarina. Técnicas de Elicitação de Requisitos: Brainstorming. Disponível em: <a href="https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-brainstorming">https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-brainstorming</a>. Acesso em: 23 Set. 2025.</p>
 
-<p><a id="QT2" href="#anchor_text_intro_2">2.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Disponível em: <a href="https://aprender3.unb.br/pluginfile.php/2844985/mod_resource/content/4/ihc-ux%20cap%207.pdf">https://aprender3.unb.br/pluginfile.php/2844985/mod_resource/content/4/ihc-ux%20cap%207.pdf</a>. Acesso em: 23 Set. 2025.</p>
+<p><a id="QT2" href="#anchor_text_intro_2">2.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Disponível em: <a href="https://aprender3.unb.br/pluginfile.php/3210590/mod_resource/content/3/cap%207%20e%208.pdf">https://aprender3.unb.br/pluginfile.php/3210590/mod_resource/content/3/cap%207%20e%208.pdf</a>. Acesso em: 23 Set. 2025.</p>
 
 
 ## Bibliografia
@@ -438,3 +440,10 @@ O brainstorming foi realizado em formato de reunião e contou com a presença de
 | `1.1`  | 28/09/2025 | Atualização em Introdução, metodologia e perguntas  | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Leticia Lopes](https://github.com/leticialopes20)|
 | `1.2`  | 29/09/2025 | Adicionado os requisitos, referências e remoção de tabela  | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Leticia Lopes](https://github.com/leticialopes20) |
 | `1.3`  | 10/10/2025 | Arrumando as Referências no texto  | [Breno Teixeira](https://github.com/BrenoLteixeira) |  [Arthur Fernandes](https://github.com/arthurfernandesj) |
+
+## Agradecimentos
+
+Queremos agradecer ao [Chat GPT](https://chatgpt.com/), ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto ID Jovem. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.

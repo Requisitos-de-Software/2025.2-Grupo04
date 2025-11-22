@@ -56,6 +56,7 @@ Aqui está definida a inspeção da entrega 4 do nosso grupo, cujo projeto abord
 | **04:** O artefato apresenta uma introdução? | [André Barros](#ref-sales) | Conforme | | [image4](https://imgur.com/pJgNNbJ) | [Breno Teixeira](https://github.com/BrenoLTeixeira) | 21/10/2025 21:05 |
 | **05:** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? | [André Barros](#ref-sales) | Conforme | | [image5](https://imgur.com/a/XGMSVSE) | [Dylan Cavalcante](https://github.com/dylancavalcante) | 
 | **06:** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? | [André Barros](#ref-sales) | Conforme | | [image6](https://imgur.com/a/PGF77VS) | [Eduarda Domingos](https://github.com/eduardar0) | 
+<p style="text-align: center; font-size: 10pt;">Autor: <a href="https://github.com/brenolteixeira">Breno Teixeira</a></p>
 
 ### Histórias de Usuário
 
@@ -68,16 +69,18 @@ Aqui está definida a inspeção da entrega 4 do nosso grupo, cujo projeto abord
 | **11:** As histórias foram construídas com base em entrevistas com jovens beneficiários do ID Jovem? | [André Barros](#ref-sales) | Conforme | | [image11](https://imgur.com/O8De5Jp) | [Dylan Cavalcante](https://github.com/dylancavalcante) |
 | **12:** Todas as histórias de usuário podem ser testadas? | [Roger S. Pressman](#ref-pressman) | Conforme | | [image12](https://imgur.com/a/bjKXl6e) | [Eduarda Domingos](https://github.com/eduardar0) | 
 | **13:** As histórias seguem o modelo padrão "Como um [tipo de jovem], eu desejo [ação] para [benefício]"? | [Milene Serrano](#ref-serrano) | Conforme | | [image13](https://imgur.com/a/fBl0v9b) | [Giovana Fontes](https://github.com/GiovanaFontesS) |
+<p style="text-align: center; font-size: 10pt;">Autor: <a href="https://github.com/brenolteixeira">Breno Teixeira</a></p>
 
 ### Backlog
 
 | Item | Fontes | Avaliação | Observação | Print | Avaliador(es) |
 | :---- | :---: | :---: | :---: | :---: | :---: | 
 | **14:** O backlog possui épicos e temas bem definidos e descritos? | [Milene Serrano](#ref-serrano) | Conforme | | [image14](https://imgur.com/a/L7enia3) | [Arthur Fernandes](https://github.com/arthurfernandesj) | 
-| **15:** Cada história de usuário está associada a uma história de usuário? | [Milene Serrano](#ref-serrano) | Conforme | | [image15](https://imgur.com/a/A6moY7w) | [Letícia Lopes](https://github.com/leticialopes20) | 
+| **15:** Cada feature está associada a uma história de usuário? | [Milene Serrano](#ref-serrano) | Conforme | | [image15](https://imgur.com/a/A6moY7w) | [Letícia Lopes](https://github.com/leticialopes20) | 
 | **16:** As histórias seguem o modelo de escrita padrão? | [Roger S. Pressman](#ref-pressman) | Conforme | | [image16](https://imgur.com/a/tPFheSp) | [Breno Teixeira](https://github.com/BrenoLTeixeira) | 
 | **17:** Todas as histórias possuem identificação única (ex: RF21, RF02)? | [Milene Serrano](#ref-serrano) | Conforme |Item criado pelo grupo em uma das nossas reuniões baseado na fonte citada | [image17](https://imgur.com/a/A6moY7w) | [Dylan Cavalcante](https://github.com/dylancavalcante) |
 | **18:** Há rastreabilidade entre história, requisito funcional e técnica de elicitação? | [Milene Serrano](#ref-serrano) | Conforme | | [image18](https://imgur.com/a/N1CxaQo) | [Eduarda Domingos](https://github.com/eduardar0) | 
+<p style="text-align: center; font-size: 10pt;">Autor: <a href="https://github.com/brenolteixeira">Breno Teixeira</a></p>
 
 ### NFR Framework
 
@@ -91,6 +94,7 @@ Aqui está definida a inspeção da entrega 4 do nosso grupo, cujo projeto abord
 | **24:** Foram definidos os rótulos de propagação de impacto no SIG? | [Reinaldo Silva](#ref-silva) | Conforme | | [image24](https://imgur.com/a/5s8N1QO) | [Eduarda Domingos](https://github.com/eduardar0) | 
 | **25:** Foram identificados os principais requisitos não funcionais do ID Jovem (ex: usabilidade, segurança, desempenho)? | [Reinaldo Silva](#ref-silva)| Conforme | | [image25](https://imgur.com/a/d7w2nGv) | [Giovana Fontes](https://github.com/GiovanaFontesS) | 
 | **26:** Foram utilizados Cartões de Especificação para os softgoals? | [Reinaldo Silva](#ref-silva) | Conforme | | [image26](https://imgur.com/a/LjAhckD) | [Letícia Lopes](https://github.com/leticialopes20) |
+<p style="text-align: center; font-size: 10pt;">Autor: <a href="https://github.com/brenolteixeira">Breno Teixeira</a></p>
 
 ---
 

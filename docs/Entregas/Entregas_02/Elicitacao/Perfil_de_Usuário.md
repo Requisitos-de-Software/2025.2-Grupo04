@@ -1,7 +1,8 @@
 # Perfil de Usuário
 
 ## Introdução
-A construção de um perfil de usuário é uma etapa fundamental para compreender quem são os indivíduos que irão interagir com o sistema e quais necessidades devem ser atendidas ao longo do desenvolvimento. Essa atividade consiste em identificar e descrever detalhadamente características relevantes do público-alvo, como faixa etária, nível de instrução, experiência prévia, objetivos e desafios enfrentados no contexto de uso. Trata-se de um processo essencial da Engenharia de Requisitos, pois fornece subsídios para decisões de projeto mais assertivas e garante que o sistema seja alinhado às demandas reais dos usuários (BARBOSA; SILVA, 2011).
+A construção de um perfil de usuário é uma etapa fundamental para compreender quem são os indivíduos que irão interagir com o sistema e quais necessidades devem ser atendidas ao longo do desenvolvimento. Essa atividade consiste em identificar e descrever detalhadamente características relevantes do público-alvo, como faixa etária, nível de instrução, experiência prévia, objetivos e desafios enfrentados no contexto de uso. Trata-se de um processo essencial da Engenharia de Requisitos, pois fornece subsídios para decisões de projeto mais assertivas e garante que o sistema seja alinhado às demandas reais dos usuários [BARBOSA; SILVA, 2011](#barbosa2011).
+
 
 Este documento tem como objetivo sintetizar informações coletadas por meio de fontes formais e dados empíricos, permitindo a elaboração de um perfil de usuário que ultrapassa aspectos puramente demográficos. Busca-se compreender motivações, expectativas e comportamentos que influenciam diretamente a interação com a aplicação, contribuindo para o desenvolvimento de uma solução mais eficaz, centrada no usuário e adequada ao seu contexto de uso.
 
@@ -70,11 +71,16 @@ Fontes:
 </p>
 <small><em>Revisado por [Chat GPT](https://chatgpt.com/), em 21 de Novembro 2025</em></small>
 
-## Bibliografia 
+## Bibliografia
 
-> VAZQUEZ, C. E.; SIMÕES, G. S. *Engenharia de Requisitos: software orientado ao negócio*. Rio de Janeiro: Brasport, 2016. Acesso em: 28 set. 2025.
+> <a id="vazquez2016"></a> VAZQUEZ, C. E.; SIMÕES, G. S. *Engenharia de Requisitos: software orientado ao negócio*. Rio de Janeiro: Brasport, 2016. Acesso em: 28 set. 2025.
 
-> REQUISITOS DE SOFTWARE – Grupo Bilheteria Digital. *Repositório do Projeto*. 2023. Disponível em: [Bilheteria Digital](https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital). Acesso em: 21 nov. 2025.
+> <a id="barbosa2011"></a> BARBOSA, S. D. J.; SILVA, B. S. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2011.
+
+> <a id="bilheteriadigital2023"></a> REQUISITOS DE SOFTWARE – Grupo Bilheteria Digital. *Repositório do Projeto*. 2023. Disponível em: [Bilheteria Digital](https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital). Acesso em: 21 nov. 2025.
+
+
+
 
 ## Histórico de Versão
 
@@ -84,6 +90,8 @@ Fontes:
 | `1.1`  | 09/10/2025 | refatoração da página (adicionar introdução, metodologia e arrumar links quebrados)| [Dylan](https://github.com/dylancavalcante) | [Eduarda](https://github.com/eduardar0) |
 | `1.2` | 09/10/2025 | Deixando mais clara a introdução e adicionando referência bibliográfica| [Breno](https://github.com/BrenoLteixeira) | [Eduarda](https://github.com/eduardar0) |
 | `1.3` | 21/11/2025 |  Revisão completa do texto, correção da escrita, padronização das seções em Markdown, organização das referências e bibliografia conforme solicitado. | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Leticia](https://github.com/leticialopes20) |
+| `1.4`  | 22/11/2025 | Revisão e Polimento Final  | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Leticia](https://github.com/leticialopes20) |
+
 
 
 ## Agrecimentos

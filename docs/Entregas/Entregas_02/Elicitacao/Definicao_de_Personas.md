@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O desenvolvimento de um aplicativo eficaz exige uma compreensão profunda dos usuários que irão interagir com ele. Nesse cenário, as personas desempenham um papel fundamental ao representar personagens fictícios que funcionam como arquétipos de grupos reais de usuários. Conforme apresentado por Barbosa et al. (2021), uma persona é criada a partir de perfis identificados durante a investigação do domínio, descrevendo um usuário típico e orientando decisões centradas no usuário <a id="anchor_1" href="#QT1">[1]</a>.
+O desenvolvimento de um aplicativo eficaz exige uma compreensão profunda dos usuários que irão interagir com ele. Nesse cenário, as personas desempenham um papel fundamental ao representar personagens fictícios que funcionam como arquétipos de grupos reais de usuários. Conforme apresentado por Barbosa et al. (2021), uma persona é criada a partir de perfis identificados durante a investigação do domínio, descrevendo um usuário típico e orientando decisões centradas no usuário <a id="anchor_1" href="#barbosa2021">[1]</a>.
 
 Essas representações permitem compreender objetivos, necessidades, motivações e limitações dos diferentes segmentos de usuários, favorecendo a construção de soluções mais adequadas, intuitivas e alinhadas às expectativas do público-alvo.
 
@@ -179,9 +179,9 @@ O conjunto de personas elaborado mostrou-se suficiente para representar os perfi
 
 > <a id="QT1"></a> COOPER, Alan et al. *About Face: The Essentials of Interaction Design*. 4. ed. Indianapolis: Wiley, 2014. Acesso em: 28 set. 2025.
 
-> BARBOSA, Simone D. J. et al. Personas. In: BARBOSA, Simone D. J. et al. **Interação Humano-Computador e Experiência do Usuário**. [S. l.]: Autopublicação, 2021. cap. 8.2, p. 167.
+> <a id="barbosa2021"></a> BARBOSA, Simone D. J. et al. Personas. In: BARBOSA, Simone D. J. **Interação Humano-Computador e Experiência do Usuário**. [S. l.]: Autopublicação, 2021. cap. 8.2, p. 167.
 
-> *THIS PERSON DOES NOT EXIST.* Gerador de imagens de rostos humanos. Disponível em: [THIS PERSON DOES NOT EXIST](https://thispersondoesnotexist.com/). Acesso em: 28 set. 2025.
+> <a id="tpidne2025"></a> *THIS PERSON DOES NOT EXIST.* Gerador de imagens de rostos humanos. Disponível em: [THIS PERSON DOES NOT EXIST](https://thispersondoesnotexist.com/). Acesso em: 28 set. 2025.
 
 
 ## Histórico de Versão
@@ -195,6 +195,8 @@ O conjunto de personas elaborado mostrou-se suficiente para representar os perfi
 | `1.5`  | 29/09/2025 |                   Correção das imagens                  | [Arthur Fernandes](https://github.com/arthurfernandesj)                                              | [Eduarda](https://github.com/eduardar0) |
 | `1.6`  | 10/10/2025 |   Arrumando as referências teóricas      | [Breno](https://github.com/BrenoLTeixeira)                                               | [Eduarda](https://github.com/eduardar0) |
 | `1.7`  | 21/11/2025 | Ajuste e padronização dos modelos de imagem e textos | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Leticia](https://github.com/leticialopes20) |
+| `1.8`  | 22/11/2025 | Revisão e Polimento Final  | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Leticia](https://github.com/leticialopes20) |
+
 
 
 ## Agrecimentos

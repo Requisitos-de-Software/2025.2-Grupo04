@@ -1,6 +1,6 @@
 ## Introdução
 
-Após o planejamento da verificação, foi iniciada a inspeção do artefato [Storytelling](https://requisitos-de-software.github.io/2025.2-Grupo04/Verificacao/Entrega_02/Storytelling/) referente ao aplicativo ID Jovem. O propósito da verificação é garantir que as histórias dos usuários (Storytelling) estejam devidamente estruturadas, sejam coerentes com as personas definidas e capturem adequadamente as necessidades dos usuários, gerando requisitos claros. Como referência, utilizou-se o livro (VAZQUEZ, 2016) , especificamente os conceitos de Histórias do Usuário (Capítulo 8.8) e Critérios de Qualidade (Capítulo 2.6). Durante o processo, foram analisadas as narrativas e a lista de requisitos elicitados, com o intuito de aprimorar o artefato e assegurar sua adequação ao desenvolvimento do sistema.
+Após o planejamento da verificação, foi iniciada a inspeção do artefato [Storytelling](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling/) referente ao aplicativo ID Jovem. O propósito da verificação é garantir que as histórias dos usuários (Storytelling) estejam devidamente estruturadas, sejam coerentes com as personas definidas e capturem adequadamente as necessidades dos usuários, gerando requisitos claros. Como referência, utilizou-se o livro (VAZQUEZ, 2016) , especificamente os conceitos de Histórias do Usuário (Capítulo 8.8) e Critérios de Qualidade (Capítulo 2.6). Durante o processo, foram analisadas as narrativas e a lista de requisitos elicitados, com o intuito de aprimorar o artefato e assegurar sua adequação ao desenvolvimento do sistema.
 
 <small><em>Revisado por [Gemini](https://gemini.google.com/), em 12 de Novembro 2025</em></small>
 
@@ -30,42 +30,42 @@ Após o planejamento da verificação, foi iniciada a inspeção do artefato [St
   <tbody>
     <tr>
       <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
-      <td>Avaliadora</td>
+      <td>Autor</td>
       <td>1, 2</td>
       <td>12/11/2025</td>
       <td>09:30</td>
     </tr>
     <tr>
       <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
-      <td>Avaliador</td>
+      <td>Autorr</td>
       <td>3</td>
       <td>12/11/2025</td>
       <td>09:45</td>
     </tr>
     <tr>
       <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
-      <td>Avaliador</td>
+      <td>Autor</td>
       <td>4</td>
       <td>12/11/2025</td>
       <td>10:00</td>
     </tr>
     <tr>
       <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
-      <td>Avaliador</td>
+      <td>Autor</td>
       <td>5</td>
       <td>12/11/2025</td>
       <td>10:15</td>
     </tr>
     <tr>
       <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
-      <td>Avaliadora</td>
+      <td>Autor</td>
       <td>6</td>
       <td>12/11/2025</td>
       <td>10:30</td>
     </tr>
     <tr>
       <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a></td>
-      <td>Avaliadora</td>
+      <td>Autor</td>
       <td>7</td>
       <td>12/11/2025</td>
       <td>10:45</td>
@@ -95,32 +95,32 @@ Após o planejamento da verificação, foi iniciada a inspeção do artefato [St
     <tr>
       <td><b>01:</b> O Storytelling está claramente vinculado às Personas (Quem se beneficia)?</td>
       <td><a href="https://imgur.com/xqKLe0n" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 605)</a></td>
-      <td>Sim</td>
-      <td>As três histórias mencionam explicitamente as personas Ana Clara, João Pedro e Camila Souza.</td>
+      <td>Conforme</td>
+      <td></td>
       <td><a href="https://imgur.com/GyyBBeM" target="_blank">Print 1</a></td>
       <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
     </tr>
     <tr>
       <td><b>02:</b> Cada história descreve o contexto e a necessidade (O que se quer)?</td>
       <td><a href="https://imgur.com/dpYQvlU" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 605, 607)</a></td>
-      <td>Sim</td>
-      <td>As histórias detalham as situações de uso, como a necessidade de Ana usar a carteirinha offline em viagens.</td>
+      <td>Conforme</td>
+      <td></td>
       <td><a href="https://imgur.com/1UlsrmI" target="_blank">Print 2</a></td>
       <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
     </tr>
     <tr>
       <td><b>03:</b> O benefício ou valor de negócio (Qual é o benefício?) está explícito em cada história?</td>
       <td><a href="https://imgur.com/HJGaffW" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 605-606)</a></td>
-      <td>Sim</td>
-      <td>Exemplos claros: "para não depender de internet", "para visitar sua família", "para se sentir mais conectada à cidade".</td>
+      <td>Conforme</td>
+      <td></td>
       <td><a href="https://imgur.com/CSoE9Pg" target="_blank">Print 3</a></td>
       <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
     </tr>
     <tr>
       <td><b>04:</b> Os requisitos (RF e RNF) foram elicitados a partir das narrativas?</td>
       <td><a href="https://imgur.com/ZdebBn2" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 413)</a></td>
-      <td>Sim</td>
-      <td>A Tabela 1 lista 14 requisitos (ST01 a ST14) derivados das histórias.</td>
+      <td>Conforme</td>
+      <td></td>
       <td><a href="https://imgur.com/YJkLxMb" target="_blank">Print 4</a></td>
       <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
     </tr>
@@ -128,23 +128,23 @@ Após o planejamento da verificação, foi iniciada a inspeção do artefato [St
       <td><b>05:</b> Existe rastreabilidade clara entre os elementos da história e os requisitos listados?</td>
       <td><a href="https://imgur.com/nhB1BK7" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 160, 736)</a></td>
       <td>Incompleto</td>
-      <td>A tabela de requisitos não indica qual história (ou persona) originou cada requisito. Ex: Não está explícito que ST03 (Offline) veio da História 1 (Ana).</td>
+      <td></td>
       <td><a href="https://imgur.com/YJkLxMb" target="_blank">Print 5</a></td>
       <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
     </tr>
     <tr>
       <td><b>06:</b> Os requisitos elicitados são verificáveis (testáveis)?</td>
       <td><a href="https://imgur.com/fABgWnM" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 158, 607)</a></td>
-      <td>Sim</td>
-      <td>Requisitos como ST03 ("permitir baixar a carteirinha") e ST13 ("carregar em no máximo 3 segundos") são objetivamente verificáveis.</td>
+      <td>Conforme</td>
+      <td></td>
       <td><a href="https://imgur.com/YJkLxMb" target="_blank">Print 6</a></td>
       <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
     </tr>
     <tr>
       <td><b>07:</b> As histórias focam no "o quê" (necessidade) em vez do "como" (solução/implementação)?</td>
       <td><a href="https://imgur.com/fABgWnM" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 606)</a></td>
-      <td>Sim</td>
-      <td>As histórias descrevem as necessidades (ex: "login rápido", "mapa interativo") sem ditar a tecnologia ou o design exato da interface.</td>
+      <td>Conforme</td>
+      <td></td>
       <td><a href="https://imgur.com/ocSbl57" target="_blank">Print 7</a></td>
       <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a></td>
     </tr>

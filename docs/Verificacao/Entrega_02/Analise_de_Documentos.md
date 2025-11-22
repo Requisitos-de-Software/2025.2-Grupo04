@@ -1,6 +1,6 @@
 ## Introdução
 
-Após o planejamento da verificação, foi iniciada a inspeção do artefato [Analise de Documentos](https://requisitos-de-software.github.io/2025.2-Grupo04/Verificacao/Entrega_02/Analise_de_Documentos/) referente ao aplicativo ID Jovem. O propósito da verificação é garantir que a análise dos documentos foi realizada de forma sistemática, que as fontes são relevantes para o domínio do problema, e que os requisitos elicitados a partir delas são claros, rastreáveis e corretamente classificados. Como referência, utilizou-se o livro (VAZQUEZ; SIMÕES, 2016) , especificamente o Capítulo 7.3 (Técnica: análise de documentos) e os Critérios de Qualidade da Especificação (Capítulo 2.6). Durante o processo, foram analisadas as fontes, os resumos e a lista de requisitos elicitados, com o intuito de aprimorar o artefato e assegurar sua adequação ao desenvolvimento do sistema.
+Após o planejamento da verificação, foi iniciada a inspeção do artefato [Analise de Documentos](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Analise_de_Documentos/) referente ao aplicativo ID Jovem. O propósito da verificação é garantir que a análise dos documentos foi realizada de forma sistemática, que as fontes são relevantes para o domínio do problema, e que os requisitos elicitados a partir delas são claros, rastreáveis e corretamente classificados. Como referência, utilizou-se o livro (VAZQUEZ; SIMÕES, 2016) , especificamente o Capítulo 7.3 (Técnica: análise de documentos) e os Critérios de Qualidade da Especificação (Capítulo 2.6). Durante o processo, foram analisadas as fontes, os resumos e a lista de requisitos elicitados, com o intuito de aprimorar o artefato e assegurar sua adequação ao desenvolvimento do sistema.
 
 <small><em>Revisado por [Gemini](https://gemini.google.com/), em 12 de Novembro 2025</em></small>
 
@@ -98,7 +98,7 @@ Fonte: <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeir
     <tr>
       <td><b>01:</b> As fontes documentais analisadas (Site Oficial, Lojas de App) são relevantes para o domínio do problema?</td>
       <td><a href="#" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 433)</a></td>
-      <td>Sim</td>
+      <td>Conforme</td>
       <td></td>
       <td>-</td>
       <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
@@ -106,7 +106,7 @@ Fonte: <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeir
     <tr>
       <td><b>02:</b> A análise dos documentos serviu de base para "ganhar conhecimento sobre o negócio" antes de outras técnicas?</td>
       <td><a href="#" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 442)</a></td>
-      <td>Sim</td>
+      <td>Conforme</td>
       <td></td>
       <td>-</td>
       <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
@@ -114,7 +114,7 @@ Fonte: <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeir
     <tr>
       <td><b>03:</b> A análise conseguiu elicitar requisitos (Funcionais e Não Funcionais)?</td>
       <td><a href="#" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 433)</a></td>
-      <td>Sim</td>
+      <td>Conforme</td>
       <td></td>
       <td>-</td>
       <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
@@ -130,7 +130,7 @@ Fonte: <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeir
     <tr>
       <td><b>05:</b> A classificação entre Requisitos Funcionais e Não Funcionais está correta?</td>
       <td><a href="#" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 288, 314)</a></td>
-      <td>Sim</td>
+      <td>Conforme</td>
       <td></td>
       <td>-</td>
       <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
@@ -138,7 +138,7 @@ Fonte: <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeir
     <tr>
       <td><b>06:</b> Os resumos dos documentos são objetivos e focam em informações relevantes para os requisitos?</td>
       <td><a href="#" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 433)</a></td>
-      <td>Sim</td>
+      <td>Conforme</td>
       <td></td>
       <td>-</td>
       <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a></td>

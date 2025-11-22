@@ -2,7 +2,7 @@
 
 ## Introdução
 
-A verificação do artefato de [Especificação Suplementar](https://requisitos-de-software.github.io/2025.2-Grupo04/Verificacao/Entrega_03/Especificacao_Suplementar/) teve como principal objetivo avaliar se o documento atende aos requisitos mínimos de qualidade esperados para esta etapa do projeto, com foco específico na categorização dos requisitos não funcionais segundo o modelo **FURPS+**.  
+A verificação do artefato de [Especificação Suplementar](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Especificacao_Suplementar/) teve como principal objetivo avaliar se o documento atende aos requisitos mínimos de qualidade esperados para esta etapa do projeto, com foco específico na categorização dos requisitos não funcionais segundo o modelo **FURPS+**.  
 
 A inspeção foi conduzida com base na técnica formal proposta por Fagan, utilizando uma checklist estruturada e seguindo as diretrizes de qualidade definidas no planejamento de verificação.  
 
@@ -95,28 +95,28 @@ Prints de tela foram utilizados como evidência para cada item avaliado.
 <tr>
   <td><b>01:</b> O Storytelling está claramente vinculado às Personas (Quem se beneficia)?</td>
   <td><a href="https://imgur.com/xqKLe0n" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 605)</a></td>
-  <td>Sim</td>
+  <td>Conforme</td>
   <td></td>
   <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
 </tr>
 <tr>
   <td><b>02:</b> Cada história descreve o contexto e a necessidade (O que se quer)?</td>
   <td><a href="https://imgur.com/xqKLe0n" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 605)</a></td>
-  <td>Sim</td>
+  <td>Conforme</td>
   <td></td>
   <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
 </tr>
 <tr>
   <td><b>03:</b> O benefício ou valor de negócio (Qual é o benefício?) está explícito em cada história?</td>
   <td><a href="https://imgur.com/xqKLe0n" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 605)</a></td>
-  <td>Sim</td>
+  <td>Conforme</td>
   <td></td>
   <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
 </tr>
 <tr>
   <td><b>04:</b> Os requisitos (RF e RNF) foram elicitados a partir das narrativas?</td>
   <td><a href="https://imgur.com/xqKLe0n" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 605)</a></td>
-  <td>Sim</td>
+  <td>Conforme</td>
   <td></td>
   <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
 </tr>
@@ -130,14 +130,14 @@ Prints de tela foram utilizados como evidência para cada item avaliado.
 <tr>
   <td><b>06:</b> Os requisitos elicitados são verificáveis (testáveis)?</td>
   <td><a href="https://imgur.com/xqKLe0n" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 605)</a></td>
-  <td>Sim</td>
+  <td>Conforme</td>
   <td></td>
   <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
 </tr>
 <tr>
   <td><b>07:</b> As histórias focam no "o quê" (necessidade) em vez do "como" (solução/implementação)?</td>
   <td><a href="https://imgur.com/xqKLe0n" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 605)</a></td>
-  <td>Sim</td>
+  <td>Conforme</td>
   <td></td>
   <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a></td>
 </tr>

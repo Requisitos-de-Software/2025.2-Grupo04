@@ -1,6 +1,6 @@
 ## Introdução
 
-Após o planejamento da verificação, foi iniciada a inspeção do artefato [Casos de Usos](https://requisitos-de-software.github.io/2025.2-Grupo04/Verificacao/Entrega_03/Caso_de_Uso/) referente ao aplicativo ID Jovem. O propósito da verificação é garantir que os Casos de Uso estejam devidamente estruturados, coerentes com os requisitos levantados e alinhados aos objetivos do aplicativo. A análise verifica se as interações dos atores, fluxos principais, alternativos e exceções estão corretamente documentados, seguindo os padrões da UML e as boas práticas de especificação. Como referência, utilizou-se (VAZQUEZ; SIMÕES, 2016) , com foco no Capítulo 8.12 (Técnica: modelagem de casos de uso) e Capítulo 2.6 (Critérios de qualidade da especificação). Durante o processo, foram coletadas informações e identificadas inconsistências, com o intuito de aprimorar o artefato e assegurar sua adequação ao desenvolvimento do sistema.
+Após o planejamento da verificação, foi iniciada a inspeção do artefato [Casos de Usos](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Caso_de_uso/) referente ao aplicativo ID Jovem. O propósito da verificação é garantir que os Casos de Uso estejam devidamente estruturados, coerentes com os requisitos levantados e alinhados aos objetivos do aplicativo. A análise verifica se as interações dos atores, fluxos principais, alternativos e exceções estão corretamente documentados, seguindo os padrões da UML e as boas práticas de especificação. Como referência, utilizou-se (VAZQUEZ; SIMÕES, 2016) , com foco no Capítulo 8.12 (Técnica: modelagem de casos de uso) e Capítulo 2.6 (Critérios de qualidade da especificação). Durante o processo, foram coletadas informações e identificadas inconsistências, com o intuito de aprimorar o artefato e assegurar sua adequação ao desenvolvimento do sistema.
 
 <small><em>Revisado por [Gemini](https://gemini.google.com/), em 12 de Novembro 2025</em></small>
 
@@ -101,16 +101,16 @@ Fonte: <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeir
     <tr>
       <td><b>01:</b> Os diagramas representam corretamente as interações entre os Atores e o Sistema (Casos de Uso)?</td>
       <td><a href="https://imgur.com/0OCBTQp" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 599-600)</a></td>
-      <td>Sim</td>
-      <td>Os diagramas (Implementados e Não Implementados) mostram claramente os atores (ex: Beneficiário) e suas interações com os casos de uso (elipses).</td>
+      <td>Conforme</td>
+      <td></td>
       <td><a href="https://imgur.com/Jw1jfCA" target="_blank">Print 1</a></td>
       <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
     </tr>
     <tr>
       <td><b>02:</b> O nome de cada Caso de Uso segue o padrão (Verbo no Infinitivo + Complemento)?</td>
       <td><a href="https://imgur.com/Hbva0xO" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 660)</a></td>
-      <td>Sim</td>
-      <td>Todos os 12 casos de uso especificados seguem o padrão (ex: "Atualizar Dados...", "Consultar Locais...", "Baixar Carteirinha...").</td>
+      <td>Conforme</td>
+      <td></td>
       <td><a href="https://imgur.com/Vucp6Ik" target="_blank">Print 2</a></td>
       <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
     </tr>
@@ -118,39 +118,39 @@ Fonte: <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeir
       <td><b>03:</b> Os diagramas de caso de uso estão consistentes com as especificações textuais?</td>
       <td><a href="https://imgur.com/wH4yROa" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 154)</a></td>
       <td>Incompleto</td>
-      <td>Os diagramas separam "Implementados" e "Não Implementados". As 12 especificações (UC-01 a UC-12) detalham apenas os "Não Implementados". Faltam as especificações textuais dos casos de uso "Implementados" (ex: "Emitir Carteira", "Validar Carteira").</td>
+      <td></td>
       <td><a href="https://imgur.com/ptPnNZA" target="_blank">Print 3</a></td>
       <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
     </tr>
     <tr>
       <td><b>04:</b> Cada especificação de caso de uso possui Pré-condições e Pós-condições claras?</td>
       <td><a href="https://imgur.com/cBRstuZ" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 667)</a></td>
-      <td>Sim</td>
-      <td>Todas as 12 tabelas de especificação possuem os campos "Pré-condições" e "Pós-condições" devidamente preenchidos.</td>
+      <td>Conforme</td>
+      <td></td>
       <td><a href="https://imgur.com/s7fZBFi" target="_blank">Print 4</a></td>
       <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
     </tr>
     <tr>
       <td><b>05:</b> Cada caso de uso detalha o Fluxo Principal, Fluxos Alternativos e Exceções?</td>
       <td><a href="https://imgur.com/SQhll1v" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 668, 670)</a></td>
-      <td>Sim</td>
-      <td>As especificações de UC-01 a UC-12 detalham corretamente os fluxos, separando o "caminho feliz" (principal) dos cenários alternativos e de tratamento de erros (exceções).</td>
+      <td>Conforme</td>
+      <td></td>
       <td><a href="https://imgur.com/AH0HUCi" target="_blank">Print 5</a></td>
       <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
     </tr>
     <tr>
       <td><b>06:</b> A especificação foca no "o quê" (comportamento) e evita detalhes de implementação ("como")?</td>
       <td><a href="https://imgur.com/IqZyiwc" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 659, 669)</a></td>
-      <td>Sim</td>
-      <td>Os fluxos descrevem o comportamento (ex: "O sistema valida...", "O jovem seleciona...") sem ditar detalhes de interface, banco de dados ou API.</td>
+      <td>Conforme</td>
+      <td></td>
       <td><a href="https://imgur.com/ptPnNZA" target="_blank">Print 6</a></td>
       <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
     </tr>
     <tr>
       <td><b>07:</b> Cada caso de uso possui rastreabilidade para os requisitos elicitados (ex: Storytelling, Brainstorming)?</td>
       <td><a href="https://imgur.com/0gsiTX9" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 160, 736)</a></td>
-      <td>Sim</td>
-      <td>Todas as especificações de UC-01 a UC-12 possuem o campo "Rastreabilidade" preenchido, vinculando o caso de uso à sua origem.</td>
+      <td>Conforme</td>
+      <td></td>
       <td><a href="https://imgur.com/Vucp6Ik" target="_blank">Print 7</a></td>
       <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a></td>
     </tr>

@@ -2,12 +2,12 @@
 ## Introdução
 
 <p style="text-align: justify;">
-Após o planejamento da verificação, foi iniciada a inspeção do artefato <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Verificacao/Entrega_04/NFR_Framework/" target="_blank">NFR Framework</a> referente ao aplicativo ID Jovem. O propósito dessa verificação é assegurar que os requisitos não funcionais foram representados e analisados de forma sistemática, coerente e alinhada aos objetivos definidos no planejamento. Além disso, busca-se garantir que o modelo NFR (Non-Functional Requirements Framework) foi corretamente aplicado, com a definição de softgoals, interdependências e critérios de qualidade que contribuam para o entendimento e aperfeiçoamento do sistema.
+Após o planejamento da verificação, foi iniciada a inspeção do artefato <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_04/Modelagem_II/NFR_Framework/" target="_blank">NFR Framework</a> referente ao aplicativo ID Jovem. O propósito dessa verificação é assegurar que os requisitos não funcionais foram representados e analisados de forma sistemática, coerente e alinhada aos objetivos definidos no planejamento. Além disso, busca-se garantir que o modelo NFR (Non-Functional Requirements Framework) foi corretamente aplicado, com a definição de softgoals, interdependências e critérios de qualidade que contribuam para o entendimento e aperfeiçoamento do sistema.
 </p>
 
 ## Objetivo 
 
-<p style="text-align: justify;">O presente documento tem como finalidade relatar os resultados obtidos na verificação do artefato <b>NFR Framework</b> do aplicativo <b>ID Jovem</b> (<a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Verificacao/Entrega_04/NFR_Framework/" target="_blank">link</a>), em sua versão 1.2, datada de 21/10/2025.</p>
+<p style="text-align: justify;">O presente documento tem como finalidade relatar os resultados obtidos na verificação do artefato <b>NFR Framework</b> do aplicativo <b>ID Jovem</b> (<a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_04/Modelagem_II/NFR_Framework/" target="_blank">link</a>), em sua versão 1.2, datada de 21/10/2025.</p>
 
 ## Metodologia 
 

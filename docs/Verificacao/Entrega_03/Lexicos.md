@@ -1,6 +1,6 @@
 # Lista de Verificação 2.3 dos Léxicos
 
-A seguir, apresenta-se a tabela com os itens utilizados na verificação do artefato da técnica de [Lexicos](https://requisitos-de-software.github.io/2025.2-Grupo04/Verificacao/Entrega_03/Lexicos/), aplicado no contexto do aplicativo **ID Jovem**.  
+A seguir, apresenta-se a tabela com os itens utilizados na verificação do artefato da técnica de [Lexicos](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Lexicos/), aplicado no contexto do aplicativo **ID Jovem**.  
 Essa verificação tem como objetivo assegurar que o processo de modelagem dos Léxicos foi conduzido de forma clara, padronizada e alinhada aos princípios da Engenharia de Requisitos, de modo a garantir a compreensão e consistência terminológica entre os artefatos do projeto.
 
 <small><em>Revisado por Gemini, em 12 de Novembro 2025</em></small>

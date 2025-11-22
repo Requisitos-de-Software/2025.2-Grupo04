@@ -44,3 +44,4 @@ O foco da verificação é a consistência interna do modelo e a aderência aos 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :--: | :--: | :-- | :-- | :-- |
 | `1.0` | 31/10/2025 | Criação do documento de Planejamento Geral | [Arthur Fernandes](https://github.com/arthurfernandesj) | [ Dylan Cavalcante ](https://github.com/dylancavalcante) |
+| 1.1 | 21/11/2025 | Correção de tabelas | [Giovana Fontes](httpsS://github.com/BrenoLteixeira) | [Leticia Maria](httpsS://github.com/arthurfernandesj) |

@@ -7,7 +7,7 @@ Com o objetivo de garantir a qualidade e a consistência do artefato [Product Ba
 
 ## Objetivo 
 
-<p style="text-align: justify;">O presente documento tem como finalidade relatar os resultados obtidos na verificação do artefato <b>Product Backlog</b> do aplicativo <b>ID Jovem</b> (<a href=https://requisitos-de-software.github.io/2025.2-Grupo04/Verificacao/Entrega_04/Product_Backlog/" target="_blank">link</a>), em sua versão 1.2, datada de 21/10/2025 , integrante da Entrega 4 do grupo 4.</p>
+<p style="text-align: justify;">O presente documento tem como finalidade relatar os resultados obtidos na verificação do artefato <b>Product Backlog</b> do aplicativo <b>ID Jovem</b> (<a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Verificacao/Entrega_04/Product_Backlog/" target="_blank">link</a>), em sua versão 1.2, datada de 21/10/2025 , integrante da Entrega 4 do grupo 4.</p>
 
 ## Metodologia 
 
@@ -17,120 +17,189 @@ Com o objetivo de garantir a qualidade e a consistência do artefato [Product Ba
 
 <div align="center">
 <table border="1" style="border-collapse: collapse; width: 80%; text-align: center;">
-  <thead>
-    <tr>
-      <th>Nome</th>
-      <th>Função</th>
-      <th>Itens Avaliados</th>
-      <th>Data</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
-      <td>Autor</td>
-      <td>02</td>
-      <td>21/10/2025</td>
-    </tr>
-    <tr>
-      <td><a href="httpsS://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
-      <td>Autor</td>
-      <td>01</td>
-      <td>21/10/2025</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Lopes</a></td>
-      <td>Autor</td>
-      <td>02</td>
-      <td>21/10/2025</td>
-    </tr>
-    <tr>
-      <td><a href="httpsS://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
-      <td>Autor</td>
-      <td>03</td>
-      <td>21/10/2025</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
-      <td>Autor</td>
-      <td>04</td>
-      <td>21/10/2025</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Domingos</a></td>
-      <td>Autor</td>
-      <td>05</td>
-      <td>21/10/2025</td>
-    </tr>
-  </tbody>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Função</th>
+      <th>Itens Avaliados</th>
+      <th>Data</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
+      <td>Autor</td>
+      <td><a href="#item-08">08</a></td>
+      <td>21/10/2025</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
+      <td>Autor</td>
+      <td><a href="#item-02">02</a> e <a href="#item-07">07</a></td>
+      <td>21/10/2025</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Lopes</a></td>
+      <td>Autor</td>
+      <td><a href="#item-01">01</a> e <a href="#item-03">03</a></td>
+      <td>21/10/2025</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
+      <td>Autor</td>
+      <td><a href="#item-04">04</a> e <a href="#item-09">09</a></td>
+      <td>21/10/2025</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
+      <td>Autor</td>
+      <td><a href="#item-05">05</a> e <a href="#item-10">10</a></td>
+      <td>21/10/2025</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Domingos</a></td>
+      <td>Autor</td>
+      <td><a href="#item-06">06</a> e <a href="#item-11">11</a></td>
+      <td>21/10/2025</td>
+    </tr>
+  </tbody>
 </table>
 </div>
 <p style="text-align: center; font-size: 0.9em; color: gray;">
-Fonte: <a href="httpsS://github.com/BrenoLteixeira" target="_blank">Breno</a>
+Fonte: <a href="https://github.com/BrenoLteixeira" target="_blank">Breno</a>
 </p>
 
 ## Inspeção
 
 <p style="text-align: justify;">A seguir, apresentam-se as tabelas com os itens utilizados na verificação do artefato <b>Product Backlog</b> do aplicativo <b>ID Jovem</b>. A verificação assegura que os itens gerais de documentação e os elementos específicos do backlog (temas, épicos, histórias) estão em conformidade.</p>
 
+<h3 style="text-align: center;">Tabela 2: Inspeção - Itens Gerais</h3>
+<div align="center">
+<table border="1" style="border-collapse: collapse; width: 95%; text-align: center;">
+  <thead>
+    <tr>
+      <th style="width: 35%;">Item</th>
+      <th style="width: 15%;">Fontes</th>
+      <th style="width: 10%;">Avaliação</th>
+      <th style="width: 20%;">Observação</th>
+      <th style="width: 5%;">Print</th>
+      <th style="width: 15%;">Avaliador</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr id="item-01">
+      <td><b>01:</b> O artefato apresenta uma bibliografia/referência bibliográfica?</td>
+      <td><a href="#ref-sales">André Barros</a></td>
+      <td>Conforme</td>
+      <td>-</td>
+      <td><a href="https://imgur.com/a/vfORkK7" target="_blank">image1</a></td>
+      <td><a href="https://github.com/Leticialopes20" target="_blank">Letícia Lopes</a></td>
+    </tr>
+    <tr id="item-02">
+      <td><b>02:</b> O artefato apresenta um histórico de versões com id, item das versões, autores e revisores?</td>
+      <td><a href="#ref-sales">André Barros</a></td>
+      <td>Conforme</td>
+      <td>-</td>
+      <td><a href="https://imgur.com/SEzFfbz" target="_blank">image2</a></td>
+      <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
+    </tr>
+    <tr id="item-03">
+      <td><b>03:</b> As tabelas e imagens apresentam legenda e fonte?</td>
+      <td><a href="#ref-sales">André Barros</a></td>
+      <td>Conforme</td>
+      <td>-</td>
+      <td><a href="https://imgur.com/9xyijgv" target="_blank">image3</a></td>
+      <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Lopes</a></td>
+    </tr>
+    <tr id="item-04">
+      <td><b>04:</b> O artefato apresenta uma introdução?</td>
+      <td><a href="#ref-sales">André Barros</a></td>
+      <td>Conforme</td>
+      <td>-</td>
+      <td><a href="https://imgur.com/pJgNNbJ" target="_blank">image4</a></td>
+      <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
+    </tr>
+    <tr id="item-05">
+      <td><b>05:</b> A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico?</td>
+      <td><a href="#ref-sales">André Barros</a></td>
+      <td>Conforme</td>
+      <td>-</td>
+      <td><a href="https://imgur.com/a/XGMSVSE" target="_blank">image5</a></td>
+      <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
+    </tr>
+    <tr id="item-06">
+      <td><b>06:</b> Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)?</td>
+      <td><a href="#ref-sales">André Barros</a></td>
+      <td>Conforme</td>
+      <td>-</td>
+      <td><a href="https://imgur.com/a/PGF77VS" target="_blank">image6</a></td>
+      <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Domingos</a></td>
+    </tr>
+  </tbody>
+</table>
+<p style="text-align: center; font-size: 0.9em; color: gray;">
+Fonte: <a href="https://github.com/BrenoLteixeira" target="_blank">Breno Teixeira</a>
+</p>
+</div>
+
 <h3 style="text-align: center;">Tabela 3: Inspeção - Backlog</h3>
 <div align="center">
 <table border="1" style="border-collapse: collapse; width: 95%; text-align: center;">
-  <thead>
-    <tr>
-      <th style="width: 35%;">Item</th>
-      <th style="width: 15%;">Referência</th>
-      <th style="width: 10%;">Avaliação</th>
-      <th style="width: 20%;">Observação</th>
-      <th style="width: 5%;">Print</th>
-      <th style="width: 15%;">Avaliador</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>1:</b> O backlog possui épicos e temas bem definidos e descritos?</td>
-      <td><a href="#REF1">Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S</a></td>
-      <td>Conforme</td>
-      <td>-</td>
-      <td><a href="https://imgur.com/a/W5b0IxW" target="_blank">Print 14</a></td>
-      <td><a href="https::/github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
-    </tr>
-    <tr>
-      <td><b>2:</b> Cada história de usuário está associada a um requisito funcional do ID Jovem?</td>
-      <td><a href="#REF1">Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S</a></td>
-      <td>Conforme</td>
-      <td>-</td>
-      <td><a href="https://imgur.com/a/W5b0IxW" target="_blank">Print 15</a></td>
-      <td><a href="https::/github.com/leticialopes20" target="_blank">Giovana Fontes</a></td>
-    </tr>
-    <tr>
-      <td><b>3:</b> As histórias seguem o modelo de escrita padrão?</td>
-      <td><a href="#REF1">Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S</a></td>
-      <td>Conforme</td>
-      <td>-</td>
-      <td><a href="https://imgur.com/a/W5b0IxW" target="_blank">Print 16</a></td>
-      <td><a href="https::/github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
-    </tr>
-    <tr>
-      <td><b>4:</b> Todas as histórias possuem identificação única (ex: US01, US02)?</td>
-      <td><a href="#REF1">Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S</a></td>
-      <td>Conforme</td>
-      <td>-</td>
-      <td><a href="https://imgur.com/a/W5b0IxW" target="_blank">Print 17</a></td>
-      <td><a href="https::/github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
-    </tr>
-    <tr>
-      <td><b>5:</b> Há rastreabilidade entre história, requisito funcional e técnica de elicitação?</td>
-      <td><a href="#REF1">Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S</a></td>
-      <td>Não-Conforme </td>
-      <td>O artefato não possui rastreabilidade para o  RF</td>
-      <td><a href="https://imgur.com/a/W5b0IxW" target="_blank">Print 18</a></td>
-      <td><a href="https::/github.com/eduardar0" target="_blank">Eduarda Domingos</a></td>
-    </tr>
-  </tbody>
+  <thead>
+    <tr>
+      <th style="width: 35%;">Item</th>
+      <th style="width: 15%;">Fontes</th>
+      <th style="width: 10%;">Avaliação</th>
+      <th style="width: 20%;">Observação</th>
+      <th style="width: 5%;">Print</th>
+      <th style="width: 15%;">Avaliador</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr id="item-07">
+      <td><b>7:</b> O backlog possui épicos e temas bem definidos e descritos?</td>
+      <td><a href="#ref-serrano">Milene Serrano</a></td>
+      <td>Conforme</td>
+      <td>-</td>
+      <td><a href="https://imgur.com/a/W5b0IxW" target="_blank">Print 14</a></td>
+      <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
+    </tr>
+    <tr id="item-08">
+      <td><b>8:</b> Cada feature está associada a uma história de usuário?</td>
+      <td><a href="#ref-serrano">Milene Serrano</a></td>
+      <td>Conforme</td>
+      <td>-</td>
+      <td><a href="https://imgur.com/a/wyl6Wqr" target="_blank">Print 15</a></td>
+      <td><a href="https://github.com/leticialopes20" target="_blank">Giovana Fontes</a></td>
+    </tr>
+    <tr id="item-09">
+      <td><b>9:</b> As histórias seguem o modelo de escrita padrão?</td>
+      <td><a href="#ref-pressman">Roger S. Pressman</a></td>
+      <td>Conforme</td>
+      <td>-</td>
+      <td><a href="https://imgur.com/a/5b5EL6E" target="_blank">Print 16</a></td>
+      <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
+    </tr>
+    <tr id="item-10">
+      <td><b>10:</b> Todas as histórias possuem identificação única (ex: RF21, RF02)?</td>
+      <td><a href="#ref-serrano">Milene Serrano</a></td>
+      <td>Conforme</td>
+      <td>-</td>
+      <td><a href="https://imgur.com/a/NRYBK9g" target="_blank">Print 17</a></td>
+      <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
+    </tr>
+    <tr id="item-11">
+      <td><b>11:</b> Há rastreabilidade entre história, requisito funcional e técnica de elicitação?</td>
+      <td><a href="#ref-serrano">Milene Serrano</a></td>
+      <td>Não-Conforme </td>
+      <td>O artefato não possui rastreabilidade para o  RF</td>
+      <td><a href="https://imgur.com/a/W5b0IxW" target="_blank">Print 18</a></td>
+      <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Domingos</a></td>
+    </tr>
+  </tbody>
 </table>
 <p style="text-align: center; font-size: 0.9em; color: gray;">
-Fonte: <a href="httpsS://github.com/BrenoLteixeira" target="_blank">Breno</a>
+Fonte: <a href="https://github.com/BrenoLteixeira" target="_blank">Breno</a>
 </p>
 </div>
 
@@ -147,18 +216,22 @@ A verificação do artefato <b>Product Backlog</b> foi majoritariamente positiva
 O artefato <b>Product Backlog</b> cumpre seu objetivo principal de organizar os requisitos do usuário. Contudo, para que seja considerado totalmente conforme, é necessária a correção não conformidade no ultimo item de verificação.
 </p>
 
-## Referencias Bibliograficas
+## Referência Bibliográfica 
 
-> <a id="REF1" href="#anchor_1">1.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021). *Interação Humano-Computador e Experiência do Usuário*. Autopublicação. ISBN: 978-65-00-19677-1.
+> <a id="ref-sales"></a> SALES, André Barros de. Sugestão inicial de Lista de Verificação para algumas entregas do projeto. Requisitos de Software. Brasília: Universidade de Brasília, 2025. Disponível em: [Aprender3](https://aprender3.unb.br/course/section.php?id=304542). Acesso em: 20 Out. 2025.
+
+> <a id="ref-serrano"></a> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 15. Universidade de Brasília. Disponível em: [Aprender3](https://aprender3.unb.br/pluginfile.php/3210661/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf). Acesso em: 20 nov. 2025.
+
+> <a id="ref-pressman"></a> PRESSMAN, Roger S.; MAXIM, Bruce R. Engenharia de software: uma abordagem profissional. 8. ed. Porto Alegre: AMGH, 2016. Disponível em: [PRESSMAN, Roger S.; MAXIM, Bruce R. Engenharia de software: uma abordagem profissional.](https://www.kufunda.net/publicdocs/Engenharia%20de%20Software%20-%207.ed.%20(Roger%20S.%20Pressman).pdf). Acesso em: 20 nov. 2025.
 
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :--: | :--: | :-- | :-- | :-- |
-| `1.0` | 21/10/2025 | Criação e consolidação do documento de verificação | [Breno](httpsS://github.com/BrenoLteixeira) | [Arthur Fernandes](httpsS://github.com/arthurfernandesj) |
-| `1.1` | 12/11/2025 | Reestruturação do documento para formato HTML | [Breno](httpsS://github.com/BrenoLteixeira) | [Arthur Fernandes](httpsS://github.com/arthurfernandesj) |
-| `1.2` | 12/11/2025 | Atualização dos avaliadores e identificação de não conformidade  | [Breno](httpsS://github.com/BrenoLteixeira) | [Arthur Fernandes](httpsS://github.com/arthurfernandesj) |
-| 1.3 | 21/11/2025 | Correção de tabelas | [Giovana Fontes](httpsS://github.com/BrenoLteixeira) | [Leticia Maria](httpsS://github.com/arthurfernandesj) |
+| `1.0` | 21/10/2025 | Criação e consolidação do documento de verificação | [Breno](https://github.com/BrenoLteixeira) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| `1.1` | 12/11/2025 | Reestruturação do documento para formato HTML | [Breno](https://github.com/BrenoLteixeira) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| `1.2` | 12/11/2025 | Atualização dos avaliadores e identificação de não conformidade  | [Breno](https://github.com/BrenoLteixeira) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| 1.3 | 21/11/2025 | Correção de tabelas | [Breno](https://github.com/BrenoLteixeira) | [Leticia Maria](https://github.com/arthurfernandesj) |
 
 
 ## Agradecimentos
@@ -167,4 +240,3 @@ Queremos agradecer ao Gemini, ferramenta de Inteligência Artificial Generativa,
 
 De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
 Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.
-

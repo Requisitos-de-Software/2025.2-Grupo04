@@ -59,7 +59,7 @@ aperfeiçoamento do sistema.
   <thead>
     <tr>
       <th>Item</th>
-      <th>Referência</th>
+      <th>Fontes</th>
       <th>Avaliação</th>
       <th>Observação</th>
       <th>Print</th>
@@ -118,7 +118,7 @@ Após a análise da primeira versão da tabela de verificação referente ao NFR
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :--: | :--: | :-- | :-- | :-- |
 | 1.0 | 11/11/2025 | Criação de Verificação NFR Frameworkl | [Arthur Fernandes](https://github.com/arthurfernandesj) | [ Dylan Cavalcante ](https://github.com/dylancavalcante) |
-| 1.1 | 21/11/2025 | Correção de tabelas | [Giovana Fontes](httpsS://github.com/BrenoLteixeira) | [Leticia Maria](httpsS://github.com/arthurfernandesj) |
+| 1.1 | 21/11/2025 | Correção de tabelas | [Giovana Fontes](https://github.com/BrenoLteixeira) | [Leticia Maria](https://github.com/arthurfernandesj) |
 
 ## Agradecimentos 
 

@@ -137,9 +137,9 @@ O artefato <b>Histórias de Usuário</b> apresenta um nível elevado de conformi
 | :--: | :--: | :-- | :-- | :-- |
 | 1.0 | 12/11/2025 | Criação da página de verificação das Histórias de Usuário | [Breno Teixeira](https://github.com/BrenoLTeixeira) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
 | 1.1 | 12/11/2025 | Inclusão da checklist, análise dos resultados e novos itens de verificação | [Giovana Fontes](https://github.com/GiovanaFontesS) | [Breno Teixeira](https://github.com/BrenoLTeixeira) |
-| 1.2 | 21/11/2025 | Correção de tabelas | [Breno Teixeira](httpsS://github.com/BrenoLteixeira) | [Leticia Maria](httpsS://github.com/arthurfernandesj) |
-| 1.3 | 21/11/2025 | Correção das Referências Bibliográficas | [Breno Teixeira](httpsS://github.com/BrenoLteixeira) | [Leticia Maria](httpsS://github.com/arthurfernandesj) |
-| 1.4 | 21/11/2025 | Refinamento para a entrega final | [Breno Teixeira](httpsS://github.com/BrenoLteixeira) | [Leticia Maria](httpsS://github.com/arthurfernandesj) |
+| 1.2 | 21/11/2025 | Correção de tabelas | [Breno Teixeira](https://github.com/BrenoLteixeira) | [Leticia Maria](https://github.com/arthurfernandesj) |
+| 1.3 | 21/11/2025 | Correção das Referências Bibliográficas | [Breno Teixeira](https://github.com/BrenoLteixeira) | [Leticia Maria](https://github.com/leticialopes20) |
+| 1.4 | 21/11/2025 | Refinamento para a entrega final | [Breno Teixeira](https://github.com/BrenoLteixeira) | [Leticia Maria](https://github.com/leticialopes20) |
 
 
 ## Agradecimentos

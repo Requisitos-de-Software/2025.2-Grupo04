@@ -1,18 +1,19 @@
 ## Introdução
 
-As entrevistas representam uma das técnicas mais comuns e amplamente empregadas na elicitação de requisitos. Esse método envolve interações individuais entre representantes da equipe de desenvolvimento e os stakeholders do sistema. Reconhecida por sua capacidade de fornecer uma compreensão profunda das necessidades e expectativas dos usuários, a técnica de entrevista é considerada essencial para a obtenção e validação de requisitos, garantindo que o software atenda adequadamente às demandas do domínio estudado <a id="anchor_2" href="#QT1"> [1] </a>.
+As entrevistas representam uma das técnicas mais comuns e amplamente empregadas na elicitação de requisitos. Esse método envolve interações individuais entre representantes da equipe de desenvolvimento e os stakeholders do sistema. Reconhecida por sua capacidade de fornecer uma compreensão profunda das necessidades e expectativas dos usuários, a técnica de entrevista é considerada essencial para a obtenção e validação de requisitos, garantindo que o software atenda adequadamente às demandas do domínio estudado [RETRAINING, 2017](#retraining2017).
 
 <small><em>Revisado por [Chat GPT](https://chatgpt.com/), em 21 de Novembro 2025</em></small>
 
 
 ## Técnica de Entrevista
 
-A entrevista é uma técnica amplamente utilizada na elicitação de requisitos, cujo objetivo é identificar os requisitos ideais para o sistema <a id="anchor_3" href="#QT3"> [3] </a>.  
-Trata-se de um diálogo, formal ou informal, entre duas ou mais pessoas, no qual o entrevistador busca respostas para um conjunto de questões previamente planejadas, e os entrevistados atuam como fontes de informação, fornecendo dados essenciais para compreender as necessidades do sistema <a id="anchor_2" href="#QT2"> [1] </a>.
+A entrevista é uma técnica amplamente utilizada na elicitação de requisitos, cujo objetivo é identificar os requisitos ideais para o sistema [SERRANO, s.d.](#serrano).  
+Trata-se de um diálogo, formal ou informal, entre duas ou mais pessoas, no qual o entrevistador busca respostas para um conjunto de questões previamente planejadas, e os entrevistados atuam como fontes de informação, fornecendo dados essenciais para compreender as necessidades do sistema [RETRAINING, 2017](#retraining2017).
 
 ## Metodologia
 
-Durante a entrevista, adotou-se uma abordagem estruturada, fundamentada em um conjunto predefinido de perguntas, utilizando a técnica 5W2H (What, Why, Where, When, Who, How, How much), listadas na Tabela 1. Essa metodologia possibilitou uma análise detalhada do entendimento dos stakeholders em relação aos tópicos abordados, considerando os serviços e benefícios oferecidos pelo sistema <a id="anchor_2" href="#QT2"> [2] </a>.
+Durante a entrevista, adotou-se uma abordagem estruturada, fundamentada em um conjunto predefinido de perguntas, utilizando a técnica 5W2H (What, Why, Where, When, Who, How, How much), listadas na Tabela 1.  
+Essa metodologia possibilitou uma análise detalhada do entendimento dos stakeholders em relação aos tópicos abordados, considerando os serviços e benefícios oferecidos pelo sistema [VAZQUEZ; SIMÕES, 2016](#vazquez2016).
 
 Foram aplicadas perguntas abertas, permitindo que os entrevistados expressassem livremente suas opiniões, compartilhassem experiências e oferecessem sugestões relevantes para o desenvolvimento do sistema.
 
@@ -467,13 +468,13 @@ Na entrevista 2 encontra-se a gravação da entrevista da Noemy da Luz Cardoso.
 </div>
 
 
-## Referências Bibliográficas
+## Bibliografia
 
-> GUIA FACETADO DE TÉCNICAS DE ELICITAÇÃO DE REQUISITOS. Florianópolis: UFSC, 2017. Disponível em: [GUIA FACETADO DE TÉCNICAS DE ELICITAÇÃO DE REQUISITOS](https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades). Acesso em: 22 set. 2025.
+> <a id="retraining2017"></a> GUIA FACETADO DE TÉCNICAS DE ELICITAÇÃO DE REQUISITOS. Florianópolis: UFSC, 2017. Disponível em: [GUIA FACETADO DE TÉCNICAS DE ELICITAÇÃO DE REQUISITOS](https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades). Acesso em: 22 set. 2025.
 
-> VAZQUEZ, C.; SIMÕES, G. S. **Engenharia de Requisitos: software orientado ao negócio**. Rio de Janeiro: Brasport, 2016.
+> <a id="vazquez2016"></a> VAZQUEZ, C.; SIMÕES, G. S. *Engenharia de Requisitos: software orientado ao negócio*. Rio de Janeiro: Brasport, 2016.
 
-> SERRANO, M.; SERRANO, M. **Requisitos – Aula 07**. Gama, DF: Universidade de Brasília, [s.d.]. Material de aula.
+> <a id="serrano"></a> SERRANO, M.; SERRANO, M. *Requisitos – Aula 07*. Gama, DF: Universidade de Brasília, [s.d.]. Material de aula.
 
 
 

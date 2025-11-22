@@ -4,7 +4,8 @@
 
 A Análise de Documentos é uma técnica amplamente utilizada no processo de elicitação de requisitos, consistindo no exame de materiais previamente existentes, como legislações, relatórios, manuais oficiais e documentos técnicos relacionados ao domínio do sistema. Essa prática permite identificar informações relevantes de maneira estruturada, fornecendo uma base sólida para complementar outras técnicas de levantamento.
 
-Reconhecida por sua objetividade e riqueza de dados, a análise documental contribui para a compreensão do contexto do software, reduz ambiguidades e alinha o desenvolvimento às normas e necessidades já estabelecidas. Dessa forma, torna-se uma abordagem essencial para garantir que os requisitos sejam fundamentados em fontes confiáveis e consistentes <a id="anchor_1" href="#QT1">[1]</a>.
+Reconhecida por sua objetividade e riqueza de dados, a análise documental contribui para a compreensão do contexto do software, reduz ambiguidades e alinha o desenvolvimento às normas e necessidades já estabelecidas. Dessa forma, torna-se uma abordagem essencial para garantir que os requisitos sejam fundamentados em fontes confiáveis e consistentes [UFSC, 2017](#ufsc2017).
+
 
 <small><em>Revisado por [Chat GPT](https://chatgpt.com/), em 21 de Novembro 2025</em></small>
 
@@ -24,8 +25,9 @@ Reconhecida por sua objetividade e riqueza de dados, a análise documental contr
 
 ### Justificativa do Uso
 
-A Análise de Documentos foi adotada por ser uma técnica simples, consistente e de alta confiabilidade, uma vez que **“aproveita documentos já produzidos, permitindo identificar informações relevantes de forma objetiva e direta”** <a id="anchor_2" href="#QT2">[2]</a>.  
+A Análise de Documentos foi adotada por ser uma técnica simples, consistente e de alta confiabilidade, uma vez que “aproveita documentos já produzidos, permitindo identificar informações relevantes de forma objetiva e direta” [VAZQUEZ; SIMÕES, 2016](#vazquez2016).  
 Seu uso possibilita compreender o domínio do sistema com maior precisão, garantindo que as decisões tomadas no desenvolvimento estejam alinhadas às informações previamente registradas em fontes formais.
+
 
 ### Benefícios Esperados
 
@@ -117,17 +119,17 @@ A análise documental realizada demonstrou ser uma técnica extremamente eficien
 Dessa forma, a técnica se consolida como uma etapa essencial no processo de levantamento de requisitos, oferecendo uma base sólida para as fases subsequentes. Sua aplicação pode — e deve — ser complementada por entrevistas, questionários e observação
 
 
-## Bibliografia 
+## Bibliografia
 
-> UNIVERSIDADE FEDERAL DE SANTA CATARINA. Técnicas de elicitação de requisitos: Análise de Documentos. Disponível em: [UNIVERSIDADE FEDERAL DE SANTA CATARINA](https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-analise-de-documentos). Acesso em: 26 set. 2025.
+> <a id="ufsc2017"></a> UNIVERSIDADE FEDERAL DE SANTA CATARINA. *Técnicas de elicitação de requisitos: Análise de Documentos*. Disponível em: [UNIVERSIDADE FEDERAL DE SANTA CATARINA](https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-analise-de-documentos). Acesso em: 26 set. 2025.
 
-> BRASIL. ID Jovem. Disponível em: [ID Jovem](https://idjovem.juventude.gov.br). Acesso em: 26 set. 2025.
+> <a id="brasil2025"></a> BRASIL. *ID Jovem*. Disponível em: [ID Jovem](https://idjovem.juventude.gov.br). Acesso em: 26 set. 2025.
 
-> APPLE; GOOGLE. Aplicativo ID Jovem. Disponível em: [Aplicativo ID Jovem - Apple](https://apps.apple.com) e [Aplicativo ID Jovem - Play Store](https://play.google.com). Acesso em: 26 set. 2025.
+> <a id="applegoogle2025"></a> APPLE; GOOGLE. *Aplicativo ID Jovem*. Disponível em: [Aplicativo ID Jovem - Apple](https://apps.apple.com) e [Aplicativo ID Jovem - Play Store](https://play.google.com). Acesso em: 26 set. 2025.
 
-> <a id="QT2"></a> SERRANO, Milene; SERRANO, Mauricio. *Requisitos – Aula 07*. Universidade de Brasília, 2016.
+> <a id="serrano2016"></a> SERRANO, Milene; SERRANO, Mauricio. *Requisitos – Aula 07*. Universidade de Brasília, 2016.
 
-> <a id="QT1"></a> VAZQUEZ, C. E.; SIMÕES, G. S. *Engenharia de Requisitos: software orientado ao negócio*. Rio de Janeiro: Brasport, 2016.
+> <a id="vazquez2016"></a> VAZQUEZ, C. E.; SIMÕES, G. S. *Engenharia de Requisitos: software orientado ao negócio*. Rio de Janeiro: Brasport, 2016.
 
 
 ## Histórico de Versão
@@ -138,6 +140,8 @@ Dessa forma, a técnica se consolida como uma etapa essencial no processo de lev
 |  `1.1` | 30/09/2025 | Correção das imagens | [Arthur](https://github.com/arthurfernandesj) | [Giovana](https://github.com/GiovanaFontesS) |
 |  `1.2` | 10/10/2025 | Correção das Referências | [Arthur](https://github.com/arthurfernandesj) | [Giovana](https://github.com/GiovanaFontesS) |
 | `1.3` | 21/11/2025 | Ajuste e padronização da bibliografia em Markdown, com links clicáveis e formatação revisada | [Arthur](https://github.com/arthurfernandes) | [Giovana](https://github.com/GiovanaFontesS) |
+| `1.4`  | 22/11/2025 | Revisão e Polimento Final  | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Leticia](https://github.com/leticialopes20) |
+
 
 
 ## Agrecimentos

@@ -12,6 +12,8 @@ No conjunto de personas elabora­do, são consideradas três categorias principa
 **Persona Secundária**: usuários que interagem com o produto de maneira ocasional ou com menor profundidade. <br>
 **Antipersona**: perfis que não fazem uso do produto ou o utilizam apenas em cenários excepcionais, ajudando a identificar limitações e evitar direcionamentos inadequados no desenvolvimento.
 
+<small><em>Revisado por [Chat GPT](https://chatgpt.com/), em 21 de Novembro 2025</em></small>
+
 ## Metodologia
 
 O elenco de personas desenvolvido é composto por cinco perfis distintos, distribuídos entre três personas primárias, uma secundária e uma antipersona. Essa quantidade foi definida como ideal para representar adequadamente os principais grupos de usuários, evitando tanto a superficialidade causada por poucas personas quanto a perda de foco resultante de um número excessivo delas.
@@ -36,6 +38,8 @@ Além das personas principais, foi definida uma **antipersona**, representando u
 - **Carlos Henrique (Antipersona):** 45 anos, empresário do setor privado, possui alta habilidade tecnológica, mas não atende aos requisitos do programa e não tem interesse na utilização do aplicativo.
 
 O conjunto de personas elaborado mostrou-se suficiente para representar os perfis mais relevantes de usuários, abrangendo um espectro diversificado de competências digitais e assegurando uma visão ampla das necessidades contempladas durante o desenvolvimento.
+
+<small><em>Revisado por [Chat GPT](https://chatgpt.com/), em 21 de Novembro 2025</em></small>
 
 
 ## Personas Primárias
@@ -173,7 +177,7 @@ O conjunto de personas elaborado mostrou-se suficiente para representar os perfi
 
 ## Bibliografia
 
-> <a id="RP1"></a> COOPER, Alan et al. *About Face: The Essentials of Interaction Design*. 4. ed. Indianapolis: Wiley, 2014. Acesso em: 28 set. 2025.
+> <a id="QT1"></a> COOPER, Alan et al. *About Face: The Essentials of Interaction Design*. 4. ed. Indianapolis: Wiley, 2014. Acesso em: 28 set. 2025.
 
 > BARBOSA, Simone D. J. et al. Personas. In: BARBOSA, Simone D. J. et al. **Interação Humano-Computador e Experiência do Usuário**. [S. l.]: Autopublicação, 2021. cap. 8.2, p. 167.
 
@@ -191,3 +195,12 @@ O conjunto de personas elaborado mostrou-se suficiente para representar os perfi
 | `1.5`  | 29/09/2025 |                   Correção das imagens                  | [Arthur Fernandes](https://github.com/arthurfernandesj)                                              | [Eduarda](https://github.com/eduardar0) |
 | `1.6`  | 10/10/2025 |   Arrumando as referências teóricas      | [Breno](https://github.com/BrenoLTeixeira)                                               | [Eduarda](https://github.com/eduardar0) |
 | `1.7`  | 21/11/2025 | Ajuste e padronização dos modelos de imagem e textos | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Leticia](https://github.com/leticialopes20) |
+
+
+## Agrecimentos
+
+Queremos agradecer ao [Chat GPT](https://chatgpt.com/), ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto ID Jovem. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.
+

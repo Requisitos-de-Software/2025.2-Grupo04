@@ -59,7 +59,7 @@ Nesta seção, cada integrante da equipe compartilha, de forma individual, as pr
 
 <font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj) </p></font>
 
-## Contribuições
+## Considerações:
 
 ### Arthur Fernandes
 
@@ -76,7 +76,13 @@ Nesta seção, cada integrante da equipe compartilha, de forma individual, as pr
 ### Giovana Fontes 
 
 
-### Leticia Fontes
+### Letícia Lopes:
+Durante a disciplina de Requisitos de Software, enfrentei algumas dificuldades, principalmente para conciliar as demandas da faculdade com o desenvolvimento do projeto. No início, também tive certa dificuldade para entender como aplicar corretamente as técnicas ensinadas em aula, o que tornou o processo um pouco desafiador.
+
+Apesar disso, a disciplina me ajudou a persistir e a melhorar a qualidade dos artefatos que produzi, sempre buscando mais embasamento teórico para justificar cada decisão. Um ponto importante foi aprender a aplicar a rastreabilidade de forma consistente, algo que eu não fazia com tanta frequência antes.
+
+Outro desafio pessoal foi apresentar o trabalho na frente da turma e gravar as validações com os usuários,por conta da  timidez. Mesmo assim, essas experiências contribuíram para meu crescimento e para desenvolver mais confiança ao longo do semestre.
+
 
 
 
@@ -87,3 +93,4 @@ Nesta seção, cada integrante da equipe compartilha, de forma individual, as pr
 |:-----: | :--------: | :------------------------------- | :---------- | :---------- |
 | `1.0`    | 16/11/2025 | Criação da página | [Arthur Fernandes](https://github.com/arthurfernandesj)   | [Dylan Cavalcante](https://github.com/dylancavalcante) |
 | `1.1`    | 16/11/2025 | Introdução da página| [Arthur Fernandes](https://github.com/arthurfernandesj)   | [Leticia Lopes](https://github.com/leticialopes20) |
+| `1.2`    | 23/11/2025 | Adição de consideração|[Leticia Lopes](https://github.com/leticialopes20)  |[Arthur Fernandes](https://github.com/arthurfernandesj) |

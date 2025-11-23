@@ -9,18 +9,16 @@ A **Especificação Suplementar**, no contexto da engenharia de software, refere
 
 A Metodologia utilizada neste artefato foi baseada no modelo FURPS+. "É um sistema para a classificação de requisitos, o acrônimo representa categorias que podem ser usadas na definição de requisitos" <a id="TEC2" href="#RP2">[2]</a>. Dentre elas: Funcionalidade, Usabilidade, Confiabilidade, Desempenho, Suportabilidade. <a id="TEC2" href="#RP2">[2]</a>
 
-### Tabela 1: Participação na Elaboração da Especificação Suplementar
-
 | Nome | Seções Relacionadas da Especificação Suplementar |
 |------|--------------------------------------------------|
-| **[Arthur Fernandes](https://github.com/arthurfernandesj)** | • [RNF01 – Processo de Login Simplificado](#rnf01)<br>• [RNF02 – Interface Intuitiva e Acessível](#rnf02)<br>• [RNF10 – Carregamento Eficiente](#rnf10)<br>• [RNF16 – Validação Rápida da Carteirinha](#rnf16) |
-| **[Breno Teixeira](https://github.com/BrenoLTeixeira)** | • [RNF19 – Registro de Validações](#rnf19)<br>• [RNF22 – Log de Auditoria](#rnf22)<br>• [RNF12 – Compatibilidade Retroativa](#rnf12)<br>• [RNF17 – Ciclo de Atualização](#rnf17) |
-| **[Dylan Cavalcante](https://github.com/dylancavalcante)** | • [RNF11 – Sincronização de Dados](#rnf11)<br>• [RNF15 – Controle de Inatividade](#rnf15)<br>• [RNF04 – Compatibilidade com Android e iOS](#rnf04)<br>• [RNF09 – Design Responsivo](#rnf09) |
-| **[Eduarda Domingos](https://github.com/eduardar0)** | • [RNF07 – Recursos de Acessibilidade](#rnf07)<br>• [RNF13 – Navegação Consistente](#rnf13)<br>• [RNF21 – Escalabilidade do Sistema](#rnf21)<br>• [RNF24 – Compatibilidade com API](#rnf24) |
-| **[Giovana Fontes](https://github.com/GiovanaFontesS)** | • [RNF14 – Feedback Visual e Sonoro](#rnf14)<br>• [RNF18 – Personalização de Leitura](#rnf18)<br>• [RNF03 – Emissão Rápida da Carteirinha](#rnf03)<br>• [RNF06 – Operação com Baixo Consumo de Internet](#rnf06) |
-| **[Letícia Lopes](https://github.com/leticialopes20)** | • [RNF05 – Proteção de Dados Pessoais](#rnf05)<br>• [RNF08 – Alta Disponibilidade](#rnf08)<br>• [RNF20 – Consulta Rápida ao CadÚnico](#rnf20)<br>• [RNF23 – Carregamento de Dados](#rnf23) |
+| **[Arthur Fernandes](https://github.com/arthurfernandesj)** | • [RNF01 – Processo de Login Simplificado](#RNF01)<br>• [RNF02 – Interface Intuitiva e Acessível](#RNF02)<br>• [RNF10 – Carregamento Eficiente](#RNF10)<br>• [RNF16 – Validação Rápida da Carteirinha](#RNF16) |
+| **[Breno Teixeira](https://github.com/BrenoLTeixeira)** | • [RNF19 – Registro de Validações](#RNF19)<br>• [RNF22 – Log de Auditoria](#RNF22)<br>• [RNF12 – Compatibilidade Retroativa](#RNF12)<br>• [RNF17 – Ciclo de Atualização](#RNF17) |
+| **[Dylan Cavalcante](https://github.com/dylancavalcante)** | • [RNF11 – Sincronização de Dados](#RNF11)<br>• [RNF15 – Controle de Inatividade](#RNF15)<br>• [RNF04 – Compatibilidade com Android e iOS](#RNF04)<br>• [RNF09 – Design Responsivo](#RNF09) |
+| **[Eduarda Domingos](https://github.com/eduardar0)** | • [RNF07 – Recursos de Acessibilidade](#RNF07)<br>• [RNF13 – Navegação Consistente](#RNF13)<br>• [RNF21 – Escalabilidade do Sistema](#RNF21)<br>• [RNF24 – Compatibilidade com API](#RNF24) |
+| **[Giovana Fontes](https://github.com/GiovanaFontesS)** | • [RNF14 – Feedback Visual e Sonoro](#RNF14)<br>• [RNF18 – Personalização de Leitura](#RNF18)<br>• [RNF03 – Emissão Rápida da Carteirinha](#RNF03)<br>• [RNF06 – Operação com Baixo Consumo de Internet](#RNF06) |
+| **[Letícia Lopes](https://github.com/leticialopes20)** | • [RNF05 – Proteção de Dados Pessoais](#RNF05)<br>• [RNF08 – Alta Disponibilidade](#RNF08)<br>• [RNF20 – Consulta Rápida ao CadÚnico](#RNF20)<br>• [RNF23 – Carregamento de Dados](#RNF23) |
 
-<p style="text-align: center; font-size: 10pt;">Fonte: Especificação Suplementar – Requisitos Não Funcionais (2025)</p>
+<p style="text-align: center; font-size: 10pt;">Autor: Giovana Fontes</p>
 
 ## Modelo FURPS
 
@@ -92,40 +90,41 @@ A **usabilidade**, <a id="TEC2" href="#RP2">[2]</a> no contexto do **aplicativo 
 
 Esta seção abrange todos os requisitos que influenciam a usabilidade do sistema. Os requisitos não funcionais relacionados à usabilidade estão descritos na Tabela 3.
 
-#### <p style="text-align: center"><strong>Tabela 3 -</strong>  Requisitos de Usabilidade</p>
+#### <p align="center"><strong>Tabela 3 -</strong>  Requisitos de Usabilidade</p>
 
-|   Código   | Requisito Não Funcional         | Descrição                                                                                         | Justificativa                                                               |      Status      | Autor                                |
+|   Código   | Requisito Não Funcional         | Descrição                                                                                         | Justificativa                                                               |      Status      | Autor                                |
 | :--------: | :------------------------------ | :------------------------------------------------------------------------------------------------ | :-------------------------------------------------------------------------- | :--------------: | :----------------------------------- |
-| [RNF01](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Processo de login simplificado  | O processo de login deve ser simples, direto e com o menor número de etapas possível.             | Facilitar o acesso dos jovens beneficiários, reduzindo barreiras de uso.    |   Implementado   | [Arthur Fernandes](https://github.com/arthurfernandesj) |
-| [RNF02](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Interface intuitiva e acessível | A interface deve ser clara, legível e acessível, mesmo para jovens com pouca experiência digital. | Promover inclusão digital e acessibilidade conforme princípios da WCAG 2.1. |   Implementado   | [Arthur Fernandes](https://github.com/arthurfernandesj)|
-| [RNF07](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Recursos de acessibilidade | O aplicativo deve possuir alto contraste, leitura de tela, voz e Libras. | Tornar o app acessível a jovens com deficiência visual ou auditiva. |   Implementado   | [Eduarda Domingos](https://github.com/eduardar0)|
-| [RNF13](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Navegação consistente           | A navegação entre seções deve ser previsível e coesa.                                             | Facilitar o uso e aprendizado do sistema.                                   | Não implementado | [Eduarda Domingos](https://github.com/eduardar0) |
-| [RNF14](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Feedback visual e sonoro        | O aplicativo deve emitir feedback claro a cada interação.                                         | Melhorar a compreensão e confirmar ações realizadas.                        | Não implementado | [Giovana Fontes](https://github.com/GiovanaFontesS) |
-| [RNF18](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Personalização de leitura       | O jovem beneficiário deve poder ajustar o tamanho da fonte e o esquema de cores.                  | Garantir conforto visual e legibilidade.                                    | Não implementado | [Giovana Fontes](https://github.com/GiovanaFontesS) |
+| <a id="RNF01">RNF01</a> | Processo de login simplificado  | O processo de login deve ser simples, direto e com o menor número de etapas possível.             | Facilitar o acesso dos jovens beneficiários, reduzindo barreiras de uso.    |   Implementado   | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| <a id="RNF02">RNF02</a> | Interface intuitiva e acessível | A interface deve ser clara, legível e acessível, mesmo para jovens com pouca experiência digital. | Promover inclusão digital e acessibilidade conforme princípios da WCAG 2.1. |   Implementado   | [Arthur Fernandes](https://github.com/arthurfernandesj)|
+| <a id="RNF07">RNF07</a> | Recursos de acessibilidade | O aplicativo deve possuir alto contraste, leitura de tela, voz e Libras. | Tornar o app acessível a jovens com deficiência visual ou auditiva. |   Implementado   | [Eduarda Domingos](https://github.com/eduardar0)|
+| <a id="RNF13">RNF13</a> | Navegação consistente           | A navegação entre seções deve ser previsível e coesa.                                             | Facilitar o uso e aprendizado do sistema.                                   | Não implementado | [Eduarda Domingos](https://github.com/eduardar0) |
+| <a id="RNF14">RNF14</a> | Feedback visual e sonoro        | O aplicativo deve emitir feedback claro a cada interação.                                         | Melhorar a compreensão e confirmar ações realizadas.                        | Não implementado | [Giovana Fontes](https://github.com/GiovanaFontesS) |
+| <a id="RNF18">RNF18</a> | Personalização de leitura       | O jovem beneficiário deve poder ajustar o tamanho da fonte e o esquema de cores.                  | Garantir conforto visual e legibilidade.                                    | Não implementado | [Giovana Fontes](https://github.com/GiovanaFontesS) |
 
 <p align="center"><strong>Fontes:</strong> <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a>, <a href="https://github.com/eduardar0">Eduarda Domingos</a>, <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, 2025</p>
 
-
+---
 
 ### Confiabilidade
 
-A **confiabilidade**,  <a id="TEC2" href="#RP2">[2]</a> refere-se à habilidade do sistema de operar continuamente e sem problemas, reduzindo ao máximo as falhas. Isso envolve a capacidade de lidar com falhas, a forma como os erros são gerenciados e a disponibilidade constante do sistema. Refere-se a integridade, conformidade e interoperabilidade do software  <a id="TEC2" href="#RP2">[2]</a>.
+A **confiabilidade**,  <a id="TEC2" href="#RP2">[2]</a> refere-se à habilidade do sistema de operar continuamente e sem problemas, reduzindo ao máximo as falhas. Isso envolve a capacidade de lidar com falhas, a forma como os erros são gerenciados e a disponibilidade constante do sistema. Refere-se a integridade, conformidade e interoperabilidade do software  <a id="TEC2" href="#RP2">[2]</a>.
 
 Esta seção abrange todos os requisitos que influenciam o Confiabilidade do sistema. Os requisitos não funcionais relacionados à confiabilidade estão descritos na Tabela 4.
 
-#### <p style="text-align: center"><strong>Tabela 4 -</strong>  Requisitos de Confiabilidade</p>
+#### <p align="center"><strong>Tabela 4 -</strong>  Requisitos de Confiabilidade</p>
 
-|   Código   | Requisito Não Funcional | Descrição                                                                          | Justificativa                                         |      Status      | Autor                                |
+|   Código   | Requisito Não Funcional | Descrição                                                                          | Justificativa                                         |      Status      | Autor                                |
 | :--------: | :---------------------- | :--------------------------------------------------------------------------------- | :---------------------------------------------------- | :--------------: | :----------------------------------- |
-| [RNF05](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Proteção de dados pessoais | Os dados do jovem beneficiário devem ser protegidos por criptografia conforme a LGPD. | Garantir a segurança e confidencialidade das informações pessoais. | Implementado | [Letícia Lopes](https://github.com/leticialopes20) |
-| [RNF08](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Alta disponibilidade    | O sistema deve garantir disponibilidade mínima de 99,5%.                           | Evitar falhas de acesso e interrupções nos serviços.  | Não implementado | [Letícia Lopes](https://github.com/leticialopes20) |
-| [RNF11](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Sincronização de dados  | As informações dos benefícios devem estar sempre sincronizadas com a base oficial. | Garantir transparência e atualização das informações. | Não implementado | [Dylan Cavalcante](https://github.com/dylancavalcante) |
-| [RNF15](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Controle de inatividade | O sistema deve ter no máximo 2h de inatividade mensal fora de manutenções.         | Garantir confiabilidade e continuidade de serviço.    | Não implementado | [Dylan Cavalcante](https://github.com/dylancavalcante) |
-| [RNF19](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Registro de validações  | O sistema deve registrar todas as tentativas de validação de carteirinhas.         | Assegurar rastreabilidade e auditoria de ações.       | Não implementado | [Breno Teixeira](https://github.com/BrenoLTeixeira) |
-| [RNF22](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Log de auditoria        | O sistema deve armazenar logs de emissões e validações por 5 anos.                 | Garantir rastreabilidade e controle de histórico.     | Não implementado | [Breno Teixeira](https://github.com/BrenoLTeixeira) |
+| <a id="RNF05">RNF05</a> | Proteção de dados pessoais | Os dados do jovem beneficiário devem ser protegidos por criptografia conforme a LGPD. | Garantir a segurança e confidencialidade das informações pessoais. | Implementado | [Letícia Lopes](https://github.com/leticialopes20) |
+| <a id="RNF08">RNF08</a> | Alta disponibilidade    | O sistema deve garantir disponibilidade mínima de 99,5%.                           | Evitar falhas de acesso e interrupções nos serviços.  | Não implementado | [Letícia Lopes](https://github.com/leticialopes20) |
+| <a id="RNF11">RNF11</a> | Sincronização de dados  | As informações dos benefícios devem estar sempre sincronizadas com a base oficial. | Garantir transparência e atualização das informações. | Não implementado | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+| <a id="RNF15">RNF15</a> | Controle de inatividade | O sistema deve ter no máximo 2h de inatividade mensal fora de manutenções.         | Garantir confiabilidade e continuidade de serviço.    | Não implementado | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+| <a id="RNF19">RNF19</a> | Registro de validações  | O sistema deve registrar todas as tentativas de validação de carteirinhas.         | Assegurar rastreabilidade e auditoria de ações.       | Não implementado | [Breno Teixeira](https://github.com/BrenoLTeixeira) |
+| <a id="RNF22">RNF22</a> | Log de auditoria        | O sistema deve armazenar logs de emissões e validações por 5 anos.                 | Garantir rastreabilidade e controle de histórico.     | Não implementado | [Breno Teixeira](https://github.com/BrenoLTeixeira) |
 
 <p align="center"><strong>Fontes:</strong> <a href="https://github.com/leticialopes20">Letícia Lopes</a>, <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a>, <a href="https://github.com/BrenoLTeixeira">Breno Teixeira</a>, 2025</p>
 
+---
 
 ### Desempenho
 
@@ -133,18 +132,20 @@ O **desempenho** <a id="TEC2" href="#RP2">[2]</a>diz respeito à rapidez e efici
 
 Esta seção abrange todos os requisitos que influenciam o desempenho do sistema. Os requisitos não funcionais relacionados à desempenho estão descritos na Tabela 5.
 
-#### <p style="text-align: center"><strong>Tabela 5 -</strong>  Requisitos de Desempenho </p>
+#### <p align="center"><strong>Tabela 5 -</strong>  Requisitos de Desempenho </p>
 
-|   Código   | Requisito Não Funcional                | Descrição                                                                                 | Justificativa                                                             |      Status      | Autor                                |
+|   Código   | Requisito Não Funcional                | Descrição                                                                                 | Justificativa                                                             |      Status      | Autor                                |
 | :--------: | :------------------------------------- | :---------------------------------------------------------------------------------------- | :------------------------------------------------------------------------ | :--------------: | :----------------------------------- |
-| [RNF03](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Emissão rápida da carteirinha          | A emissão da carteirinha deve ocorrer em até 5 segundos após a solicitação.               | Melhorar a experiência e reduzir o tempo de espera do jovem beneficiário. |   Implementado   | [Giovana Fontes](https://github.com/GiovanaFontesS) |
-| [RNF06](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Operação com baixo consumo de internet | O aplicativo deve funcionar com baixo consumo de dados e em regiões com conexão limitada. | Aumentar o acesso ao serviço por jovens em regiões carentes.              | Não implementado | [Giovana Fontes](https://github.com/GiovanaFontesS) |
-| [RNF10](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Carregamento eficiente                 | O tempo de carregamento das páginas não deve exceder 3 segundos em redes lentas.          | Melhorar o desempenho e reduzir frustrações no uso.                       | Não implementado | [Arthur Fernandes](https://github.com/arthurfernandesj) |
-| [RNF16](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Validação rápida da carteirinha        | O tempo de resposta da validação via QR Code não deve exceder 2 segundos.                 | Evitar atrasos em fiscalizações ou eventos.                               | Não implementado | [Arthur Fernandes](https://github.com/arthurfernandesj) |
-| [RNF20](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Consulta rápida ao CadÚnico            | O retorno da verificação de elegibilidade deve ocorrer em até 3 segundos.                 | Melhorar o tempo de resposta e a satisfação dos jovens beneficiários.     | Não implementado | [Letícia Lopes](https://github.com/leticialopes20) |
-| [RNF23](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Carregamento de dados                  | O aplicativo deve carregar informações de eventos e parceiros em até 3 segundos.          | Garantir desempenho mesmo com alto volume de dados.                       | Não implementado | [Letícia Lopes](https://github.com/leticialopes20) |
+| <a id="RNF03">RNF03</a> | Emissão rápida da carteirinha          | A emissão da carteirinha deve ocorrer em até 5 segundos após a solicitação.               | Melhorar a experiência e reduzir o tempo de espera do jovem beneficiário. |   Implementado   | [Giovana Fontes](https://github.com/GiovanaFontesS) |
+| <a id="RNF06">RNF06</a> | Operação com baixo consumo de internet | O aplicativo deve funcionar com baixo consumo de dados e em regiões com conexão limitada. | Aumentar o acesso ao serviço por jovens em regiões carentes.              | Não implementado | [Giovana Fontes](https://github.com/GiovanaFontesS) |
+| <a id="RNF10">RNF10</a> | Carregamento eficiente                 | O tempo de carregamento das páginas não deve exceder 3 segundos em redes lentas.          | Melhorar o desempenho e reduzir frustrações no uso.                       | Não implementado | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| <a id="RNF16">RNF16</a> | Validação rápida da carteirinha        | O tempo de resposta da validação via QR Code não deve exceder 2 segundos.                 | Evitar atrasos em fiscalizações ou eventos.                               | Não implementado | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| <a id="RNF20">RNF20</a> | Consulta rápida ao CadÚnico            | O retorno da verificação de elegibilidade deve ocorrer em até 3 segundos.                 | Melhorar o tempo de resposta e a satisfação dos jovens beneficiários.     | Não implementado | [Letícia Lopes](https://github.com/leticialopes20) |
+| <a id="RNF23">RNF23</a> | Carregamento de dados                  | O aplicativo deve carregar informações de eventos e parceiros em até 3 segundos.          | Garantir desempenho mesmo com alto volume de dados.                       | Não implementado | [Letícia Lopes](https://github.com/leticialopes20) |
 
 <p align="center"><strong>Fontes:</strong> <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a>, <a href="https://github.com/leticialopes20">Letícia Lopes</a>, 2025</p>
+
+---
 
 ### Suportabilidade
 
@@ -152,18 +153,17 @@ A **suportabilidade** <a id="TEC2" href="#RP2">[2]</a> refere-se à facilidade d
 
 Esta seção abrange todos os requisitos que influenciam o Suportabilidade do sistema. Os requisitos não funcionais relacionados à suportabilidade estão descritos na Tabela 6.
 
-#### <p style="text-align: center"><strong>Tabela 6 -</strong>  Requisitos de suportabilidade </p>
+#### <p align="center"><strong>Tabela 6 -</strong>  Requisitos de suportabilidade </p>
 
-|   Código   | Requisito Não Funcional           | Descrição                                                                                          | Justificativa                                                    |      Status      | Autor                                |
+|   Código   | Requisito Não Funcional           | Descrição                                                                                          | Justificativa                                                    |      Status      | Autor                                |
 | :--------: | :-------------------------------- | :------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------- | :--------------: | :----------------------------------- |
-| [RNF04](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Compatibilidade com Android e iOS | O aplicativo deve ser gratuito e compatível com sistemas Android e iOS.                            | Garantir o acesso universal à plataforma.                        |   Implementado   | [Dylan Cavalcante](https://github.com/dylancavalcante) |
-| [RNF09](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Design responsivo                 | O design deve se adaptar a diferentes tamanhos de tela e dispositivos.                             | Garantir boa experiência em smartphones, tablets e computadores. |   Implementado   | [Dylan Cavalcante](https://github.com/dylancavalcante) |
-| [RNF12](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Compatibilidade retroativa        | O sistema deve funcionar nas duas versões anteriores dos principais navegadores e sistemas móveis. | Ampliar o alcance e evitar incompatibilidades.                   | Não implementado | [Breno Teixeira](https://github.com/BrenoLTeixeira) |
-| [RNF17](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Ciclo de atualização              | A equipe deve liberar atualizações de segurança a cada 3 meses.                                    | Manter o aplicativo seguro e estável.                            | Não implementado | [Breno Teixeira](https://github.com/BrenoLTeixeira) |
-| [RNF21](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Escalabilidade do sistema         | O sistema deve suportar aumento de 50% de beneficiários sem perda de desempenho.                   | Garantir estabilidade com o crescimento da base de usuários.     | Não implementado | [ Eduarda Domingos](https://github.com/eduardar0) |
-| [RNF24](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) | Compatibilidade com API           | O app deve suportar a API mais recente e as duas versões anteriores do sistema operacional.        | Evitar falhas e garantir funcionamento contínuo.                 | Não implementado | [Eduarda Domingos](https://github.com/eduardar0) |
+| <a id="RNF04">RNF04</a> | Compatibilidade com Android e iOS | O aplicativo deve ser gratuito e compatível com sistemas Android e iOS.                            | Garantir o acesso universal à plataforma.                        |   Implementado   | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+| <a id="RNF09">RNF09</a> | Design responsivo                 | O design deve se adaptar a diferentes tamanhos de tela e dispositivos.                             | Garantir boa experiência em smartphones, tablets e computadores. |   Implementado   | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+| <a id="RNF12">RNF12</a> | Compatibilidade retroativa        | O sistema deve funcionar nas duas versões anteriores dos principais navegadores e sistemas móveis. | Ampliar o alcance e evitar incompatibilidades.                   | Não implementado | [Breno Teixeira](https://github.com/BrenoLTeixeira) |
+| <a id="RNF17">RNF17</a> | Ciclo de atualização              | A equipe deve liberar atualizações de segurança a cada 3 meses.                                    | Manter o aplicativo seguro e estável.                            | Não implementado | [Breno Teixeira](https://github.com/BrenoLTeixeira) |
+| <a id="RNF21">RNF21</a> | Escalabilidade do sistema         | O sistema deve suportar aumento de 50% de beneficiários sem perda de desempenho.                   | Garantir estabilidade com o crescimento da base de usuários.     | Não implementado | [Eduarda Domingos](https://github.com/eduardar0) |
+| <a id="RNF24">RNF24</a> | Compatibilidade com API           | O app deve suportar a API mais recente e as duas versões anteriores do sistema operacional.        | Evitar falhas e garantir funcionamento contínuo.                 | Não implementado | [Eduarda Domingos](https://github.com/eduardar0) |
 
-<p align="center"><strong>Fontes:</strong> <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a>, <a href="https://github.com/BrenoLTeixeira">Breno Teixeira</a>, <a href="https://github.com/eduardar0">Eduarda Domingos</a>, 2025</p>
 
 ## Referências Bibliográficas
 

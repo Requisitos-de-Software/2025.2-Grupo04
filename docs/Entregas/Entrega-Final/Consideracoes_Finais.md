@@ -75,16 +75,17 @@ Nesta seção, cada integrante da equipe compartilha, de forma individual, as pr
 
 ### Giovana Fontes 
 
-O desenvolvimento deste projeto foi uma experiência de aprendizado significativo. Embora a novidade do tema tenha gerado dificuldades iniciais, a prática e a colaboração da equipe foram cruciais para a superação. Meus principais desafios foram a assimilação de alguns conteúdos e a melhoria da organização pessoal, mas no geral, a disciplina contribuiu imensamente para o meu aprimoramento.
+ O desenvolvimento deste projeto foi uma experiência de aprendizado significativo. Embora a novidade do tema tenha gerado dificuldades iniciais, a prática e a colaboração da equipe foram cruciais para a superação. Meus principais desafios foram a assimilação de alguns conteúdos e a melhoria da organização pessoal, mas no geral, a disciplina contribuiu imensamente para o meu aprimoramento.
 
-Agradeço ao Professor pelo suporte, materiais de apoio e aulas de qualidade, e aos colegas pela excelente parceria.
+ Agradeço ao Professor pelo suporte, materiais de apoio e aulas de qualidade, e aos colegas pela excelente parceria.
 
 ### Letícia Lopes:
-Durante a disciplina de Requisitos de Software, enfrentei algumas dificuldades, principalmente para conciliar as demandas da faculdade com o desenvolvimento do projeto. No início, também tive certa dificuldade para entender como aplicar corretamente as técnicas ensinadas em aula, o que tornou o processo um pouco desafiador.
 
-Apesar disso, a disciplina me ajudou a persistir e a melhorar a qualidade dos artefatos que produzi, sempre buscando mais embasamento teórico para justificar cada decisão. Um ponto importante foi aprender a aplicar a rastreabilidade de forma consistente, algo que eu não fazia com tanta frequência antes.
+ Durante a disciplina de Requisitos de Software, enfrentei algumas dificuldades, principalmente para conciliar as demandas da faculdade com o desenvolvimento do projeto. No início, também tive certa dificuldade para entender como aplicar corretamente as técnicas ensinadas em aula, o que tornou o processo um pouco desafiador.
 
-Outro desafio pessoal foi apresentar o trabalho na frente da turma e gravar as validações com os usuários,por conta da  timidez. Mesmo assim, essas experiências contribuíram para meu crescimento e para desenvolver mais confiança ao longo do semestre.
+ Apesar disso, a disciplina me ajudou a persistir e a melhorar a qualidade dos artefatos que produzi, sempre buscando mais embasamento teórico para justificar cada decisão. Um ponto importante foi aprender a aplicar a rastreabilidade de forma consistente, algo que eu não fazia com tanta frequência antes.
+
+ Outro desafio pessoal foi apresentar o trabalho na frente da turma e gravar as validações com os usuários,por conta da  timidez. Mesmo assim, essas experiências contribuíram para meu crescimento e para desenvolver mais confiança ao longo do semestre.
 
 
 

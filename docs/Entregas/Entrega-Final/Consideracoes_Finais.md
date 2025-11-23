@@ -45,8 +45,8 @@ Nesta seção, cada integrante da equipe compartilha, de forma individual, as pr
 </tr>
 <tr>
   <td>Giovana Fontes</td>
- <td>xx/11/2025</td>
-  <td>00:00</td>
+ <td>23/11/2025</td>
+  <td>20:16</td>
 </tr>
 <tr>
   <td>Leticia Lopes</td>
@@ -75,6 +75,9 @@ Nesta seção, cada integrante da equipe compartilha, de forma individual, as pr
 
 ### Giovana Fontes 
 
+O desenvolvimento deste projeto foi uma experiência de aprendizado significativo. Embora a novidade do tema tenha gerado dificuldades iniciais, a prática e a colaboração da equipe foram cruciais para a superação. Meus principais desafios foram a assimilação de alguns conteúdos e a melhoria da organização pessoal, mas no geral, a disciplina contribuiu imensamente para o meu aprimoramento.
+
+Agradeço ao Professor pelo suporte, materiais de apoio e aulas de qualidade, e aos colegas pela excelente parceria.
 
 ### Letícia Lopes:
 Durante a disciplina de Requisitos de Software, enfrentei algumas dificuldades, principalmente para conciliar as demandas da faculdade com o desenvolvimento do projeto. No início, também tive certa dificuldade para entender como aplicar corretamente as técnicas ensinadas em aula, o que tornou o processo um pouco desafiador.
@@ -94,3 +97,4 @@ Outro desafio pessoal foi apresentar o trabalho na frente da turma e gravar as v
 | `1.0`    | 16/11/2025 | Criação da página | [Arthur Fernandes](https://github.com/arthurfernandesj)   | [Dylan Cavalcante](https://github.com/dylancavalcante) |
 | `1.1`    | 16/11/2025 | Introdução da página| [Arthur Fernandes](https://github.com/arthurfernandesj)   | [Leticia Lopes](https://github.com/leticialopes20) |
 | `1.2`    | 23/11/2025 | Adição de consideração|[Leticia Lopes](https://github.com/leticialopes20)  |[Arthur Fernandes](https://github.com/arthurfernandesj) |
+|  `1.3` | 23/11/2025 | Adição de consideração | [Giovana Fontes](https://github.com/GiovanaFontesS)   | [Leticia Lopes](https://github.com/leticialopes20) |

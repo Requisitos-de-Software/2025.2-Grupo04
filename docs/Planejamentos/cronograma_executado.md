@@ -151,8 +151,8 @@ Tabela 02: Cronograma executado para todas as atividades da segunda entrega
 </tr>
 <tr>
 <td style="text-align: left">Introspecção para elicitação de requisitos</td>
-<td style="text-align: left">XXXX</td>
-<td style="text-align: left">XXXX</td>
+<td style="text-align: left">Dylan e Breno</td>
+<td style="text-align: left">28/09/2025 - 10/10/2025</td>
 <td style="text-align: left">17/11/2025</td>
 <td style="text-align: left">Dylan</td>
 </tr>
@@ -193,10 +193,10 @@ Tabela 02: Cronograma executado para todas as atividades da segunda entrega
 </tr>
 <tr>
 <td style="text-align: left">Inspeção</td>
-<td style="text-align: left">XXXX</td>
-<td style="text-align: left">XXXX</td>
-<td style="text-align: left">XXXX</td>
-<td style="text-align: left">XXXX</td>
+<td style="text-align: left">Arthur, Breno, Dylan, Eduarda, Giovana e Letícia</td>
+<td style="text-align: left">30/09/2025</td>
+<td style="text-align: left">21/11/2025</td>
+<td style="text-align: left">Dylan</td>
 </tr>
 <tr>
 <td style="text-align: left">Gravação da Apresentação e Entrega</td>

@@ -1,79 +1,93 @@
 # Análise de Documentos
 
-## **Introdução**
+## Introdução 
 
-A Análise de Documentos é uma técnica amplamente utilizada na elicitação de requisitos, que consiste em examinar materiais já existentes, como legislações, relatórios, manuais oficiais e documentos técnicos relacionados ao domínio do sistema. Essa prática permite identificar informações relevantes de forma estruturada, servindo como base sólida para complementar outras técnicas de elicitação. Reconhecida pela sua objetividade e riqueza de dados, a análise documental possibilita compreender o contexto do software, reduzir ambiguidades e alinhar o desenvolvimento às normas e necessidades previamente estabelecidas, sendo especialmente útil em projetos como o ID Jovem <a id="anchor_1" href="#QT1">[1]</a>(VAZQUEZ; SIMÕES, 2016).
+A Análise de Documentos é uma técnica amplamente utilizada no processo de elicitação de requisitos, consistindo no exame de materiais previamente existentes, como legislações, relatórios, manuais oficiais e documentos técnicos relacionados ao domínio do sistema. Essa prática permite identificar informações relevantes de maneira estruturada, fornecendo uma base sólida para complementar outras técnicas de levantamento.
 
----
+Reconhecida por sua objetividade e riqueza de dados, a análise documental contribui para a compreensão do contexto do software, reduz ambiguidades e alinha o desenvolvimento às normas e necessidades já estabelecidas. Dessa forma, torna-se uma abordagem essencial para garantir que os requisitos sejam fundamentados em fontes confiáveis e consistentes [UFSC, 2017](#ufsc2017).
+
+
+<small><em>Revisado por [Chat GPT](https://chatgpt.com/), em 21 de Novembro 2025</em></small>
 
 ## **Técnica de Análise de Documentos**
 
-### 1) Objetivo
+### Objetivo
 
-* Levantar informações já disponíveis sobre o ID Jovem.
-* Compreender melhor o domínio do sistema a partir de legislações, relatórios, notícias e feedbacks de usuários.
+* Identificar e reunir informações já disponíveis relacionadas ao domínio do sistema.
+* Compreender o funcionamento e o contexto do problema por meio da análise de legislações, relatórios, notícias e feedbacks de usuários.
 
-### 2) Fontes Analisadas
+### Fontes Analisadas
 
-* Legislação e normas que regulamentam o programa ID Jovem.
-* Site oficial e materiais de divulgação.
-* Notícias e reportagens sobre o uso do benefício.
+* Legislações e normas associadas ao contexto do sistema.
+* Documentação oficial e materiais institucionais.
+* Notícias e reportagens relevantes.
 * Feedbacks de usuários em redes sociais e plataformas de reclamação.
 
-### 3) Justificativa do Uso
+### Justificativa do Uso
 
-* Técnica simples e eficaz, pois **“aproveita documentos já produzidos, permitindo identificar informações relevantes de forma objetiva e direta”** <a id="anchor_2" href="#QT2">[2]</a>(SERRANO Milene; SERRANO Mauricio) *Requisitos – Aula 07*. Universidade de Brasília .
-
-### 4) Benefícios Esperados
-
-* Reduz ambiguidades e inconsistências.
-* Alinha o desenvolvimento do sistema às normas já estabelecidas.
-* Fornece uma base sólida para complementar outras técnicas de elicitação.
-* Possibilita identificar requisitos reais a partir de documentos confiáveis.
-
----
-
-## **Metodologia**
-
-### 1) Documentos analisados
-
-#### 1.1) Documento 1 – Site Oficial do ID Jovem
-
-* **Fonte:** [idjovem.juventude.gov.br](/docs/assets/Elicitacao/SiteIdJovem.png)
-* **Resumo:** O site oficial do ID Jovem apresenta informações completas sobre o programa, que é uma iniciativa do governo voltada para facilitar o acesso de jovens a direitos e benefícios sociais e culturais. Nele, é possível entender o que é o ID Jovem, como funciona, quais benefícios oferece e quem pode ter acesso. O portal também fornece formas de acesso, incluindo instruções passo a passo para emissão do documento digital, além de orientações de uso, garantindo que os jovens possam usufruir plenamente dos direitos oferecidos pelo programa. Dessa forma, o site funciona como um guia completo, esclarecendo dúvidas e facilitando a utilização do benefício de forma segura e prática.
+A Análise de Documentos foi adotada por ser uma técnica simples, consistente e de alta confiabilidade, uma vez que “aproveita documentos já produzidos, permitindo identificar informações relevantes de forma objetiva e direta” [VAZQUEZ; SIMÕES, 2016](#vazquez2016).  
+Seu uso possibilita compreender o domínio do sistema com maior precisão, garantindo que as decisões tomadas no desenvolvimento estejam alinhadas às informações previamente registradas em fontes formais.
 
 
-<p align="center"> <img src="../../../../assets/Elicitacao/SiteIdJovem.png" alt="Descrição sobre o aplicativo Id Jovem no Site Id Jovem" width="500"/> </p> <p align="center"> Fonte: Id Jovem Mobile (2025). </p>
+### Benefícios Esperados
 
-<
----
+* Redução de ambiguidades e inconsistências nos requisitos.
+* Alinhamento do desenvolvimento às normas, regras e práticas já estabelecidas.
+* Construção de uma base sólida que complementa outras técnicas de elicitação.
+* Identificação de requisitos reais a partir de documentos confiáveis e verificáveis.
 
-#### 1.2) Documento 2 – Aplicativo (App Store / Google Play)
+<small><em>Revisado por [Chat GPT](https://chatgpt.com/), em 21 de Novembro 2025</em></small>
 
-* **Fonte:** Página do aplicativo nas lojas digitais [Google Play e App Store](/docs/assets/Elicitacao/AppStorePrint.png).
-* **Resumo:** A descrição oficial do aplicativo na App Store, o ID Jovem permite que jovens de baixa renda emitam sua carteira digital e acessem benefícios do programa. Com o app, é possível emitir mais de uma carteira, receber alertas, consultar perguntas frequentes, acessar atendimento e permitir que estabelecimentos validem a carteira para concessão de descontos em eventos culturais, esportivos e transporte interestadual.
+
+## Metodologia
+
+### Documentos Analisados
+
+#### Site Oficial do Programa
+
+O site oficial apresenta informações completas sobre o programa, descrevendo seus objetivos, público-alvo e benefícios oferecidos. O portal detalha como o usuário pode emitir o documento digital, apresenta orientações de uso e esclarece dúvidas frequentes, funcionando como um guia centralizado e confiável. Além disso, disponibiliza instruções passo a passo para o acesso ao benefício, permitindo que os usuários compreendam o funcionamento do sistema e utilizem seus recursos de forma segura e adequada. <br> 
+
+<p align="center">Imagem 1: Site Oficial</p>
 
 <p align="center">
-  <img src="../../../../assets/Elicitacao/AppStorePrint.png" alt="Descrição sobre o aplicativo Id Jovem na App Store" width="500"/>
+  <img src="../../../../assets/Elicitacao/SiteIdJovem.png" alt="Descrição sobre o aplicativo no Site Oficial" width="500"/>
 </p>
+
+<p align="center">Fonte: <a href="https://idjovem.juventude.gov.br" target="_blank">Portal Oficial</a> (2025).</p>
+
+<br>
+
+
+#### Aplicativo (App Store / Google Play)
+
+A descrição oficial do aplicativo nas lojas digitais apresenta de forma clara suas principais funcionalidades. Por meio do app, o usuário pode emitir sua carteira digital, acessar os benefícios disponíveis, consultar perguntas frequentes, receber notificações importantes e buscar atendimento quando necessário. Além disso, o aplicativo permite a validação da carteira por estabelecimentos autorizados, garantindo a correta aplicação dos benefícios. Dessa forma, o app funciona como uma ferramenta prática, acessível e centralizada para utilização dos serviços oferecidos pelo programa.
+
+<p align="center">Imagem 2: App Store</p>
 
 <p align="center">
-  Fonte: App Store (2025).
+  <img src="../../../../assets/Elicitacao/AppStorePrint.png" alt="Descrição sobre o aplicativo no Site Oficial" width="500"/>
 </p>
 
----
+<p align="center">Fonte: <a href="https://" target="_blank">App Store </a> (2025).</p>
+
+
+<small><em>Revisado por [Chat GPT](https://chatgpt.com/), em 21 de Novembro 2025</em></small>
 
 ## **Resultados / Discussão**
 
-A análise documental realizada no contexto do programa ID Jovem possibilitou levantar informações relevantes de forma clara e objetiva. Segundo o Guia de Técnicas de Elicitação de Requisitos da UFSC (2023), essa técnica aproveita informações previamente registradas, garantindo consistência e economia de tempo. No caso estudado, as legislações, sites oficiais e materiais digitais forneceram dados confiáveis sobre o funcionamento do sistema e seus requisitos.
+A análise documental realizada permitiu identificar e organizar informações relevantes de maneira clara, confiável e fundamentada. De acordo com o [Guia de Técnicas de Elicitação de Requisitos](https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades) da UFSC (2023), essa técnica se destaca por aproveitar registros já existentes, garantindo economia de tempo, consistência e maior precisão durante o levantamento de requisitos. No presente estudo, legislações, portais oficiais e materiais digitais forneceram uma visão abrangente do funcionamento do sistema e de suas principais necessidades.
 
-Foram identificados requisitos funcionais diretamente relacionados ao uso do sistema, como a geração da carteira digital e a autenticação de usuários. Também emergiram requisitos não funcionais, ligados à segurança, acessibilidade e usabilidade, essenciais para garantir que jovens de baixa renda consigam usufruir do benefício sem barreiras técnicas.
+A partir desses documentos, foi possível identificar requisitos funcionais diretamente relacionados às operações do sistema, como a geração da carteira digital e os mecanismos de autenticação de usuários. Também foram evidenciados requisitos não funcionais importantes, especialmente aqueles ligados à segurança, acessibilidade, desempenho e usabilidade — elementos essenciais para garantir que o público-alvo consiga utilizar o serviço sem obstáculos técnicos.
 
-Além disso, a técnica contribuiu para verificar a coerência entre normas legais e implementação prática, evidenciando pontos críticos como a integração entre sistemas governamentais e a necessidade de informações atualizadas. O cruzamento dessas informações reforça a importância da análise de documentos como técnica inicial e de suporte para entrevistas e observações futuras.
+Além disso, a análise documental contribuiu para avaliar a coerência entre as normas legais que regem o programa e sua implementação prática. Essa comparação evidenciou pontos críticos, como a necessidade de integração eficiente entre sistemas governamentais e a importância de manter informações atualizadas para evitar inconsistências operacionais.
 
----
+O cruzamento das informações coletadas reforça o papel da análise documental como uma técnica inicial robusta e indispensável. Ela não apenas direciona o entendimento preliminar do domínio do sistema, como também serve de base sólida para a aplicação de outras técnicas de elicitação, como entrevistas, questionários e observações diretas, fortalecendo a qualidade e a precisão dos requisitos levantados.
+
+<small><em>Revisado por [Chat GPT](https://chatgpt.com/), em 21 de Novembro 2025</em></small>
 
 ### Requisitos Identificados
+
+<p align="center"><strong>Tabela 1 – Requisitos Identificados na Análise Documental</strong></p>
 
 | ID     | Tipo              | Requisito                                                                   |
 | ------ | ----------------- | --------------------------------------------------------------------------- |
@@ -98,32 +112,25 @@ Além disso, a técnica contribuiu para verificar a coerência entre normas lega
 
 <p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
 
-## **Conclusão**
+## Conclusão
 
-A análise documental aplicada ao programa ID Jovem demonstrou ser uma técnica eficaz para a elicitação de requisitos, permitindo levantar aspectos funcionais e não funcionais sem necessidade inicial de interação direta com usuários. Os documentos oficiais, legislações, sites e aplicativos forneceram informações consistentes que contribuem para reduzir ambiguidades e alinhar o desenvolvimento do sistema às normas previamente estabelecidas.
+A análise documental realizada demonstrou ser uma técnica extremamente eficiente para a elicitação de requisitos, permitindo identificar aspectos funcionais e não funcionais de maneira estruturada, confiável e independente de interação direta inicial com os usuários. A consulta a documentos oficiais, legislações, portais institucionais e materiais digitais forneceu informações consistentes e verificáveis, contribuindo para reduzir ambiguidades e orientar o desenvolvimento conforme normas e diretrizes previamente estabelecidas.
 
-Assim, a técnica se mostra fundamental para fornecer uma base sólida ao processo de elicitação, podendo ser complementada por entrevistas, questionários e observações. No caso do ID Jovem, a análise de documentos revelou-se particularmente útil para identificar exigências legais e necessidades de usabilidade, garantindo que o desenvolvimento do sistema atenda tanto às diretrizes governamentais quanto às expectativas dos beneficiários.
-
----
-
-## Referências Bibliográficas
-
->< BRASIL. ID Jovem. Disponível em: [https://idjovem.juventude.gov.br](https://idjovem.juventude.gov.br). Acesso em: 26 set. 2025.
-
->< APP STORE; GOOGLE PLAY. Aplicativo ID Jovem. Disponível em: [https://apps.apple.com](https://apps.apple.com) e [https://play.google.com](https://play.google.com). Acesso em: 26 set. 2025.
-
->< ><p><a id="QT1" href="#anchor_2">2.</a>SERRANO, Milene; SERRANO, Mauricio. Requisitos – Aula 07. Universidade de Brasília, 2016.
-
-><p><a id="QT1" href="#anchor_1">1.</a> VAZQUEZ, C. E.; SIMÕES, G. S. *Engenharia de Requisitos: software orientado ao negócio*. Rio de Janeiro: >< Brasport, 2016.
+Dessa forma, a técnica se consolida como uma etapa essencial no processo de levantamento de requisitos, oferecendo uma base sólida para as fases subsequentes. Sua aplicação pode — e deve — ser complementada por entrevistas, questionários e observação
 
 
-## Bibliografia 
+## Bibliografia
 
->< UNIVERSIDADE FEDERAL DE SANTA CATARINA. Técnicas de elicitação de requisitos: Análise de Documentos. Disponível em: [https://retraining.inf.ufsc.br/guia/app/classificacoes/><a tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-analise-de-documentos] Acesso em: 26 set. 2025.
+> <a id="ufsc2017"></a> UNIVERSIDADE FEDERAL DE SANTA CATARINA. *Técnicas de elicitação de requisitos: Análise de Documentos*. Disponível em: [UNIVERSIDADE FEDERAL DE SANTA CATARINA](https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-analise-de-documentos). Acesso em: 26 set. 2025.
 
+> <a id="brasil2025"></a> BRASIL. *ID Jovem*. Disponível em: [ID Jovem](https://idjovem.juventude.gov.br). Acesso em: 26 set. 2025.
 
+> <a id="applegoogle2025"></a> APPLE; GOOGLE. *Aplicativo ID Jovem*. Disponível em: [Aplicativo ID Jovem - Apple](https://apps.apple.com) e [Aplicativo ID Jovem - Play Store](https://play.google.com). Acesso em: 26 set. 2025.
 
----
+> <a id="serrano2016"></a> SERRANO, Milene; SERRANO, Mauricio. *Requisitos – Aula 07*. Universidade de Brasília, 2016.
+
+> <a id="vazquez2016"></a> VAZQUEZ, C. E.; SIMÕES, G. S. *Engenharia de Requisitos: software orientado ao negócio*. Rio de Janeiro: Brasport, 2016.
+
 
 ## Histórico de Versão
 
@@ -131,5 +138,16 @@ Assim, a técnica se mostra fundamental para fornecer uma base sólida ao proces
 | :----: | :--------: | :------------------: | :----------------------------------------------------------------------------------------: | :-------------------------------------------: |
 |  `1.0` | 25/09/2025 | Criação do documento | [Dylan](https://github.com/dylancavalcante) e [Giovana](https://github.com/GiovanaFontesS) | [Arthur](https://github.com/arthurfernandesj) |
 |  `1.1` | 30/09/2025 | Correção das imagens | [Arthur](https://github.com/arthurfernandesj) | [Giovana](https://github.com/GiovanaFontesS) |
-|  `1.2` | 10/10/2025 | Correção das Referências | [Arthur](https://github.com/BrenoLteixeira) | [Giovana](https://github.com/GiovanaFontesS) |
+|  `1.2` | 10/10/2025 | Correção das Referências | [Arthur](https://github.com/arthurfernandesj) | [Giovana](https://github.com/GiovanaFontesS) |
+| `1.3` | 21/11/2025 | Ajuste e padronização da bibliografia em Markdown, com links clicáveis e formatação revisada | [Arthur](https://github.com/arthurfernandes) | [Giovana](https://github.com/GiovanaFontesS) |
+| `1.4`  | 22/11/2025 | Revisão e Polimento Final  | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Leticia](https://github.com/leticialopes20) |
+
+
+
+## Agrecimentos
+
+Queremos agradecer ao [Chat GPT](https://chatgpt.com/), ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto ID Jovem. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.
 

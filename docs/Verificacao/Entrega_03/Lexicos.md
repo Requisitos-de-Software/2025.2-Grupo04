@@ -1,9 +1,9 @@
 # Lista de Verificação 2.3 dos Léxicos
 
-A seguir, apresenta-se a tabela com os itens utilizados na verificação do artefato da técnica de **Léxicos**, aplicado no contexto do aplicativo **ID Jovem**.  
+A seguir, apresenta-se a tabela com os itens utilizados na verificação do artefato da técnica de [Lexicos](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Lexicos/), aplicado no contexto do aplicativo **ID Jovem**.  
 Essa verificação tem como objetivo assegurar que o processo de modelagem dos Léxicos foi conduzido de forma clara, padronizada e alinhada aos princípios da Engenharia de Requisitos, de modo a garantir a compreensão e consistência terminológica entre os artefatos do projeto.
 
-*Revisado por Gemini, em 12 de Novembro 2025*
+<small><em>Revisado por Gemini, em 12 de Novembro 2025</em></small>
 
 ---
 
@@ -34,39 +34,134 @@ O processo considerou aspectos como: identificação adequada de símbolos, noç
 | [Letícia Maria](https://github.com/leticialopes20) | Autora | 3, 9, 15, 21, 26 |
 
 ---
-### Tabela 2: Itens de Verificação – Técnica de Léxicos
+<h3 style="text-align: center;">Tabela: Itens de Verificação – Técnica de Léxicos</h3>
 
-| Item | Referência | Avaliação | Observação | Print | Autor |
-|------|------------|-----------|------------|-------|-------|
-| **L01:** O artefato apresenta uma introdução contextualizando o uso dos Léxicos? | André Barros | Conforme | - | [image1](https://imgur.com/mk3e08P) | [Eduarda Rodrigues](https://github.com/eduardar0) |
-| **L02:** O artefato descreve claramente os objetivos da modelagem de Léxicos? | André Barros | Conforme | - | [image2](https://imgur.com/nKGWaoP) | [Eduarda Rodrigues](https://github.com/eduardar0) |
-| **L04:** Há coerência entre as noções e os impactos apresentados? | André Barros | Conforme | - | [image3](https://imgur.com/zQAH3rX) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
-| **L05:** Os Léxicos estão organizados em formato tabular ou equivalente? | André Barros | Conforme | - | [image4](https://imgur.com/zQAH3rX) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
-| **L07:** Os Léxicos incluem uma descrição clara de suas noções? | André Barros | Conforme | - | [image5](https://imgur.com/4JFE4ET) | [Breno Teixeira](https://github.com/BrenoLTeixeira) |
-| **L08:** Os impactos dos Léxicos foram descritos de forma compreensível e objetiva? | André Barros | Conforme | - | [image6](https://imgur.com/hJC61lb) | [Breno Teixeira](https://github.com/BrenoLTeixeira) |
-| **L09:** Há consistência semântica entre os Léxicos relacionados? | André Barros | Conforme | - | [image7](https://imgur.com/mk3e08P) | [Letícia Maria](https://github.com/leticialopes20) |
-| **L10:** O artefato apresenta um dicionário de termos e sinônimos? | André Barros | Não Conforme | - | [image8](https://imgur.com/nKGWaoP) | [Letícia Maria](https://github.com/leticialopes20) |
-| **L11:** Cada Léxico é identificado por um nome único e significativo? | André Barros | Conforme | - | [image9](https://imgur.com/zQAH3rX) | [Dylan Cavalcante](https://github.com/dylancavalcante) |
-| **L12:** Há relação entre os Léxicos e outros artefatos (como casos de uso ou storytelling)? | André Barros | Não Conforme | - | [image10](https://imgur.com/zQAH3rX) | [Dylan Cavalcante](https://github.com/dylancavalcante) |
-| **L013:** O artefato segue a estrutura recomendada (Símbolo, Noção, Impacto)? | André Barros | Conforme | - | [image11](https://imgur.com/4JFE4ET) | [Eduarda Rodrigues](https://github.com/eduardar0) |
-| **L14:** Os Léxicos foram revisados por mais de um integrante da equipe? | André Barros | Conforme | - | [image12](https://imgur.com/hJC61lb) | [Eduarda Rodrigues](https://github.com/eduardar0) |
-| **L15:** O artefato apresenta referências bibliográficas utilizadas? | André Barros | Conforme | - | [image13](https://imgur.com/mk3e08P) | [Dylan Cavalcante](https://github.com/dylancavalcante) |
-| **L16:** Há evidências de colaboração no processo de construção dos Léxicos? | André Barros | Conforme | - | [image14](https://imgur.com/nKGWaoP) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
-| **L17:** O documento está completo e padronizado conforme o modelo do grupo? | André Barros | Não Conforme | - | [image15](https://imgur.com/zQAH3rX) | [Dylan Cavalcante](https://github.com/dylancavalcante) |
-| **L18:** Existem ligações diretas entre os Léxicos e os requisitos derivados? | André Barros | Não Conforme | - | [image16](https://imgur.com/zQAH3rX) | [Breno Teixeira](https://github.com/BrenoLTeixeira) |
-| **L19:** O artefato é coerente e de fácil compreensão? | André Barros | Conforme | - | [image17](https://imgur.com/4JFE4ET) | [Letícia Maria](https://github.com/leticialopes20) |
-| **L20:** O artefato apresenta conclusão ou síntese dos resultados? | André Barros | Conforme | - | [image18](https://imgur.com/hJC61lb) | [Letícia Maria](https://github.com/leticialopes20) |
-| **L21:** Foram identificadas melhorias a serem aplicadas em futuras versões? | André Barros | Conforme | - | [image19](https://imgur.com/mk3e08P) | [Eduarda Rodrigues](https://github.com/eduardar0) |
-| **L22:** Há uma relação de rastreabilidade clara entre os Léxicos e os stakeholders? | André Barros | Não Conforme | - | [image20](https://imgur.com/nKGWaoP) | [Eduarda Rodrigues](https://github.com/eduardar0) |
-| **L24:** Há evidências de aprovação final do artefato? | André Barros | Conforme | - | [image21](https://imgur.com/zQAH3rX) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
-| **L25:** O artefato apresenta recomendações para a continuidade do trabalho? | André Barros | Não Conforme | - | [image22](https://imgur.com/4JFE4ET) | [Dylan Cavalcante](https://github.com/dylancavalcante) |
-| **L26:** O artefato está completo e segue as boas práticas de documentação? | André Barros | Não Conforme | - | [image23](https://imgur.com/hJC61lb) | [Breno Teixeira](https://github.com/BrenoLTeixeira) |
-| **L27:** Print adicional 1 | André Barros | Conforme | - | [image24](https://imgur.com/mk3e08P) | [Letícia Maria](https://github.com/leticialopes20) |
-| **L28:** Print adicional 2 | André Barros | Conforme | - | [image25](https://imgur.com/nKGWaoP) | [Letícia Maria](https://github.com/leticialopes20) |
+<div align="center">
+  <table border="1" style="border-collapse: collapse; width: 95%; text-align: center;">
+    <thead>
+      <tr>
+        <th style="width: 30%;">Item</th>
+        <th style="width: 20%;">Referência</th>
+        <th style="width: 10%;">Avaliação</th>
+        <th style="width: 20%;">Observação</th>
+        <th style="width: 5%;">Print</th>
+        <th style="width: 15%;">Autor</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><b>L01:</b> O artefato apresenta uma introdução contextualizando o uso dos Léxicos?</td>
+        <td><a href="https://imgur.com/xqKLe0n" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 605)</a></td>
+        <td>Conforme</td>
+        <td>-</td>
+        <td><a href="https://imgur.com/mk3e08P" target="_blank">Print</a></td>
+        <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
+      </tr>
+      <tr>
+        <td><b>L02:</b> O artefato descreve claramente os objetivos da modelagem de Léxicos?</td>
+        <td><a href="https://imgur.com/dpYQvlU" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 605, 607)</a></td>
+        <td>Conforme</td>
+        <td>-</td>
+        <td><a href="https://imgur.com/nKGWaoP" target="_blank">Print</a></td>
+        <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
+      </tr>
+      <tr>
+        <td><b>L04:</b> Há coerência entre as noções e os impactos apresentados?</td>
+        <td><a href="https://imgur.com/HJGaffW" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 605-606)</a></td>
+        <td>Conforme</td>
+        <td>-</td>
+        <td><a href="https://imgur.com/zQAH3rX" target="_blank">Print</a></td>
+        <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
+      </tr>
+      <tr>
+        <td><b>L05:</b> Os Léxicos estão organizados em formato tabular ou equivalente?</td>
+        <td><a href="https://imgur.com/ZdebBn2" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 413)</a></td>
+        <td>Conforme</td>
+        <td>-</td>
+        <td><a href="https://imgur.com/zQAH3rX" target="_blank">Print</a></td>
+        <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
+      </tr>
+      <tr>
+        <td><b>L07:</b> Os Léxicos incluem uma descrição clara de suas noções?</td>
+        <td><a href="https://imgur.com/nhB1BK7" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 160, 736)</a></td>
+        <td>Conforme</td>
+        <td>-</td>
+        <td><a href="https://imgur.com/4JFE4ET" target="_blank">Print</a></td>
+        <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
+      </tr>
+      <tr>
+        <td><b>L08:</b> Os impactos dos Léxicos foram descritos de forma compreensível e objetiva?</td>
+        <td><a href="https://imgur.com/fABgWnM" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 158, 607)</a></td>
+        <td>Conforme</td>
+        <td>-</td>
+        <td><a href="https://imgur.com/hJC61lb" target="_blank">Print</a></td>
+        <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
+      </tr>
+      <tr>
+        <td><b>L09:</b> Há consistência semântica entre os Léxicos relacionados?</td>
+        <td><a href="https://imgur.com/fABgWnM" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 606)</a></td>
+        <td>Conforme</td>
+        <td>-</td>
+        <td><a href="https://imgur.com/mk3e08P" target="_blank">Print</a></td>
+        <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a></td>
+      </tr>
+      <tr>
+        <td><b>L10:</b> O artefato apresenta um dicionário de termos e sinônimos?</td>
+        <td><a href="https://imgur.com/dpYQvlU" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 605, 607)</a></td>
+        <td>Não Conforme</td>
+        <td>-</td>
+        <td><a href="https://imgur.com/nKGWaoP" target="_blank">Print</a></td>
+        <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a></td>
+      </tr>
+      <tr>
+        <td><b>L11:</b> Cada Léxico é identificado por um nome único e significativo?</td>
+        <td><a href="https://imgur.com/ocSbl57" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 606)</a></td>
+        <td>Conforme</td>
+        <td>-</td>
+        <td><a href="https://imgur.com/zQAH3rX" target="_blank">Print</a></td>
+        <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
+      </tr>      
+      <tr>
+        <td><b>L12:</b> Há relação entre os Léxicos e outros artefatos?</td>
+        <td><a href="https://imgur.com/ZdebBn2" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 413)</a></td>
+        <td>Não Conforme</td>
+        <td>-</td>
+        <td><a href="https://imgur.com/zQAH3rX" target="_blank">Print</a></td>
+        <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
+      </tr>
+      <tr>
+        <td><b>L13:</b> O artefato segue a estrutura recomendada?</td>
+        <td><a href="https://imgur.com/xqKLe0n" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 605)</a></td>
+        <td>Conforme</td>
+        <td>-</td>
+        <td><a href="https://imgur.com/4JFE4ET" target="_blank">Print</a></td>
+        <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
+      </tr>
+      <tr>
+        <td><b>L14:</b> Os Léxicos foram revisados por mais de um integrante?</td>
+        <td><a href="https://imgur.com/HJGaffW" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 605-606)</a></td>
+        <td>Conforme</td>
+        <td>-</td>
+        <td><a href="https://imgur.com/hJC61lb" target="_blank">Print</a></td>
+        <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
+      </tr>
+      <tr>
+        <td><b>L15:</b> O artefato apresenta referências bibliográficas?</td>
+        <td><a href="https://imgur.com/xqKLe0n" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 605)</a></td>
+        <td>Conforme</td>
+        <td>-</td>
+        <td><a href="https://imgur.com/mk3e08P" target="_blank">Print</a></td>
+        <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
+      </tr>
+  </table>
 
-Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj)
+  <p style="text-align: center; font-size: 0.9em; color: gray;">
+    Fonte: <a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a>
+  </p>
+</div>
 
----
+
+## Análise de resultados 
 
 A verificação do artefato **Léxicos** foi, em sua maioria, satisfatória. O grupo aplicou adequadamente a técnica, apresentando descrições coerentes e bem estruturadas dos símbolos, noções e impactos.  
 A metodologia seguiu as boas práticas de documentação e mostrou preocupação com a consistência terminológica entre os artefatos do projeto.
@@ -100,3 +195,12 @@ No entanto, os pontos **não conformes** e **sem evidências visuais** devem ser
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :--: | :--: | :-- | :-- | :-- |
 | 1.0 | 12/11/2025 | Criação da verificação da técnica de Léxicos | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+| 1.1 | 21/11/2025 | Correção de tabelas | [Giovana Fontes](httpsS://github.com/BrenoLteixeira) | [Leticia Maria](httpsS://github.com/arthurfernandesj) |
+
+## Agradecimentos 
+
+Queremos agradecer ao Gemini, ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto ID Jovem. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.
+

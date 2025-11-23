@@ -39,8 +39,8 @@ Esse documento tem como objetivo apresentar, de forma organizada, uma visão ger
 </tr>
 <tr>
   <td>Giovana Fontes</td>
- <td>xx/11/2025</td>
-  <td>00:00</td>
+ <td>23/11/2025</td>
+  <td>21:00</td>
 </tr>
 <tr>
   <td>Leticia Lopes</td>
@@ -237,21 +237,22 @@ Nas tabelas 3-8 abaixo, estão definidas todas as etapas executadas do projeto, 
 <font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj) </p></font>
 
 <br>
+
 ### Entrega 3: Modelagem de Requisitos I
 
 <p align="center"><strong>Tabela 5: <i>Cronograma Executado da Entrega 3</i></strong></p>
 | **Atividade** | **Período de Desenvolvimento** | **Responsáveis** | **Período de Revisão** | **Revisores** |
 |:-:|:-:|:-:|:-:|:-:|
-| Atualização do Cronograma | Início: xx/xx <br> Fim: xx/xx |  | Início: xx/xx <br> Fim: xx/xx |  |
-| Refatorações sugeridas pelos monitores | Início: xx/xx <br> Fim: xx/xx |  | Início: xx/xx <br> Fim: xx/xx |  |
-| Criação da Lista de Verificação para Inspeção | Início: xx/xx <br> Fim: xx/xx |  | Início: xx/xx <br> Fim: xx/xx |  |
-| Especificação dos Casos de Uso | Início: xx/xx <br> Fim: xx/xx |  | Início: xx/xx <br> Fim: xx/xx |  |
-| Criação dos Cenários do sistema | Início: xx/xx <br> Fim: xx/xx |  | Início: xx/xx <br> Fim: xx/xx |  |
-| Definição dos Léxicos | Início: xx/xx <br> Fim: xx/xx |  | Início: xx/xx <br> Fim: xx/xx |  |
-| Construção do Diagrama de Caso de Uso | Início: xx/xx <br> Fim: xx/xx |  | Início: xx/xx <br> Fim: xx/xx |  |
-| Validação do Diagrama de Caso de Uso com um usuário | Início: xx/xx <br> Fim: xx/xx |  | Início: xx/xx <br> Fim: xx/xx |  |
-| Criação da Especificação Suplementar | Início: xx/xx <br> Fim: xx/xx |  | Início: xx/xx <br> Fim: xx/xx |  |
-| Gravação da Apresentação | Início: xx/xx <br> Fim: xx/xx |  | Início: xx/xx <br> Fim: xx/xx |  |
+| Atualização do Cronograma | Início: 03/10 <br> Fim: 06/10 | [Arthur](https://github.com/arthurfernandesj), [Dylan](https://github.com/dylancavalcante) | Início: 06/10 <br> Fim: 06/10 | [Dylan](https://github.com/dylancavalcante) |
+| Refatorações sugeridas pelos monitores | Início: 06/10 <br> Fim: 10/10 | [Eduarda](https://github.com/eduardar0), [Giovana](https://github.com/GiovanaFontesS), [Leticia](https://github.com/leticialopes20), [Arthur](https://github.com/arthurfernandesj) | Início: 10/10 <br> Fim: 10/10 | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| Criação da Lista de Verificação para Inspeção | Início: 11/10 <br> Fim: 12/10 | [Arthur](https://github.com/arthurfernandesj), [Breno](https://github.com/BrenoLTeixeira), [Dylan](https://github.com/dylancavalcante), [Eduarda](https://github.com/eduardar0), [Giovana](https://github.com/GiovanaFontesS), [Leticia](https://github.com/leticialopes20) | Início: 11/10 <br> Fim: 11/10 | [Leticia Lopes](https://github.com/leticialopes20) |
+| Especificação dos Casos de Uso | Início: 08/10 <br> Fim: 11/10 | [Arthur](https://github.com/arthurfernandesj), [Breno](https://github.com/BrenoLTeixeira), [Dylan](https://github.com/dylancavalcante), [Eduarda](https://github.com/eduardar0), [Giovana](https://github.com/GiovanaFontesS), [Leticia](https://github.com/leticialopes20) | Início: 11/10 <br> Fim: 12/10 | [Eduarda](https://github.com/eduardar0) |
+| Criação dos Cenários do sistema | Início: 06/10 <br> Fim: 08/10 | [Arthur](https://github.com/arthurfernandesj), [Breno](https://github.com/BrenoLTeixeira), [Dylan](https://github.com/dylancavalcante), [Eduarda](https://github.com/eduardar0), [Giovana](https://github.com/GiovanaFontesS), [Leticia](https://github.com/leticialopes20) | Início: 08/10 <br> Fim: 08/10 | [Leticia Lopes](https://github.com/leticialopes20) |
+| Definição dos Léxicos | Início: 06/10 <br> Fim: 12/10 | [Arthur](https://github.com/arthurfernandesj), [Breno](https://github.com/BrenoLTeixeira), [Dylan](https://github.com/dylancavalcante), [Eduarda](https://github.com/eduardar0), [Giovana](https://github.com/GiovanaFontesS), [Leticia](https://github.com/leticialopes20) | Início: 12/10 <br> Fim: 12/10 | [Giovana](https://github.com/GiovanaFontesS) |
+| Construção do Diagrama de Caso de Uso | Início: 08/10 <br> Fim: 09/10 | [Arthur](https://github.com/arthurfernandesj), [Breno](https://github.com/BrenoLTeixeira), [Dylan](https://github.com/dylancavalcante), [Eduarda](https://github.com/eduardar0), [Giovana](https://github.com/GiovanaFontesS), [Leticia](https://github.com/leticialopes20) | Início: 09/10 <br> Fim: 10/10 | [Breno](https://github.com/BrenoLTeixeira) |
+| Validação do Diagrama de Caso de Uso com um usuário | Início: 24/11 <br> Fim: 24/11| [Arthur](https://github.com/arthurfernandesj), [Breno](https://github.com/BrenoLTeixeira), [Dylan](https://github.com/dylancavalcante), [Eduarda](https://github.com/eduardar0), [Giovana](https://github.com/GiovanaFontesS), [Leticia](https://github.com/leticialopes20) | Início: 24/11 <br> Fim: 24/11 | [Giovana](https://github.com/GiovanaFontesS) |
+| Criação da Especificação Suplementar | Início: 09/10 <br> Fim: 11/10 | [Arthur](https://github.com/arthurfernandesj), [Breno](https://github.com/BrenoLTeixeira), [Dylan](https://github.com/dylancavalcante), [Eduarda](https://github.com/eduardar0), [Giovana](https://github.com/GiovanaFontesS), [Leticia](https://github.com/leticialopes20) | Início: 11/10 <br> Fim: 12/10 | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| Gravação da Apresentação | Início: 12/10 <br> Fim: 12/10 | [Arthur](https://github.com/arthurfernandesj), [Breno](https://github.com/BrenoLTeixeira), [Dylan](https://github.com/dylancavalcante), [Eduarda](https://github.com/eduardar0), [Giovana](https://github.com/GiovanaFontesS), [Leticia](https://github.com/leticialopes20) | Início: 12/11 <br> Fim: 12/11 | [Dylan](https://github.com/dylancavalcante) |
 
 <font size="2"><p style="text-align: center">Fonte: [Leticia Lopes](https://github.com/leticialopes20)</p></font>
 
@@ -276,11 +277,11 @@ Nas tabelas 3-8 abaixo, estão definidas todas as etapas executadas do projeto, 
 
 | **Atividade** | **Período de Desenvolvimento** | **Responsáveis** | **Período de Revisão** | **Revisores** |
 |:-:|:-:|:-:|:-:|:-:|
-| Verificação: Listas de Verificação | Início: xx/xx <br> Fim: xx/xx |  | Início: xx/xx <br> Fim: xx/xx |  |
-| Verificação: Inspeção dos Artefatos | Início: xx/xx <br> Fim: xx/xx |  | Início: xx/xx <br> Fim: xx/xx |  |
-| Validação: Prototipação | Início: xx/xx <br> Fim: xx/xx |  | Início: xx/xx <br> Fim: xx/xx |  |
-| Validação: Comprovação Informal | Início: xx/xx <br> Fim: xx/xx |  | Início: xx/xx <br> Fim: xx/xx |  |
-| Gravar apresentação | Início: xx/xx <br> Fim: xx/xx |  | Início: xx/xx <br> Fim: xx/xx |  |
+| Verificação: Listas de Verificação | Início: 10/11 <br> Fim: 11/11 | [Arthur](https://github.com/arthurfernandesj), [Breno](https://github.com/BrenoLTeixeira), [Dylan](https://github.com/dylancavalcante), [Eduarda](https://github.com/eduardar0), [Giovana](https://github.com/GiovanaFontesS), [Leticia](https://github.com/leticialopes20)  | Início: 11/11 <br> Fim: 12/11 | [Arthur](https://github.com/arthurfernandesj) |
+| Verificação: Inspeção dos Artefatos | Início: 12/11 <br> Fim: 12/11 | [Arthur](https://github.com/arthurfernandesj), [Breno](https://github.com/BrenoLTeixeira), [Dylan](https://github.com/dylancavalcante), [Eduarda](https://github.com/eduardar0), [Giovana](https://github.com/GiovanaFontesS), [Leticia](https://github.com/leticialopes20)  | Início: 12/11 <br> Fim: 12/11 | [Eduarda](https://github.com/eduardar0) |
+| Validação: Prototipação | Início: 10/11 <br> Fim: 12/11 | [Arthur](https://github.com/arthurfernandesj), [Breno](https://github.com/BrenoLTeixeira), [Dylan](https://github.com/dylancavalcante), [Eduarda](https://github.com/eduardar0), [Giovana](https://github.com/GiovanaFontesS), [Leticia](https://github.com/leticialopes20)  | Início: 12/11 <br> Fim: 12/11 | [Giovana](https://github.com/GiovanaFontesS) |
+| Validação: Comprovação Informal | Início: 31/10 <br> Fim: 12/11 | [Arthur](https://github.com/arthurfernandesj) | Início: 12/11 <br> Fim: 12/11 | [Dylan](https://github.com/dylancavalcante) |
+| Gravar apresentação | Início: 12/11 <br> Fim: 12/11 | [Arthur](https://github.com/arthurfernandesj), [Breno](https://github.com/BrenoLTeixeira), [Dylan](https://github.com/dylancavalcante), [Eduarda](https://github.com/eduardar0), [Giovana](https://github.com/GiovanaFontesS), [Leticia](https://github.com/leticialopes20)  | Início: 12/11 <br> Fim: 12/11 | [Leticia](https://github.com/leticialopes20) |
 
 <font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj) </p></font>
 
@@ -305,4 +306,5 @@ Tabela 8: *Cronograma Executado da Entrega 6*
 |:-----: | :--------: | :------------------------------- | :---------- | :---------- |
 | `1.0`    | 15/11/2025 | Criação da página da Execução | [Arthur Fernandes](https://github.com/arthurfernandesj)   | [Giovana Fontes](https://github.com/GiovanaFontesS) |
 | `1.1`    | 16/11/2025 | Tabela de Resumo da Execução do Projeto | [Arthur Fernandes](https://github.com/arthurfernandesj)  | [Leticia Lopes](https://github.com/leticialopes20) |
+| `1.2` | 23/11/2025 | Cronograma de execução entrega 3 e 5 | [Giovana Fontes](https://github.com/GiovanaFontesS)   | [Arthur Fernandes](https://github.com/arthurfernandesj)  |
 

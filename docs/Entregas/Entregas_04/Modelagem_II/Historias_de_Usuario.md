@@ -759,6 +759,26 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
   </font>
   
 ---
+### Gravação 4 - Validação Breno e Eduarda
+
+<p style="text-align: center">
+  <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/VlDxKdXEkJw" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+  </iframe>
+</p>
+
+<font size="3">
+  <p style="text-align: center">
+    <b>Fonte:</b> <a href="https://github.com/eduardar0">Eduarda Domingos</a>, 2025
+  </p>
+</font>
+  
+---
 
 ##  Referências Bibliográficas
 

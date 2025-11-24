@@ -5,57 +5,6 @@
 Esta página tem como objetivo agrupar todas as gravações relacionadas ao processo de elicitação de requisitos do projeto, bem como seus respectivos usos dentro do projeto, organizadas por etapa.
 
 
-## Cronograma de Participantes
-
-<font size="3"><p style="text-align: center">Tabela 1: Cronograma de Participantes</p></font>
-
-<div align="center">
-
-<table>
-  <thead>
-    <tr>
-      <th>Nome</th>
-      <th>Data</th>
-      <th>Hora</th>
-    </tr>
-  </thead>
-  <tbody>
- <tr>
-  <td>Arthur Fernandes</td>
-  <td>16/11/2025</td>
-  <td>12:47</td>
-</tr>
-<tr>
-  <td>Breno Lourenço</td>
- <td>xx/11/2025</td>
-  <td>00:00</td>
-</tr>
-<tr>
-  <td>Dylan Cavalcante</td>
-  <td>xx/11/2025</td>
-  <td>00:00</td>
-</tr>
-<tr>
-  <td>Eduarda Domingos</td>
-  <td>xx/11/2025</td>
-  <td>00:00</td>
-</tr>
-<tr>
-  <td>Giovana Fontes</td>
- <td>xx/11/2025</td>
-  <td>00:00</td>
-</tr>
-<tr>
-  <td>Leticia Lopes</td>
-  <td>xx/11/2025</td>
-  <td>00:00</td>
-</tr>
-  </tbody>
-</table>
-
-</div>
-
-<font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj) </p></font>
 
 ## Atas
 
@@ -271,6 +220,188 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
           allowfullscreen>
   </iframe>
 </div>
+
+## Inspeção
+
+### Entrega 1
+<font size="3"><p style="text-align: center">Tabela 17: Inspeção Entrega 1</p></font>
+
+| Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
+| :-: | :-: | :-: | :-: | :-: | :-: | 
+| ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
+
+<p align="center"> 
+<iframe width="560" height="315" 
+          src="https://www.youtube.com/embed/mn22MRRCZZ4" 
+          title="YouTube video player" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+          referrerpolicy="strict-origin-when-cross-origin" 
+          allowfullscreen>
+  </iframe>
+</p>
+
+#### Grupo+1
+
+<font size="3"><p style="text-align: center">Tabela 18: Inspeção n+1 Entrega 1</p></font>
+
+| Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
+| :-: | :-: | :-: | :-: | :-: | :-: | 
+| ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
+<p align="center"> 
+<iframe width="560" height="315" 
+          src="https://www.youtube.com/embed/ukdPft-PSpA" 
+          title="YouTube video player" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+          referrerpolicy="strict-origin-when-cross-origin" 
+          allowfullscreen>
+  </iframe>
+</p>
+
+### Entrega 2
+<font size="3"><p style="text-align: center">Tabela 19: Inspeção Entrega 2</p></font>
+
+| Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
+| :-: | :-: | :-: | :-: | :-: | :-: | 
+| ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
+
+<div align="center">
+  <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/SRi4wsWBctY"
+          title="Sessão Lista de Verificação Equipe"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+  </iframe>
+</div>
+
+#### Grupo+1
+
+<font size="3"><p style="text-align: center">Tabela 20: Inspeção n+1 Entrega 2</p></font>
+
+| Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
+| :-: | :-: | :-: | :-: | :-: | :-: | 
+| ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
+
+<p align="center">
+<iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/eDnUZfB7iK8" 
+        title="YouTube video player" frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen>
+</iframe>
+</p>
+
+### Entrega 3
+
+<font size="3"><p style="text-align: center">Tabela 21: Inspeção Entrega 3</p></font>
+
+| Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
+| :-: | :-: | :-: | :-: | :-: | :-: | 
+| ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
+
+<p align="center">
+<iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/eDnUZfB7iK8" 
+        title="YouTube video player" frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen>
+</iframe>
+</p>
+
+#### Grupo+1
+
+<font size="3"><p style="text-align: center">Tabela 22: Inspeção n+1 Entrega 3</p></font>
+
+| Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
+| :-: | :-: | :-: | :-: | :-: | :-: | 
+| ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
+
+<p align="center">
+<iframe width="560" height="315" 
+        src="https://youtu.be/wzeREMzFs6M" 
+        title="YouTube video player" frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen>
+</iframe>
+</p>
+
+### Entrega 4
+
+<font size="3"><p style="text-align: center">Tabela 23: Inspeção Entrega 4</p></font>
+
+| Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
+| :-: | :-: | :-: | :-: | :-: | :-: | 
+| ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
+
+<p align="center">
+<iframe width="560" height="315" 
+        src="https://youtu.be/NZ47w1XCKHg" 
+        title="YouTube video player" frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen>
+</iframe>
+</p>
+
+#### Grupo+1
+
+<font size="3"><p style="text-align: center">Tabela 24: Inspeção n+1 Entrega 4</p></font>
+
+| Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
+| :-: | :-: | :-: | :-: | :-: | :-: | 
+| ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
+
+<p align="center">
+<iframe width="560" height="315" 
+        src="https://youtu.be/ftiXP1UaDqU" 
+        title="YouTube video player" frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen>
+</iframe>
+</p>
+
+### Entrega 6
+<font size="3"><p style="text-align: center">Tabela 25: Inspeção Entrega 6</p></font>
+
+| Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
+| :-: | :-: | :-: | :-: | :-: | :-: | 
+| ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
+
+<p align="center">
+<iframe width="560" height="315" 
+        src="https://youtu.be/wHQ02EF-WGY" 
+        title="YouTube video player" frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen>
+</iframe>
+</p>
+
+
+
+#### Grupo+1
+
+<font size="3"><p style="text-align: center">Tabela 26: Inspeção n+1 Entrega 6</p></font>
+
+| Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
+| :-: | :-: | :-: | :-: | :-: | :-: | 
+| ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
+
+<p align="center">
+<iframe width="560" height="315" 
+        src="https://youtu.be/Uc70L-51jYw" 
+        title="YouTube video player" frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen>
+</iframe>
+</p>
 
 
 ## Elicitação
@@ -620,3 +751,9 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
   </iframe>
 </div>
 
+## Histórico de Versões
+
+| Versão | Data       | Descrição                                                        | Autor(es)                                                                 | Revisor(es)  |
+|:-----: | :--------: | :-------------------------------------------------------------- | :------------------------------------------------------------------------ | :---------- |
+| `1.0`    | 16/11/2025 | Criação da página de Vídeos do Projeto                          | [Arthur Fernandes](https://github.com/arthurfernandesj)                                  | [Dylan Cavalcante](https://github.com/dylancavalcante)           |
+| `1.1`    | 24/11/2025 | Adição de informações na página e finalização do documento |[Letícia Lopes](https://github.com/leticialopes20)                                | [Dylan Cavalcante](https://github.com/dylancavalcante)           |

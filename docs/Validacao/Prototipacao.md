@@ -135,6 +135,20 @@ A validação ocorreu em **12/11/2025**, com o objetivo de verificar se as novas
           allowfullscreen>
   </iframe>
 
+  <br>
+
+  <p style="text-align: center">
+    <a href="https://www.youtube.com/shorts/mOrjC5-wH_w" target="_blank"><b>Vídeo 4:</b> Validação</a>
+  </p>
+
+  <iframe width="315" height="560"
+          src="https://www.youtube.com/embed/mOrjC5-wH_w"
+          title="Validação"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+  </iframe>
+
   <font size="3">
     <p style="text-align: center">
       <b>Fontes:</b> <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, 2025

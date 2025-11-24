@@ -44,4 +44,4 @@ Até o momento da entrega final do projeto, posterior à entrega dos artefatos d
 
 | Versão |    Data    |       Descrição      |                                          Autor(es)                                         |                  Revisor(es)                  |
 | :----: | :--------: | :------------------: | :----------------------------------------------------------------------------------------: | :-------------------------------------------: |
-|  `1.0` | 31/10/2025 | Criação do documento | [Arthur Fernandes](https://github.com/arthurfernandesj) e [Dylan Cavalcante](https://github.com/dylancavalcante) |
+|  `1.0` | 31/10/2025 | Criação do documento | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Dylan Cavalcante](https://github.com/dylancavalcante)

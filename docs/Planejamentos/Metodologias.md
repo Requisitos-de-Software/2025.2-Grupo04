@@ -49,13 +49,13 @@ O **Scrum** é baseado em pilares fundamentais:
 
 O projeto será desenvolvido em **7 sprints**, conforme cronograma:
 
-1. **Sprint 1:** Planejamento do Projeto (02/09 a 09/09)
-2. **Sprint 2:** Elicitação de Requisitos (10/09 a 30/09)
-3. **Sprint 3:** Modelagem Inicial (16/09 a 02/10)
-4. **Sprint 4:** Modelagem Ágil (30/09 a 21/10)
-5. **Sprint 5:** Pós-Rastreabilidade (16/10 a 30/10)
-6. **Sprint 6:** Análise de Requisitos (11/11 a 13/11)
-7. **Sprint 7:** Projeto Final (18/11 a 25/11)
+1. Entrega 1: **Sprint 1:** Planejamento do Projeto (02/09 a 09/09)
+2. Entrega 2: **Sprint 2:** Elicitação de Requisitos (10/09 a 30/09)
+3. Entrega 3: **Sprint 3:** Modelagem Inicial (16/09 a 02/10)
+4. Entrega 4: **Sprint 4:** Modelagem Ágil (30/09 a 21/10)
+5. Entrega 5: **Sprint 5:** Pós-Rastreabilidade (16/10 a 30/10)
+6. Entrega 6: **Sprint 6:** Análise de Requisitos (11/11 a 13/11)
+7. Entrega final: **Sprint 7:** Projeto Final (18/11 a 25/11)
 
 Cada sprint terá objetivos claros, responsáveis definidos e entregáveis documentados, seguindo o ciclo iterativo do Scrum.
 
@@ -69,11 +69,11 @@ Cada sprint terá objetivos claros, responsáveis definidos e entregáveis docum
 -   Melhor comunicação e colaboração entre os integrantes da equipe.
 -   Entregas contínuas e revisões frequentes, garantindo qualidade do produto final.
 
-## 📚 Referências Bibliográficas
+## Bibliografia
 
 > AMAZON WEB SERVICES. What is Scrum? [Seattle, WA]: Amazon Web Services, c2025. Disponível em: <a href="https://aws.amazon.com/pt/what-is/scrum/">https://aws.amazon.com/pt/what-is/scrum/</a>. Acesso em: 8 set. 2025.
 
-## 📝 Histórico de Versões – Metodologia
+## Histórico de Versões 
 
 | Versão | Data       | Descrição                                                                             | Autor(es)                                 | Revisor(es)                                  |
 | ------ | ---------- | ------------------------------------------------------------------------------------- | ----------------------------------------- | -------------------------------------------- |

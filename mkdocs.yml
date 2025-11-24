@@ -49,7 +49,7 @@ nav:
 
   - Planejamento:
       - Aplicativo: Planejamentos/Aplicativo.md
-      - Aplicativo Avaliado: Planejamentos/Aplicativos_Avaliados.md
+      - Aplicativos Avaliados: Planejamentos/Aplicativos_Avaliados.md
       - Cronograma: Planejamentos/Cronograma.md
       - Cronograma executado: Planejamentos/cronograma_executado.md
       - Ferramentas: Planejamentos/Ferramentas.md
@@ -69,6 +69,7 @@ nav:
           - Ata 09 (06/10): Encontros/atas/ata_08_10.md
           - Ata 10 (17/10): Encontros/atas/ata_17_10.md
           - Ata 11 (10/11): Encontros/atas/ata_nov_10.md
+          - Ata 12 (16/11): Encontros/atas/ata_nov_16.md
 
   - Entregas:
       - Entrega 01:
@@ -134,10 +135,7 @@ nav:
               - Inspeção: Entregas/Entregas_05/verificacao_inspecao/inspecao_grupo04.md
               - Verificação grupo n+1: Entregas/Entregas_05/verificacao_inspecao/verificacao_grupo05.md
 
-
-      - Entrega Final:
-          - Conclusão: Entregas/Entrega-Final/Conclusao.md
-          - Anexos: Entregas/Entrega-Final/Anexos.md
+              
 
   - Verificação final:
       - Planejamento Geral: Verificacao/Planejamento_Geral.md
@@ -167,7 +165,7 @@ nav:
           - Product Backlog: Verificacao/Entrega_04/Product_Backlog.md
 
   - Validação final:
-      - Protótipação: Validacao/Prototipacao.md
+      - Prototipação: Validacao/Prototipacao.md
       - Comprovação Informal: Validacao/Comprovacao_Informal.md
 
 

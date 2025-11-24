@@ -18,7 +18,8 @@
 
 ## Gravação
 
-[![Assista à gravação]()]()
+[![Assista à gravação](https://img.youtube.com/vi/WeSr_uN6Vmw/hqdefault.jpg)](https://youtu.be/WeSr_uN6Vmw)
+
 
 ## 1. Atribuições da ultima reunião 
 

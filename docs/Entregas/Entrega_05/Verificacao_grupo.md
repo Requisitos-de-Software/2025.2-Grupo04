@@ -25,9 +25,9 @@ A verificação foi realizada utilizando uma lista de critérios de avaliação,
 | 5 - O cronograma prevê cada uma das técnicas de elicitação de requisitos que serão usadas no projeto? |  [André Barros](#RP4) | Conforme | | | --  |
 | 6 - O cronograma prevê cada uma das técnicas de priorização de requisitos que serão usadas no projeto? |  [André Barros](#RP4) | Conforme | | | --  |
 | 7 - A motivação e os critérios para a escolha do App? |  [André Barros](#RP4) | Conforme | | | --  |
-| 8 - Cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina. | André Barros Sales | Conforme| | | --  |
+| 8 - Cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina. | [André Barros](#RP4) | Conforme| | | --  |
 | 9 - Possui opção de contraste de cores? |  [André Barros](#RP4) | Conforme | | | --  |
-| 10 - Uma página com as atas de reunião com o acesso a gravação (vídeo), quando houver. | André Barros Sales | Conforme| | | --  |
+| 10 - Uma página com as atas de reunião com o acesso a gravação (vídeo), quando houver. | [André Barros](#RP4) | Conforme| | | --  |
 
 Fonte: 
 
@@ -173,7 +173,7 @@ Fonte:
 | 13 - Possui um tópico de agradecimento informando o uso de Inteligência Artificial (IA) Generativa no documento dos Léxicos? |  [André Barros](#RP4) | Conforme | | | --  |
 | 14 - Possui um tópico de agradecimento informando o uso de Inteligência Artificial (IA) Generativa no documento dos Cenários? |  [André Barros](#RP4) | Conforme | | | --  |
 | 15 - Possui um tópico de agradecimento informando o uso de Inteligência Artificial (IA) Generativa no documento da Especificação Suplementar? | [André Barros](#RP4) | Conforme | | | --  |
-| 16 - Itens de verificação do conteúdo da disciplina dessa etapa elaborados pela equipe com referência bibliográfica da fonte, foto do texto da referência e autor? |  [André Barros](#RP4) | Conforme | | | --  |
+| 16 - Itens de verificação do conteúdo da disciplina dessa etapa elaborados pela equipe com referência bibliográfica da fonte, foto do texto da referência e autor? |  [André Barros](#RP4) | Conforme | | |   |
 
 Fonte: 
 

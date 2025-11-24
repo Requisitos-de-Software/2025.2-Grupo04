@@ -61,7 +61,7 @@ Com o objetivo de assegurar maior organização, eficiência na comunicação e 
 >
 > <a id="FRM16" href="#anchor_16">16.</a> CAPCUT. CapCut. [S.l.]: ByteDance, c2025. Disponível em: <a href="https://www.capcut.com/pt-br">https://www.capcut.com/pt-br</a>. Acesso em: 29 set. 2025.
 
-## Histórico de Versões 📅
+## Histórico de Versões 
 
 | Versão |    Data    |                       Descrição                        |                      Autor(es)                      |                       Revisor(es)                       |
 | :----: | :--------: | :----------------------------------------------------: | :-------------------------------------------------: | :-----------------------------------------------------: |

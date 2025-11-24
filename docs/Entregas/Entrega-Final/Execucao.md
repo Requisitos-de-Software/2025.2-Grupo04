@@ -9,15 +9,15 @@ Esta seção detalha o processo de escolha do app para ser trabalhado ao longo d
 
 A Tabela 1 apresenta os aplicativos escolhidos por cada integrante para desenvolvimento.
 
-| Nome              | GitHub                                                | Aplicativo |
-|------------------|-------------------------------------------------------|------------|
-| Arthur Fernandes | [arthurfernandesj](https://github.com/arthurfernandesj) | [Metro DF](https://play.google.com/store/apps/details?id=br.gov.df.metroapp&hl=pt_BR) |
-| Breno Teixeira   | [brenolourencoo](https://github.com/BrenoLTeixeira)     | [Moodle](https://play.google.com/store/apps/details?id=com.moodle.moodlemobile&hl=pt_BR) |
-| Danilo Melo      | [danilomelo01](https://github.com/)         | [Carteira Digital de Trânsito](https://play.google.com/store/apps/details?id=br.gov.serpro.cnhe&hl=pt_BR) |
-| Dylan Cavalcante | [dylancavalcante](https://github.com/dylancavalcante)   | [VsCode](https://code.visualstudio.com/download) |
-| Eduarda Domingos | [eduardadomingos](https://github.com/eduardar0)   | [Meu INSS](https://play.google.com/store/apps/details?id=br.gov.dataprev.meuinss&hl=pt_BR) |
-| Giovana Fontes   | [giovanaf](https://github.com/GiovanaFontesS)                 | [CIN](https://play.google.com/store/apps/details?id=com.identidadenacional&hl=pt_BR) |
-| Leticia Lopes    | [leticialopes](https://github.com/leticialopes20)         | [CadÚnico](https://play.google.com/store/apps/details?id=br.gov.dataprev.meucadunico&hl=pt_BR) |
+| Nome                                                                 | Aplicativo |
+|----------------------------------------------------------------------|------------|
+| [Arthur Fernandes](https://github.com/arthurfernandesj)              | [Metro DF](https://play.google.com/store/apps/details?id=br.gov.df.metroapp&hl=pt_BR) |
+| [Breno Teixeira](https://github.com/BrenoLTeixeira)                  | [Moodle](https://play.google.com/store/apps/details?id=com.moodle.moodlemobile&hl=pt_BR) |
+| [Danilo Melo](https://github.com/danilomelo01)                       | [Carteira Digital de Trânsito](https://play.google.com/store/apps/details?id=br.gov.serpro.cnhe&hl=pt_BR) |
+| [Dylan Cavalcante](https://github.com/dylancavalcante)               | [VsCode](https://code.visualstudio.com/download) |
+| [Eduarda Domingos](https://github.com/eduardar0)                     | [Meu INSS](https://play.google.com/store/apps/details?id=br.gov.dataprev.meuinss&hl=pt_BR) |
+| [Giovana Fontes](https://github.com/GiovanaFontesS)                  | [CIN](https://play.google.com/store/apps/details?id=com.identidadenacional&hl=pt_BR) |
+| [Leticia Lopes](https://github.com/leticialopes20)                   | [CadÚnico](https://play.google.com/store/apps/details?id=br.gov.dataprev.meucadunico&hl=pt_BR) |
 
 
 ## Projeto Atual

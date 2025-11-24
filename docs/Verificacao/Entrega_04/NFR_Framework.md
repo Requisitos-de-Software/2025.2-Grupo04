@@ -241,10 +241,9 @@ Após a análise da primeira versão da tabela de verificação referente ao NFR
 | 1.2 | 21/11/2025 | Correção das Referências Bibliográficas | [Breno Teixeira](https://github.com/BrenoLteixeira) | [Leticia Maria](https://github.com/Leticialopes20) |
 | 1.3 | 21/11/2025 | Refinamento para a entrega final | [Breno Teixeira](https://github.com/BrenoLteixeira) | [Leticia Maria](https://github.com/Leticialopes20) |
 
-## Agradecimentos 
+## Agradecimentos
 
-
-Queremos agradecer ao Gemini, ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto ID Jovem. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+Queremos agradecer ao [Chat GPT](https://chatgpt.com/), ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto ID Jovem. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
 
 De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
 Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.

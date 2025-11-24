@@ -4,7 +4,7 @@ Após o planejamento da verificação, foi iniciada a inspeção do artefato [Hi
 
 <p style="text-align: justify;">Durante a verificação, foram observados critérios como clareza, rastreabilidade, participação de personas e definição de critérios de aceitação, com base nas orientações de (VAZQUEZ; SIMÕES, 2016) <a href="#RP1">[1]</a>. O processo teve como objetivo principal avaliar a completude e a consistência das histórias, garantindo que o artefato esteja alinhado às boas práticas de Engenharia de Requisitos e às necessidades dos stakeholders.</p>
 
-<small><em>Revisado por [Gemini](https://gemini.google.com/), em 12 de Novembro 2025</em></small>
+<small><em>Revisado por [Chat GPT](https://chatgpt.com/), em 12 de Novembro 2025</em></small>
 
 
 ## Objetivo 
@@ -132,9 +132,9 @@ O artefato <b>Histórias de Usuário</b> apresenta um nível elevado de conformi
 
 
 ## Agradecimentos
-Queremos agradecer ao Gemini, ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto ID Jovem. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+Queremos agradecer ao [Chat GPT](https://chatgpt.com/), ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto ID Jovem. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
 
 De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
 Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.
-
 

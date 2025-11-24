@@ -2,7 +2,7 @@
 
 Com o objetivo de garantir a qualidade e a consistência do artefato [Product Backlog](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_04/Modelagem_II/Product_Backlog/), foi realizada uma verificação seguindo as diretrizes estabelecidas no planejamento da entrega. O processo avaliou a completude, clareza, rastreabilidade e conformidade do documento com as boas práticas de documentação ágil.
 
-<small><em>Revisado por [Gemini](https://gemini.google.com/), em 12 de Novembro 2025</em></small>
+<small><em>Revisado por [Chat GPT](https://chatgpt.com/), em 12 de Novembro 2025</em></small>
 
 
 ## Objetivo 
@@ -167,10 +167,9 @@ O artefato <b>Product Backlog</b> cumpre seu objetivo principal de organizar os 
 | 1.5 | 21/11/2025 | Refinamento para a entrega final | [Breno Teixeira](https://github.com/BrenoLteixeira) | [Leticia Lopes](https://github.com/Leticialopes20) |
 
 
-
 ## Agradecimentos
 
-Queremos agradecer ao Gemini, ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto ID Jovem. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+Queremos agradecer ao [Chat GPT](https://chatgpt.com/), ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto ID Jovem. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
 
 De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
 Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.

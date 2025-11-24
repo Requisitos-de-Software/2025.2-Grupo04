@@ -29,9 +29,9 @@ Nesta seção, cada integrante da equipe compartilha, de forma individual, as pr
   <td>16:00</td>
 </tr>
 <tr>
-  <td>Breno Lourenço</td>
- <td>xx/11/2025</td>
-  <td>00:00</td>
+  <td>Breno Teixeira</td>
+ <td>23/11/2025</td>
+  <td>22:00</td>
 </tr>
 <tr>
   <td>Dylan Cavalcante</td>
@@ -64,8 +64,12 @@ Nesta seção, cada integrante da equipe compartilha, de forma individual, as pr
 ### Arthur Fernandes
 
 
-### Breno Lourenço
+### Breno Teixeira
+ Essa disciplina me proporcionou bastante experiência e aprendizado. Foi um pouco desafiadora, especialmente no início, quando enfrentamos diversas dificuldades, desde a escolha do aplicativo até a organização do grupo. Porém, no geral, tudo deu certo. Depois que nos alinhamos como equipe, o trabalho começou a fluir e a gerar muitos resultados.
 
+Percebia que, a cada novo artefato produzido, havia uma melhoria clara em relação ao anterior, mostrando a evolução de todos do grupo. Com certeza, foi uma experiência muito gratificante. Pude ter uma noção de como será minha vivência quando eu entrar no mercado de trabalho. Além disso, a disciplina criou um grande vínculo entre nós e fortaleceu a amizade entre os integrantes.
+
+Agradeço ao professor e aos monitores por toda a ajuda, pelos materiais de estudo e pelo apoio ao longo do processo.
 
 ### Dylan Cavalcante 
 
@@ -99,3 +103,4 @@ Nesta seção, cada integrante da equipe compartilha, de forma individual, as pr
 | `1.1`    | 16/11/2025 | Introdução da página| [Arthur Fernandes](https://github.com/arthurfernandesj)   | [Leticia Lopes](https://github.com/leticialopes20) |
 | `1.2`    | 23/11/2025 | Adição de consideração|[Leticia Lopes](https://github.com/leticialopes20)  |[Arthur Fernandes](https://github.com/arthurfernandesj) |
 |  `1.3` | 23/11/2025 | Adição de consideração | [Giovana Fontes](https://github.com/GiovanaFontesS)   | [Leticia Lopes](https://github.com/leticialopes20) |
+|  `1.4` | 23/11/2025 | Adição de consideração | [Breno Teixeira](https://github.com/Brenolteixeira)   | [Leticia Lopes](https://github.com/leticialopes20) |

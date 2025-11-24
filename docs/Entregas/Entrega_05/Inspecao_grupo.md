@@ -191,4 +191,4 @@ Fonte: [Giovana Fontes](https://github.com/GiovanaFontesS)
 |  `1.0` | 12/11/2025 | Criação do documento |[Giovana Fontes](https://github.com/GiovanaFontesS) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
 | `1.1` | 21/11/2025 | Correção de listas |  [Giovana Fontes](https://github.com/GiovanaFontesS) |  [Dylan Cavalcante](https://github.com/dylancavalcante) |
 | `1.2` | 23/11/2025 | Correção de listas |  [Dylan Cavalcante](https://github.com/dylancavalcante) | [Giovana Fontes](https://github.com/GiovanaFontesS) |
-|`1.3` | 24/11/2025 | Prints e referencias |  [Giovana Fontes](https://github.com/GiovanaFontesS) |  [Dylan Cavalcante](https://github.com/dylancavalcante) |
+|`1.3` | 24/11/2025 |Adição de print e referencias  |  [Giovana Fontes](https://github.com/GiovanaFontesS) |  [Dylan Cavalcante](https://github.com/dylancavalcante) |

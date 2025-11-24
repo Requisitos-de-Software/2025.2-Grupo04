@@ -186,14 +186,15 @@ A estratégia de planejamento consistiu na verificação de cada artefato por um
     <td>Arthur, Breno, Dylan, Eduarda, Giovana e Letícia</td>
     <td>Giovana</td>
   </tr>
-</table>
 
   <tr>
     <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_04/Modelagem_II/Historias_de_Usuario/">Histórias de Usuário</a></td>
     <td>Arthur, Breno, Dylan, Eduarda, Giovana e Letícia</td>
     <td>Dylan</td>
   </tr>
+  
 </table>
+
 
 <p style="text-align: center; font-size: 12px;">
   Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a>

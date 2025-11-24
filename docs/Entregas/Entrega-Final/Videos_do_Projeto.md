@@ -71,11 +71,7 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 | :-: | :-: | :-: | :-: | :-: | :-: | 
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
 
-<p style="text-align: center;">
-  <a href="https://youtu.be/2DxkWr56Qx0?feature=shared">
-    <img src="https://img.youtube.com/vi/2DxkWr56Qx0/0.jpg" alt="Assista à gravação">
-  </a>
-</p>
+[![Assista à gravação](https://img.youtube.com/vi/2DxkWr56Qx0/0.jpg)](https://youtu.be/2DxkWr56Qx0?feature=shared)
 
 ### ata_07_09.md
 
@@ -85,11 +81,7 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 | :-: | :-: | :-: | :-: | :-: | :-: | 
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
 
-<p style="text-align: center;">
-  <a href="https://youtu.be/XKo2GFpkWQo">
-    <img src="https://img.youtube.com/vi/XKo2GFpkWQo/hqdefault.jpg" alt="Assista à gravação">
-  </a>
-</p>
+[![Assista à gravação](https://img.youtube.com/vi/XKo2GFpkWQo/hqdefault.jpg)](https://youtu.be/XKo2GFpkWQo)
 
 ### ata_08_09.md
 
@@ -99,11 +91,7 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 | :-: | :-: | :-: | :-: | :-: | :-: | 
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
 
-<p style="text-align: center;">
-  <a href="https://youtu.be/mn22MRRCZZ4">
-    <img src="https://img.youtube.com/vi/mn22MRRCZZ4/hqdefault.jpg" alt="Assista à gravação">
-  </a>
-</p>
+[![Assista à gravação](https://img.youtube.com/vi/mn22MRRCZZ4/hqdefault.jpg)](https://youtu.be/mn22MRRCZZ4)
 
 ### ata_15_09.md
 
@@ -113,11 +101,7 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 | :-: | :-: | :-: | :-: | :-: | :-: | 
 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | 
 
-<p style="text-align: center;">
-  <a href="https://youtu.be/QfbpWL-Z-Os">
-    <img src="https://img.youtube.com/vi/QfbpWL-Z-Os/hqdefault.jpg" alt="Assista à gravação">
-  </a>
-</p>
+[![Assista à gravação](https://img.youtube.com/vi/QfbpWL-Z-Os/hqdefault.jpg)](https://youtu.be/QfbpWL-Z-Os)
 
 ### ata_22_09.md
 
@@ -127,11 +111,8 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 | :-: | :-: | :-: | :-: | :-: | :-: | 
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
 
-<p style="text-align: center;">
-  <a href="https://youtu.be/7Pi0oaS3-u0">
-    <img src="https://img.youtube.com/vi/7Pi0oaS3-u0/hqdefault.jpg" alt="Assista à gravação">
-  </a>
-</p>
+[![Assista à gravação](https://img.youtube.com/vi/7Pi0oaS3-u0/hqdefault.jpg)](https://youtu.be/7Pi0oaS3-u0)
+
 
 ### ata_23_09.md
 
@@ -141,11 +122,7 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 | :-: | :-: | :-: | :-: | :-: | :-: | 
 | ✅ | ❌ | ✅ | ❌ | ✅ | ❌| 
 
-<p style="text-align: center;">
-  <a href="https://youtu.be/9Bm_P6RLT3g">
-    <img src="https://img.youtube.com/vi/9Bm_P6RLT3g/hqdefault.jpg" alt="Assista à gravação">
-  </a>
-</p>
+[![Assista à gravação](https://img.youtube.com/vi/9Bm_P6RLT3g/hqdefault.jpg)](https://youtu.be/9Bm_P6RLT3g)
 
 ### ata_27_09.md
 
@@ -155,11 +132,7 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 | :-: | :-: | :-: | :-: | :-: | :-: | 
 | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ | 
 
-<p style="text-align: center;">
-  <a href="https://youtu.be/Z5rGe4_o-G8">
-    <img src="https://img.youtube.com/vi/Z5rGe4_o-G8/hqdefault.jpg" alt="Assista à gravação">
-  </a>
-</p>
+[![Assista à gravação](https://img.youtube.com/vi/Z5rGe4_o-G8/hqdefault.jpg)](https://youtu.be/Z5rGe4_o-G8)
 
 ### ata_08_10.md
 
@@ -169,11 +142,7 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 | :-: | :-: | :-: | :-: | :-: | :-: | 
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
 
-<p style="text-align: center;">
-  <a href="https://youtu.be/Zh3-w2ELG3Y">
-    <img src="https://img.youtube.com/vi/Zh3-w2ELG3Y/hqdefault.jpg" alt="Assista à gravação">
-  </a>
-</p>
+[![Assista à gravação](https://img.youtube.com/vi/Zh3-w2ELG3Y/hqdefault.jpg)](https://youtu.be/Zh3-w2ELG3Y)
 
 ### ata_17_10.md
 
@@ -183,11 +152,7 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 | :-: | :-: | :-: | :-: | :-: | :-: | 
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
 
-<p style="text-align: center;">
-  <a href="https://youtu.be/ZpADWAAKLeQ">
-    <img src="https://img.youtube.com/vi/ZpADWAAKLeQ/hqdefault.jpg" alt="Assista à gravação">
-  </a>
-</p>
+[![Assista à gravação](https://img.youtube.com/vi/ZpADWAAKLeQ/hqdefault.jpg)](https://youtu.be/ZpADWAAKLeQ)
 
 ### ata_12_11.md
 
@@ -197,11 +162,7 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 | :-: | :-: | :-: | :-: | :-: | :-: | 
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
 
-<p style="text-align: center;">
-  <a href="https://youtu.be/WeSr_uN6Vmw">
-    <img src="https://img.youtube.com/vi/WeSr_uN6Vmw/hqdefault.jpg" alt="Assista à gravação">
-  </a>
-</p>
+[![Assista à gravação](https://img.youtube.com/vi/WeSr_uN6Vmw/hqdefault.jpg)](https://youtu.be/WeSr_uN6Vmw)
 
 ### ata_16_11.md
 
@@ -211,8 +172,102 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 | :-: | :-: | :-: | :-: | :-: | :-: | 
 | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ | 
 
-<p style="text-align: center;">
-  <a href="https://youtu.be/Zh3-w2ELG3Y">
-    <img src="https://img.youtube.com/vi/Zh3-w2ELG3Y/hqdefault.jpg" alt="Assista à gravação">
-  </a>
+[![Assista à gravação](https://img.youtube.com/vi/Zh3-w2ELG3Y/hqdefault.jpg)](https://youtu.be/Zh3-w2ELG3Y)
+
+## Entregas
+
+### Entrega 01
+<font size="3"><p style="text-align: center">Tabela 12: Entrega 01</p></font>
+
+| Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
+| :-: | :-: | :-: | :-: | :-: | :-: | 
+| ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
+
+
+<p align="center"> 
+<iframe width="560" height="315" 
+          src="https://www.youtube.com/embed/mn22MRRCZZ4" 
+          title="YouTube video player" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+          referrerpolicy="strict-origin-when-cross-origin" 
+          allowfullscreen>
+  </iframe>
 </p>
+
+### Entrega 02
+
+<font size="3"><p style="text-align: center">Tabela 13: Entrega 02</p></font>
+
+| Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
+| :-: | :-: | :-: | :-: | :-: | :-: | 
+| ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
+
+  
+<div align="center">
+  <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/44OnmJkUOpk"
+          title="Sessão Apresentação Entrega 02"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+  </iframe>
+</div>
+
+
+### Entrega 03
+
+<font size="3"><p style="text-align: center">Tabela 14: Entrega 03</p></font>
+
+| Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
+| :-: | :-: | :-: | :-: | :-: | :-: | 
+| ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
+
+<div align="center">
+  <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/HX4N1TOkEvI"
+          title="Apresentação Entrega 03"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+  </iframe>
+</div>
+
+
+### Entrega 04
+<font size="3"><p style="text-align: center">Tabela 15: Entrega 04</p></font>
+
+| Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
+| :-: | :-: | :-: | :-: | :-: | :-: | 
+| ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
+
+<div align="center">
+<p style="text-align: center">
+  <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/cBTT2fTXZ4s" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+  </iframe>
+</p>
+</div>
+
+### Entrega 06
+
+<font size="3"><p style="text-align: center">Tabela 16: Entrega 06</p></font>
+
+| Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
+| :-: | :-: | :-: | :-: | :-: | :-: | 
+| ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
+
+<div align="center">
+  <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/jEm52QXk3FY"
+          title="Apresentação Entrega 03"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+  </iframe>
+</div>

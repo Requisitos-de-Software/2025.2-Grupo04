@@ -5,55 +5,12 @@
 Esta página tem como objetivo agrupar todas as gravações relacionadas ao processo de elicitação de requisitos do projeto, bem como seus respectivos usos dentro do projeto, organizadas por etapa.
 
 
-## Cronograma de Participantes
-
-<font size="3"><p style="text-align: center">Tabela 1: Cronograma de Participantes</p></font>
-
-<div align="center">
-
-<table>
-  <thead>
-    <tr>
-      <th>Nome</th>
-    </tr>
-  </thead>
-  <tbody>
- <tr>
-  <td>Arthur Fernandes</td>
-
-</tr>
-<tr>
-  <td>Breno Lourenço</td>
-
-</tr>
-<tr>
-  <td>Dylan Cavalcante</td>
-
-</tr>
-<tr>
-  <td>Eduarda Domingos</td>
-
-</tr>
-<tr>
-  <td>Giovana Fontes</td>
-
-</tr>
-<tr>
-  <td>Leticia Lopes</td>
-
-</tr>
-  </tbody>
-</table>
-
-</div>
-
-<font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj) </p></font>
 
 ## Atas
 
 ### Legenda: 
-✅ - Presente
-❌ - Ausente
+* ✅ - Presente
+* ❌ - Ausente
 
 ### ata_01_09.md
 
@@ -264,6 +221,188 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
   </iframe>
 </div>
 
+## Inspeção
+
+### Entrega 1
+<font size="3"><p style="text-align: center">Tabela 17: Inspeção Entrega 1</p></font>
+
+| Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
+| :-: | :-: | :-: | :-: | :-: | :-: | 
+| ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
+
+<p align="center"> 
+<iframe width="560" height="315" 
+          src="https://www.youtube.com/embed/mn22MRRCZZ4" 
+          title="YouTube video player" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+          referrerpolicy="strict-origin-when-cross-origin" 
+          allowfullscreen>
+  </iframe>
+</p>
+
+### Grupo+1
+
+<font size="3"><p style="text-align: center">Tabela 18: Inspeção n+1 Entrega 1</p></font>
+
+| Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
+| :-: | :-: | :-: | :-: | :-: | :-: | 
+| ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
+<p align="center"> 
+<iframe width="560" height="315" 
+          src="https://www.youtube.com/embed/ukdPft-PSpA" 
+          title="YouTube video player" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+          referrerpolicy="strict-origin-when-cross-origin" 
+          allowfullscreen>
+  </iframe>
+</p>
+
+### Entrega 2
+<font size="3"><p style="text-align: center">Tabela 19: Inspeção Entrega 2</p></font>
+
+| Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
+| :-: | :-: | :-: | :-: | :-: | :-: | 
+| ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
+
+<div align="center">
+  <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/SRi4wsWBctY"
+          title="Sessão Lista de Verificação Equipe"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+  </iframe>
+</div>
+
+### Grupo+1
+
+<font size="3"><p style="text-align: center">Tabela 20: Inspeção n+1 Entrega 2</p></font>
+
+| Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
+| :-: | :-: | :-: | :-: | :-: | :-: | 
+| ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
+
+<p align="center">
+<iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/eDnUZfB7iK8" 
+        title="YouTube video player" frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen>
+</iframe>
+</p>
+
+### Entrega 3
+
+<font size="3"><p style="text-align: center">Tabela 21: Inspeção Entrega 3</p></font>
+
+| Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
+| :-: | :-: | :-: | :-: | :-: | :-: | 
+| ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
+
+<p align="center">
+<iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/eDnUZfB7iK8" 
+        title="YouTube video player" frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen>
+</iframe>
+</p>
+
+### Grupo+1
+
+<font size="3"><p style="text-align: center">Tabela 22: Inspeção n+1 Entrega 3</p></font>
+
+| Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
+| :-: | :-: | :-: | :-: | :-: | :-: | 
+| ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
+
+<p align="center">
+<iframe width="560" height="315" 
+        src="https://youtu.be/wzeREMzFs6M" 
+        title="YouTube video player" frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen>
+</iframe>
+</p>
+
+### Entrega 4
+
+<font size="3"><p style="text-align: center">Tabela 23: Inspeção Entrega 4</p></font>
+
+| Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
+| :-: | :-: | :-: | :-: | :-: | :-: | 
+| ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
+
+<p align="center">
+<iframe width="560" height="315" 
+        src="https://youtu.be/NZ47w1XCKHg" 
+        title="YouTube video player" frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen>
+</iframe>
+</p>
+
+### Grupo+1
+
+<font size="3"><p style="text-align: center">Tabela 24: Inspeção n+1 Entrega 4</p></font>
+
+| Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
+| :-: | :-: | :-: | :-: | :-: | :-: | 
+| ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
+
+<p align="center">
+<iframe width="560" height="315" 
+        src="https://youtu.be/ftiXP1UaDqU" 
+        title="YouTube video player" frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen>
+</iframe>
+</p>
+
+### Entrega 6
+<font size="3"><p style="text-align: center">Tabela 25: Inspeção Entrega 6</p></font>
+
+| Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
+| :-: | :-: | :-: | :-: | :-: | :-: | 
+| ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
+
+<p align="center">
+<iframe width="560" height="315" 
+        src="https://youtu.be/wHQ02EF-WGY" 
+        title="YouTube video player" frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen>
+</iframe>
+</p>
+
+
+
+### Grupo+1
+
+<font size="3"><p style="text-align: center">Tabela 26: Inspeção n+1 Entrega 6</p></font>
+
+| Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
+| :-: | :-: | :-: | :-: | :-: | :-: | 
+| ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
+
+<p align="center">
+<iframe width="560" height="315" 
+        src="https://youtu.be/Uc70L-51jYw" 
+        title="YouTube video player" frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen>
+</iframe>
+</p>
+
 
 ## Elicitação
 
@@ -274,7 +413,7 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 
 ### Entrevista
 
-<font size="3"><p style="text-align: center">Tabela 17: Entrevistas 1 e 2 </p></font>
+<font size="3"><p style="text-align: center">Tabela 27: Entrevistas 1 e 2 </p></font>
 
 | Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
 | :-: | :-: | :-: | :-: | :-: | :-: | 
@@ -290,7 +429,7 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 
 ### Brainstorming
 
-<font size="3"><p style="text-align: center">Tabela 18: Brainstorming </p></font>
+<font size="3"><p style="text-align: center">Tabela 28: Brainstorming </p></font>
 
 | Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
 | :-: | :-: | :-: | :-: | :-: | :-: | 
@@ -306,7 +445,7 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 
 ### In or Out
 
-<font size="3"><p style="text-align: center">Tabela 19: In or Out </p></font>
+<font size="3"><p style="text-align: center">Tabela 29: In or Out </p></font>
 
 | Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
 | :-: | :-: | :-: | :-: | :-: | :-: | 
@@ -321,7 +460,7 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 
 ### Moscow
 
-<font size="3"><p style="text-align: center">Tabela 20: Moscow</p></font>
+<font size="3"><p style="text-align: center">Tabela 30: Moscow</p></font>
 
 | Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
 | :-: | :-: | :-: | :-: | :-: | :-: | 
@@ -335,7 +474,7 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 
 ### $100 
 
-<font size="3"><p style="text-align: center">Tabela 21: $100</p></font>
+<font size="3"><p style="text-align: center">Tabela 31: $100</p></font>
 
 | Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
 | :-: | :-: | :-: | :-: | :-: | :-: | 
@@ -348,7 +487,7 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 </div>
 
 ### First Thing Firts
-<font size="3"><p style="text-align: center">Tabela 22: First Thing Firts</p></font>
+<font size="3"><p style="text-align: center">Tabela 32: First Thing Firts</p></font>
 
 | Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
 | :-: | :-: | :-: | :-: | :-: | :-: | 
@@ -415,7 +554,7 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 
 ## NFR Framework
 
-<font size="3"><p style="text-align: center">Tabela 23: NFR Framework</p></font>
+<font size="3"><p style="text-align: center">Tabela 33: NFR Framework</p></font>
 
 | Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
 | :-: | :-: | :-: | :-: | :-: | :-: | 
@@ -455,7 +594,7 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 
 ### Histórias de Usuário
 
-<font size="3"><p style="text-align: center">Tabela 24: Histórias de Usuário</p></font>
+<font size="3"><p style="text-align: center">Tabela 34: Histórias de Usuário</p></font>
 
 | Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
 | :-: | :-: | :-: | :-: | :-: | :-: | 
@@ -507,7 +646,7 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 
 ### Product Backlog 
 
-<font size="3"><p style="text-align: center">Tabela 24: Product Backlog</p></font>
+<font size="3"><p style="text-align: center">Tabela 35: Product Backlog</p></font>
 
 | Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
 | :-: | :-: | :-: | :-: | :-: | :-: | 
@@ -550,7 +689,7 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 
 ### Prototipação
 
-<font size="3"><p style="text-align: center">Tabela 25: Prototipação</p></font>
+<font size="3"><p style="text-align: center">Tabela 36: Prototipação</p></font>
 
 | Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
 | :-: | :-: | :-: | :-: | :-: | :-: | 
@@ -612,3 +751,9 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
   </iframe>
 </div>
 
+## Histórico de Versões
+
+| Versão | Data       | Descrição                                                        | Autor(es)                                                                 | Revisor(es)  |
+|:-----: | :--------: | :-------------------------------------------------------------- | :------------------------------------------------------------------------ | :---------- |
+| `1.0`    | 16/11/2025 | Criação da página de Vídeos do Projeto                          | [Arthur Fernandes](https://github.com/arthurfernandesj)                                  | [Dylan Cavalcante](https://github.com/dylancavalcante)           |
+| `1.1`    | 24/11/2025 | Adição de informações na página e finalização do documento |[Letícia Lopes](https://github.com/leticialopes20)                                | [Dylan Cavalcante](https://github.com/dylancavalcante)           |

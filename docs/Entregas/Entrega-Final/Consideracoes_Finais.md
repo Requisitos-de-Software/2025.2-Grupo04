@@ -80,3 +80,5 @@ Além disso, enfrentei desafios relacionados à organização pessoal, especialm
 |  `1.3` | 23/11/2025 | Adição de consideração | [Giovana Fontes](https://github.com/GiovanaFontesS)   | [Leticia Lopes](https://github.com/leticialopes20) |
 |  `1.4` | 23/11/2025 | Adição de consideração | [Breno Teixeira](https://github.com/Brenolteixeira)   | [Leticia Lopes](https://github.com/leticialopes20) |
 |  `1.5` | 24/11/2025 | Adição de consideração | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Giovana Fontes](https://github.com/GiovanaFontesS) |
+|  `1.6` | 24/11/2025 | Adição de consideração | [Eduarda Rodrigues](https://github.com/eduarda0) | [Giovana Fontes](https://github.com/GiovanaFontesS) |
+|  `1.6` | 24/11/2025 | Adição de consideração | [Dylan Cavalcante](https://github.com/dylancavalcante) | [Leticia Lopes](https://github.com/leticialopes20) |

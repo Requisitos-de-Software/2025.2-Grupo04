@@ -353,6 +353,7 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           allowfullscreen>
   </iframe>
+  </div>
 
 ### **Gravação 3** <a id="ceng01"></a> - Validação Arthur
 

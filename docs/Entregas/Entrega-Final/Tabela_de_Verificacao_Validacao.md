@@ -11,50 +11,42 @@ A seguir, são apresentadas as tabelas com os registros de verificação e valid
 <font size="3"><p style="text-align: center">Tabela 1: Cronograma de Participantes</p></font>
 
 <div align="center">
-
 <table>
   <thead>
     <tr>
       <th>Nome</th>
-      <th>Data</th>
-      <th>Hora</th>
     </tr>
   </thead>
   <tbody>
  <tr>
   <td>Arthur Fernandes</td>
-  <td>16/11/2025</td>
-  <td>12:47</td>
+
 </tr>
 <tr>
   <td>Breno Lourenço</td>
- <td>xx/11/2025</td>
-  <td>00:00</td>
+
 </tr>
 <tr>
   <td>Dylan Cavalcante</td>
-  <td>xx/11/2025</td>
-  <td>00:00</td>
+
 </tr>
 <tr>
   <td>Eduarda Domingos</td>
-  <td>xx/11/2025</td>
-  <td>00:00</td>
+
 </tr>
 <tr>
   <td>Giovana Fontes</td>
- <td>xx/11/2025</td>
-  <td>00:00</td>
+
 </tr>
 <tr>
   <td>Leticia Lopes</td>
-  <td>xx/11/2025</td>
-  <td>00:00</td>
+
 </tr>
   </tbody>
 </table>
 
 </div>
+
 
 <font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj) </p></font>
 
@@ -72,7 +64,7 @@ A estratégia de planejamento consistiu na verificação de cada artefato por um
 
 <center>
 <details>
-<summary>Tabela 1: Artefatos verificados do grupo na Entrega 1</summary>
+<summary><strong>Tabela 1: Artefatos verificados do grupo na Entrega 1</strong></summary>
 
 <table>
   <tr>
@@ -87,7 +79,10 @@ A estratégia de planejamento consistiu na verificação de cada artefato por um
   </tr>
 </table>
 
-<font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj) </p></font>
+<p style="text-align: center; font-size: 12px;">
+  Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a>
+</p>
+
 </details>
 
 ---
@@ -163,7 +158,10 @@ A estratégia de planejamento consistiu na verificação de cada artefato por um
         <td></td>
     </tr>
 </table>
-<font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj) </p></font>
+
+<p style="text-align: center; font-size: 12px;">
+  Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a>
+</p>
 
 </details>
 
@@ -203,7 +201,10 @@ A estratégia de planejamento consistiu na verificação de cada artefato por um
   </tr>
 </table>
 
-Autor(a): <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a>
+<p style="text-align: center; font-size: 12px;">
+  Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a>
+</p>
+
 </details>
 
 ---
@@ -231,7 +232,10 @@ Autor(a): <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a>
   </tr>
 </table>
 
-<font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj) </p></font>
+<p style="text-align: center; font-size: 12px;">
+  Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a>
+</p>
+
 </details>
 
 </center>
@@ -264,7 +268,6 @@ No contexto deste projeto, foram desenvolvidos protótipos para todos os requisi
     </tr>
   </thead>
   <tbody>
-
     <tr>
       <td><a href="https://github.com/arthurfernandesj">Arthur Fernandes</a></td>
       <td>
@@ -272,7 +275,6 @@ No contexto deste projeto, foram desenvolvidos protótipos para todos os requisi
         <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf18">RF18</a> — Informações sobre pendências ou erros relacionados aos benefícios.
       </td>
     </tr>
-
     <tr>
       <td><a href="https://github.com/BrenoLTeixeira">Breno Teixeira</a></td>
       <td>
@@ -280,7 +282,6 @@ No contexto deste projeto, foram desenvolvidos protótipos para todos os requisi
         <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf20">RF20</a> — Alertas sobre possíveis irregularidades no uso dos benefícios.
       </td>
     </tr>
-
     <tr>
       <td><a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></td>
       <td>
@@ -288,7 +289,6 @@ No contexto deste projeto, foram desenvolvidos protótipos para todos os requisi
         <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf12">RF12</a> — Visualização do histórico de utilização dos benefícios.
       </td>
     </tr>
-
     <tr>
       <td><a href="https://github.com/eduardar0">Eduarda Domingos</a></td>
       <td>
@@ -296,7 +296,6 @@ No contexto deste projeto, foram desenvolvidos protótipos para todos os requisi
         <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf24">RF24</a> — Histórico de utilização dos benefícios.
       </td>
     </tr>
-
     <tr>
       <td><a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></td>
       <td>
@@ -304,7 +303,6 @@ No contexto deste projeto, foram desenvolvidos protótipos para todos os requisi
         <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf15">RF15</a> — Acesso offline às informações do benefício.
       </td>
     </tr>
-
     <tr>
       <td><a href="https://github.com/leticialopes20">Leticia Lopes</a></td>
       <td>
@@ -312,17 +310,13 @@ No contexto deste projeto, foram desenvolvidos protótipos para todos os requisi
         <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/#rf19">RF19</a> — Envio de feedbacks e sugestões pelo usuário.
       </td>
     </tr>
-
   </tbody>
 </table>
 </div>
 
-<p style="text-align:center; font-size: 14px">
-<font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj) </p></font>
+<p style="text-align: center; font-size: 12px;">
+  Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a>
 </p>
-
-
-
 
 
 
@@ -341,3 +335,4 @@ No projeto, a metodologia adotada envolveu a tentativa de contato com a equipe d
 |:-----: | :--------: | :------------------------------- | :---------- | :---------- |
 | `1.0`    | 16/11/2025 | Criação da página| [Arthur Fernandes](https://github.com/arthurfernandesj)   | [Giovana Fontes](https://github.com/GiovanaFontesS) |
 | `1.1`    | 16/11/2025 | Conteúdo da verificação e validação| [Arthur Fernandes](https://github.com/arthurfernandesj)   | [Leticia Lopes](https://github.com/leticialopes20) |
+| `1.2`    | 24/11/2025 |Arrumando tabela| [Arthur Fernandes](https://github.com/arthurfernandesj)   | [Leticia Lopes](https://github.com/leticialopes20) |

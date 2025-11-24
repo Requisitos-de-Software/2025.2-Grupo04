@@ -35,7 +35,7 @@ O processo é extremamente direto e pode ser realizado em uma única sessão de 
 
 ## Metodologia
 
-Durante a aplicação da técnica **In or Out**, os membros da equipe de requisitos analisaram cada funcionalidade proposta com base nos seguintes critérios:
+Durante a aplicação da técnica **In or Out**, os usuários analisaram cada funcionalidade proposta com base nos seguintes critérios:
 
 *  **Valor essencial para o usuário final:** o requisito é crítico para a experiência do usuário?
 * **Obrigatoriedade legal ou contratual:** o requisito é exigido por regulação ou contrato?
@@ -44,6 +44,19 @@ Durante a aplicação da técnica **In or Out**, os membros da equipe de requisi
 Caso a resposta fosse afirmativa para qualquer um dos pontos acima, o requisito foi classificado como **IN**. Caso contrário, foi considerado **OUT**.
 
 Requisitos classificados como **OUT** foram justificados com base em sua não essencialidade ou por se tratarem de melhorias de experiência, que podem ser postergadas.
+
+Com o objetivo de registrar o estudo e realização da técnica de priorização In or Out foi feita presencialmente, com apoio do ambiente EXCEL, disponibilizamos o documento completo no link abaixo:
+
+**Acesso à Planilha Completa:**
+<iframe src="\assets\InorOut.pdf" width="100%" height="450px">
+    Este navegador não suporta PDFs. Faça o download <a href="\assets\InorOut.pdf">aqui</a>.
+</iframe>
+
+<p style="text-align: center; margin-top: 8px;">
+  <a href="\assets\InorOut.pdf" download>
+    Baixar PDF do In or Out 
+  </a>
+</p>
 
 ## Participantes
 

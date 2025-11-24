@@ -178,6 +178,17 @@ Abaixo estão todos os temas e épicos identificados para o ID Jovem. Clique no 
 
 <font size="3"><p style="text-align: center">Tabela 2: Tabela do Backlog </p></font>
 
+**Legenda:**
+
+* RFx: Requisito Funcional número x
+* RNFx: Requisito Não Funcional número x
+* ENTx: Entrevista número x 
+* BSx: Brainstorming número x
+* ISx: Introspecção número x
+* STx: Storytelling número x
+* IDJx: Introspecção número x
+* Hx: História de Usuário número x
+
 ## Backlog
 
 | Tema | Épico | Histórias de Usuário | ID | Prioridade | Origem |

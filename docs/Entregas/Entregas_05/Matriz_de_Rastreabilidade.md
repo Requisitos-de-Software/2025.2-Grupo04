@@ -61,6 +61,17 @@ A tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvidade pelos inte
 
 <font size="3"><p style="text-align: center">Tabela 2: Requisitos Elicitados</p></font>
 
+**Legenda:**
+
+* RFx: Requisito Funcional número x
+* RNFx: Requisito Não Funcional número x
+* ENTx: Entrevista número x 
+* BSx: Brainstorming número x
+* ISx: Introspecção número x
+* STx: Storytelling número x
+* IDJx: Introspecção número x
+* Hx: História de Usuário número x
+* Lx: Léxico número x
 
 | Id  | Descrição | Implementado | Versão | Elicitação | Modelagem | Elos | Autor |
 |-----|------------|--------------|---------|-------------|------------|-------|--------|

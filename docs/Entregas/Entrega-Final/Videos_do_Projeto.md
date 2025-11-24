@@ -271,3 +271,91 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
           allowfullscreen>
   </iframe>
 </div>
+
+
+## Elicitação
+
+### Legenda:
+
+* ✅ - Presente na técnica
+* ❌ - Ausente na técnica 
+
+### Entrevista
+
+<font size="3"><p style="text-align: center">Tabela 17: Entrevistas 1 e 2 </p></font>
+
+| Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
+| :-: | :-: | :-: | :-: | :-: | :-: | 
+| ✅ | ❌ | ❌ | ✅ | ✅ | ❌ | 
+
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/KNDC8x1U8fQ" title="Entrevista 01 - Mariane Ruas de Oliveira" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/EirTf487u70" title="Entrevista 02 - Noemy da Luz Cardoso" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>  
+
+### Brainstorming
+
+<font size="3"><p style="text-align: center">Tabela 18: Brainstorming </p></font>
+
+| Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
+| :-: | :-: | :-: | :-: | :-: | :-: | 
+| ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
+
+<div align="center">
+<p style="text-align: center"><a href="https://youtu.be/XtIwqZYCB9M" target="_blank"><b>Vídeo 1:</b> Sessão de Brainstorming ID Jovem</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XtIwqZYCB9M" title="Sessão de Brainstorm ID Jovem" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+## Priorização
+
+### In or Out
+
+<font size="3"><p style="text-align: center">Tabela 19: In or Out </p></font>
+
+| Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
+| :-: | :-: | :-: | :-: | :-: | :-: | 
+| ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | 
+
+<div align="center">
+
+<p style="text-align: center"><a href="https://youtu.be/ywmlErJ7bdA" target="_blank"><b></b> Técnica de Priorização - In or Out</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ywmlErJ7bdA" title="Sessão de Técnica de Priorização - In or Out" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+### Moscow
+
+<font size="3"><p style="text-align: center">Tabela 20: Moscow</p></font>
+
+| Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
+| :-: | :-: | :-: | :-: | :-: | :-: | 
+|  ✅ | ❌ |  ✅ | ❌ | ✅ | ❌ | 
+
+<div align="center">
+<p style="text-align: center"><a href="https://youtu.be/dIxnYHoZO44" target="_blank"><b></b> Técnica de Priorização - Moscow</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dIxnYHoZO44" title="Sessão de Técnica de Priorização - Moscow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+### $100 
+
+<font size="3"><p style="text-align: center">Tabela 21: $100</p></font>
+
+| Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
+| :-: | :-: | :-: | :-: | :-: | :-: | 
+|  ❌ | ❌ |  ❌ | ✅ | ✅ | ✅ |
+
+<div align="center">
+<p style="text-align: center"><a href="https://youtu.be/8k1RkCJvzxo" target="_blank"><b>Vídeo 1:</b> Primeira aplicação da técnica de Priorização - 100 Dólares</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8k1RkCJvzxo" title="Sessão de Técnica de Priorização - 100 Dólares" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+### First Thing Firts
+
+
+### 

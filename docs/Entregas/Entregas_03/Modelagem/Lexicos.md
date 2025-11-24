@@ -31,7 +31,7 @@ Descreve os reflexos ou consequências daquele símbolo.<a id="TEC1" href="#RP1"
 
 Cada entrada no Léxico pertence a somente um tipo (Verbo, Objeto, Estado), e a heurística de definição (Noção e Impacto) é aplicada de acordo com esse tipo. Essa descrição estruturada dos termos é fundamental para o LAL.
 
-<small><em>Revisado por [Chat GPT](https://chatgpt.com/share/6923b754-1e64-8000-8d6e-8645f6020b43), em 28 de outubro de 2025</em></small>
+<small><em>Revisado por [Chat GPT](https://chatgpt.com/share/6923b754-1e64-8000-8d6e-8645f6020b43), em 12 de outubro de 2025</em></small>
 
 ## Léxico Ampliado da Linguagem (LAL) do ID Jovem
 

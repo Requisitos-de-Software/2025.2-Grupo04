@@ -32,7 +32,7 @@ Essa divisão garantiu a *participação equilibrada* e permitiu uma análise ma
 
 A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cenários, assim como as **datas e horários de submissão** de seus respectivos cenários no documento correspondente.
 
-<small><em>Revisado por [Chat GPT](https://chatgpt.com/share/6923b754-1e64-8000-8d6e-8645f6020b43), em 28 de outubro de 2025</em></small>
+<small><em>Revisado por [Chat GPT](https://chatgpt.com/share/6923b754-1e64-8000-8d6e-8645f6020b43), em 12 de outubro de 2025</em></small>
 
 ### Tabela 1: Participação na Elaboração de Cenários
 

@@ -1,9 +1,9 @@
-# Verificação da Entrega 3 – Projeto ID Jovem
+# Inspeção da Entrega 3 – Projeto ID Jovem
 
 ## Apresentação
 
 ### Introdução
-Este documento apresenta as verificações realizadas na Entrega 3 do projeto **ID Jovem**. O sistema tem como objetivo facilitar o acesso de jovens de baixa renda a benefícios sociais, como descontos em eventos culturais, esportivos e transporte interestadual. Ao final, são descritos detalhadamente os resultados obtidos por meio dessa inspeção.
+Este documento apresenta as inspeções realizadas na Entrega 3 do projeto **ID Jovem**. O sistema tem como objetivo facilitar o acesso de jovens de baixa renda a benefícios sociais, como descontos em eventos culturais, esportivos e transporte interestadual. Ao final, são descritos detalhadamente os resultados obtidos por meio dessa inspeção.
 
 ### Objetivo
 O objetivo da verificação é assegurar que todos os critérios de avaliação sejam devidamente atendidos. Para isso, realiza-se uma análise detalhada do conteúdo e da estrutura do artefato, visando aprimorar sua qualidade e consistência.

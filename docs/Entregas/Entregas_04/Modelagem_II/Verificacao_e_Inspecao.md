@@ -123,3 +123,10 @@ Aqui está definida a inspeção da entrega 4 do nosso grupo, cujo projeto abord
 | 1.4 | 20/11/2025 | Arrumando imagens| [Breno Teixeira](https://github.com/brenolteixeira) | [Letícia Lopes](https://github.com/leticialopes20) |
 | 1.5 | 20/11/2025 | Arrumando tabela| [Breno Teixeira](https://github.com/brenolteixeira) | [Letícia Lopes](https://github.com/leticialopes20) |
 | 1.6 | 20/11/2025 | Refinando para entrega final| [Breno Teixeira](https://github.com/brenolteixeira) | [Letícia Lopes](https://github.com/leticialopes20) |
+
+## Agradecimentos
+
+Queremos agradecer ao [Chat GPT](https://chatgpt.com/), ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto ID Jovem. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.

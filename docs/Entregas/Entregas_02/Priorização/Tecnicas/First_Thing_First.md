@@ -18,9 +18,9 @@ A tabela abaixo apresenta todos os integrantes da equipe que participaram da eta
 
 | **Nome** | **Quais Etapas Participou** |
 |--------|------|
-| Leticia Maria |Participou da priorização presencial (Observador) |
-| Arthur Fernandes |Participou da priorização presencial (Redator) e fez a documentação do arquivo |
-| Dylan Cavalcante | Participou da priorização presencial (Entrevistador) |
+| Giovana Fontes |Participou da priorização presencial (Observador) |
+| Givana Fontes |Participou da priorização presencial (Redator) e fez a documentação do arquivo |
+| Giovana Fontes | Participou da priorização presencial (Entrevistador) |
 
 ## Metodologia
 
@@ -81,9 +81,27 @@ O uso desses critérios permitiu uma priorização mais objetiva e fundamentada,
 
 | **Nome** | **Data** | **Hora** | **Local**| 
 |--------|------|--------|------|
-| Yasmin Moreira  | 10/11/2025 | 15:00  | FCTE - Gama |
+| Maria Eduarda  | 24/11/2025 | 15:00  |  Gama |
 
+<div align="center">
+<p style="text-align: center">
+  <a href="https://youtu.be/H9P7TwgVjWg" target="_blank">
+    <b>Vídeo 1:</b> Primeira aplicação da técnica de Priorização - First Thing First
+  </a>
+</p>
 
+<iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/H9P7TwgVjWg"
+        title="Sessão de Técnica de Priorização - First Thing First"
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        allowfullscreen>
+</iframe>
+
+<p style="text-align: center; font-size: 10pt;">
+  Fonte: <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, 2025.
+</p>
+</div>
 
 
 ## Referências Bibliográficas
@@ -106,3 +124,4 @@ Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total respons
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :--: | :--: | :-- | :-- | :-- |
 | `1.0` | 28/09/2025 | Criação do documento com a descrição da técnica de priorização "First Ting Firts" | [Giovana Fontes](https://github.com/GiovanaFontesS) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+|`1.1` | 24/11/2025 | Adição de Gravação "First Ting Firts" | [Giovana Fontes](https://github.com/GiovanaFontesS) | [Arthur Fernandes](https://github.com/arthurfernandesj) |

@@ -12,22 +12,21 @@ A verificação foi realizada utilizando uma lista de critérios de avaliação,
 
 ### Planejamento Geral 
 
-### Planejamento Geral 
 
 **Tabela 1: Lista de Inspeção Planejamento Geral**
 
 | Item | Fontes | Avaliação | Observação | Print | Avaliador(es) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 - Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula? | [André Barros](#RP4) | Conforme | | [image1](https://imgur.com/a/DsBHASK) | -- |
-| 2 - O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? | [André Barros](#RP4) | Conforme | | [image2](https://imgur.com/a/HCwRjeR) | -- |
-| 3 - O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa. | [André Barros](#RP4) | Conforme | | [image3](https://imgur.com/a/HCwRjeR) | -- |
-| 4 - O cronograma prevê um período de revisão/ajustes nos artefatos devido às considerações dos monitores/professor? | [André Barros](#RP4) | Conforme | | [image4](https://imgur.com/a/HCwRjeR) | -- |
-| 5 - O cronograma prevê cada uma das técnicas de elicitação de requisitos que serão usadas no projeto? | [André Barros](#RP4) | Conforme | | [image5](https://imgur.com/a/fep3pPU) | -- |
-| 6 - O cronograma prevê cada uma das técnicas de priorização de requisitos que serão usadas no projeto? | [André Barros](#RP4) | Conforme | | [image6](https://imgur.com/a/fep3pPU) | -- |
-| 7 - A motivação e os critérios para a escolha do App? | [André Barros](#RP4) | Conforme | | [image7](#) | -- |
-| 8 - Cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina. | [André Barros](#RP4) | Conforme | | [image8](#) | -- |
-| 9 - Possui opção de contraste de cores? | [André Barros](#RP4) | Conforme | | [image9](#) | -- |
-| 10 - Uma página com as atas de reunião com o acesso à gravação (vídeo), quando houver. | [André Barros](#RP4) | Conforme | | [image10](https://imgur.com/a/1iFZzsm) | -- |
+| 1 - Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula? | [André Barros](#RP4) | Conforme | | [image1](https://imgur.com/a/DsBHASK) |  [Dylan Cavalcante](https://github.com/dylancavalcante) |
+| 2 - O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? | [André Barros](#RP4) | Conforme | | [image2](https://imgur.com/a/HCwRjeR) |  [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| 3 - O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa. | [André Barros](#RP4) | Conforme | | [image3](https://imgur.com/a/HCwRjeR) | [Giovana Fontes](https://github.com/GiovanaFontesS) |
+| 4 - O cronograma prevê um período de revisão/ajustes nos artefatos devido às considerações dos monitores/professor? | [André Barros](#RP4) | Conforme | | [image4](https://imgur.com/a/HCwRjeR) | [Letícia Lopes](https://github.com/leticialopes20) |
+| 5 - O cronograma prevê cada uma das técnicas de elicitação de requisitos que serão usadas no projeto? | [André Barros](#RP4) | Conforme | | [image5](https://imgur.com/a/fep3pPU) | [Eduarda Rodrigues](https://github.com/eduardar0) |
+| 6 - O cronograma prevê cada uma das técnicas de priorização de requisitos que serão usadas no projeto? | [André Barros](#RP4) | Conforme | | [image6](https://imgur.com/a/fep3pPU) | [Breno Teixeira](https://github.com/Brenolteixeira) |
+| 7 - A motivação e os critérios para a escolha do App? | [André Barros](#RP4) | Conforme | | [image7](https://imgur.com/a/fep3pPU) |  [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| 8 - Cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina. | [André Barros](#RP4) | Conforme | | [image8](https://imgur.com/a/fep3pPU) | [Giovana Fontes](https://github.com/GiovanaFontesS) |
+| 9 - Possui opção de contraste de cores? | [André Barros](#RP4) | Conforme | | [image9](#) |  [Dylan Cavalcante](https://github.com/dylancavalcante) |
+| 10 - Uma página com as atas de reunião com o acesso à gravação (vídeo), quando houver. | [André Barros](#RP4) | Conforme | | [image10](https://imgur.com/a/1iFZzsm) | [Letícia Lopes](https://github.com/leticialopes20) |
 
 Fonte: [Giovana Fontes](https://github.com/GiovanaFontesS)
 
@@ -39,16 +38,16 @@ Fonte: [Giovana Fontes](https://github.com/GiovanaFontesS)
 
 | Item | Fontes | Avaliação | Observação | Print | Avaliador(es) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 - O histórico de versão padronizado? |  [André Barros](#RP4) | Conforme | | [image1](https://imgur.com/a/DX5XLbI) | -- |
-| 2 – O(s) autor(es) e o(s) revisor(es) para cada artefato? |  [André Barros](#RP4) | Conforme | | [image2](https://imgur.com/a/DX5XLbI) | -- |
-| 3 - Referências bibliográficas e/ou bibliografia em todos os artefatos? |  [André Barros](#RP4) | Conforme | | [image3](https://imgur.com/a/IJVXj8q) | -- |
-| 4 - As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? |  [André Barros](#RP4) | Conforme | | [image4](https://imgur.com/a/jDzDifh) | -- |
-| 5 - Um texto fazendo uma introdução dos artefatos? |  [André Barros](#RP4) | Conforme | | [image5](https://imgur.com/a/MBQhYm3) | -- |
-| 6 - O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade. |  [André Barros](#RP4) | Conforme | | [image6](https://imgur.com/a/CSpZ19L) | -- |
-| 7 - Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc). | [André Barros](#RP4) | Conforme | | [image7](https://imgur.com/a/Hp7tUO6) | -- |
-| 8 – A gravação da reunião do grupo. |  [André Barros](#RP4) | Conforme | | [image8](https://imgur.com/a/65ISU32) | -- |
-| 9 - Vídeo de apresentação na categoria “não listado” no youtube? |  [André Barros](#RP4) | Conforme | | [image9](https://imgur.com/a/65ISU32) | -- |
-| 10 - Tabela de contribuição no início do artefato com o nome de todos os integrantes com a contribuição de cada integrante com hiperligação atividade e da gravação, se houver. |  [André Barros](#RP4) | Conforme | | [image10](https://imgur.com/a/65ISU32) | -- |
+| 1 - O histórico de versão padronizado? |  [André Barros](#RP4) | Conforme | | [image1](https://imgur.com/a/DX5XLbI) |  [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| 2 – O(s) autor(es) e o(s) revisor(es) para cada artefato? |  [André Barros](#RP4) | Conforme | | [image2](https://imgur.com/a/DX5XLbI) | [Giovana Fontes](https://github.com/GiovanaFontesS) |
+| 3 - Referências bibliográficas e/ou bibliografia em todos os artefatos? |  [André Barros](#RP4) | Conforme | | [image3](https://imgur.com/a/IJVXj8q) | [Letícia Lopes](https://github.com/leticialopes20) |
+| 4 - As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? |  [André Barros](#RP4) | Conforme | | [image4](https://imgur.com/a/jDzDifh) | [Eduarda Rodrigues](https://github.com/eduardar0) |
+| 5 - Um texto fazendo uma introdução dos artefatos? |  [André Barros](#RP4) | Conforme | | [image5](https://imgur.com/a/MBQhYm3) | [Breno Teixeira](https://github.com/Brenolteixeira) |
+| 6 - O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade. |  [André Barros](#RP4) | Conforme | | [image6](https://imgur.com/a/CSpZ19L) |  [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| 7 - Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc). | [André Barros](#RP4) | Conforme | | [image7](https://imgur.com/a/Hp7tUO6) | [Giovana Fontes](https://github.com/GiovanaFontesS) |
+| 8 – A gravação da reunião do grupo. |  [André Barros](#RP4) | Conforme | | [image8](https://imgur.com/a/65ISU32) |  [Dylan Cavalcante](https://github.com/dylancavalcante) |
+| 9 - Vídeo de apresentação na categoria “não listado” no youtube? |  [André Barros](#RP4) | Conforme | | [image9](https://imgur.com/a/65ISU32) | [Eduarda Rodrigues](https://github.com/eduardar0) |
+| 10 - Tabela de contribuição no início do artefato com o nome de todos os integrantes com a contribuição de cada integrante com hiperligação atividade e da gravação, se houver. |  [André Barros](#RP4) | Conforme | | [image10](https://imgur.com/a/65ISU32) | [Letícia Lopes](https://github.com/leticialopes20) |
 
 Fonte: [Giovana Fontes](https://github.com/GiovanaFontesS)
 
@@ -172,7 +171,27 @@ Fonte: [Giovana Fontes](https://github.com/GiovanaFontesS)
 
 ---
 
+## Gravação (Entrega 05)
 
+<div align="center">
+  <p style="text-align: center">
+    <a href="https://youtu.be/btm16vbPYJs" target="_blank"><b>Vídeo 1:</b> Inspeção Entrega 05</a>
+  </p>
+
+  <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/btm16vbPYJs"
+          title="Apresentação Entrega 05"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+  </iframe>
+
+  <font size="3">
+    <p style="text-align: center">
+      <b>Fontes:</b> <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, 2025
+    </p>
+  </font>
+</div>
 
 
 ##  Referências Bibliográficas

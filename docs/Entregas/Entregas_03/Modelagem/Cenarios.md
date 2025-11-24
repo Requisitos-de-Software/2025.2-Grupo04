@@ -285,6 +285,27 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
   </font>
 
 
+### **Gravação 2** <a id="ceng01"></a> - Validação Giovana
+
+<div align="center">
+  <p style="text-align: center">
+    <a href="https://youtu.be/5hT7xe_aKjc" target="_blank"><b>Vídeo 2:</b> Validação de Cenários</a>
+  </p>
+
+  <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/5hT7xe_aKjc"
+          title="Validação de Cenários"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+  </iframe>
+
+  <font size="3">
+    <p style="text-align: center">
+      <b>Fonte:</b> <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, 2025
+    </p>
+  </font>
+</div>
 
 
 ## Referências Bibliográficas

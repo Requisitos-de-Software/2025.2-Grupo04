@@ -20,7 +20,7 @@ A Tabela 1 apresenta os aplicativos escolhidos por cada integrante para desenvol
 **Tabela 1:** _Tabela dos aplicativos analisados_
 
 
-## Metrô DF 
+### Metrô DF 
 
 O integrante **Arthur Fernandes** optou pelo aplicativo **Metrô DF**, voltado para auxiliar os usuários no uso do transporte metroviário do Distrito Federal. O aplicativo oferece funcionalidades como consulta de horários, informações sobre estações, integração com outros meios de transporte e orientações gerais para os passageiros.  
 
@@ -33,7 +33,7 @@ O resultado do *Rich Picture* pode ser visualizado na **Figura 1**
 ![Metrô DF](../assets/rich_pictures_analisados/Arthur.png)
 <p style="text-align: center; font-size: 10pt;">Autor: <a href="https://github.com/arthurfernandesj">Arthr Fernandes</a></p>
 
-## Moodle
+### Moodle
 
 O integrante **Breno Lourenço** optou pelo aplicativo **Moodle**, uma plataforma de aprendizagem amplamente utilizada por instituições de ensino para apoiar atividades acadêmicas em ambientes virtuais. O aplicativo tem como objetivo facilitar o acesso de alunos e professores aos conteúdos e recursos educacionais disponibilizados pela instituição.  
 
@@ -53,7 +53,7 @@ No *Rich Picture* desenvolvido, são destacados recursos como o acesso à CNH Di
 
 O resultado do *Rich Picture* pode ser visualizado na **Figura 5**.
 
-![](../assets/rich_pictures_analisados/)
+![](../assets/rich_pictures_analisados/Danilo.png)
 <p style="text-align: center; font-size: 10pt;">Autor: <a href="https://github.com/EngDann">Danilo Melo</a></p>
 
 ### Visual Studio Code - VsCode
@@ -102,6 +102,24 @@ O resultado do *Rich Picture* pode ser visualizado na **Figura 13**.
 ![](../assets/rich_pictures_analisados/Leticia.jpeg)
 <p style="text-align: center; font-size: 10pt;">Autor: <a href="https://github.com/leticialopes20">Leticia Lopes</a></p>
 
+---
+## Bibliografia
+
+> <a id="REF1" href="#anchor_1">1.</a> APLICATIVO. In: REQUISITOS DE SOFTWARE. Projeto 2023.1-BilheteriaDigital. [S.l.]: GitHub, 2023. Disponível em: <a href="https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/planejamento/aplicativo.md">https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/planejamento/aplicativo.md</a>. Acesso em: 7 set. 2025.
+
+> <a id="REF2" href="#anchor_4">4.</a> METRÔ-DF. Página Inicial. Brasília, DF, [2025]. Disponível em: <a href="https://metro.df.gov.br">https://metro.df.gov.br</a>. Acesso em: 24 nov. 2025.
+
+> <a id="REF3" href="#anchor_5">5.</a> CADÚNICO. Consulta Cidadão. [S.l.]: Dataprev, [2025]. Disponível em: <a href="https://cadunico.dataprev.gov.br/#/">https://cadunico.dataprev.gov.br/#/</a>. Acesso em: 24 nov. 2025.
+
+> <a id="REF4" href="#anchor_6">6.</a> GOVERNO DO BRASIL. GOV.BR. [S.l.], [2025]. Aplicativo móvel. Disponível em: <a href="https://play.google.com/store/apps/details?id=com.identidadenacional&hl=pt-BR">https://play.google.com/store/apps/details?id=com.identidadenacional&hl=pt-BR</a>. Acesso em: 24 nov. 2025.
+
+> <a id="REF5" href="#anchor_7">7.</a> MICROSOFT. Visual Studio Code. [S.l.], [2025]. Disponível em: <a href="https://code.visualstudio.com">https://code.visualstudio.com</a>. Acesso em: 24 nov. 2025.
+
+> <a id="REF6" href="#anchor_8">8.</a> MOODLE. Moodle - Plataforma de Aprendizagem de Código Aberto. [S.l.], [2025]. Disponível em: <a href="https://moodle.org/?lang=pt_br">https://moodle.org/?lang=pt_br</a>. Acesso em: 24 nov. 2025.
+
+---
+
 | Versão |    Data    |      Descrição       |                        Autor(es)                        |                       Revisor(es)                       |
 | :----: | :--------: | :------------------: | :-----------------------------------------------------: | :-----------------------------------------------------: |
-| `1.0`  | 16/09/2025 | Criação do Aplicativos avaliados | [Arthur Fernandes](https://github.com/arthurfernandesj) | []() |
+| `1.0`  | 16/09/2025 | Criação dos Aplicativos avaliados | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+| `1.1`  | 24/11/2025 | Atualização e correção dos documentos | [Dylan Cavalcante](https://github.com/dylancavalcante) | [Arthur Fernandes](https://github.com/arthurfernandesj) |

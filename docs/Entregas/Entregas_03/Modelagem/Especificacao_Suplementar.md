@@ -15,9 +15,9 @@ A Metodologia utilizada neste artefato foi baseada no modelo FURPS+. "É um sist
 | Nome | Seções Relacionadas da Especificação Suplementar |
 |------|--------------------------------------------------|
 | **[Arthur Fernandes](https://github.com/arthurfernandesj)** | • [RNF01 – Processo de Login Simplificado](#RNF01)<br>• [RNF02 – Interface Intuitiva e Acessível](#RNF02)<br>• [RNF10 – Carregamento Eficiente](#RNF10)<br>• [RNF16 – Validação Rápida da Carteirinha](#RNF16) |
-| **[Breno Teixeira](https://github.com/BrenoLTeixeira)** | • [RNF19 – Registro de Validações](#RNF19)<br>• [RNF22 – Log de Auditoria](#RNF22)<br>• [RNF12 – Compatibilidade Retroativa](#RNF12)<br>• [RNF17 – Ciclo de Atualização](#RNF17) |
+| **[Breno Teixeira](https://github.com/BrenoLTeixeira)** | • [RNF19 – Registro de Validações](#RNF19)<br>• [RNF22 – Log de Auditoria](#RNF22)<br>• [RNF12 – Compatibilidade Retroativa](#RNF12)<br>• [RNF17 – Ciclo de Atualização](#RNF17) <br>• [Validação](#ves01) |
 | **[Dylan Cavalcante](https://github.com/dylancavalcante)** | • [RNF11 – Sincronização de Dados](#RNF11)<br>• [RNF15 – Controle de Inatividade](#RNF15)<br>• [RNF04 – Compatibilidade com Android e iOS](#RNF04)<br>• [RNF09 – Design Responsivo](#RNF09) |
-| **[Eduarda Domingos](https://github.com/eduardar0)** | • [RNF07 – Recursos de Acessibilidade](#RNF07)<br>• [RNF13 – Navegação Consistente](#RNF13)<br>• [RNF21 – Escalabilidade do Sistema](#RNF21)<br>• [RNF24 – Compatibilidade com API](#RNF24) |
+| **[Eduarda Domingos](https://github.com/eduardar0)** | • [RNF07 – Recursos de Acessibilidade](#RNF07)<br>• [RNF13 – Navegação Consistente](#RNF13)<br>• [RNF21 – Escalabilidade do Sistema](#RNF21)<br>• [RNF24 – Compatibilidade com API](#RNF24) <br>• [Validação](#ves01) |
 | **[Giovana Fontes](https://github.com/GiovanaFontesS)** | • [RNF14 – Feedback Visual e Sonoro](#RNF14)<br>• [RNF18 – Personalização de Leitura](#RNF18)<br>• [RNF03 – Emissão Rápida da Carteirinha](#RNF03)<br>• [RNF06 – Operação com Baixo Consumo de Internet](#RNF06) |
 | **[Letícia Lopes](https://github.com/leticialopes20)** | • [RNF05 – Proteção de Dados Pessoais](#RNF05)<br>• [RNF08 – Alta Disponibilidade](#RNF08)<br>• [RNF20 – Consulta Rápida ao CadÚnico](#RNF20)<br>• [RNF23 – Carregamento de Dados](#RNF23) |
 
@@ -167,6 +167,26 @@ Esta seção abrange todos os requisitos que influenciam o Suportabilidade do si
 | <a id="RNF21">RNF21</a> | Escalabilidade do sistema         | O sistema deve suportar aumento de 50% de beneficiários sem perda de desempenho.                   | Garantir estabilidade com o crescimento da base de usuários.     | Não implementado | [Eduarda Domingos](https://github.com/eduardar0) |
 | <a id="RNF24">RNF24</a> | Compatibilidade com API           | O app deve suportar a API mais recente e as duas versões anteriores do sistema operacional.        | Evitar falhas e garantir funcionamento contínuo.                 | Não implementado | [Eduarda Domingos](https://github.com/eduardar0) |
 
+## Validação  
+
+### **Gravação 1** <a id="ves01"></a> - Validação Breno e Eduarda 
+
+<p style="text-align: center">
+  <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/HMZzNc8fmuM" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+  </iframe>
+</p>
+
+ <font size="3">
+    <p style="text-align: center">
+      <b>Fonte:</b> <a href="https://github.com/eduardar0">Eduarda Domingos</a>, 2025
+    </p>
+  </font>
 
 ## Referências Bibliográficas
 

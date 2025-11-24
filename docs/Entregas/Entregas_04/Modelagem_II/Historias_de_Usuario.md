@@ -69,7 +69,7 @@ A história é validada com o Product Owner e a equipe, podendo ser ajustada ou 
         <a href="#h29">H29</a> – Exportação de Histórico de Uso em PDF<br>
         <a href="#h30">H30</a> – Configuração de Preferências de Notificação<br>
         <a href="#h31">H31</a> – Exibir Versão do Aplicativo e Informações de Atualização<br>
-        <a href="#h32">H32</a> – Acesso aos Termos de Uso e Política de Privacidade
+        <a href="#h32">H32</a> – Acesso aos Termos de Uso e Política de Privacidade<br> <a href="#hug04">Validação</a>
       </td>
     </tr>
     <tr>
@@ -91,7 +91,8 @@ A história é validada com o Product Owner e a equipe, podendo ser ajustada ou 
         <a href="#h22">H22</a> – Exibir Seção de Perguntas Frequentes (FAQ)<br>
         <a href="#h23">H23</a> – Download da Carteirinha para Uso Offline<br>
         <a href="#h24">H24</a> – Reserva e Emissão de Comprovantes de Uso<br>
-        <a href="#h25">H25</a> – Validação Automática de Elegibilidade
+        <a href="#h25">H25</a> – Validação Automática de  Elegibilidade<br>
+        <a href="#hug04">Validação</a>
       </td>
     </tr>
     <tr>
@@ -757,6 +758,27 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
       <b>Fonte:</b> <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, 2025
     </p>
   </font>
+  
+---
+<a id="hug04"></a>
+### **Gravação 4** - Validação Breno e Eduarda
+
+<p style="text-align: center">
+  <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/VlDxKdXEkJw" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+  </iframe>
+</p>
+
+<font size="3">
+  <p style="text-align: center">
+    <b>Fonte:</b> <a href="https://github.com/eduardar0">Eduarda Domingos</a>, 2025
+  </p>
+</font>
   
 ---
 

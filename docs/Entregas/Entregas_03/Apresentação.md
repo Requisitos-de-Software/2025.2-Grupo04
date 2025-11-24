@@ -19,7 +19,7 @@ A verificação foi realizada utilizando uma lista de critérios de avaliação,
 
 | Item | Fontes | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |
 | :---- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **01:** Os cenários contemplam de forma adequada os principais fluxos de interação entre os atores e o sistema? | | Conforme | [Milene Serrano e Maurício Serrano](#RP2) | [image1](https://imgur.com/a/7jZozkh) | [Dylan Cavalcante](https://github.com/dylancavalcante) | 12/10/2025 |
+| **01:** Os cenários contemplam de forma adequada os principais fluxos de interação entre os atores e o sistema? | [Milene Serrano e Maurício Serrano](#RP2)| Conforme |  | [image1](https://imgur.com/a/7jZozkh) | [Dylan Cavalcante](https://github.com/dylancavalcante) | 12/10/2025 |
 | **02:** Os cenários foram elaborados com linguagem clara e acessível, evitando ambiguidades e garantindo compreensão por todos os envolvidos? | [Milene Serrano e Maurício Serrano](#RP2)  | Conforme | | [image2](https://imgur.com/a/7jZozkh) | [Letícia Lopes](https://github.com/leticialopes20) | 12/10/2025 |
 | **03:** As especificações dos cenários estão suficientemente detalhadas e claras para orientar o desenvolvimento, abrangendo todos os elementos necessários e possíveis variações? | [Milene Serrano e Maurício Serrano](#RP2) | Conforme | | [image3](https://imgur.com/a/6p0OU98) | [Eduarda Domingos](https://github.com/eduardar0) | 12/10/2025 |
 

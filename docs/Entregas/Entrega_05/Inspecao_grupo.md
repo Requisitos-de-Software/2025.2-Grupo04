@@ -12,20 +12,22 @@ A verificação foi realizada utilizando uma lista de critérios de avaliação,
 
 ### Planejamento Geral 
 
+### Planejamento Geral 
+
 **Tabela 1: Lista de Inspeção Planejamento Geral**
+
 | Item | Fontes | Avaliação | Observação | Print | Avaliador(es) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 – Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula? |  [André Barros](#RP4) | Conforme | | [image1](https://imgur.com/a/DsBHASK) | --  |
-| 2 - O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? |  [André Barros](#RP4) | Conforme | | [image2](https://imgur.com/a/HCwRjeR) | --  |
-| 3 - O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa. |  [André Barros](#RP4) | Conforme | | [image3](https://imgur.com/a/HCwRjeR) | --  |
-| 4 - O cronograma prevê um período de revisão/ajustes nos artefatos devidos as considerações dos monitores/professor? |  [André Barros](#RP4) | Conforme | | [image4](https://imgur.com/a/HCwRjeR) | --  |
-| 5 - O cronograma prevê cada uma das técnicas de elicitação de requisitos que serão usadas no projeto? |  [André Barros](#RP4) | Conforme | | [image5](https://imgur.com/a/fep3pPU) | --  |
-| 6 - O cronograma prevê cada uma das técnicas de priorização de requisitos que serão usadas no projeto? |  [André Barros](#RP4) | Conforme | | [image6](https://imgur.com/a/fep3pPU) | --  |
-| 7 - A motivação e os critérios para a escolha do App? |  [André Barros](#RP4) | Conforme | | [image7]() | --  |
-| 8 - Cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina. | [André Barros](#RP4)| Conforme | | [image8]() | --  |
-| 9 - Possui opção de contraste de cores? |  [André Barros](#RP4) | Conforme | | [image9]() | --  |
-| 10 - Uma página com as atas de reunião com o acesso a gravação (vídeo), quando houver. |[André Barros](#RP4) | Conforme | | [image10](https://imgur.com/a/1iFZzsm) | --  |
-
+| 1 - Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula? | [André Barros](#RP4) | Conforme | | [image1](https://imgur.com/a/DsBHASK) | -- |
+| 2 - O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? | [André Barros](#RP4) | Conforme | | [image2](https://imgur.com/a/HCwRjeR) | -- |
+| 3 - O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa. | [André Barros](#RP4) | Conforme | | [image3](https://imgur.com/a/HCwRjeR) | -- |
+| 4 - O cronograma prevê um período de revisão/ajustes nos artefatos devido às considerações dos monitores/professor? | [André Barros](#RP4) | Conforme | | [image4](https://imgur.com/a/HCwRjeR) | -- |
+| 5 - O cronograma prevê cada uma das técnicas de elicitação de requisitos que serão usadas no projeto? | [André Barros](#RP4) | Conforme | | [image5](https://imgur.com/a/fep3pPU) | -- |
+| 6 - O cronograma prevê cada uma das técnicas de priorização de requisitos que serão usadas no projeto? | [André Barros](#RP4) | Conforme | | [image6](https://imgur.com/a/fep3pPU) | -- |
+| 7 - A motivação e os critérios para a escolha do App? | [André Barros](#RP4) | Conforme | | [image7](#) | -- |
+| 8 - Cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina. | [André Barros](#RP4) | Conforme | | [image8](#) | -- |
+| 9 - Possui opção de contraste de cores? | [André Barros](#RP4) | Conforme | | [image9](#) | -- |
+| 10 - Uma página com as atas de reunião com o acesso à gravação (vídeo), quando houver. | [André Barros](#RP4) | Conforme | | [image10](https://imgur.com/a/1iFZzsm) | -- |
 
 Fonte: [Giovana Fontes](https://github.com/GiovanaFontesS)
 
@@ -138,7 +140,6 @@ Fonte: [Giovana Fontes](https://github.com/GiovanaFontesS)
 | 19 - Nos Cenários cada item tem referência e foto? | [André Barros](#RP4) | Conforme | | [image23](https://imgur.com/a/MDjumNW) | [Eduarda Rodrigues](https://github.com/eduardar0) |
 | 20 - No Diagrama de Caso de Uso cada item tem referência e foto? | [André Barros](#RP4) | Conforme | | [image24](https://imgur.com/a/vauioB9) | [Letícia Lopes](https://github.com/leticialopes20) |
 | 21 - Na Especificação Suplementar cada item tem referência e foto? | [André Barros](#RP4) | Conforme | | [image25](https://imgur.com/a/eUYH1OQ) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
-
 | 23 - Documento dos Léxicos possui tópico de agradecimento à IA? | [André Barros](#RP4) | Conforme | | [image27](https://imgur.com/a/u0bKTn3) | [Dylan Cavalcante](https://github.com/dylancavalcante) |
 | 24 - Documento dos Cenários possui tópico de agradecimento à IA? | [André Barros](#RP4) | Conforme | | [image28](https://imgur.com/a/u0bKTn3) | [Breno Teixeira](https://github.com/Brenolteixeira) |
 | 25 - Documento da Especificação Suplementar possui tópico de agradecimento | 22 - Foi realizada inspeção do grupo +1? | [André Barros](#RP4) | Conforme | | [image26](https://imgur.com/a/W4E2fKX) | [Giovana Fontes](https://github.com/GiovanaFontesS) |à IA? | [André Barros](#RP4) | Conforme | | [image29](https://imgur.com/a/u0bKTn3) | [Eduarda Rodrigues](https://github.com/eduardar0) |

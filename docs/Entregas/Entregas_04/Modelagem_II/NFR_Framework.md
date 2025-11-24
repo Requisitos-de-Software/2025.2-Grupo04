@@ -652,7 +652,7 @@ A figura 4 a seguir demonstra o Gráfico de Interdependência do Softgoal de uma
 
 <font size="3"><p style="text-align: center"> Figura 4: Geral</p></font>
 
-![Figura 4](../../../assets/NFR/Geral.png)
+![Figura 4](../../../assets/NFR/geral.png)
 
 <div align="center">
 

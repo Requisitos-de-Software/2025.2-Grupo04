@@ -2,6 +2,32 @@
 
 Esse documento tem como objetivo apresentar, de forma organizada, uma visão geral de todas as etapas realizadas ao longo da disciplina de Requisitos de Software. Esse artefato serve como uma síntese dos principais processos, decisões e entregas desenvolvidas pelo grupo, desde o planejamento inicial até as fases finais de verificação, validação e pós-rastreabilidade. Através dele, é possível entender como cada etapa contribuiu para o desenvolvimento do projeto.
 
+
+# Aplicativo Selecionado
+
+Esta seção detalha o processo de escolha do app para ser trabalhado ao longo do desenvolvimento do projeto da disciplina de Requisitos de Software.
+
+A Tabela 1 apresenta os aplicativos escolhidos por cada integrante para desenvolvimento.
+
+| Nome              | GitHub                                                | Aplicativo |
+|------------------|-------------------------------------------------------|------------|
+| Arthur Fernandes | [arthurfernandesj](https://github.com/arthurfernandesj) | [Metro DF](https://play.google.com/store/apps/details?id=br.gov.df.metroapp&hl=pt_BR) |
+| Breno Teixeira   | [brenolourencoo](https://github.com/BrenoLTeixeira)     | [Moodle](https://play.google.com/store/apps/details?id=com.moodle.moodlemobile&hl=pt_BR) |
+| Danilo Melo      | [danilomelo01](https://github.com/)         | [Carteira Digital de Trânsito](https://play.google.com/store/apps/details?id=br.gov.serpro.cnhe&hl=pt_BR) |
+| Dylan Cavalcante | [dylancavalcante](https://github.com/dylancavalcante)   | [VsCode](https://code.visualstudio.com/download) |
+| Eduarda Domingos | [eduardadomingos](https://github.com/eduardar0)   | [Meu INSS](https://play.google.com/store/apps/details?id=br.gov.dataprev.meuinss&hl=pt_BR) |
+| Giovana Fontes   | [giovanaf](https://github.com/GiovanaFontesS)                 | [CIN](https://play.google.com/store/apps/details?id=com.identidadenacional&hl=pt_BR) |
+| Leticia Lopes    | [leticialopes](https://github.com/leticialopes20)         | [CadÚnico](https://play.google.com/store/apps/details?id=br.gov.dataprev.meucadunico&hl=pt_BR) |
+
+
+## Projeto Atual
+
+O projeto atual do grupo tem como foco o aplicativo ID Jovem, escolhido para orientar todas as etapas de elicitação, modelagem, análise e verificação de requisitos. A decisão de trabalhar com o ID Jovem foi motivada por sua relevância social, já que o aplicativo é uma ferramenta importante para garantir direitos a jovens de baixa renda, oferecendo benefícios como meia-entrada e acesso ao transporte interestadual.
+
+Além disso, o app apresenta funcionalidades bem definidas, fluxos claros e um público-alvo específico, fatores que contribuem para uma análise mais consistente e adequada aos objetivos da disciplina. Assim, todas as etapas do projeto passaram a ser conduzidas considerando as necessidades, características e problemas reais relacionados ao uso do ID Jovem.
+
+
+
 ## Cronograma de Participantes
 
 <font size="3"><p style="text-align: center">Tabela 1: Cronograma de Participantes</p></font>
@@ -12,40 +38,33 @@ Esse documento tem como objetivo apresentar, de forma organizada, uma visão ger
   <thead>
     <tr>
       <th>Nome</th>
-      <th>Data</th>
-      <th>Hora</th>
     </tr>
   </thead>
   <tbody>
  <tr>
   <td>Arthur Fernandes</td>
-  <td>16/11/2025</td>
-  <td>01:18</td>
+
 </tr>
+
 <tr>
   <td>Breno Lourenço</td>
- <td>xx/11/2025</td>
-  <td>00:00</td>
+
 </tr>
 <tr>
   <td>Dylan Cavalcante</td>
-  <td>xx/11/2025</td>
-  <td>00:00</td>
+
 </tr>
 <tr>
   <td>Eduarda Domingos</td>
-  <td>xx/11/2025</td>
-  <td>00:00</td>
+
 </tr>
 <tr>
   <td>Giovana Fontes</td>
- <td>23/11/2025</td>
-  <td>21:00</td>
+
 </tr>
 <tr>
   <td>Leticia Lopes</td>
-  <td>xx/11/2025</td>
-  <td>00:00</td>
+
 </tr>
   </tbody>
 </table>

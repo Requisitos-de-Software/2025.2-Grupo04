@@ -9,8 +9,8 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 ## Atas
 
 ### Legenda: 
-✅ - Presente
-❌ - Ausente
+* ✅ - Presente
+* ❌ - Ausente
 
 ### ata_01_09.md
 
@@ -241,7 +241,7 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
   </iframe>
 </p>
 
-#### Grupo+1
+### Grupo+1
 
 <font size="3"><p style="text-align: center">Tabela 18: Inspeção n+1 Entrega 1</p></font>
 
@@ -276,7 +276,7 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
   </iframe>
 </div>
 
-#### Grupo+1
+### Grupo+1
 
 <font size="3"><p style="text-align: center">Tabela 20: Inspeção n+1 Entrega 2</p></font>
 
@@ -312,7 +312,7 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 </iframe>
 </p>
 
-#### Grupo+1
+### Grupo+1
 
 <font size="3"><p style="text-align: center">Tabela 22: Inspeção n+1 Entrega 3</p></font>
 
@@ -348,7 +348,7 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 </iframe>
 </p>
 
-#### Grupo+1
+### Grupo+1
 
 <font size="3"><p style="text-align: center">Tabela 24: Inspeção n+1 Entrega 4</p></font>
 
@@ -385,7 +385,7 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 
 
 
-#### Grupo+1
+### Grupo+1
 
 <font size="3"><p style="text-align: center">Tabela 26: Inspeção n+1 Entrega 6</p></font>
 

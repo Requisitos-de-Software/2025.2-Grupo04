@@ -56,5 +56,5 @@ Com o objetivo de verificar a viabilidade legal do desenvolvimento do projeto, d
 | :----: | :--------: | :----------------------------------------------------: | :-----------------------------------------------------: | :-----------------------------------------------------: |
 | `1.0`  | 07/09/2025 |                  Criação do documento                  | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
 | `1.2`  | 16/09/2025 |     Mudança na descrição da escolha do aplicativo      | [Arthur Fernandes](https://github.com/arthurfernandesj) |      [Giovana](https://github.com/GiovanaFontesS)       |
-| `1.3`  | 16/09/2025 |      Aletrações adicionais ditas na apresentação       |      [Giovana](https://github.com/GiovanaFontesS)       |                          []()                           |
-| `1.4`  | 28/09/2025 | Correção e padronização das referências bibliográficas |        [Danilo Melo](https://github.com/EngDann)        |                                                         |
+| `1.3`  | 16/09/2025 |      Aletrações adicionais ditas na apresentação       |      [Giovana](https://github.com/GiovanaFontesS)       |   [Arthur Fernandes](https://github.com/arthurfernandesj)                                                 |
+| `1.4`  | 28/09/2025 | Correção e padronização das referências bibliográficas |        [Danilo Melo](https://github.com/EngDann)        |       [Giovana](https://github.com/GiovanaFontesS)                                                   |

@@ -1,6 +1,6 @@
-# 📅 Cronograma do Projeto – ID Jovem
+# Cronograma do Projeto – ID Jovem
 
-## 🟢 Sprint 1 – Planejamento do Projeto  
+## Entrega 1: Planejamento do Projeto  
 
 **Período:** 02/09 a 09/09  
 **Objetivo:** Estruturar equipe, ferramentas e planejamento inicial.  
@@ -19,13 +19,11 @@
 | Preparação e gravação da apresentação | Início: 08/09<br>Fim: 09/09 | Todos | Início: 09/09<br>Fim: 09/09 | Todos |
 | Correção pós apresentação | Início: 10/09<br>Fim: 11/09 | Todos | Início: 12/09<br>Fim: 12/09 | Todos |
 
-📌 **Entrega da Sprint:** Apresentação Etapa 1 (09/09).  
+**Entrega final estimada:** Apresentação Etapa 1 (09/09).  
 
-## 🟡 Sprint 2 – Elicitação de Requisitos  
+## Entrega 2: Elicitação de Requisitos  
 **Período:** 10/09 a 30/09  
 **Objetivo:** Levantar requisitos do app selecionado.  
-
-
 
 ### Tabela 2 - Elicitação
 
@@ -43,13 +41,9 @@
 | Gravação da Apresentação e Entrega |  26/09 -26/09 | Arthur, Eduarda, Dylan, Giovana, Leticia, Danilo e Breno |  27/09 -27/09 | Todos |
 | Correção pós apresentação |  28/09 -29/09 | Arthur, Eduarda, Dylan, Giovana, Leticia, Danilo e Breno |  30/09 -30/09 | Todos |
 
-📌 **Entrega da Sprint:** Apresentação Etapa 2 (30/09).
+**Entrega final estimada:** Apresentação Etapa 2 (30/09).
 
-
-
-
-
-## 🔵 Sprint 3 – Modelagem Inicial e Ágil  
+## Entrega 3: Modelagem Inicial e Ágil  
 
 **Período:** 16/09 a 02/10  
 **Objetivo:** Representar os requisitos levantados (cenários, léxico, casos de uso, histórias de usuário).  
@@ -64,11 +58,11 @@
 | Especificação Suplementar | 25/09 - 28/09 | Todos | 29/09 | Todos |
 | Gravação da apresentação da etapa 3 | 01/10 - 02/10 | Todos | 02/10 | Todos |
 
-📌 **Entrega da Sprint:** Apresentação Etapa 3 (02/10) e documento de Modelagem Inicial.
+**Entrega final estimada:** Apresentação Etapa 3 (02/10) e documento de Modelagem Inicial.
 
 ---
 
-## 🟣 Sprint 4 – Modelagem Ágil  
+## Entrega 4: Modelagem Ágil  
 
 **Período:** 30/09 a 21/10  
 **Objetivo:** Criar backlog de histórias de usuário, priorizar e documentar requisitos não funcionais (NFR Framework).  
@@ -83,11 +77,11 @@
 | Consolidação da Modelagem Ágil | 10/10 - 20/10 | Todos | 21/10 | Todos |
 | Gravação da apresentação da etapa 4 | 21/10 | Todos | 22/10 | Todos |
 
-📌 **Entrega da Sprint:** Apresentação Etapa 4 (21/10).
+**Entrega final estimada:** Apresentação Etapa 4 (21/10).
 
 ---
 
-## 🟤 Sprint 5 – Pós-Rastreabilidade  
+## Entrega 5: Pós-Rastreabilidade  
 
 **Período:** 16/10 a 30/10  
 **Objetivo:** Documentar rastreabilidade dos requisitos e gerência orientada à baseline.  
@@ -101,11 +95,11 @@
 | Consolidação da documentação | 26/10 - 29/10 | Todos | 30/10 | Todos |
 | Gravação da apresentação da etapa 6 | 30/10 | Todos | 30/10 | Todos |
 
-📌 **Entrega da Sprint:** Apresentação Etapa 6 (30/10).
+**Entrega final estimada:** Apresentação Etapa 6 (30/10).
 
 ---
 
-## ⚫ Sprint 6 – Análise de Requisitos  
+## Entrega 6: Análise de Requisitos  
 
 **Período:** 11/11 a 13/11  
 **Objetivo:** Revisar todos os requisitos, verificar consistência e validar com base no escopo do app.  
@@ -118,11 +112,11 @@
 | Validação dos requisitos | 12/11 - 13/11 | Todos | 13/11 | Todos |
 | Gravação da apresentação da etapa 5 | 13/11 | Todos | 13/11 | Todos |
 
-📌 **Entrega da Sprint:** Apresentação Etapa 5 (13/11).
+**Entrega final estimada:** Apresentação Etapa 5 (13/11).
 
 ---
 
-## ⚫ Sprint 7 – Projeto Final  
+## Entrega 7: Projeto Final  
 
 **Período:** 18/11 a 25/11  
 **Objetivo:** Consolidar todas as etapas em um documento final do projeto.  
@@ -135,15 +129,14 @@
 | Entrega do projeto final | 24/11 | Todos | 24/11 | Todos |
 | Avaliação final | 25/11 | Todos | - | Professor |
 
-📌 **Entrega da Sprint:** Projeto final (24/11) e Avaliação (25/11).
+**Entrega final estimada:** Projeto final (24/11) e Avaliação (25/11).
 
-## 📚 Referências Bibliográficas
+## Bibliografia
 
 1. UNIVERSIDADE DE BRASÍLIA. Plano de Ensino da disciplina de Requisitos de Software [plano de ensino]. Brasília, 2025. [PDF do plano](../assets/Planodeensino.pdf)
 
 
-
-## Histórico de Versões 📅
+## Histórico de Versões 
 
 | Versão |    Data    |                       Descrição                        |                      Autor(es)                      |                       Revisor(es)                       |
 | :----: | :--------: | :----------------------------------------------------: | :-------------------------------------------------: | :-----------------------------------------------------: |

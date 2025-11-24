@@ -63,6 +63,11 @@ Nesta seção, cada integrante da equipe compartilha, de forma individual, as pr
 
 ### Arthur Fernandes
 
+No início, a disciplina foi difícil de acompanhar devido à quantidade expressiva de atividades e às entregas frequentes do projeto. Em algumas semanas, era necessário conciliar novas tarefas com prazos já estabelecidos, o que tornava o processo mais pesado e exaustivo. A matéria, de modo geral, apresentou desafios, momentos de estresse e algumas dificuldades ao longo do semestre.
+
+Apesar disso, foi um período de grande aprendizado. Com a disciplina, pude compreender de forma mais concreta como um engenheiro de software trabalha e quais são os cuidados necessários na elaboração de requisitos. Foi uma experiência enriquecedora, que ampliou minha visão não apenas sobre o conteúdo teórico, mas também sobre a prática de construir requisitos de software com clareza e precisão.
+
+Agradeço ao professor por todo o apoio durante o semestre, por nos ajudar a enfrentar nossas inseguranças e por apontar os pontos que precisavam de aprimoramento para que fosse possível entregar um projeto de qualidade.
 
 ### Breno Teixeira
  Essa disciplina me proporcionou bastante experiência e aprendizado. Foi um pouco desafiadora, especialmente no início, quando enfrentamos diversas dificuldades, desde a escolha do aplicativo até a organização do grupo. Porém, no geral, tudo deu certo. Depois que nos alinhamos como equipe, o trabalho começou a fluir e a gerar muitos resultados.
@@ -104,3 +109,4 @@ Agradeço ao professor e aos monitores por toda a ajuda, pelos materiais de estu
 | `1.2`    | 23/11/2025 | Adição de consideração|[Leticia Lopes](https://github.com/leticialopes20)  |[Arthur Fernandes](https://github.com/arthurfernandesj) |
 |  `1.3` | 23/11/2025 | Adição de consideração | [Giovana Fontes](https://github.com/GiovanaFontesS)   | [Leticia Lopes](https://github.com/leticialopes20) |
 |  `1.4` | 23/11/2025 | Adição de consideração | [Breno Teixeira](https://github.com/Brenolteixeira)   | [Leticia Lopes](https://github.com/leticialopes20) |
+|  `1.5` | 24/11/2025 | Adição de consideração | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Giovana Fontes](https://github.com/GiovanaFontesS) |

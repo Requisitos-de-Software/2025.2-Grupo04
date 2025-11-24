@@ -221,14 +221,16 @@ Os léxicos do tipo estado referem-se às condições, situações ou configura�
 
 ### **Gravação 5** <a id="ceng01"></a> - Validação Leticia 
 
+### **Gravação 5** <a id="ceng01"></a> - Validação Leticia
+
 <div align="center">
   <p style="text-align: center">
-    <a href="https://youtu.be/5hT7xe_aKjc" target="_blank"><b>Vídeo 5:</b> Validação de Cenários</a>
+    <a href="https://youtu.be/09OI7c20UTY" target="_blank"><b>Vídeo 5:</b> Validação de Lexicos</a>
   </p>
 
   <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/5hT7xe_aKjc"
-          title="Validação de Cenários"
+          src="https://www.youtube.com/embed/09OI7c20UTY"
+          title="Validação de Lexicos"
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           allowfullscreen>
@@ -240,7 +242,6 @@ Os léxicos do tipo estado referem-se às condições, situações ou configura�
     </p>
   </font>
 </div>
-
 
 ## Bibliografia
 

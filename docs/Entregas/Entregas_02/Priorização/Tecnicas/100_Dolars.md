@@ -264,6 +264,7 @@ Para acessar a gravação da aplicação da técnica, acesse o vídeo através d
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         allowfullscreen>
 </iframe>
+</div>
 
 
 ## Referências Bibliográficas

@@ -117,6 +117,8 @@ Autor:
 | 1.6 | 21/10/2025 | Adicionar mais requisitos elicitados | [Giovana Fontes](https://github.com/giovanaFontesS) | [Dylan Cavalcante](https://github.com/dylancavalcante) |
 </center>
 
+## Bibliografia
+> </a> Requisitos de Software. Bilheteria Digital (2023.1). Disponível em: [https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital](https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital). Acesso em: 10 out. 2024.
 
 ## Agradecimentos
 

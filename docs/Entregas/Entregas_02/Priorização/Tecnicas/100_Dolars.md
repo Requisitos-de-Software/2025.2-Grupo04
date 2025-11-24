@@ -156,7 +156,7 @@ Com o objetivo de registrar o estudo e realização da técnica de priorização
 
 <p style="text-align: center; margin-top: 8px;">
   <a href="/assets/100_Maria_Eduarda.pdf" download>
-    Baixar PDF dos Protótipos
+    Baixar PDF de $100
   </a>
 </p>
 

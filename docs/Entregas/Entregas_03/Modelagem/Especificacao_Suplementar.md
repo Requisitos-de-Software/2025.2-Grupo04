@@ -5,9 +5,12 @@ A **Especificação Suplementar**, no contexto da engenharia de software, refere
 
 "Este documento captura os requisitos de sistema que não foram identificados imediatamente nos Casos de Uso do Modelo de Casos de Uso. Entre estes requisitos estão incluídos: o Requisitos legais e reguladores, incluindo padrões de aplicativo; Atributos de qualidade do sistema a ser criado, incluindo requisitos de usabilidade, confiabilidade, desempenho e suportabilidade. Outros requisitos, como sistemas operacionais e ambientes, requisitos de compatibilidade e restrições de design" <a id="TEC1" href="#RP1">[1]</a>. Esses requisitos são cruciais para garantir a qualidade do software e a satisfação do usuário  <a id="TEC2" href="#RP2">[2]</a>.
 
+<small><em>Revisado por [Chat GPT](https://chatgpt.com/share/6923b754-1e64-8000-8d6e-8645f6020b43), em 12 de outubro de 2025</em></small>
+
 ## Metodologia
 
 A Metodologia utilizada neste artefato foi baseada no modelo FURPS+. "É um sistema para a classificação de requisitos, o acrônimo representa categorias que podem ser usadas na definição de requisitos" <a id="TEC2" href="#RP2">[2]</a>. Dentre elas: Funcionalidade, Usabilidade, Confiabilidade, Desempenho, Suportabilidade. <a id="TEC2" href="#RP2">[2]</a>
+
 
 | Nome | Seções Relacionadas da Especificação Suplementar |
 |------|--------------------------------------------------|
@@ -185,6 +188,51 @@ Esta seção abrange todos os requisitos que influenciam o Suportabilidade do si
     </p>
   </font>
 
+### **Gravação 2** <a id="ceng01"></a> - Validação Giovana
+
+<div align="center">
+  <p style="text-align: center">
+    <a href="https://youtu.be/5hT7xe_aKjc" target="_blank">
+      <b>Vídeo 2:</b> Validação – Cenarios
+    </a>
+  </p>
+
+  <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/5hT7xe_aKjc"
+          title="Validação – Cenarios"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+  </iframe>
+</div>
+
+### **Gravação 3** <a id="ceng01"></a> - Validação Arthur
+
+### **Gravação 4** <a id="ceng01"></a> - Validação Dylan
+
+### **Gravação 5** <a id="ceng01"></a> - Validação Leticia 
+
+<div align="center">
+  <p style="text-align: center">
+    <a href="https://youtu.be/5hT7xe_aKjc" target="_blank"><b>Vídeo 5:</b> Validação de Cenários</a>
+  </p>
+
+  <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/5hT7xe_aKjc"
+          title="Validação de Cenários"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+  </iframe>
+
+  <font size="3">
+    <p style="text-align: center">
+      <b>Fonte:</b> <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, 2025
+    </p>
+  </font>
+</div>
+
+
 ## Referências Bibliográficas
 
 > <a id="RP1" href="#TEC1">1.</a> Requisitos de Software. Bilheteria-Digital (2023.1). Disponível em: [https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/). Acesso em: 12 Out. 2025.
@@ -205,3 +253,10 @@ Esta seção abrange todos os requisitos que influenciam o Suportabilidade do si
 | 1.2 | 12/10/2025 | Criação das tabelas de: Usabilidade, Confiabilidade, Desempenho, Suportabilidade e de participantes| [Arthur](https://github.com/arthurfernandesj), [Breno](https://github.com/BrenoLTeixeira), [Dylan ](https://github.com/dylancavalcante), [Eduarda](https://github.com/eduardar0), [Giovana](https://github.com/GiovanaFontesS), [Leticia](https://github.com/leticialopes20)| [Arthur](https://github.com/arthurfernandesj), [Breno](https://github.com/BrenoLTeixeira), [Dylan](https://github.com/dylancavalcante), [Eduarda](https://github.com/eduardar0), [Giovana](https://github.com/GiovanaFontesS), [Leticia](https://github.com/leticialopes20)|
 | 1.3| 12/10/2025 | Correção de links da tabela 3| [Leticia](https://github.com/leticialopes20) |[Arthur](https://github.com/arthurfernandesj) |
 | 1.4| 12/10/2025 | Adicionando as referências e a bibliografia | [Arthur](https://github.com/arthurfernandes) |[Leticia](https://github.com/leticialopes20) |
+
+## Agrecimentos
+
+Queremos agradecer ao [Chat GPT](https://chatgpt.com/share/6923b754-1e64-8000-8d6e-8645f6020b43), ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto ID Jovem. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão. 

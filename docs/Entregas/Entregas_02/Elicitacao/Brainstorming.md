@@ -355,20 +355,21 @@ Como referência, utilizamos o livro *Interação humano-computador e experiênc
 
 | Identificador | Requisito | Implementação |
 |---------------|---------------------------------------------------------------------------------------------------------------|---------------|
-| **BS01** <a id="bs01"></a> | O jovem beneficiário deve realizar o login com o acesso unificado do gov.br. | Sim |
-| **BS02** <a id="bs02"></a> | O jovem beneficiário deve aceitar um termo de uso em seu primeiro acesso ao aplicativo. | Não |
-| **BS03** <a id="bs03"></a> | O jovem beneficiário deve conseguir consultar se está dentro dos critérios para ter direito ao ID Jovem. | Sim |
-| **BS04** <a id="bs04"></a> | O jovem beneficiário deve poder emitir sua carteirinha digital do ID Jovem. | Sim |
-| **BS05** <a id="bs05"></a> | O jovem beneficiário deve conseguir visualizar os benefícios disponíveis, como meia-entrada em eventos culturais. | Sim |
-| **BS06** <a id="bs06"></a> | O jovem beneficiário deve poder verificar a validade da sua carteirinha do ID Jovem. | Sim |
-| **BS07** <a id="bs07"></a> | O jovem beneficiário deve ter acesso a um guia/tutorial explicativo sobre como utilizar o ID Jovem. | Não |
-| **BS08** <a id="bs08"></a> | O jovem beneficiário deve ter acesso a perguntas frequentes (FAQ) e suporte para dúvidas. | Sim |
-| **BS09** <a id="bs09"></a> | O aplicativo deve permitir atualização automática dos dados do beneficiário com base nas informações do CadÚnico. | Não |
-| **BS10** <a id="bs10"></a> | O jovem beneficiário deve conseguir acessar informações sobre locais e serviços onde o ID Jovem é aceito. | Não |
-| **BS11** <a id="bs11"></a> | O aplicativo deve oferecer notificações sobre vencimento e renovação do benefício. | Não |
-| **BS12** <a id="bs12"></a> | O jovem beneficiário deve poder compartilhar a carteirinha digital em PDF ou imagem para uso em estabelecimentos. | Não |
-| **BS13** <a id="bs13"></a> | O sistema deve validar em tempo real a autenticidade da carteirinha. | Sim |
-| **BS14** <a id="bs14"></a> | O aplicativo deve oferecer um processo de onboarding adaptado para jovens beneficiários com diferentes níveis de familiaridade tecnológica. | Não |
+| **BS01** <a id="Bs01"></a> | O jovem beneficiário deve realizar o login com o acesso unificado do gov.br. | Sim |
+| **BS02** <a id="Bs02"></a> | O jovem beneficiário deve aceitar um termo de uso em seu primeiro acesso ao aplicativo. | Não |
+| **BS03** <a id="Bs03"></a> | O jovem beneficiário deve conseguir consultar se está dentro dos critérios para ter direito ao ID Jovem. | Sim |
+| **BS04** <a id="Bs04"></a> | O jovem beneficiário deve poder emitir sua carteirinha digital do ID Jovem. | Sim |
+| **BS05** <a id="Bs05"></a> | O jovem beneficiário deve conseguir visualizar os benefícios disponíveis, como meia-entrada em eventos culturais. | Sim |
+| **BS06** <a id="Bs06"></a> | O jovem beneficiário deve poder verificar a validade da sua carteirinha do ID Jovem. | Sim |
+| **BS07** <a id="Bs07"></a> | O jovem beneficiário deve ter acesso a um guia/tutorial explicativo sobre como utilizar o ID Jovem. | Não |
+| **BS08** <a id="Bs08"></a> | O jovem beneficiário deve ter acesso a perguntas frequentes (FAQ) e suporte para dúvidas. | Sim |
+| **BS09** <a id="Bs09"></a> | O aplicativo deve permitir atualização automática dos dados do beneficiário com base nas informações do CadÚnico. | Não |
+| **BS10** <a id="Bs10"></a> | O jovem beneficiário deve conseguir acessar informações sobre locais e serviços onde o ID Jovem é aceito. | Não |
+| **BS11** <a id="Bs11"></a> | O aplicativo deve oferecer notificações sobre vencimento e renovação do benefício. | Não |
+| **BS12** <a id="Bs12"></a> | O jovem beneficiário deve poder compartilhar a carteirinha digital em PDF ou imagem para uso em estabelecimentos. | Não |
+| **BS13** <a id="Bs13"></a> | O sistema deve validar em tempo real a autenticidade da carteirinha. | Sim |
+| **BS14** <a id="B
+s14"></a> | O aplicativo deve oferecer um processo de onboarding adaptado para jovens beneficiários com diferentes níveis de familiaridade tecnológica. | Não |
 
 <p align="center" size="3">Fontes: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a> & <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a>, 2025.</p>
 

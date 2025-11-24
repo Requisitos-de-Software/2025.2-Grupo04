@@ -31,6 +31,8 @@ Descreve os reflexos ou consequências daquele símbolo.<a id="TEC1" href="#RP1"
 
 Cada entrada no Léxico pertence a somente um tipo (Verbo, Objeto, Estado), e a heurística de definição (Noção e Impacto) é aplicada de acordo com esse tipo. Essa descrição estruturada dos termos é fundamental para o LAL.
 
+<small><em>Revisado por [Chat GPT](https://chatgpt.com/share/6923b754-1e64-8000-8d6e-8645f6020b43), em 12 de outubro de 2025</em></small>
+
 ## Léxico Ampliado da Linguagem (LAL) do ID Jovem
 
 Os léxicos do sistema ID Jovem foram identificados a partir da utilização do aplicativo e dos [requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) nas etapas anteriores. Na tabela 1 abaixo, temos um exemplo de como os léxicos serão apresentados e descritos:
@@ -195,6 +197,51 @@ Os léxicos do tipo estado referem-se às condições, situações ou configura�
     </p>
   </font>
 
+### **Gravação 2** <a id="ceng01"></a> - Validação Giovana
+
+<div align="center">
+  <p style="text-align: center">
+    <a href="https://youtu.be/5hT7xe_aKjc" target="_blank">
+      <b>Vídeo 2:</b> Validação – Cenarios
+    </a>
+  </p>
+
+  <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/5hT7xe_aKjc"
+          title="Validação – Cenarios"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+  </iframe>
+</div>
+
+### **Gravação 3** <a id="ceng01"></a> - Validação Arthur
+
+### **Gravação 4** <a id="ceng01"></a> - Validação Dylan
+
+### **Gravação 5** <a id="ceng01"></a> - Validação Leticia 
+
+<div align="center">
+  <p style="text-align: center">
+    <a href="https://youtu.be/5hT7xe_aKjc" target="_blank"><b>Vídeo 5:</b> Validação de Cenários</a>
+  </p>
+
+  <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/5hT7xe_aKjc"
+          title="Validação de Cenários"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+  </iframe>
+
+  <font size="3">
+    <p style="text-align: center">
+      <b>Fonte:</b> <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, 2025
+    </p>
+  </font>
+</div>
+
+
 ## Bibliografia
 
 > SERRANO, Milene. Requisitos - Aula 10. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: [Requisitos - Aula 10](https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf). Acesso em: 11 de Outubro de 2025.
@@ -218,3 +265,10 @@ Os léxicos do tipo estado referem-se às condições, situações ou configura�
 |  `2.0` | 12/10/2025 | Adicionado tabela de ligação entre lexicos| [Eduarda](https://github.com/Eduarar0) | [Dylan](https://github.com/dylancavalcante)|
 |  `2.1` | 12/10/2025 | Arrumando links das tabelas e do documento| [Leticia](https://github.com/leticialopes20) | [Dylan](https://github.com/dylancavalcante)|
 |  `2.1` | 12/10/2025 | Adicionado tabela de ligação entre lexicos| [Eduarda](https://github.com/Eduarar0) | [Dylan](https://github.com/dylancavalcante)|
+
+## Agrecimentos
+
+Queremos agradecer ao [Chat GPT](https://chatgpt.com/share/6923b754-1e64-8000-8d6e-8645f6020b43), ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto ID Jovem. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão. 

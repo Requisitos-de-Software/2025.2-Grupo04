@@ -78,3 +78,5 @@ Além disso, enfrentei desafios relacionados à organização pessoal, especialm
 | `1.1`    | 16/11/2025 | Introdução da página| [Arthur Fernandes](https://github.com/arthurfernandesj)   | [Leticia Lopes](https://github.com/leticialopes20) |
 | `1.2`    | 23/11/2025 | Adição de consideração|[Leticia Lopes](https://github.com/leticialopes20)  |[Arthur Fernandes](https://github.com/arthurfernandesj) |
 |  `1.3` | 23/11/2025 | Adição de consideração | [Giovana Fontes](https://github.com/GiovanaFontesS)   | [Leticia Lopes](https://github.com/leticialopes20) |
+|  `1.4` | 23/11/2025 | Adição de consideração | [Breno Teixeira](https://github.com/Brenolteixeira)   | [Leticia Lopes](https://github.com/leticialopes20) |
+|  `1.5` | 24/11/2025 | Adição de consideração | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Giovana Fontes](https://github.com/GiovanaFontesS) |

@@ -77,20 +77,24 @@ Após a finalização dos protótipos, foram realizadas duas validações presen
 A seguir, apresenta-se o protótipo utilizado nas validações.
 
 <p style="text-align: justify;">
-  Caso queira conferir o protótipo, <a href="https://www.figma.com/proto/1f9ynsKYXObJ7Xq5ZphOr5/ID-JOVEM---PROTOTIPA%C3%87%C3%83O?node-id=341-668&p=f&t=bVyjKVLeIXGXkPur-1&scaling=contain&content-scaling=fixed&page-id=0%3A1" target="_blank"><b>clique aqui</b></a>.
+  Caso queira conferir o protótipo com o fluxograma no figma, <a href="https://www.figma.com/proto/1f9ynsKYXObJ7Xq5ZphOr5/ID-JOVEM---PROTOTIPA%C3%87%C3%83O?node-id=341-668&p=f&t=bVyjKVLeIXGXkPur-1&scaling=contain&content-scaling=fixed&page-id=0%3A1" target="_blank"><b>clique aqui</b></a>.
 </p>
-<p style="text-align: center"><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="" allowfullscreen></iframe></p>
 
-<a href="https://www.figma.com/proto/1f9ynsKYXObJ7Xq5ZphOr5/ID-JOVEM---PROTOTIPA%C3%87%C3%83O?node-id=341-668&p=f&t=bVyjKVLeIXGXkPur-1&scaling=contain&content-scaling=fixed&page-id=0%3A1" target="_blank">📄 Ver documento completo</a>
-
-<iframe src="" width="100%" height="450px">
-    Este navegador não suporta PDFs. Faça o download <a href="">aqui</a>.
+<iframe src="../../assets/prototipos_Idjovem.pdf" width="100%" height="450px">
+    Este navegador não suporta PDFs. Faça o download <a href="../../assets/prototipos_Idjovem.pdf">aqui</a>.
 </iframe>
+
+<p style="text-align: center; margin-top: 8px;">
+  <a href="../../assets/prototipos_Idjovem.pdf" download>
+    Baixar PDF dos Protótipos
+  </a>
+</p>
+
 
 
 ## Validação dos Protótipos
 
-A validação dos protótipos foi realizado com os jovens beneficiários do programa Yasmin Moreira, Rivadalvo e Fernando.
+A validação dos protótipos foi realizado com os jovens beneficiários do programa Yasmin Moreira, Rivadalvo, Fernando e Pedro.
 A validação ocorreu em **12/11/2025**, com o objetivo de verificar se as novas interfaces apresentavam clareza, facilidade de navegação e aderência aos requisitos identificados durante a análise do aplicativo ID Jovem.
 
 
@@ -168,5 +172,6 @@ A validação ocorreu em **12/11/2025**, com o objetivo de verificar se as novas
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :--: | :--: | :-- | :-- | :-- |
 | `1.0` | 31/10/2025 | Criação da página da Prototipação. | [Arthur Fernandes](https://github.com/arthurfernandesj) | [ Giovana Fontes ](https://github.com/Giovana FontesS) |
-| `1.1`  12/11/2025 | Adição de videos | [Giovana Fontes](https://github.com/GiovanaFontesS) | [ Arthur Fernandes](https://github.com/https://github.com/arthurfernandesj) |
-| `1.2`  12/11/2025 | Atualização de requisitos atribuidos | [ Arthur Fernandes](https://github.com/https://github.com/arthurfernandesj) | [Giovana Fontes](https://github.com/GiovanaFontesS) |
+| `1.1` | 12/11/2025 | Adição de videos | [Giovana Fontes](https://github.com/GiovanaFontesS) | [ Arthur Fernandes](https://github.com/https://github.com/arthurfernandesj) |
+| `1.2`  |12/11/2025 | Atualização de requisitos atribuidos | [ Arthur Fernandes](https://github.com/https://github.com/arthurfernandesj) | [Giovana Fontes](https://github.com/GiovanaFontesS) |
+| `1.3`  |24/11/2025 | Adição de PDF com os protótipos e Refinamento da página | [Letícia Lopes](https://github.com/leticialopes20)    | [Giovana Fontes](https://github.com/GiovanaFontesS) |

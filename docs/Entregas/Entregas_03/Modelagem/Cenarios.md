@@ -309,13 +309,15 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 
 ### **Gravação 5** <a id="ceng01"></a> - Validação Leticia 
 
+### **Gravação 5** <a id="ceng01"></a> - Validação Leticia
+
 <div align="center">
   <p style="text-align: center">
-    <a href="https://youtu.be/5hT7xe_aKjc" target="_blank"><b>Vídeo 5:</b> Validação de Cenários</a>
+    <a href="https://youtu.be/09OI7c20UTY" target="_blank"><b>Vídeo 5:</b> Validação de Cenários</a>
   </p>
 
   <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/5hT7xe_aKjc"
+          src="https://www.youtube.com/embed/09OI7c20UTY"
           title="Validação de Cenários"
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -339,6 +341,7 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 
 
 ## Histórico de Versão
+
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :----------------------------------------------------------------------------------------: | :-------------------------------------------: |
 | `1.0` | 09/10/2025 | Criação do documento | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Letícia Lopes ](https://github.com/leticialopes20) |

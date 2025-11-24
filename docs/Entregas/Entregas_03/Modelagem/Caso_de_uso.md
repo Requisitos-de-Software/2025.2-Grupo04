@@ -362,12 +362,12 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 
 <div align="center">
   <p style="text-align: center">
-    <a href="https://youtu.be/5hT7xe_aKjc" target="_blank"><b>Vídeo 5:</b> Validação de Cenários</a>
+    <a href="https://youtu.be/09OI7c20UTY" target="_blank"><b>Vídeo 5:</b> Validação de Caso de uso</a>
   </p>
 
   <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/5hT7xe_aKjc"
-          title="Validação de Cenários"
+          src="https://www.youtube.com/embed/09OI7c20UTY"
+          title="Validação de Caso de uso"
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           allowfullscreen>
@@ -379,7 +379,6 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
     </p>
   </font>
 </div>
-
 
 ## Referências Bibliográficas
 

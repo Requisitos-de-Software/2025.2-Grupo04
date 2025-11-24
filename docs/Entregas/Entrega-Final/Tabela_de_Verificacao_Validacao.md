@@ -289,7 +289,7 @@ No contexto deste projeto, foram desenvolvidos protótipos para todos os requisi
 
 A Comprovação Informal é uma forma de validação que usa linguagem natural para descrever os requisitos, permitindo que o cliente identifique possíveis falhas ou ambiguidades. Para isso, é essencial a participação do cliente.
 
-No projeto, a metodologia adotada envolveu a tentativa de contato com a equipe do aplicativo FGTS por meio de e-mails, elaborados e revisados por todos os membros do grupo 7. No entanto, até a data da entrega dos artefatos de validação, não houve retorno. Caso algum contato seja respondido futuramente, ele será registrado neste tópico.
+No projeto, a metodologia adotada envolveu a tentativa de contato com a equipe do aplicativo ID Jovem por meio de e-mails, elaborados e revisados por todos os membros do grupo 4. No entanto, até a data da entrega dos artefatos de validação, não houve retorno. Caso algum contato seja respondido futuramente, ele será registrado neste tópico.
 
 
 ## Histórico de Versões

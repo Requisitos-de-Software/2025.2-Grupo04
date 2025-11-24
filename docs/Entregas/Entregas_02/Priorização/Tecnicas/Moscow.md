@@ -43,12 +43,12 @@ Para aplicar o MoSCoW ao **ID Jovem**, seguimos as etapas:
 Com o objetivo de registrar o estudo e realização da técnica de priorização Moscow foi feita presencialmente, com apoio do ambiente EXCEL, disponibilizamos o documento completo no link abaixo:
 
 **Acesso à Planilha Completa:**
-<iframe src="../../assets/Moscow.pdf" width="100%" height="450px">
-    Este navegador não suporta PDFs. Faça o download <a href="../../assets/Moscow.pdf">aqui</a>.
+<iframe src="../../../../../assets/Moscow.pdf" width="100%" height="450px">
+    Este navegador não suporta PDFs. Faça o download <a href="../../../../../assets/Moscow.pdf">aqui</a>.
 </iframe>
 
 <p style="text-align: center; margin-top: 8px;">
-  <a href="../../assets/Moscow.pdf" download>
+  <a href="../../../../../assets/Moscow.pdf" download>
     Baixar PDF do Moscow 
   </a>
 </p>

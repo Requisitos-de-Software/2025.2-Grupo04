@@ -48,12 +48,12 @@ Requisitos classificados como **OUT** foram justificados com base em sua não es
 Com o objetivo de registrar o estudo e realização da técnica de priorização In or Out foi feita presencialmente, com apoio do ambiente EXCEL, disponibilizamos o documento completo no link abaixo:
 
 **Acesso à Planilha Completa:**
-<iframe src="../../assets/InorOut.pdf" width="100%" height="450px">
-    Este navegador não suporta PDFs. Faça o download <a href="../../assets/InorOut.pdf">aqui</a>.
+<iframe src="../../../../../assets/InorOut.pdf" width="100%" height="450px">
+    Este navegador não suporta PDFs. Faça o download <a href="../../../../../assets/InorOut.pdf">aqui</a>.
 </iframe>
 
 <p style="text-align: center; margin-top: 8px;">
-  <a href="../../assets/InorOut.pdf" download>
+  <a href="../../../../../assets/InorOut.pdf" download>
     Baixar PDF do In or Out 
   </a>
 </p>

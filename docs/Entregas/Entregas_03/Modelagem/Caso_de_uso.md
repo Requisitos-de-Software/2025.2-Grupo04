@@ -313,6 +313,7 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 | **Autor** | [Breno Teixeira](https://github.com/BrenoLTeixeira) |
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Breno Teixeira](https://github.com/BrenoLTeixeira) </i></b></p></font>
+
 ## Validação  
 
 ### **Gravação 1** <a id="ucg01"></a> - Validação Breno e Eduarda 

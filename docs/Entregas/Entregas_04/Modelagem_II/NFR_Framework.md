@@ -1038,6 +1038,7 @@ Este SIG (Softgoal Interdependency Graph) foi elaborado a partir de todos os req
 | `2.4` | 21/11/2025 | Correção dos hiperlinks existentes | [Breno Teixeira](https://github.com/brenolteixeira) | [Giovana Fontes](https://github.com/GiovanaFontesS) |
 | `2.5` | 21/11/2025 | Adição de novos hiperlinks | [Breno Teixeira](https://github.com/brenolteixeira) | [Giovana Fontes](https://github.com/GiovanaFontesS) |
 | `2.6` | 21/11/2025 | refinamento para a entrega final | [Breno Teixeira](https://github.com/brenolteixeira) | [Giovana Fontes](https://github.com/GiovanaFontesS) |
+
 ## Agrecimentos
 
 Queremos agradecer ao [Chat GPT](https://chatgpt.com/share/68fa1d62-74e4-8000-b2e7-9e7dd04bf86c), ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto ID Jovem. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.

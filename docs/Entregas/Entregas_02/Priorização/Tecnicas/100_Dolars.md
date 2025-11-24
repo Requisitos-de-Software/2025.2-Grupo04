@@ -103,6 +103,7 @@ O processo é simples e participativo:
   </thead>
   <tbody>
     <tr>
+    <td rowspan="2"><strong>Sessão 2</strong></td>
       <td>Mediador</td>
       <td><a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></td>
       <td>10/11/2025</td>
@@ -118,6 +119,7 @@ O processo é simples e participativo:
     </tr>
   </tbody>
 </table>
+
 <p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/leticialopes20">Letícia Lopes</a>, 2025.</p>
 </div>
 

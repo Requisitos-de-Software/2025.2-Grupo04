@@ -7,79 +7,48 @@ Nesta seção, cada integrante da equipe compartilha, de forma individual, as pr
 <font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj) </p></font>
 
 
+<div align="center">
 
 ## Cronograma de Participantes
 
-<font size="3"><p style="text-align: center">Tabela 1: Cronograma de Participantes</p></font>
+**Tabela 1: Cronograma de Participantes**
 
-<div align="center">
+| Nome | Considerações |
+|------|---------------|
+| Arthur Fernandes | [considerações](#arthur-fernandes) |
+| Breno Lourenço | [considerações](#breno) |
+| Dylan Cavalcante | [considerações](#dylan) |
+| Eduarda Domingos | [considerações](#eduarda) |
+| Giovana Fontes | [considerações](#gigi) |
+| Leticia Lopes | [considerações](#let) |
 
-<table>
-  <thead>
-    <tr>
-      <th>Nome</th>
-      <th>Data</th>
-      <th>Hora</th>
-    </tr>
-  </thead>
-  <tbody>
- <tr>
-  <td>Arthur Fernandes</td>
-  <td>16/11/2025</td>
-  <td>16:00</td>
-</tr>
-<tr>
-  <td>Breno Lourenço</td>
- <td>xx/11/2025</td>
-  <td>00:00</td>
-</tr>
-<tr>
-  <td>Dylan Cavalcante</td>
-  <td>xx/11/2025</td>
-  <td>00:00</td>
-</tr>
-<tr>
-  <td>Eduarda Domingos</td>
-  <td>xx/11/2025</td>
-  <td>00:00</td>
-</tr>
-<tr>
-  <td>Giovana Fontes</td>
- <td>23/11/2025</td>
-  <td>20:16</td>
-</tr>
-<tr>
-  <td>Leticia Lopes</td>
-  <td>xx/11/2025</td>
-  <td>00:00</td>
-</tr>
-  </tbody>
-</table>
+<font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj) e [Eduarda Domingos](https://github.com/eduardar0)</p></font>
+
 </div>
-
-<font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj) </p></font>
 
 ## Considerações:
 
-### Arthur Fernandes
+### **Arthur Fernandes** <a id = "Arthur"> </a>
 
 
-### Breno Lourenço
+### **Breno Lourenço** <a id = "Breno"> </a>
 
 
-### Dylan Cavalcante 
+### **Dylan Cavalcante** <a id = "Dylan"> </a> 
 
 
-### Eduarda Domingos
+### **Eduarda Domingos** <a id = "Eduarda"> </a>
+O desenvolvimento do projeto de requisitos foi bastante desafiador. No início, tive dificuldades para compreender e executar todas as etapas necessárias. Porém, com o passar do tempo e por meio da leitura dos materiais disponibilizados pelo professor, consegui evoluir significativamente e ampliar meu conhecimento sobre o tema.
 
+Além disso, enfrentei desafios relacionados à organização pessoal, especialmente para conciliar este projeto com as demais disciplinas do semestre. Ainda assim, acredito que o esforço dedicado trouxe um ótimo aprendizado e contribuiu para o meu desenvolvimento acadêmico e profissional.
 
-### Giovana Fontes 
+### **Giovana Fontes** <a id = "gigi"> </a> 
 
  O desenvolvimento deste projeto foi uma experiência de aprendizado significativo. Embora a novidade do tema tenha gerado dificuldades iniciais, a prática e a colaboração da equipe foram cruciais para a superação. Meus principais desafios foram a assimilação de alguns conteúdos e a melhoria da organização pessoal, mas no geral, a disciplina contribuiu imensamente para o meu aprimoramento.
 
  Agradeço ao Professor pelo suporte, materiais de apoio e aulas de qualidade, e aos colegas pela excelente parceria.
 
-### Letícia Lopes:
+### **Letícia Lopes:** <a id = "Let"> </a>
 
  Durante a disciplina de Requisitos de Software, enfrentei algumas dificuldades, principalmente para conciliar as demandas da faculdade com o desenvolvimento do projeto. No início, também tive certa dificuldade para entender como aplicar corretamente as técnicas ensinadas em aula, o que tornou o processo um pouco desafiador.
 

@@ -15,40 +15,32 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
   <thead>
     <tr>
       <th>Nome</th>
-      <th>Data</th>
-      <th>Hora</th>
     </tr>
   </thead>
   <tbody>
  <tr>
   <td>Arthur Fernandes</td>
-  <td>16/11/2025</td>
-  <td>12:47</td>
+
 </tr>
 <tr>
   <td>Breno Lourenço</td>
- <td>xx/11/2025</td>
-  <td>00:00</td>
+
 </tr>
 <tr>
   <td>Dylan Cavalcante</td>
-  <td>xx/11/2025</td>
-  <td>00:00</td>
+
 </tr>
 <tr>
   <td>Eduarda Domingos</td>
-  <td>xx/11/2025</td>
-  <td>00:00</td>
+
 </tr>
 <tr>
   <td>Giovana Fontes</td>
- <td>xx/11/2025</td>
-  <td>00:00</td>
+
 </tr>
 <tr>
   <td>Leticia Lopes</td>
-  <td>xx/11/2025</td>
-  <td>00:00</td>
+
 </tr>
   </tbody>
 </table>

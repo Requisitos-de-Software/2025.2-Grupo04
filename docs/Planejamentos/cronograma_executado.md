@@ -369,9 +369,44 @@ Tabela 04: Cronograma executado para todas as atividades da quarta entrega
 <p>Autor(a): <a href="https://github.com/dylancavalcante" target = "_blank">Dylan Cavalcante</a></p>
 </div>
 
-# Sexta entrega
+# Quinta entrega
 <div align="center">
 Tabela 05: Cronograma executado para todas as atividades da quinta entrega
+
+<table>
+<thead>
+<tr>
+<th style="text-align: left">Atividade</th>
+<th style="text-align: left">Responsáveis</th>
+<th style="text-align: left">Período de desenvolvimento</th>
+<th style="text-align: left">Revisão</th>
+<th style="text-align: left">Revisores</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left">Correção de todas as entregas</td>
+<td style="text-align: left">Arthur, Breno, Dylan, Eduarda, Giovana e Letícia</td>
+<td style="text-align: left">17/11/2025 - 24/11/2025</td>
+<td style="text-align: left">24/11/2025</td>
+<td style="text-align: left">Arthur, Breno, Dylan, Eduarda, Giovana e Letícia</td>
+</tr>
+<tr>
+<td style="text-align: left">Verificação e inspeção</td>
+<td style="text-align: left">Arthur, Breno, Dylan, Eduarda, Giovana e Letícia</td>
+<td style="text-align: left">24/11/2025 - 25/11/2025</td>
+<td style="text-align: left">25/11/2025</td>
+<td style="text-align: left">Arthur, Breno, Dylan, Eduarda, Giovana e Letícia</td>
+</tr>
+</tbody>
+</table>
+
+<p>Autor(a): <a href="https://github.com/dylancavalcante" target = "_blank">Dylan Cavalcante</a></p>
+</div>
+
+# Sexta entrega
+<div align="center">
+Tabela 06: Cronograma executado para todas as atividades da quinta entrega
 
 <table>
 <thead>

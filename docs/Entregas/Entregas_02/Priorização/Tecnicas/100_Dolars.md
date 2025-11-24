@@ -150,12 +150,12 @@ Foi realizada uma breve discussão conjunta para:
 Com o objetivo de registrar o estudo e realização da técnica de priorização $100 feita presencialmente, de forma individual e coletiva no ambiente EXCEL, disponibilizamos o documento completo no link abaixo:
 
 **Acesso à Planilha Completa:**
-<iframe src="/assets/100_Maria_Eduarda.pdf" width="100%" height="450px">
-    Este navegador não suporta PDFs. Faça o download <a href="/assets/100_Maria_Eduarda.pdf">aqui</a>.
+<iframe src="../../assets/100_Maria_Eduarda.pdf" width="100%" height="450px">
+    Este navegador não suporta PDFs. Faça o download <a href="../../assets/100_Maria_Eduarda.pdf">aqui</a>.
 </iframe>
 
 <p style="text-align: center; margin-top: 8px;">
-  <a href="/assets/100_Maria_Eduarda.pdf" download>
+  <a href="../../assets/100_Maria_Eduarda.pdf" download>
     Baixar PDF de $100
   </a>
 </p>

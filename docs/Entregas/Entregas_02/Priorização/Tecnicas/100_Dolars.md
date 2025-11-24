@@ -245,11 +245,21 @@ A Tabela 2 mostra os dados consolidados em uma única planilha, com os valores a
 Para acessar a gravação da aplicação da técnica, acesse o vídeo através do link abaixo:
 
 <div align="center">
-<p style="text-align: center"><a href="https://youtu.be/8k1RkCJvzxo" target="_blank"><b>Vídeo 1:</b> Primeira aplicação da técnica de Priorização - 100 Dólares</a></p>
+<p style="text-align: center">
+  <a href="https://youtu.be/veKZUIvgnAI" target="_blank"><b>Vídeo 1:</b> Primeira aplicação da técnica de Priorização - 100 Dólares</a>
+</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8k1RkCJvzxo" title="Sessão de Técnica de Priorização - 100 Dólares" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315"
+        src="https://www.youtube.com/embed/veKZUIvgnAI"
+        title="Sessão de Técnica de Priorização - 100 Dólares"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen>
+</iframe>
 
-<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, 2025.</p>
+<p style="text-align: center; font-size: 10pt;">
+  Fonte: <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, 2025.
+</p>
 </div>
 
 <div align="center">

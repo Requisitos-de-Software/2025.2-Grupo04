@@ -116,10 +116,9 @@
 | 1.0 | 19/10/2025 | Criação do Documento: Introdução, Metodologia e itens e verificação.  | [Dylan Cavalcante](https://github.com/dylancavalcante) | [ Letícia Lopes ](https://github.com/leticialopes20) |
 | 1.2 | 29/10/2025 | Adiciona avaliação e link da gravação  | [Dylan Cavalcante](https://github.com/dylancavalcante) e [Giovana Fontes](https://github.com/GiovanaFontesS) | [ Letícia Lopes ](https://github.com/leticialopes20) |
 
-## Agrecimentos
+## Agradecimentos
 
-
-Queremos agradecer ao [GEMINI](https://gemini.google.com/share/c2d29d8c09cf), ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento do projeto ID Jovem. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+Queremos agradecer ao [Chat GPT](https://chatgpt.com/), ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto ID Jovem. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
 
 De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
 Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.

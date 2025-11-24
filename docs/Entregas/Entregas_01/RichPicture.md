@@ -41,6 +41,15 @@ _Figura 2: Legenda oficial da Rich Picture do ID Jovem._
 
 <p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a></p>
 
+## Bibliografia
+
+> <a id="vazquez2016"></a> VAZQUEZ, C. E.; SIMÕES, G. S. *Engenharia de Requisitos: software orientado ao negócio*. Rio de Janeiro: Brasport, 2016. Acesso em: 28 set. 2025.
+
+> <a id="barbosa2011"></a> BARBOSA, S. D. J.; SILVA, B. S. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2011.
+
+> <a id="bilheteriadigital2023"></a> REQUISITOS DE SOFTWARE – Grupo Bilheteria Digital. *Repositório do Projeto*. 2023. Disponível em: [Bilheteria Digital](https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital). Acesso em: 21 nov. 2025.
+
+
 # Histórico de Versões
 
 | Versão | Data       | Descrição                                   | Autor       | Revisor          |
@@ -48,3 +57,4 @@ _Figura 2: Legenda oficial da Rich Picture do ID Jovem._
 | 1.0    | 08/09/2025 | Criação do documento para o projeto IdJovem | Danilo Melo | [Arthur Fernandes](https://github.com/arthurfernandesj)|
 | 1.2    | 16/09/2025 | Atualização nas legendas                    | [Arthur Fernandes](https://github.com/arthurfernandesj) | [Giovana Fontes](https://github.com/giovanaFontesS)|
 | 1.3    | 18/09/2025 | Alteração Rich Picture e Legenda                    |[Giovana Fontes](https://github.com/giovanaFontesS) | [Arthur Fernandes](https://github.com/arthurfernandesj)|
+| 1.4   | 23/11/2025 | Padronização do documento                   |[Dylan Cavalcante](https://github.com/dylancavalcante) | [Arthur Fernandes](https://github.com/arthurfernandesj)|

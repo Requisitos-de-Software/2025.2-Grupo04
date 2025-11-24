@@ -73,7 +73,6 @@ nav:
   - Entregas:
       - Entrega 01:
           - Pré-Rastreabilidade (RichPicture): Entregas/Entregas_01/RichPicture.md
-          - Apresentação: Entregas/Entregas_01/apresentacao01.md
           - Verificação e inspeção: 
                 - Inspeção: Entregas/Entregas_01/Entrega_01.md
                 - Verificação grupo n+1: Entregas/Entregas_01/inspecao01.md

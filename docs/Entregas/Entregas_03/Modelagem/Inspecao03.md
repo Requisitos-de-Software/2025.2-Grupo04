@@ -1,4 +1,4 @@
-# Inspeção do Grupo +1 (Entrega 3)
+# Verificação do Grupo +1 (Entrega 3)
 
 ## Introdução
 

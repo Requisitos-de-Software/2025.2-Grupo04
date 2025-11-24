@@ -5,7 +5,6 @@
 Esta página tem como objetivo agrupar todas as gravações relacionadas ao processo de elicitação de requisitos do projeto, bem como seus respectivos usos dentro do projeto, organizadas por etapa.
 
 
-
 ## Atas
 
 ### Legenda: 

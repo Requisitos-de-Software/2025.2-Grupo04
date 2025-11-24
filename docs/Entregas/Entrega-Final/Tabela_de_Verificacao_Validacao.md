@@ -6,50 +6,6 @@ As ações foram conduzidas de forma colaborativa pelo grupo, seguindo métodos 
 
 A seguir, são apresentadas as tabelas com os registros de verificação e validação realizados ao longo das entregas.
 
-## Cronograma de Participantes
-
-<font size="3"><p style="text-align: center">Tabela 1: Cronograma de Participantes</p></font>
-
-<div align="center">
-<table>
-  <thead>
-    <tr>
-      <th>Nome</th>
-    </tr>
-  </thead>
-  <tbody>
- <tr>
-  <td>Arthur Fernandes</td>
-
-</tr>
-<tr>
-  <td>Breno Lourenço</td>
-
-</tr>
-<tr>
-  <td>Dylan Cavalcante</td>
-
-</tr>
-<tr>
-  <td>Eduarda Domingos</td>
-
-</tr>
-<tr>
-  <td>Giovana Fontes</td>
-
-</tr>
-<tr>
-  <td>Leticia Lopes</td>
-
-</tr>
-  </tbody>
-</table>
-
-</div>
-
-
-<font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj) </p></font>
-
 
 ## Verificação
 
@@ -73,9 +29,9 @@ A estratégia de planejamento consistiu na verificação de cada artefato por um
     <th>Revisor</th>
   </tr>
   <tr>
-    <td><a href="">Rich Picture</a></td>
-    <td></td>
-    <td></td>
+    <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_01/RichPicture/">Rich Picture</a></td>
+    <td>Giovana Fontes</td>
+    <td>Leticia</td>
   </tr>
 </table>
 
@@ -100,39 +56,39 @@ A estratégia de planejamento consistiu na verificação de cada artefato por um
         <th>Revisor</th>
     </tr>
     <tr>
-        <td><a href="">Perfil de Usuário</a></td>
-        <td></td>
-        <td></td>
+        <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Perfil_de_Usu%C3%A1rio/">Perfil de Usuário</a></td>
+        <td>Dylan e Eduarda</td>
+        <td>Breno</td>
     </tr>
     <tr>
-        <td><a href="">Personas</a></td>
-        <td></td>
-        <td></td>
+        <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Definicao_de_Personas/">Personas</a></td>
+        <td>Dylan e Eduarda</td>
+        <td>Breno</td>
     </tr>
     <tr>
-        <td><a href="">Introspecção</a></td>
-        <td></td>
-        <td></td>
+        <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspeccao/">Introspecção</a></td>
+        <td>Dylan e Breno</td>
+        <td>Dylan</td>
     </tr>
     <tr>
-        <td><a href="">Entrevista</a></td>
-        <td></td>
-        <td></td>
+        <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/">Entrevista</a></td>
+        <td>Arthur e Giovana</td>
+        <td>Breno</td>
     </tr>
     <tr>
-        <td><a href="">Brainstorm</a></td>
-        <td></td>
-        <td></td>
+        <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/">Brainstorming</a></td>
+        <td>Arthur</td>
+        <td>Breno</td>
     </tr>
     <tr>
-        <td><a href="">Observação</a></td>
-        <td></td>
-        <td></td>
+        <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Observa%C3%A7%C3%A3o/">Observação</a></td>
+        <td>Giovana</td>
+        <td>Eduarda</td>
     </tr>
     <tr>
-        <td><a href="">Storytelling</a></td>
-        <td></td>
-        <td></td>
+        <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling/">Storytelling</a></td>
+        <td>Eduarda</td>
+        <td>Arthur</td>
     </tr>
     <tr>
         <td colspan="3" align="center"><strong>Priorização</strong></td>
@@ -143,19 +99,19 @@ A estratégia de planejamento consistiu na verificação de cada artefato por um
         <th>Revisor</th>
     </tr>
     <tr>
-        <td><a href="">$100</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Prioriza%C3%A7%C3%A3o/Tecnicas/100_Dolars/">$100</a></td>
         <td></td>
         <td></td>
     </tr>
     <tr>
-        <td><a href="">First Things First</a></td>
-        <td></td>
-        <td></td>
+        <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Prioriza%C3%A7%C3%A3o/Tecnicas/First_Thing_First/">First Things First</a></td>
+        <td>Arthur, Breno, Dylan, Eduarda, Giovana e Letícia</td>
+        <td>Dylan</td>
     </tr>
     <tr>
-        <td><a href="">In or Out</a></td>
-        <td></td>
-        <td></td>
+        <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Prioriza%C3%A7%C3%A3o/Tecnicas/InorOut/">In or Out</a></td>
+        <td>Arthur, Breno, Dylan, Eduarda, Giovana e Letícia</td>
+        <td>Dylan</td>
     </tr>
 </table>
 
@@ -177,27 +133,27 @@ A estratégia de planejamento consistiu na verificação de cada artefato por um
   </tr>
 
   <tr>
-    <td><a href="">Caso de Uso</a></td>
-    <td></td>
-    <td></td>
+    <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Caso_de_uso/">Caso de Uso</a></td>
+    <td>Arthur, Breno, Dylan, Eduarda, Giovana e Letícia</td>
+    <td>Letícia</td>
   </tr>
 
   <tr>
-    <td><a href="">Cenários</a></td>
-    <td></td>
-    <td></td>
+    <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Cenarios/">Cenários</a></td>
+    <td>Arthur, Breno, Dylan, Eduarda, Giovana e Letícia</td>
+    <td>Arthur</td>
   </tr>
 
   <tr>
-    <td><a href="">Léxicos</a></td>
-    <td></td>
-    <td></td>
+    <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Lexicos/">Léxicos</a></td>
+    <td>Arthur, Breno, Dylan, Eduarda, Giovana e Letícia</td>
+    <td>Eduarda</td>
   </tr>
 
   <tr>
-    <td><a href="">Especificação Suplementar</a></td>
-    <td></td>
-    <td></td>
+    <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Especificacao_Suplementar/">Especificação Suplementar</a></td>
+    <td>Arthur, Breno, Dylan, Eduarda, Giovana e Letícia</td>
+    <td>Giovana</td>
   </tr>
 </table>
 
@@ -220,15 +176,22 @@ A estratégia de planejamento consistiu na verificação de cada artefato por um
   </tr>
 
   <tr>
-    <td><a href="">NFR Framework</a></td>
-    <td></td>
-    <td></td>
+    <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_04/Modelagem_II/NFR_Framework/">NFR Framework</a></td>
+    <td>Arthur, Breno, Dylan, Eduarda, Giovana e Letícia</td>
+    <td>Arthur</td>
   </tr>
 
   <tr>
-    <td><a href="">Backlog</a></td>
-    <td></td>
-    <td></td>
+    <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_04/Modelagem_II/Product_Backlog/">Backlog</a></td>
+    <td>Arthur, Breno, Dylan, Eduarda, Giovana e Letícia</td>
+    <td>Giovana</td>
+  </tr>
+</table>
+
+  <tr>
+    <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_04/Modelagem_II/Historias_de_Usuario/">Histórias de Usuário</a></td>
+    <td>Arthur, Breno, Dylan, Eduarda, Giovana e Letícia</td>
+    <td>Dylan</td>
   </tr>
 </table>
 
@@ -245,7 +208,7 @@ A estratégia de planejamento consistiu na verificação de cada artefato por um
 
 ### Introdução
 
-Esta seção tem como propósito apresentar de forma sintetizada o artefato de validação do projeto. Para isso, são reunidos e descritos os resultados das atividades de **[prototipação]()** e **[comprovação informal]()**, que foram conduzidas com o intuito de avaliar a clareza, a consistência e a adequação dos requisitos modelados. Esses processos permitem identificar possíveis ajustes necessários, garantindo maior qualidade e alinhamento do sistema às necessidades do usuário.
+Esta seção tem como propósito apresentar de forma sintetizada o artefato de validação do projeto. Para isso, são reunidos e descritos os resultados das atividades de **[prototipação](https://requisitos-de-software.github.io/2025.2-Grupo04/Validacao/Prototipacao/)** e **[comprovação informal](https://requisitos-de-software.github.io/2025.2-Grupo04/Validacao/Comprovacao_Informal/)**, que foram conduzidas com o intuito de avaliar a clareza, a consistência e a adequação dos requisitos modelados. Esses processos permitem identificar possíveis ajustes necessários, garantindo maior qualidade e alinhamento do sistema às necessidades do usuário.
 
 
 ### Prototipação

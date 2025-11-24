@@ -47,14 +47,14 @@ Além disso, o app apresenta funcionalidades bem definidas, fluxos claros e um p
             <td rowspan="1" style="font-weight: bold;">Planejamento</td>
             <td>Essa etapa consistiu na definição inicial dos principais aspectos que guiariam o andamento do projeto ao longo da disciplina. Nessa fase, a equipe avaliou diferentes opções de aplicativos e escolheu um deles como base. Também foram definidos o cronograma com os prazos das entregas, as ferramentas que seriam utilizadas, a metodologia de trabalho e um plano de reuniões semanais para garantir o alinhamento entre os membros do grupo.</td>
             <td>
-                <a href="">Aplicativo</a>
+                <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Planejamentos/Aplicativo/">Aplicativo</a>
                 <br>
-                <a href="">Cronograma</a> <br>
-                <a href="">Ferramentas</a>
+                <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Planejamentos/Cronograma/">Cronograma</a> <br>
+                <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Planejamentos/Ferramentas/">Ferramentas</a>
                 <br>
-                <a href="">Metodologia</a> 
+                <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Planejamentos/Metodologias/">Metodologia</a> 
                 <br>
-                <a href="">Plano de Reuniões</a> 
+                <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Encontros/Reuni%C3%A3o/">Plano de Reuniões</a> 
             </td>
         </tr>
         <tr>
@@ -63,7 +63,7 @@ Além disso, o app apresenta funcionalidades bem definidas, fluxos claros e um p
             Nessa fase, a equipe buscou entender melhor os atores envolvidos, suas necessidades iniciais e interações com o sistema, o que permitiu uma visão mais ampla e fundamentada do problema a ser tratado.
             </td>
             <td>
-                <a href="">Rich Picture</a>
+                <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_01/RichPicture/">Rich Picture</a>
             </td>
         </tr>
         <tr>
@@ -74,29 +74,29 @@ Além disso, o app apresenta funcionalidades bem definidas, fluxos claros e um p
         <tr>
             <td>O perfil de Usuário e Personas foram artefatos criados durante a elicitação que  ajudaram a equipe a entender melhor o público-alvo do aplicativo, suas características, necessidades e expectativas.</td>
             <td>
-                <a href="">Perfil de Usuário</a> <br>
-                <a href="">Definição de Personas</a>
+                <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Perfil_de_Usu%C3%A1rio/">Perfil de Usuário</a> <br>
+                <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Definicao_de_Personas/">Definição de Personas</a>
             </td>
         </tr>
         <tr>
             <td>Técnicas de elicitação utilizadas na etapa de Elicitação.</td>
             <td>
-                <a href="">Brainstorming</a>
+                <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/">Brainstorming</a>
                 <br>
-                <a href="">Entrevista</a> <br>
-                <a href="">Introspecção <a> 
+                <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Entrevista/">Entrevista</a> <br>
+                <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Introspeccao/">Introspecção <a> 
                 <br>
-                <a href="">Observação</a> <br>
-                <a href="">Storytelling</a>
+                <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Observa%C3%A7%C3%A3o/">Observação</a> <br>
+                <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Storytelling/">Storytelling</a>
                 <br>
             </td>
         </tr>
       <td>Técnicas de Priorização de requisitos utilizadas na etapa de Elicitação.</td>
 <td>
-    <a href="">In or Out</a> <br>
-    <a href="">Moscow</a> <br>
-    <a href="">$100</a>
-    <a href="">First Things First</a> <br>
+    <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Prioriza%C3%A7%C3%A3o/Tecnicas/InorOut/">In or Out</a> <br>
+    <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Prioriza%C3%A7%C3%A3o/Tecnicas/Moscow/">Moscow</a> <br>
+    <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Prioriza%C3%A7%C3%A3o/Tecnicas/100_Dolars/">$100</a>
+    <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Prioriza%C3%A7%C3%A3o/Tecnicas/First_Thing_First/">First Things First</a> <br>
 </td>
 </tr>
 <tr>
@@ -113,46 +113,46 @@ Além disso, o app apresenta funcionalidades bem definidas, fluxos claros e um p
 <tr>
     <td>Modelagem de Requisitos.</td>
     <td>
-        <a href="">Caso de Uso</a> <br>
-        <a href="">Cenários</a> <br>
-        <a href="">Léxicos</a><br>
-        <a href="">Especificação Suplementar</a>
+        <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Caso_de_uso/">Caso de Uso</a> <br>
+        <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Cenarios/">Cenários</a> <br>
+        <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Lexicos/">Léxicos</a><br>
+        <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Especificacao_Suplementar/">Especificação Suplementar</a>
         <br>
     </td>
 </tr>
 <tr>
     <td>Modelagem Ágil.</td>
     <td>
-        <a href="">NFR Framework</a><br>
-        <a href="">Product Backlog</a><br>
-        <a href="">Histórias de Usuário</a> <br>
+        <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_04/Modelagem_II/NFR_Framework/">NFR Framework</a><br>
+        <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_04/Modelagem_II/Product_Backlog/">Product Backlog</a><br>
+        <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_04/Modelagem_II/Historias_de_Usuario/">Histórias de Usuário</a> <br>
     </td>
 </tr>
 <tr>
     <td>Verificação</td>
     <td>Essa estapa consistiu na análise e validação dos artefatos produzidos ao longo do projeto, utilizando o método de inspeção de Fagan.</td>
     <td>
-        <a href="">Etapa 1</a> <br>
-        <a href="">Etapa 2</a> <br>
-        <a href="">Etapa 3</a> <br>
-        <a href="">Etapa 4</a>
+        <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Verificacao/Planejamento_Geral/">Etapa 1</a> <br>
+        <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Verificacao/Planejamento_Geral/">Etapa 2</a> <br>
+        <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Verificacao/Planejamento_Geral/">Etapa 3</a> <br>
+        <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Verificacao/Planejamento_Geral/">Etapa 4</a>
     </td>
 </tr>
 <tr>
     <td>Validação</td>
     <td>Essa etapa teve como objetivo garantir que os requisitos definidos realmente atendessem às necessidades e expectativas dos stakeholders em um contexto próximo ao uso real do sistema. </td>
     <td>
-        <a href="">Prototipação</a><br>
-        <a href="">Comprovação Informal</a> <br>
+        <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Validacao/Prototipacao/">Prototipação</a><br>
+        <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Validacao/Comprovacao_Informal/">Comprovação Informal</a> <br>
     </td>
 </tr>
 <tr>
     <td>Pós-rastreabilidade</td>
     <td>Essa etapa teve como foco estabelecer conexões claras entre os requisitos identificados e os artefatos desenvolvidos ao longo do projeto.</td>
     <td>
-        <a href="">Elos Forward-From</a><br>
-        <a href="">Elos Backward-From</a><br>
-        <a href="">Matriz Geral</a> <br>
+        <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_05/Elos/">Elos Forward-From</a><br>
+        <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_05/Elos/">Elos Backward-From</a><br>
+        <a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_05/Matriz_de_Rastreabilidade/">Matriz Geral</a> <br>
     </td>
 </tr>
 
@@ -625,4 +625,4 @@ Tabela 8: *Cronograma Executado da Entrega 6*
 | `1.0`    | 15/11/2025 | Criação da página da Execução | [Arthur Fernandes](https://github.com/arthurfernandesj)   | [Giovana Fontes](https://github.com/GiovanaFontesS) |
 | `1.1`    | 16/11/2025 | Tabela de Resumo da Execução do Projeto | [Arthur Fernandes](https://github.com/arthurfernandesj)  | [Leticia Lopes](https://github.com/leticialopes20) |
 | `1.2` | 23/11/2025 | Cronograma de execução entregas | [Giovana Fontes](https://github.com/GiovanaFontesS)   | [Arthur Fernandes](https://github.com/arthurfernandesj)  |
-
+| `1.2` | 24/11/2025 | Arrumando tabela com os hiperlinks |  [Arthur Fernandes](https://github.com/arthurfernandesj)   | [Leticia Lopes](https://github.com/leticialopes20) |

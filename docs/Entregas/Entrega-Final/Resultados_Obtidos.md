@@ -6,47 +6,7 @@ A disciplina de Requisitos de Software tem como principal objetivo conduzir os a
 
 **OBS.:** *A apresentação referente à entrega final e aos seus resultados, executados após a etapa final de desenvolvimento do projeto, se encontra em [Entregas](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_01/RichPicture/).*
 
-## Cronograma de Participantes
 
-<font size="3"><p style="text-align: center">Tabela 1: Cronograma de Participantes</p></font>
-
-<div align="center">
-
-<table>
-  <thead>
-    <tr>
-      <th>Nome</th>
-    </tr>
-  </thead>
-  <tbody>
- <tr>
-  <td>Arthur Fernandes</td>
-
-</tr>
-<tr>
-  <td>Breno Lourenço</td>
-
-</tr>
-<tr>
-  <td>Dylan Cavalcante</td>
-</tr>
-<tr>
-  <td>Eduarda Domingos</td>
-</tr>
-<tr>
-  <td>Giovana Fontes</td>
-
-</tr>
-<tr>
-  <td>Leticia Lopes</td>
-
-</tr>
-  </tbody>
-</table>
-
-</div>
-
-<font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj) </p></font>
 
 ## Resultados Alcançados
 O projeto teve início na etapa de **Planejamento**, na qual a equipe definiu o escopo do trabalho, escolheu o aplicativo a ser analisado ([Aplicativo](https://requisitos-de-software.github.io/2025.2-Grupo04/Planejamentos/Aplicativo/)), estruturou um [Cronograma](https://requisitos-de-software.github.io/2025.2-Grupo04/Planejamentos/Cronograma/) detalhado e selecionou as [Ferramentas](https://requisitos-de-software.github.io/2025.2-Grupo04/Planejamentos/Ferramentas/) e [Metodologias](https://requisitos-de-software.github.io/2025.2-Grupo04/Planejamentos/Metodologias/) que seriam utilizadas ao longo do semestre. Também foi elaborado um [Plano de Reuniões](https://requisitos-de-software.github.io/2025.2-Grupo04/Encontros/Reuni%C3%A3o/). Dessa forma, essa etapa foi essencial para garantir o alinhamento entre os membros e proporcionar uma organização clara desde o início.

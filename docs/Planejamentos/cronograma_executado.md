@@ -369,7 +369,7 @@ Tabela 04: Cronograma executado para todas as atividades da quarta entrega
 <p>Autor(a): <a href="https://github.com/dylancavalcante" target = "_blank">Dylan Cavalcante</a></p>
 </div>
 
-# Quinta entrega
+# Sexta entrega
 <div align="center">
 Tabela 05: Cronograma executado para todas as atividades da quinta entrega
 

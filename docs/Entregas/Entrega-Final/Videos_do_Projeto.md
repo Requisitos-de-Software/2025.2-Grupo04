@@ -413,7 +413,7 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 
 ### Entrevista
 
-<font size="3"><p style="text-align: center">Tabela 17: Entrevistas 1 e 2 </p></font>
+<font size="3"><p style="text-align: center">Tabela 27: Entrevistas 1 e 2 </p></font>
 
 | Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
 | :-: | :-: | :-: | :-: | :-: | :-: | 
@@ -429,7 +429,7 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 
 ### Brainstorming
 
-<font size="3"><p style="text-align: center">Tabela 18: Brainstorming </p></font>
+<font size="3"><p style="text-align: center">Tabela 28: Brainstorming </p></font>
 
 | Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
 | :-: | :-: | :-: | :-: | :-: | :-: | 
@@ -445,7 +445,7 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 
 ### In or Out
 
-<font size="3"><p style="text-align: center">Tabela 19: In or Out </p></font>
+<font size="3"><p style="text-align: center">Tabela 29: In or Out </p></font>
 
 | Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
 | :-: | :-: | :-: | :-: | :-: | :-: | 
@@ -460,7 +460,7 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 
 ### Moscow
 
-<font size="3"><p style="text-align: center">Tabela 20: Moscow</p></font>
+<font size="3"><p style="text-align: center">Tabela 30: Moscow</p></font>
 
 | Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
 | :-: | :-: | :-: | :-: | :-: | :-: | 
@@ -474,7 +474,7 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 
 ### $100 
 
-<font size="3"><p style="text-align: center">Tabela 21: $100</p></font>
+<font size="3"><p style="text-align: center">Tabela 31: $100</p></font>
 
 | Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
 | :-: | :-: | :-: | :-: | :-: | :-: | 
@@ -487,7 +487,7 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 </div>
 
 ### First Thing Firts
-<font size="3"><p style="text-align: center">Tabela 22: First Thing Firts</p></font>
+<font size="3"><p style="text-align: center">Tabela 32: First Thing Firts</p></font>
 
 | Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
 | :-: | :-: | :-: | :-: | :-: | :-: | 
@@ -554,7 +554,7 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 
 ## NFR Framework
 
-<font size="3"><p style="text-align: center">Tabela 23: NFR Framework</p></font>
+<font size="3"><p style="text-align: center">Tabela 33: NFR Framework</p></font>
 
 | Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
 | :-: | :-: | :-: | :-: | :-: | :-: | 
@@ -594,7 +594,7 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 
 ### Histórias de Usuário
 
-<font size="3"><p style="text-align: center">Tabela 24: Histórias de Usuário</p></font>
+<font size="3"><p style="text-align: center">Tabela 34: Histórias de Usuário</p></font>
 
 | Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
 | :-: | :-: | :-: | :-: | :-: | :-: | 
@@ -646,7 +646,7 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 
 ### Product Backlog 
 
-<font size="3"><p style="text-align: center">Tabela 24: Product Backlog</p></font>
+<font size="3"><p style="text-align: center">Tabela 35: Product Backlog</p></font>
 
 | Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
 | :-: | :-: | :-: | :-: | :-: | :-: | 
@@ -689,7 +689,7 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 
 ### Prototipação
 
-<font size="3"><p style="text-align: center">Tabela 25: Prototipação</p></font>
+<font size="3"><p style="text-align: center">Tabela 36: Prototipação</p></font>
 
 | Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
 | :-: | :-: | :-: | :-: | :-: | :-: | 

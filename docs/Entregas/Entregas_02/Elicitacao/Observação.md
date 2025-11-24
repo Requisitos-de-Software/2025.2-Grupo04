@@ -68,9 +68,25 @@ A técnica de observação, associada às entrevistas, contribuiu significativam
 
 ## Referências Bibliográficas
 
-><p><a id="QT1" href="#anchor_1">1.</a> VAZQUEZ, C. A.; SIMÕES, G. S. <b>Engenharia de Requisitos: Software Orientado ao Negócio</b>. Rio de Janeiro: Brasport, 2016.</p>
-><p><a id="QT2" href="#anchor_2">2.</a> SERRANO, Milene; SERRANO, Mauricio. <b>Requisitos – Aula 07: Técnicas de Elicitação</b>. Universidade de Brasília, 2023. Material de apoio da disciplina.</p>
-><p><a id="QT3" href="#anchor_3">3.</a> BRASIL. Ministério da Cidadania. <b>ID Jovem – Identidade Jovem</b>. Disponível em: <a href="https://www.gov.br/mds/pt-br/acoes-e-programas/identidade-jovem-id-jovem">https://www.gov.br/mds/pt-br/acoes-e-programas/identidade-jovem-id-jovem</a>. Acesso em: 10 out. 2025.</p>
+<p style="border-left: 4px solid #ccc; padding-left: 15px; margin: 10px 0;">
+  <a id="QT1" href="#anchor_1">1.</a> VAZQUEZ, C. A.; SIMÕES, G. S. <b>Engenharia de Requisitos: Software Orientado ao Negócio</b>. Rio de Janeiro: Brasport, 2016.
+</p>
+
+<p style="border-left: 4px solid #ccc; padding-left: 15px; margin: 10px 0;">
+  <a id="QT2" href="#anchor_2">2.</a> RETRAINING. Guia facetado de Técnicas de Elicitação de Requisitos – Observação Direta. Disponível em:
+  <a href="https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-observacao-direta" target="_blank" rel="noopener noreferrer">
+    https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-observacao-direta
+  </a>.
+  Acesso em: 10 out. 2025.
+</p>
+
+<p style="border-left: 4px solid #ccc; padding-left: 15px; margin: 10px 0;">
+  <a id="QT3" href="#anchor_3">3.</a> BRASIL. Ministério da Cidadania. <b>ID Jovem – Identidade Jovem</b>. Disponível em: 
+  <a href="https://www.gov.br/mds/pt-br/acoes-e-programas/identidade-jovem-id-jovem" target="_blank" rel="noopener noreferrer">
+    https://www.gov.br/mds/pt-br/acoes-e-programas/identidade-jovem-id-jovem
+  </a>. 
+  Acesso em: 10 out. 2025.
+</p>
 
 ## Histórico de Versão
 

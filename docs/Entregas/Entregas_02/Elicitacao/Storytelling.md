@@ -12,14 +12,14 @@ A técnica de **Storytelling** baseia-se na utilização de histórias em grupos
 <br><small><em>Revisado por [Chat GPT](https://chatgpt.com/), em 22 de Novembro 2025</em></small>
 ## Metodologia
 
-Foram utilizadas as [Personas](./Definicao_de_Personas.md) definidas anteriormente no projeto do aplicativo **ID Jovem** para a elaboração das histórias e contextos. Essa abordagem, que utiliza narrativas para explorar o uso de um sistema, é fundamental na criação de cenários<a id="anchor_2" href="#QT2">[2]</a>. As histórias foram essenciais para entendermos as necessidades e os anseios de cada persona. A partir desses contextos, conseguimos identificar e listar os requisitos que o aplicativo precisa atender para fazer a diferença na vida deles.
+Foram utilizadas as [Personas](./Definicao_de_Personas.md) definidas anteriormente no projeto do aplicativo ID Jovem para a elaboração das histórias e contextos. Essa abordagem, que utiliza narrativas para explorar o uso de um sistema, é fundamental na criação de cenários<a id="anchor_2" href="#QT2">[2]</a>. As histórias foram essenciais para entendermos as necessidades e os anseios de cada persona. A partir desses contextos, conseguimos identificar e listar os requisitos que o aplicativo precisa atender para fazer a diferença na vida deles.
 <br><small><em>Revisado por [Chat GPT](https://chatgpt.com/), em 22 de Novembro 2025</em></small>
 ## Storytelling
 
 ### História 1
 
 **Ana Clara**, 19 anos, estudante universitária, ama viajar e participar de eventos culturais, mas possui uma renda limitada.
-Ela utiliza o **ID Jovem** para garantir descontos em passagens de ônibus e acesso gratuito a eventos culturais.
+Ela utiliza o ID Jovem para garantir descontos em passagens de ônibus e acesso gratuito a eventos culturais.
 
 Porém, Ana já perdeu oportunidades por não conseguir verificar rapidamente se seu benefício estava válido.
 Ela deseja que o aplicativo seja simples, com **login rápido**, notificações automáticas sobre a validade do documento e a possibilidade de **baixar sua carteirinha offline**, para não depender de internet em suas viagens.
@@ -73,7 +73,7 @@ Isso ajudaria Camila a se sentir mais conectada à cidade e aproveitar melhor os
 
 ## Referências Bibliográficas
 
-<p><a id="QT1" href="#anchor_1">1.</a> SERRANO, M.; SERRANO, M. <b>Requisitos – Aula 07</b>. [S. l.], 2025. Material de aula (slide).</p>
+<p><a id="QT1" href="#anchor_1">1.</a> COOPER, Alan; REIMANN, Robert; CRONIN, Dave. <b>About Face 3: The Essentials of Interaction Design</b>. Indianapolis: Wiley Publishing, 2007. Cap. 5: Modeling Users: Personas and Goals.</p>
 <p><a id="QT2" href="#anchor_2">2.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) <b>Interação Humano-Computador e Experiência do usuário</b>. Autopublicação. ISBN: 978-65-00-19677-1. Cap 8.3: Cenários.</p>
 
 ## Histórico de Versão

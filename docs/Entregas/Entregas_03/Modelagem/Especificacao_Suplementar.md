@@ -5,7 +5,7 @@ A **Especificação Suplementar**, no contexto da engenharia de software, refere
 
 "Este documento captura os requisitos de sistema que não foram identificados imediatamente nos Casos de Uso do Modelo de Casos de Uso. Entre estes requisitos estão incluídos: o Requisitos legais e reguladores, incluindo padrões de aplicativo; Atributos de qualidade do sistema a ser criado, incluindo requisitos de usabilidade, confiabilidade, desempenho e suportabilidade. Outros requisitos, como sistemas operacionais e ambientes, requisitos de compatibilidade e restrições de design" <a id="TEC1" href="#RP1">[1]</a>. Esses requisitos são cruciais para garantir a qualidade do software e a satisfação do usuário  <a id="TEC2" href="#RP2">[2]</a>.
 
-<small><em>Revisado por [Chat GPT](https://chatgpt.com/share/6923b754-1e64-8000-8d6e-8645f6020b43), em 28 de outubro de 2025</em></small>
+<small><em>Revisado por [Chat GPT](https://chatgpt.com/share/6923b754-1e64-8000-8d6e-8645f6020b43), em 12 de outubro de 2025</em></small>
 
 ## Metodologia
 

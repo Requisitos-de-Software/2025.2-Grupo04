@@ -361,7 +361,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 
 <font size="2"><p style="text-align: center">Fonte: [Dylan Cavalcante](https://github.com/dylancavalcante)</p></font>
 
-### <a name="h01"></a> **História 15: Cadastro do Jovem Beneficiário via CPF**
+### <a name="h15"></a> **História 15: Cadastro do Jovem Beneficiário via CPF**
 
 <font size="3"><p style="text-align: center">Tabela 1: História de cadastro do Jovem Beneficiário via CPF</p></font>
 
@@ -378,7 +378,7 @@ A tabela abaixo será utilizada como modelo para a elaboração das histórias d
 <font size="2"><p style="text-align: center">Fonte: [Giovana Fontes](https://github.com/GiovanaFontesS)</p></font>
 
 ---
-### <a name="h02"></a> **História 16: Autenticação e Login via Gov.br**
+### <a name="h16"></a> **História 16: Autenticação e Login via Gov.br**
 
 <font size="3"><p style="text-align: center">Tabela 2: História de autenticação e login via Gov.br</p></font>
 

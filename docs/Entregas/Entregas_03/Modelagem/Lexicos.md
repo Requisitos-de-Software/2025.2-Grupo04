@@ -50,9 +50,9 @@ Os léxicos do sistema ID Jovem foram identificados a partir da utilização do 
 | Nome | Léxicos Elaborados |
 |------|-------------------|
 | **[Arthur Fernandes](https://github.com/arthurfernandesj)** | • [L05 - Transporte Gratuito](#l05)<br>• [L06 - Estabelecimento Conveniado](#l06)<br>• [L16 - Compartilhar](#l16)<br>• [L24 - Pendência](#l24) |
-| **[Breno Lourenço](https://github.com/BrenoLTeixeira)** | • [L07 - Benefício](#l07)<br>• [L08 - Parceiro](#l08)<br>• [L18 - Consultar](#l18)<br>• [L26 - Vencido](#l26) |
+| **[Breno Lourenço](https://github.com/BrenoLTeixeira)** | • [L07 - Benefício](#l07)<br>• [L08 - Parceiro](#l08)<br>• [L18 - Consultar](#l18)<br>• [L26 - Vencido](#l26) <br>• [Validação](#lexg01) |
 | **[Dylan Cavalcante](https://github.com/dylancavalcante)** | • [L11 - Notificação](#l11)<br>• [L12 - Mapa Interativo](#l12)<br>• [L17 - Atualizar](#l17)<br>• [L25 - Sincronizado](#l25) |
-| **[Eduarda Domingos](https://github.com/eduardar0)** | • [L01 - Jovem Beneficiário](#l01)<br>• [L02 - Carteira Digital](#l02)<br>• [L13 - Cadastrar](#l13)<br>• [L14 - Autenticar](#l14)<br>• [L21 - Elegível](#l21)<br>• [L22 - Ativo](#l22) |
+| **[Eduarda Domingos](https://github.com/eduardar0)** | • [L01 - Jovem Beneficiário](#l01)<br>• [L02 - Carteira Digital](#l02)<br>• [L13 - Cadastrar](#l13)<br>• [L14 - Autenticar](#l14)<br>• [L21 - Elegível](#l21)<br>• [L22 - Ativo](#l22) <br>• [Validação](#lexg01) |
 | **[Giovana Fontes](https://github.com/GiovanaFontesS)** | • [L03 - Cadastro](#l03)<br>• [L04 - Elegibilidade](#l04)<br>• [L15 - Emitir](#l15)<br>• [L23 - Download Realizado](#l23) |
 | **[Letícia Lopes](https://github.com/leticialopes20)** | • [L09 - FAQ e Suporte](#l09)<br>• [L10 - Agenda de Eventos](#l10)<br>• [L19 - Favoritar](#l19)<br>• [L20 - Denunciar](#l20)<br>• [L27 - Em Análise](#l27)<br>• [L28 - Personalizado](#l28) |
 
@@ -173,6 +173,27 @@ Os léxicos do tipo estado referem-se às condições, situações ou configura�
 
 ## Referência bibliográfica
 > <a id="RP1" href="#TEC1">1.</a> SERRANO, Milene. Requisitos - Aula 10. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: [Requisitos - Aula 10](https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf). Página 19. Acesso em: 11 de Outubro de 2025.
+
+## Validação  
+
+### **Gravação 1** <a id="lexg01"></a> - Validação Breno e Eduarda 
+
+<p style="text-align: center">
+  <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/RGZCayCbnnU" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+  </iframe>
+</p>
+
+ <font size="3">
+    <p style="text-align: center">
+      <b>Fonte:</b> <a href="https://github.com/eduardar0">Eduarda Domingos</a>, 2025
+    </p>
+  </font>
 
 ## Bibliografia
 

@@ -1,6 +1,6 @@
 # Ata de Reunião 
 
-- **Data:** 12/11/2025 
+- **Data:** 16/11/2025 
 
 - **Início:** 20:30
 
@@ -18,7 +18,7 @@
 
 ## Gravação
 
-[![Assista à gravação](https://img.youtube.com/vi/XKo2GFpkWQo/hqdefault.jpg)](https://youtu.be/XKo2GFpkWQo)
+[![Assista à gravação](https://img.youtube.com/vi/Zh3-w2ELG3Y/hqdefault.jpg)](https://youtu.be/Zh3-w2ELG3Y)
 
 ## 1. Atribuições da ultima reunião 
 

@@ -32,6 +32,8 @@ Essa divisão garantiu a *participação equilibrada* e permitiu uma análise ma
 
 A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cenários, assim como as **datas e horários de submissão** de seus respectivos cenários no documento correspondente.
 
+<small><em>Revisado por [Chat GPT](https://chatgpt.com/share/6923b754-1e64-8000-8d6e-8645f6020b43), em 12 de outubro de 2025</em></small>
+
 ### Tabela 1: Participação na Elaboração de Cenários
 
 | Nome | Cenários Relacionados |
@@ -282,3 +284,10 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 | `1.6` | 12/10/2025 | Adição dos cenários 7 e 8   | [Giovana Fontes](https://github.com/GiovanaFontesS)| [Letícia Lopes](https://github.com/leticialopes20)|
 | `1.7` | 12/10/2025 | Adição dos cenários 9 e 10   | [Arthur Fernandes](https://github.com/arthurfernandes)|[Letícia Lopes](https://github.com/leticialopes20)|
 | `1.8` | 12/10/2025 | Adição dos cenários 10 e 11   | [Breno Teixeira](https://github.com/brenolteixeira)|[Letícia Lopes](https://github.com/leticialopes20)|
+
+## Agrecimentos
+
+Queremos agradecer ao [Chat GPT](https://chatgpt.com/share/6923b754-1e64-8000-8d6e-8645f6020b43), ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto ID Jovem. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão. 

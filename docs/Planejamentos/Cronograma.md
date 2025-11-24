@@ -2,12 +2,11 @@
 
 ## Entrega 1: Planejamento do Projeto  
 
-**Período:** 02/09 a 09/09  
-**Objetivo:** Estruturar equipe, ferramentas e planejamento inicial.  
+**Periodo:** 02/09 a 11/09  
+**Objetivo:** Estruturar equipe, ferramentas e planejamento inicial.
 
 ### Tabela 1 - Planejamento
-
-| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
+| Atividade | Periodo de desenvolvimento | Responsaveis | Revisao | Revisores |
 |-----------|---------------------------|--------------|---------|-----------|
 | Definição da equipe e papéis (Heatmap) | Início: 02/09<br>Fim: 03/09 | Arthur, Breno, Dylan, Eduarda, Giovana e Letícia | Início: 04/09<br>Fim: 04/09 | Arthur |
 | Levantamento e avaliação de apps | Início: 02/09<br>Fim: 04/09 | Arthur, Breno, Dylan, Eduarda, Giovana e Letícia | Início: 05/09<br>Fim: 05/09 | Eduarda |
@@ -49,8 +48,7 @@
 **Objetivo:** Representar os requisitos levantados (cenários, léxico, casos de uso, histórias de usuário).  
 
 ### Tabela 3 - Modelagem Inicial
-
-| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
+| Atividade | Periodo de desenvolvimento | Responsaveis | Revisao | Revisores |
 |-----------|---------------------------|--------------|---------|-----------|
 | Construção de Cenários | 16/09 - 18/09 | Eduarda, Arthur | 19/09 | Dylan |
 | Elaboração do Léxico | 18/09 - 20/09 | Leticia, Giovana | 21/09 | Breno |
@@ -60,16 +58,11 @@
 
 **Entrega final estimada:** Apresentação Etapa 3 (02/10) e documento de Modelagem Inicial.
 
----
-
 ## Entrega 4: Modelagem Ágil  
 
-**Período:** 30/09 a 21/10  
-**Objetivo:** Criar backlog de histórias de usuário, priorizar e documentar requisitos não funcionais (NFR Framework).  
+### Tabela 4 - Modelagem Agil
 
-### Tabela 4 - Modelagem Ágil
-
-| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
+| Atividade | Periodo de desenvolvimento | Responsaveis | Revisao | Revisores |
 |-----------|---------------------------|--------------|---------|-----------|
 | Escrita de Histórias de Usuário | 30/09 - 05/10 | Eduarda, Dylan, Leticia | 06/10 | Giovana |
 | Priorização de Histórias (Backlog) | 06/10 - 08/10 | Arthur, Breno, Dylan, Eduarda, Giovana e Letícia | 09/10 | Danilo |
@@ -79,16 +72,15 @@
 
 **Entrega final estimada:** Apresentação Etapa 4 (21/10).
 
----
+**Entrega 4:** Apresentacao Etapa 4 (23/10).
 
 ## Entrega 5: Pós-Rastreabilidade  
 
-**Período:** 16/10 a 30/10  
-**Objetivo:** Documentar rastreabilidade dos requisitos e gerência orientada à baseline.  
+**Periodo:** 01/11 a 13/11  
+**Objetivo:** Documentar rastreabilidade dos requisitos e gerencia orientada a baseline.
 
-### Tabela 5 - Pós-Rastreabilidade
-
-| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
+### Tabela 5 - Pos-Rastreabilidade
+| Atividade | Periodo de desenvolvimento | Responsaveis | Revisao | Revisores |
 |-----------|---------------------------|--------------|---------|-----------|
 | Definição da baseline de requisitos | 16/10 - 20/10 | Eduarda, Arthur | 21/10 | Dylan |
 | Criação de matriz de rastreabilidade | 21/10 - 25/10 | Leticia, Giovana | 26/10 | Breno |
@@ -97,16 +89,16 @@
 
 **Entrega final estimada:** Apresentação Etapa 6 (30/10).
 
----
+**Entrega 5:** Apresentacao Etapa 5 (13/11).
 
 ## Entrega 6: Análise de Requisitos  
 
-**Período:** 11/11 a 13/11  
-**Objetivo:** Revisar todos os requisitos, verificar consistência e validar com base no escopo do app.  
+**Periodo:** 24/10 a 30/10  
+**Objetivo:** Revisar todos os requisitos, verificar consistencia e validar com base no escopo do app.
 
-### Tabela 6 - Análise de Requisitos
+### Tabela 6 - Analise de Requisitos
 
-| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
+| Atividade | Periodo de desenvolvimento | Responsaveis | Revisao | Revisores |
 |-----------|---------------------------|--------------|---------|-----------|
 | Verificação dos requisitos | 11/11 - 12/11 | Arthur, Breno, Dylan, Eduarda, Giovana e Letícia | 12/11 | Arthur, Breno, Dylan, Eduarda, Giovana e Letícia |
 | Validação dos requisitos | 12/11 - 13/11 | Arthur, Breno, Dylan, Eduarda, Giovana e Letícia | 13/11 | Arthur, Breno, Dylan, Eduarda, Giovana e Letícia |
@@ -114,16 +106,16 @@
 
 **Entrega final estimada:** Apresentação Etapa 5 (13/11).
 
----
+**Entrega 6:** Apresentacao Etapa 6 (30/10).
 
 ## Entrega 7: Projeto Final  
 
-**Período:** 18/11 a 25/11  
-**Objetivo:** Consolidar todas as etapas em um documento final do projeto.  
+**Periodo:** 18/11 a 25/11  
+**Objetivo:** Consolidar todas as etapas em um documento final do projeto.
 
 ### Tabela 7 - Projeto Final
 
-| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
+| Atividade | Periodo de desenvolvimento | Responsaveis | Revisao | Revisores |
 |-----------|---------------------------|--------------|---------|-----------|
 | Revisão e ajustes finais do projeto | 18/11 - 20/11 | Arthur, Breno, Dylan, Eduarda, Giovana e Letícia | 21/11 | Arthur, Breno, Dylan, Eduarda, Giovana e Letícia |
 | Entrega do projeto final | 24/11 | Arthur, Breno, Dylan, Eduarda, Giovana e Letícia | 24/11 | Arthur, Breno, Dylan, Eduarda, Giovana e Letícia |
@@ -136,11 +128,10 @@
 
 > 1. UNIVERSIDADE DE BRASÍLIA. Plano de Ensino da disciplina de Requisitos de Software [plano de ensino]. Brasília, 2025. [PDF do plano](../assets/Planodeensino.pdf)
 
-
 ## Histórico de Versões 
 
-| Versão |    Data    |                       Descrição                        |                      Autor(es)                      |                       Revisor(es)                       |
+| Versao | Data | Descricao | Autor(es) | Revisor(es) |
 | :----: | :--------: | :----------------------------------------------------: | :-------------------------------------------------: | :-----------------------------------------------------: |
-| `1.0`  | 08/09/2025 |  Criação da página de Cronograma | [Eduarda Domingos](https://github.com/eduardar0), [Letícia Lopes](https://github.com/leticialopes20), [Breno Teixeira](https://github.com/BrenoLTeixeira),  [Danilo Melo](https://github.com/EngDann)  | [Dylan Cavalcante](https://github.com/dylancavalcante), [Arthur Fernandes](https://github.com/arthurfernandesj) |
-| `1.1`  | 22/09/2025 |   Atualização de cronograma, mudança de datas e maior detalhamento    |  [Eduarda Domingos](https://github.com/eduardar0)    | [Dylan Cavalcante](https://github.com/dylancavalcante), [Letícia Lopes](https://github.com/leticialopes20)  |
-| `1.2`  | 28/09/2025 | Correção de tabela de versionamento e de referências Bibliográficas | [Letícia Lopes](https://github.com/leticialopes20) | [Arthur Fernandes](https://github.com/arthurfernandesj),  [Dylan Cavalcante](https://github.com/dylancavalcante)  |
+| 1.0 | 08/09/2025 | Criacao da pagina de Cronograma | [Eduarda Domingos](https://github.com/eduardar0), [Leticia Lopes](https://github.com/leticialopes20), [Breno Teixeira](https://github.com/BrenoLTeixeira), [Danilo Melo](https://github.com/EngDann) | [Dylan Cavalcante](https://github.com/dylancavalcante), [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| 1.1 | 22/09/2025 | Atualizacao de cronograma, mudanca de datas e maior detalhamento | [Eduarda Domingos](https://github.com/eduardar0) | [Dylan Cavalcante](https://github.com/dylancavalcante), [Leticia Lopes](https://github.com/leticialopes20) |
+| 1.2 | 28/09/2025 | Correcao de tabela de versionamento e de referencias Bibliograficas | [Leticia Lopes](https://github.com/leticialopes20) | [Arthur Fernandes](https://github.com/arthurfernandesj), [Dylan Cavalcante](https://github.com/dylancavalcante) |

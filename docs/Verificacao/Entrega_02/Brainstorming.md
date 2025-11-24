@@ -1,11 +1,11 @@
 ## Lista de Verificação 2.2 do Brainstorming
 
-<p style="text-align: justify;">
-A seguir, apresenta-se a tabela com os itens utilizados na verificação do artefato da técnica de <b>Brainstorming</b>, aplicado no contexto do aplicativo <b>ID Jovem</b>.
+
+A seguir, apresenta-se a tabela com os itens utilizados na verificação do artefato da técnica de [Brainstorming](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Brainstorming/), aplicado no contexto do aplicativo ID Jovem.
 Essa verificação tem como objetivo assegurar que o processo de geração de ideias foi realizado de forma colaborativa, estruturada e documentada,
 de modo a contribuir efetivamente para a elicitação de requisitos do sistema. Além disso, busca-se garantir que os resultados obtidos no Brainstorming
 foram devidamente organizados, analisados e utilizados para o refinamento dos requisitos funcionais e não funcionais do projeto.
-</p>
+
 
 <small><em>Revisado por Gemini, em 12 de Novembro 2025</em></small>
 
@@ -117,14 +117,17 @@ Dessa forma, o artefato demonstra maturidade metodológica e alinhamento com as 
 </p>
 
 ---
+## Referências Bibliográficas
+
+> <a id="RP1" href="#TEC1">1.</a> Requisitos de Software. Bilheteria-Digital (2023.1). Disponível em: [https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/). Acesso em: 12 Out. 2025.
+
+> <a id="RP2" href="#TEC2">2.</a> Eeles, Peter. QualidadeBR: FURPS+. jun, 2008. Disponível em: [https://qualidadebr.wordpress.com/2008/07/10/furps/](https://qualidadebr.wordpress.com/2008/07/10/furps/). Acesso em: 12 Out. 2025.
+
 
 ## Bibliografia
 
-> SERRANO, Milene. Requisitos - Aula 10. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: [Requisitos](https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf). Acesso em: 11 de novembro de 2025.
+> <a id="RP3" href="#TEC3">3.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 13. UnB, 2025. Disponível em: <[https://aprender3.unb.br/course/section.php?id=305649](hhttps://aprender3.unb.br/course/section.php?id=305649)>. Acesso em: 12 de Out 2025. p. 27–30.
 
-> VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira; SIMÕES. *Engenharia de Requisitos: Software Orientado ao Negócio.* São Paulo, 2016. Acesso em: 10 de novembro de 2025.
-
----
 
 ## Histórico de Versões
 
@@ -132,3 +135,14 @@ Dessa forma, o artefato demonstra maturidade metodológica e alinhamento com as 
 | :--: | :--: | :-- | :-- | :-- |
 | 1.0 | 12/11/2025 | Criação da verificação da técnica de Brainstorming | [Leticia](https://github.com/leticialopes20) | [Dylan Cavalcante](https://github.com/dylancavalcante) |
 | 1.1 | 21/11/2025 | Correção de tabela de participantes | [Giovana Fontes](https://github.com/GiovanaFontesS) | [Dylan Cavalcante](https://github.com/dylancavalcante) |
+
+
+## Agradecimentos
+
+<p style="text-align: justify;">
+Queremos agradecer ao Chat GPT, ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto First Things First. Sua ajuda foi essencial na revisão de textos, organização das ideias e pesquisa de conteúdos complementares, contribuindo para deixar nossa documentação mais clara e completa.
+</p>
+
+<p style="text-align: justify;">
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico. Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.
+</p>

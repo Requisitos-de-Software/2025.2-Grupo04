@@ -2,11 +2,13 @@
 
 ## Introdução
 
-A verificação do artefato de **Especificação Suplementar** teve como principal objetivo avaliar se o documento atende aos requisitos mínimos de qualidade esperados para esta etapa do projeto, com foco específico na categorização dos requisitos não funcionais segundo o modelo **FURPS+**.  
+A verificação do artefato de [Especificação Suplementar](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_03/Modelagem/Especificacao_Suplementar/) teve como principal objetivo avaliar se o documento atende aos requisitos mínimos de qualidade esperados para esta etapa do projeto, com foco específico na categorização dos requisitos não funcionais segundo o modelo **FURPS+**.  
 
 A inspeção foi conduzida com base na técnica formal proposta por Fagan, utilizando uma checklist estruturada e seguindo as diretrizes de qualidade definidas no planejamento de verificação.  
 
 Além da análise objetiva de cada item da lista de verificação, foram feitas observações qualitativas sobre clareza, completude e coerência geral do artefato.
+
+<small><em>Revisado por Gemini, em 12 de Novembro 2025</em></small>
 
 ## Objetivo
 
@@ -92,51 +94,51 @@ Prints de tela foram utilizados como evidência para cada item avaliado.
   <tbody>
 <tr>
   <td><b>01:</b> O Storytelling está claramente vinculado às Personas (Quem se beneficia)?</td>
-  <td>VAZQUEZ; SIMÕES, 2016, p. 605</td>
-  <td>Sim</td>
-  <td>As três histórias mencionam explicitamente as personas.</td>
+  <td><a href="https://imgur.com/xqKLe0n" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 605)</a></td>
+  <td>Conforme</td>
+  <td></td>
   <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
 </tr>
 <tr>
   <td><b>02:</b> Cada história descreve o contexto e a necessidade (O que se quer)?</td>
-  <td>VAZQUEZ; SIMÕES, 2016, p. 605, 607</td>
-  <td>Sim</td>
-  <td>As histórias detalham as situações de uso, como a necessidade de Ana usar a carteirinha offline em viagens.</td>
+  <td><a href="https://imgur.com/xqKLe0n" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 605)</a></td>
+  <td>Conforme</td>
+  <td></td>
   <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
 </tr>
 <tr>
   <td><b>03:</b> O benefício ou valor de negócio (Qual é o benefício?) está explícito em cada história?</td>
-  <td>VAZQUEZ; SIMÕES, 2016, p. 605-606</td>
-  <td>Sim</td>
-  <td>Exemplos claros: "para não depender de internet", "para visitar sua família", "para se sentir mais conectada à cidade".</td>
+  <td><a href="https://imgur.com/xqKLe0n" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 605)</a></td>
+  <td>Conforme</td>
+  <td></td>
   <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
 </tr>
 <tr>
   <td><b>04:</b> Os requisitos (RF e RNF) foram elicitados a partir das narrativas?</td>
-  <td>VAZQUEZ; SIMÕES, 2016, p. 413</td>
-  <td>Sim</td>
-  <td>A tabela lista 14 requisitos (ST01 a ST14) derivados das histórias.</td>
+  <td><a href="https://imgur.com/xqKLe0n" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 605)</a></td>
+  <td>Conforme</td>
+  <td></td>
   <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
 </tr>
 <tr>
   <td><b>05:</b> Existe rastreabilidade clara entre os elementos da história e os requisitos listados?</td>
-  <td>VAZQUEZ; SIMÕES, 2016, p. 160, 736</td>
+  <td><a href="https://imgur.com/xqKLe0n" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 605)</a></td>
   <td>Incompleto</td>
-  <td>A tabela de requisitos não indica qual história (ou persona) originou cada requisito. Ex: Não está explícito que ST03 (Offline) veio da História 1 (Ana).</td>
+  <td></td>
   <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
 </tr>
 <tr>
   <td><b>06:</b> Os requisitos elicitados são verificáveis (testáveis)?</td>
-  <td>VAZQUEZ; SIMÕES, 2016, p. 158, 607</td>
-  <td>Sim</td>
-  <td>Requisitos como ST03 ("permitir baixar a carteirinha") e ST13 ("carregar em no máximo 3 segundos") são objetivamente verificáveis.</td>
+  <td><a href="https://imgur.com/xqKLe0n" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 605)</a></td>
+  <td>Conforme</td>
+  <td></td>
   <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
 </tr>
 <tr>
   <td><b>07:</b> As histórias focam no "o quê" (necessidade) em vez do "como" (solução/implementação)?</td>
-  <td>VAZQUEZ; SIMÕES, 2016, p. 606</td>
-  <td>Sim</td>
-  <td>As histórias descrevem as necessidades (ex: "login rápido", "mapa interativo") sem ditar a tecnologia ou o design exato da interface.</td>
+  <td><a href="https://imgur.com/xqKLe0n" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 605)</a></td>
+  <td>Conforme</td>
+  <td></td>
   <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a></td>
 </tr>
 
@@ -157,3 +159,12 @@ Fonte: <a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalc
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :--: | :--: | :-- | :-- | :-- |
 | 1.0 | 11/11/2025 | Criação da verificação da Especificação Suplementar | [Arthur Fernandes](https://github.com/arthurfernandesj)|[Dylan Cavalcante](https://github.com/dylancavalcante)  |
+| 1.1 | 21/11/2025 | Correção de tabelas | [Giovana Fontes](httpsS://github.com/BrenoLteixeira) | [Leticia Maria](httpsS://github.com/arthurfernandesj) |
+
+## Agradecimentos
+
+Queremos agradecer ao Gemini, ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto ID Jovem. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.
+

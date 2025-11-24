@@ -1,6 +1,6 @@
 # Introdução
 
-Aqui está definida a inspeção da entrega 5 do grupo 4, cujo projeto aborda o aplicativo ID Jovem (Identidade Jovem). Este documento inclui as verificações utilizadas para inspecionar os artefatos de todas as entregas (1,2,3,4 e 6). Ao final, são apresentados em detalhes os resultados alcançados por meio dessa inspeção.
+Aqui está definida a verificação do grupo n+1 da entrega 5, cujo projeto aborda o aplicativo Jornada do Estudante (Grupo 5). Este documento inclui as verificações utilizadas para inspecionar os artefatos de todas as entregas (1,2,3,4 e 6). Ao final, são apresentados em detalhes os resultados alcançados por meio dessa verificação.
 
 ## Objetivo
 
@@ -9,6 +9,8 @@ O objetivo da verificação é garantir que todos os critérios de avaliação f
 ## Metodologia
 
 A verificação foi realizada utilizando uma lista de critérios de avaliação, elaborada com base no conteúdo dos arquivos PDF fornecidos. Com essa lista, foi feita uma verificação para confirmar se cada critério de avaliação havia sido atendido ou não, contando ainda com uma coluna para observações, permitindo o registro de detalhes adicionais ou outras considerações.
+
+
 
 ### Planejamento Geral 
 
@@ -189,7 +191,6 @@ Fonte:
 > <a id="RP3" href="#TEC3">3.</a> POHL, Klaus; RUPP, Chris. *Requirements Engineering Fundamentals* (Excerpt: Chapter 8 - Requirements Management). Rocky Nook Computing, [s.d.]. Acesso em: 28 de outubro de 2025.
  
 > <a id="RP4" href="#TEC4">4.</a> BARROS, André. *Lista de Verificação - Plano de Ensino RE 022025 Turma 03 v2*. Brasília: Universidade de Brasília (UnB) - Campus Gama, 2025. (Material de aula). Acesso em: 28 de outubro de 2025.
- 
 ## Histórico de Versões
 
 | Versão |  Data  |  Descrição  |  Autor(es)  |  Revisor(es)  |

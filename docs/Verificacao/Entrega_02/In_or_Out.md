@@ -15,36 +15,68 @@
 
 <p style="text-align: justify;">Como não havia um planejamento de inspeção prévio para este artefato, foi criada uma checklist específica para esta verificação (detalhada nas Tabelas 2 e 3). Para cada item da lista, os avaliadores marcaram <b>Conforme</b>, <b>Não Conforme</b> ou <b>Incompleto</b>, além de incluir observações quando necessário.</p>
 
-<h3 style="text-align: center;">Tabela 1: Participantes da Verificação</h3>
+<h3 style="text-align: center;">Tabela 1: Participantes</h3>
 
 <div align="center">
+
 <table border="1" style="border-collapse: collapse; width: 80%; text-align: center;">
-  <thead>
-    <tr>
-      <th>Nome</th>
-      <th>Função</th>
-      <th>Data</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="httpsS://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
-      <td>Autor (Avaliador)</td>
-      <td>11/10/2025</td>
-    </tr>
-    <tr>
-      <td><a href="httpsS://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
-      <td>Revisor</td>
-      <td>12/10/2025</td>
-    </tr>
-  </tbody>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Função</th>
+      <th>Item</th>
+      <th>Data</th>
+      <th>Hora</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
+      <td>Autora</td>
+      <td>1, 5</td>
+      <td>10/11/2025</td>
+      <td>10:33</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
+      <td>Autor</td>
+      <td>1, 2</td>
+      <td>10/11/2025</td>
+      <td>11:00</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
+      <td>Autor</td>
+      <td>3</td>
+      <td>10/11/2025</td>
+      <td>14:00</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/dylancavalcante" target="_blank">Dylan Cavalcante</a></td>
+      <td>Autor</td>
+      <td>4, 3</td>
+      <td>10/11/2025</td>
+      <td>15:25</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
+      <td>Autora</td>
+      <td>4, 1</td>
+      <td>10/11/2025</td>
+      <td>17:05</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a></td>
+      <td>Autora</td>
+      <td>6</td>
+      <td>10/11/2025</td>
+      <td>22:00</td>
+    </tr>
+  </tbody>
 </table>
 </div>
-<p style="text-align: center; font-size: 0.9em; color: gray;">
-Fonte: <a href="httpsS://github.com/BrenoLteixeira" target="_blank">Breno</a>
-</p>
 
-## Inspeção
+## Tabela de Verificação
 
 <p style="text-align: justify;">A seguir, apresentam-se as tabelas com os itens utilizados na verificação do artefato <b>In or Out</b> do aplicativo <b>ID Jovem</b>. A verificação assegura que os itens gerais de documentação e os elementos específicos da técnica de priorização estão em conformidade.</p>
 
@@ -64,15 +96,15 @@ Fonte: <a href="httpsS://github.com/BrenoLteixeira" target="_blank">Breno</a>
   <tbody>
     <tr>
       <td><b>01:</b> O artefato apresenta uma bibliografia/referência bibliográfica?</td>
-      <td><a href="#REF1">[1]</a></td>
+      <td><a href="#REF1">Wiegers, Karl; Beatty, Joy. *Software Requirements*</a></td>
       <td>Conforme</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/LVLi7vf" target="_blank">Print 1</a></td>
-      <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
+      <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
     </tr>
     <tr>
       <td><b>02:</b> O artefato apresenta um histórico de versões com id, item das versões, autores e revisores?</td>
-      <td><a href="#REF1">[1]</a></td>
+      <td><a href="#REF1">Wiegers, Karl; Beatty, Joy. *Software Requirements*</a></td>
       <td>Conforme</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/xFT2NWt" target="_blank">Print 2</a></td>
@@ -80,7 +112,7 @@ Fonte: <a href="httpsS://github.com/BrenoLteixeira" target="_blank">Breno</a>
     </tr>
     <tr>
       <td><b>03:</b> As tabelas e imagens apresentam legenda e fonte?</td>
-      <td><a href="#REF1">[1]</a></td>
+      <td><a href="#REF1">Wiegers, Karl; Beatty, Joy. *Software Requirements*</a></td>
       <td>Conforme</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/nmWhZJR" target="_blank">Print 3</a></td>
@@ -88,15 +120,15 @@ Fonte: <a href="httpsS://github.com/BrenoLteixeira" target="_blank">Breno</a>
     </tr>
     <tr>
       <td><b>04:</b> O artefato apresenta uma introdução?</td>
-      <td><a href="#REF1">[1]</a></td>
+      <td><a href="#REF1">Wiegers, Karl; Beatty, Joy. *Software Requirements*</a></td>
       <td>Conforme</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/N4JW1kS" target="_blank">Print 4</a></td>
-      <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
+      <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
     </tr>
     <tr>
       <td><b>05:</b> A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico?</td>
-      <td><a href="#REF1">[1]</a></td>
+      <td><a href="#REF1">Wiegers, Karl; Beatty, Joy. *Software Requirements*</a></td>
       <td>Conforme</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/nh9zD1L" target="_blank">Print 5</a></td>
@@ -104,11 +136,11 @@ Fonte: <a href="httpsS://github.com/BrenoLteixeira" target="_blank">Breno</a>
     </tr>
     <tr>
       <td><b>06:</b> Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)?</td>
-      <td><a href="#REF1">[1]</a></td>
+      <td><a href="#REF1">Wiegers, Karl; Beatty, Joy. *Software Requirements*</a></td>
       <td>Conforme</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/zRFUD7M" target="_blank">Print 6</a></td>
-      <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
+      <td><a href="https://github.com/leticialopes20" target="_blank">Leticia Maria</a></td>
     </tr>
   </tbody>
 </table>
@@ -133,15 +165,15 @@ Fonte: <a href="httpsS://github.com/BrenoLteixeira" target="_blank">Breno</a>
   <tbody>
     <tr>
       <td><b>01:</b> Existe um cronograma com data para realização da priorização dos requisitos?</td>
-      <td><a href="#REF1">[1]</a></td>
+      <td><a href="#REF1">Wiegers, Karl; Beatty, Joy. *Software Requirements*</a></td>
       <td>Conforme</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/mkxKuCP" target="_blank">Print 7</a></td>
-      <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
+      <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Giovana Fontes</a></td>
     </tr>
     <tr>
       <td><b>02:</b> O local para a priorização foi definido?</td>
-      <td><a href="#REF1">[1]</a></td>
+      <td><a href="#REF1">Wiegers, Karl; Beatty, Joy. *Software Requirements*</a></td>
       <td>Conforme</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/mkxKuCP" target="_blank">Print 8</a></td>
@@ -149,27 +181,27 @@ Fonte: <a href="httpsS://github.com/BrenoLteixeira" target="_blank">Breno</a>
     </tr>
     <tr>
       <td><b>03:</b> A prioridade de cada requisito foi decidida de forma binária (In/Out)?</td>
-      <td><a href="#REF1">[1]</a></td>
+      <td><a href="#REF1">Wiegers, Karl; Beatty, Joy. *Software Requirements*</a></td>
       <td>Conforme</td>
       <td>Nos videos é possivel ver que foi feito de forma binária.      </td>
       <td><a href="https://imgur.com/a/qlJSOr4" target="_blank">Print 9</a></td>
-      <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
+      <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Arhur fernandes</a></td>
     </tr>
     <tr>
       <td><b>04:</b> Houve participação de stakeholders?</td>
-      <td><a href="#REF1">[1]</a></td>
+      <td><a href="#REF1">Wiegers, Karl; Beatty, Joy. *Software Requirements*</a></td>
       <td>Conforme</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/qlJSOr4" target="_blank">Print 10</a></td>
-      <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
+      <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Dylan </a></td>
     </tr>
     <tr>
       <td><b>05:</b> Todos os requisitos a serem priorizados foram reunidos em uma lista?</td>
-      <td><a href="#REF1">[1]</a></td>
+      <td><a href="#REF1">Wiegers, Karl; Beatty, Joy. *Software Requirements*</a></td>
       <td>Conforme</td>
       <td>-</td>
       <td><a href="https://imgur.com/a/qBJw6gP" target="_blank">Print 11</a></td>
-      <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
+      <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Giovana Fontes</a></td>
     </tr>
   </tbody>
 </table>
@@ -202,9 +234,16 @@ O artefato <b>In or Out</b> cumpre seu objetivo de documentar a priorização bi
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :--: | :--: | :-- | :-- | :-- |
 | `1.0` | 11/10/2025 | Criação da página de verificação | [Breno](https://github.com/BrenoLTeixeira) | [Dylan Cavalcante](https://github.com/dylancavalcante) |
-| `2.0` | 12/11/2025 | Reestruturação do documento para formato HTML | [Breno](httpsS://github.com/BrenoLteixeira) | [Dylan Cavalcante](httpsS://github.com/dylancavalcante) |
+| `1.1` | 12/11/2025 | Reestruturação do documento para formato HTML | [Breno](httpsS://github.com/BrenoLteixeira) | [Dylan Cavalcante](httpsS://github.com/dylancavalcante) |
+| 1.3 | 21/11/2025 | Correção tabelas | [Giovana Fontes](https://github.com/BrenoLTeixeira) | [Dylan Cavalcante](https://github.com/dylancavalcante)|
 
 
 ## Agradecimentos
 
-De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta (Gemini) foi utilizada apenas como apoio técnico e linguístico. Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.
+<p style="text-align: justify;">
+Queremos agradecer ao Chat GPT, ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto First Things First. Sua ajuda foi essencial na revisão de textos, organização das ideias e pesquisa de conteúdos complementares, contribuindo para deixar nossa documentação mais clara e completa.
+</p>
+
+<p style="text-align: justify;">
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico. Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.
+</p>

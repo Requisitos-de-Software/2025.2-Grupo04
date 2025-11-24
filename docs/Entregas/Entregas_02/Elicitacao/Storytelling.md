@@ -5,24 +5,25 @@
 A técnica de **Storytelling** baseia-se na utilização de histórias em grupos, incluindo organizações, como um método de comunicação para que os envolvidos possam compartilhar conhecimento. Emprega-se o uso de técnicas de contação de histórias que inspiram e motivam os participantes através de linguagens mais cotidianas, criando entretenimento durante o processo de construção<a id="anchor_1" href="#QT1">[1]</a>. Alguns dos benefícios dessa técnica são:
 
 * Engajamento de Stakeholders.
-* Visão das necessidades do usuário.
+* Visão das necessidades do jovem beneficiário.
 * Obtenção de novas ideias.
-* Melhoria na comunicação entre a equipe e os usuários.
+* Melhoria na comunicação entre a equipe e os jovens beneficiáros.
 * Refinamento e contextualização dos requisitos.
-
+<br><small><em>Revisado por [Chat GPT](https://chatgpt.com/), em 22 de Novembro 2025</em></small>
 ## Metodologia
 
-Foram utilizadas as [Personas](./Definicao_de_Personas.md) definidas anteriormente no projeto do aplicativo **ID Jovem** para a elaboração das histórias e contextos. Essa abordagem, que utiliza narrativas para explorar o uso de um sistema, é fundamental na criação de cenários<a id="anchor_2" href="#QT2">[2]</a>. As histórias foram essenciais para entendermos as necessidades e os anseios de cada persona. A partir desses contextos, conseguimos identificar e listar os requisitos que o aplicativo precisa atender para fazer a diferença na vida deles.
-
+Foram utilizadas as [Personas](./Definicao_de_Personas.md) definidas anteriormente no projeto do aplicativo ID Jovem para a elaboração das histórias e contextos. Essa abordagem, que utiliza narrativas para explorar o uso de um sistema, é fundamental na criação de cenários<a id="anchor_2" href="#QT2">[2]</a>. As histórias foram essenciais para entendermos as necessidades e os anseios de cada persona. A partir desses contextos, conseguimos identificar e listar os requisitos que o aplicativo precisa atender para fazer a diferença na vida deles.
+<br><small><em>Revisado por [Chat GPT](https://chatgpt.com/), em 22 de Novembro 2025</em></small>
 ## Storytelling
 
 ### História 1
 
 **Ana Clara**, 19 anos, estudante universitária, ama viajar e participar de eventos culturais, mas possui uma renda limitada.
-Ela utiliza o **ID Jovem** para garantir descontos em passagens de ônibus e acesso gratuito a eventos culturais.
+Ela utiliza o ID Jovem para garantir descontos em passagens de ônibus e acesso gratuito a eventos culturais.
 
 Porém, Ana já perdeu oportunidades por não conseguir verificar rapidamente se seu benefício estava válido.
 Ela deseja que o aplicativo seja simples, com **login rápido**, notificações automáticas sobre a validade do documento e a possibilidade de **baixar sua carteirinha offline**, para não depender de internet em suas viagens.
+<br><small><em>Revisado por [Chat GPT](https://chatgpt.com/), em 22 de Novembro 2025</em></small>
 
 ---
 
@@ -32,6 +33,7 @@ Ela deseja que o aplicativo seja simples, com **login rápido**, notificações 
 
 Com a rotina corrida, João precisa de um aplicativo **confiável e estável**, que permita a compra de passagens diretamente pelo sistema ou redirecione para empresas de transporte parceiras.
 Ele valoriza principalmente a **segurança dos seus dados** e quer que o aplicativo seja **acessível em qualquer dispositivo**, já que alterna entre celular e computador.
+<br><small><em>Revisado por [Chat GPT](https://chatgpt.com/), em 22 de Novembro 2025</em></small>
 
 ---
 
@@ -41,7 +43,7 @@ Ele valoriza principalmente a **segurança dos seus dados** e quer que o aplicat
 O ID Jovem é, para ela, uma ferramenta de inclusão cultural.
 
 Camila deseja que o aplicativo traga um **mapa interativo de eventos e estabelecimentos parceiros**, atualizado em tempo real. Além disso, gostaria de receber **recomendações personalizadas** com base em sua localização e interesses.
-Isso ajudaria Camila a se sentir mais conectada à cidade e aproveitar melhor os benefícios.
+Isso ajudaria Camila a se sentir mais conectada à cidade e aproveitar melhor os benefícios.<br><small><em>Revisado por [Chat GPT](https://chatgpt.com/), em 22 de Novembro 2025</em></small>
 
 ---
 
@@ -52,16 +54,16 @@ Isso ajudaria Camila a se sentir mais conectada à cidade e aproveitar melhor os
 
 | Identificador | Tipo | Requisito | Implementação |
 | :--: | :--: | :-- | :--: |
-| **ST01** <a id="st01"></a> | RF | O usuário deve realizar login com a conta gov.br. | Sim |
+| **ST01** <a id="st01"></a> | RF | O jovem beneficiário deve realizar login com a conta gov.br. | Sim |
 | **ST02** <a id="st02"></a> | RF | O sistema deve validar automaticamente a elegibilidade do benefício. | Sim |
 | **ST03** <a id="st03"></a> | RF | O aplicativo deve permitir baixar a carteirinha para uso offline. | Sim |
 | **ST04** <a id="st04"></a> | RF | O sistema deve disponibilizar notificações sobre a expiração do benefício. | Não |
-| **ST05** <a id="st05"></a> | RF | O usuário deve poder consultar e reservar passagens diretamente no app ou via integração com empresas parceiras. | Não |
+| **ST05** <a id="st05"></a> | RF | O jovem beneficiário deve poder consultar e reservar passagens diretamente no app ou via integração com empresas parceiras. | Não |
 | **ST06** <a id="st06"></a> | RF | O aplicativo deve fornecer mapa de eventos culturais e parceiros disponíveis. | Não |
-| **ST07** <a id="st07"></a> | RF | O sistema deve oferecer recomendações personalizadas de eventos conforme localização do usuário. | Não |
-| **ST08** <a id="st08"></a> | RF | O usuário deve conseguir verificar histórico de viagens realizadas com o ID Jovem. | Não |
+| **ST07** <a id="st07"></a> | RF | O sistema deve oferecer recomendações personalizadas de eventos conforme localização do jovem beneficiário. | Não |
+| **ST08** <a id="st08"></a> | RF | O jovem beneficiário deve conseguir verificar histórico de viagens realizadas com o ID Jovem. | Não |
 | **ST09** <a id="st09"></a> | RNF | O design deve ser acessível e responsivo em diferentes dispositivos. | Sim |
-| **ST10** <a id="st10"></a> | RNF | O sistema deve garantir segurança e integridade dos dados dos usuários. | Sim |
+| **ST10** <a id="st10"></a> | RNF | O sistema deve garantir segurança e integridade dos dados dos jovens beneficiáros. | Sim |
 | **ST11** <a id="st11"></a> | RNF | Usabilidade: O fluxo de emissão da carteirinha digital deve ser concluído em no máximo 5 passos | Não |
 | **ST12** <a id="st12"></a> | RNF | Confiabilidade: O sistema deve manter um log de auditoria de todas as emissões e validações de carteirinhas por 5 anos. | Não |
 | **ST13** <a id="st13"></a> | RNF | Desempenho: O aplicativo deve carregar as informações de eventos e parceiros em no máximo 3 segundos, mesmo com grande volume de dados. | Não |
@@ -71,7 +73,7 @@ Isso ajudaria Camila a se sentir mais conectada à cidade e aproveitar melhor os
 
 ## Referências Bibliográficas
 
-<p><a id="QT1" href="#anchor_1">1.</a> SERRANO, M.; SERRANO, M. <b>Requisitos – Aula 07</b>. [S. l.], 2025. Material de aula (slide).</p>
+<p><a id="QT1" href="#anchor_1">1.</a> COOPER, Alan; REIMANN, Robert; CRONIN, Dave. <b>About Face 3: The Essentials of Interaction Design</b>. Indianapolis: Wiley Publishing, 2007. Cap. 5: Modeling Users: Personas and Goals.</p>
 <p><a id="QT2" href="#anchor_2">2.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) <b>Interação Humano-Computador e Experiência do usuário</b>. Autopublicação. ISBN: 978-65-00-19677-1. Cap 8.3: Cenários.</p>
 
 ## Histórico de Versão
@@ -79,3 +81,11 @@ Isso ajudaria Camila a se sentir mais conectada à cidade e aproveitar melhor os
 | :----: | :--------: | :------------------: | :-----------------------------------------------------: | :-----------------------------------------------------: |
 | `1.0` | 29/09/2025 | Versão inicial da página de Storytelling para o ID Jovem | [Eduarda](https://github.com/eduardar0) | [Arthur](https://github.com/) |
 | `1.1`  | 10/10/2025 | Arrumando citação das Referências | [Breno](https://github.com/BrenoLteixeira) | [Arthur](https://github.com/) |
+
+
+## Agradecimentos
+
+Queremos agradecer ao [Chat GPT](https://chatgpt.com/), ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto ID Jovem. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.

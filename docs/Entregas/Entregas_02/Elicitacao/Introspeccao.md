@@ -2,11 +2,11 @@
 
 ## Introdução
 
-A introspecção é uma técnica de elicitação de requisitos que consiste em, por meio de uma análise pessoal e profunda, levantar o que é indispensável para um software, neste caso, o aplicativo **ID Jovem**. Embora seja um método subjetivo, ele se insere no contexto mais amplo da **Engenharia de Requisitos**, disciplina que estabelece os processos para garantir que um software atenda às suas metas de negócio e às necessidades de seus usuários<a id="anchor_5" href="#QT4">[4]</a>. Sendo assim, o responsável por realizar essa estratégia imagina uma situação hipotética na qual utilizaria o sistema para realizar determinadas tarefas, derivando daí suas funcionalidades e características essenciais. Isso posto, os requisitos elicitados a partir deste exercício estão demonstrados na **Tabela de Requisitos** a seguir.
+A introspecção é uma técnica de elicitação de requisitos que consiste em, por meio de uma análise pessoal e profunda, levantar o que é indispensável para um software, neste caso, o aplicativo ID Jovem. Embora seja um método subjetivo, ele se insere no contexto mais amplo da Engenharia de Requisitos, disciplina que estabelece os processos para garantir que um software atenda às suas metas de negócio e às necessidades de seus jovens beneficiários<a id="anchor_5" href="#QT4">[4]</a>. Sendo assim, o responsável por realizar essa estratégia imagina uma situação hipotética na qual utilizaria o sistema para realizar determinadas tarefas, derivando daí suas funcionalidades e características essenciais. Isso posto, os requisitos elicitados a partir deste exercício estão demonstrados na Tabela de Requisitos a seguir. <br> <small><em>Revisado por [Chat GPT](https://chatgpt.com/), em 22 de Novembro 2025</em></small>
 
 ## Metodologia
 
-O processo de introspecção foi realizado a partir da perspectiva de um usuário do programa **ID Jovem**. A partir de uma análise individual e da simulação de cenários de uso, os requisitos foram levantados e, em seguida, integrados e categorizados na **Tabela de Requisitos**. As categorias utilizadas para a organização foram: Requisitos Funcionais (RF), Não-Funcionais (RNF), de Interface (RI), além de Riscos (RR) e Testes (RT) associados ao projeto.
+O processo de introspecção foi realizado a partir da perspectiva de um jovem beneficiário do programa ID Jovem. A partir de uma análise individual e da simulação de cenários de uso, os requisitos foram levantados e, em seguida, integrados e categorizados na Tabela de Requisitos. As categorias utilizadas para a organização foram: Requisitos Funcionais (RF), Não-Funcionais (RNF), de Interface (RI), além de Riscos (RR) e Testes (RT) associados ao projeto. <br><small><em>Revisado por [Chat GPT](https://chatgpt.com/), em 22 de Novembro 2025</em></small>
 
 ## Estudo de Caso: O Programa ID Jovem como Ferramenta de Execução de Requisitos Pessoais
 
@@ -20,16 +20,16 @@ Usar o aplicativo ID Jovem, por si só, não define os objetivos de um jovem; el
 
 Para ilustrar essa dinâmica, considere dois cenários contrastantes:
 
-* **Cenário 1 (Uso Estratégico):** Ana, uma jovem de 20 anos, realizou um profundo processo de introspecção e definiu como requisito de carreira tornar-se jornalista cultural. Ela utiliza seu ID Jovem de forma estratégica: viaja para capitais vizinhas para cobrir festivais de cinema e entrevistar artistas, pagando meia-entrada nos eventos e utilizando as vagas gratuitas no transporte interestadual. Para Ana, o ID Jovem é uma ferramenta que viabiliza diretamente a execução de seu plano de carreira, permitindo-lhe construir um portfólio rico e uma rede de contatos valiosa com um custo mínimo.
+* **Cenário 1 (Uso Estratégico)**: Ana, uma jovem de 20 anos, realizou um profundo processo de introspecção e definiu como requisito de carreira tornar-se jornalista cultural. Ela utiliza seu ID Jovem de forma estratégica: viaja para capitais vizinhas para cobrir festivais de cinema e entrevistar artistas, pagando meia-entrada nos eventos e utilizando as vagas gratuitas no transporte interestadual. Para Ana, o ID Jovem é uma ferramenta que viabiliza diretamente a execução de seu plano de carreira, permitindo-lhe construir um portfólio rico e uma rede de contatos valiosa com um custo mínimo.
 
 * **Cenário 2 (Uso Inerte):** Lucas, de 22 anos, também possui o ID Jovem. No entanto, ele não dedicou tempo à introspecção e possui apenas desejos vagos, sem metas concretas ou priorizadas. Ele sabe que tem direito a descontos e viagens, mas como não definiu nenhum "projeto" ou "requisito" para si mesmo — como visitar um museu específico, participar de um workshop em outra cidade ou assistir a uma peça de teatro que enriqueceria sua formação —, o benefício permanece inerte em sua carteira digital. A oportunidade existe, mas sem o trabalho prévio de engenharia de requisitos pessoais, seu potencial permanece completamente inexplorado.
 
 ## Introspecção de Requisitos para o aplicativo ID Jovem
 
-Para materializar a conexão entre a introspecção e a engenharia de software, podemos esboçar uma análise de requisitos para um sistema hipotético focado no ID Jovem. Este exercício prático demonstra como as necessidades dos usuários (os jovens) e as regras do programa (o domínio do problema) são traduzidas em requisitos funcionais, não funcionais e outros artefatos que guiam o desenvolvimento de uma solução de software.
+Para materializar a conexão entre a introspecção e a engenharia de software, podemos esboçar uma análise de requisitos para um sistema hipotético focado no ID Jovem. Este exercício prático demonstra como as necessidades dos jovens beneficiários e as regras do programa (o domínio do problema) são traduzidas em requisitos funcionais, não funcionais e outros artefatos que guiam o desenvolvimento de uma solução de software. <br> <small><em>Revisado por [Chat GPT](https://chatgpt.com/), em 22 de Novembro 2025</em></small>
 
 ### Stakeholders
-* **Jovens (15-29 anos, baixa renda):** Usuários finais que desejam emitir e utilizar os benefícios do ID Jovem de forma fácil e rápida.
+* **Jovens (15-29 anos, baixa renda):** jovens beneficiários finais que desejam emitir e utilizar os benefícios do ID Jovem de forma fácil e rápida.
 * **Gestores de Programas Sociais (CRAS):** Profissionais que cadastram e atualizam os dados dos jovens no CadÚnico, a base para a concessão do benefício.
 * **Empresas (Produtoras de eventos, companhias de transporte):** Entidades que precisam validar a autenticidade do documento ID Jovem para conceder os benefícios.
 * **Governo Federal (Secretaria Nacional da Juventude):** Responsável pela gestão e divulgação do programa.
@@ -39,7 +39,7 @@ A tabela a seguir apresenta uma lista de requisitos de software levantados duran
 
 * **RF:** Requisitos Funcionais - Descrevem o comportamento ou a funcionalidade que o software deve ter.
 * **RNF:** Requisitos Não-Funcionais - Descrevem atributos de qualidade do software, como desempenho e segurança.
-* **RI:** Requisitos de Interface - Descrevem as características da interface do usuário.
+* **RI:** Requisitos de Interface - Descrevem as características da interface do jovem beneficiário.
 * **RR:** Riscos - Riscos associados ao desenvolvimento e uso do software.
 * **RT:** Testes e Validações - Atividades necessárias para testar e validar o software.
 
@@ -55,24 +55,24 @@ A tabela a seguir apresenta uma lista de requisitos de software levantados duran
 | **IDJ08** <a id="idj08"></a> | O sistema deve se conectar à base de dados do CadÚnico para verificar a elegibilidade do jovem em tempo real. | RNF |
 | **IDJ09** <a id="idj09"></a> | A interface deve ser intuitiva e acessível para jovens de diferentes níveis de letramento digital[12,13]. | RI |
 | **IDJ10** <a id="idj10"></a> | A carteira virtual gerada deve conter um QR Code ou outro método de validação rápida. | RI |
-| **IDJ11** <a id="idj11"></a> | O sistema deve enviar notificações ao usuário sobre o vencimento de sua carteira ID Jovem. | RI |
+| **IDJ11** <a id="idj11"></a> | O sistema deve enviar notificações ao jovem beneficiário sobre o vencimento de sua carteira ID Jovem. | RI |
 | **IDJ12** <a id="idj12"></a> | Risco de o jovem não conseguir emitir a carteira devido a dados desatualizados no CadÚnico[9,18]. | RR |
 | **IDJ13** <a id="idj13"></a> | Risco de indisponibilidade ou lentidão no serviço de consulta à base do CadÚnico, impedindo a emissão da carteira. | RR |
-| **IDJ14** <a id="idj14"></a> | Risco de empresas se recusarem a aceitar o benefício, gerando frustração no usuário e descrédito do programa. | RR |
+| **IDJ14** <a id="idj14"></a> | Risco de empresas se recusarem a aceitar o benefício, gerando frustração no jovem beneficiário e descrédito do programa. | RR |
 | **IDJ15** <a id="idj15"></a> | O processo de emissão deve ser testado com diferentes perfis de jovens (NIS válido, NIS inválido, cadastro desatualizado). | RT |
 | **IDJ16** <a id="idj16"></a> | O fluxo de validação da carteira deve ser testado a partir da perspectiva de um estabelecimento comercial. | RT |
 | **IDJ17** <a id="idj17"></a> | Testes de usabilidade devem ser conduzidos com jovens na faixa etária de 15 a 29 anos para validar a clareza da interface. | RT |
-| **IDJ18** <a id="idj18"></a> | Usabilidade: O aplicativo deve permitir que o usuário personalize o tamanho da fonte e o esquema de cores para melhorar a legibilidade. | RNF |
+| **IDJ18** <a id="idj18"></a> | Usabilidade: O aplicativo deve permitir que o jovem beneficiário personalize o tamanho da fonte e o esquema de cores para melhorar a legibilidade. | RNF |
 | **IDJ19** <a id="idj19"></a> | Confiabilidade: O sistema deve registrar todas as tentativas de validação da carteira, bem-sucedidas ou não, para fins de auditoria. | RNF |
 | **IDJ20** <a id="idj20"></a> | Desempenho: A consulta à elegibilidade do CadÚnico deve retornar o resultado em no máximo 3 segundos. | RNF |
-| **IDJ21** <a id="idj21"></a> | Suportabilidade: O sistema deve ter capacidade de ser facilmente escalado para atender a um aumento de 50% no número de usuários sem degradação do desempenho.| RNF |
+| **IDJ21** <a id="idj21"></a> | Suportabilidade: O sistema deve ter capacidade de ser facilmente escalado para atender a um aumento de 50% no número de jovens beneficiários sem degradação do desempenho.| RNF |
 
 <p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a></p>
 
 ## Conclusão
 
 A analogia entre a engenharia de requisitos de software e a jornada de autodesenvolvimento revela uma verdade fundamental: os processos disciplinados de elicitação, análise e validação são tão cruciais para a construção de uma vida com propósito quanto o são para a entrega de um software de sucesso. A ausência de um levantamento de requisitos pessoais claro e honesto leva a um "projeto de vida" que, mesmo que avance, pode não atender às necessidades mais profundas do seu único e principal *stakeholder*: o próprio indivíduo.
-
+<br> <small><em>Revisado por [Chat GPT](https://chatgpt.com/), em 22 de Novembro 2025</em></small>
 ## Referências Bibliográficas
 
 <p><a id="QT1" href="#anchor_1">1.</a> BRASIL. Governo Federal. <b>Programa Identidade Jovem</b>. Disponível em: <a href="https://idjovem.juventude.gov.br/">https://idjovem.juventude.gov.br/</a>. Acesso em: 28 set. 2025.</p>
@@ -91,3 +91,10 @@ A analogia entre a engenharia de requisitos de software e a jornada de autodesen
 | `1.0`  | 28/09/2025 | Criação do documento | [Dylan](https://github.com/dylancavalcante)| [Arthur](https://github.com/arthurfernandesj) |
 | `1.1`  | 10/10/2025 | Adição da Introdução e metodologia | [Breno Teixeira](https://github.com/BrenoLTeixeira)| [Arthur](https://github.com/arthurfernandesj) |
 | `1.2`  | 10/10/2025 | Arrumando as Referências | [Breno Teixeira](https://github.com/BrenoLTeixeira)| [Arthur](https://github.com/arthurfernandesj) |
+
+## Agradecimentos
+
+Queremos agradecer ao [Chat GPT](https://chatgpt.com/), ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto ID Jovem. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.

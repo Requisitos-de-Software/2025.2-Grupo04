@@ -31,6 +31,8 @@ Descreve os reflexos ou consequências daquele símbolo.<a id="TEC1" href="#RP1"
 
 Cada entrada no Léxico pertence a somente um tipo (Verbo, Objeto, Estado), e a heurística de definição (Noção e Impacto) é aplicada de acordo com esse tipo. Essa descrição estruturada dos termos é fundamental para o LAL.
 
+<small><em>Revisado por [Chat GPT](https://chatgpt.com/share/6923b754-1e64-8000-8d6e-8645f6020b43), em 12 de outubro de 2025</em></small>
+
 ## Léxico Ampliado da Linguagem (LAL) do ID Jovem
 
 Os léxicos do sistema ID Jovem foram identificados a partir da utilização do aplicativo e dos [requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Requisitos_Elicitados/) nas etapas anteriores. Na tabela 1 abaixo, temos um exemplo de como os léxicos serão apresentados e descritos:
@@ -197,3 +199,10 @@ Os léxicos do tipo estado referem-se às condições, situações ou configura�
 |  `2.0` | 12/10/2025 | Adicionado tabela de ligação entre lexicos| [Eduarda](https://github.com/Eduarar0) | [Dylan](https://github.com/dylancavalcante)|
 |  `2.1` | 12/10/2025 | Arrumando links das tabelas e do documento| [Leticia](https://github.com/leticialopes20) | [Dylan](https://github.com/dylancavalcante)|
 |  `2.1` | 12/10/2025 | Adicionado tabela de ligação entre lexicos| [Eduarda](https://github.com/Eduarar0) | [Dylan](https://github.com/dylancavalcante)|
+
+## Agrecimentos
+
+Queremos agradecer ao [Chat GPT](https://chatgpt.com/share/6923b754-1e64-8000-8d6e-8645f6020b43), ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto ID Jovem. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão. 

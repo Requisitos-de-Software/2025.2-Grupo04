@@ -1,6 +1,6 @@
 ## Introdução
 
-<p style="text-align: justify;">Após o planejamento da verificação, foi iniciada a inspeção do artefato <b>Análise de Documentos</b> referente ao aplicativo <b>ID Jovem</b>. O propósito da verificação é garantir que a análise dos documentos foi realizada de forma sistemática, que as fontes são relevantes para o domínio do problema, e que os requisitos elicitados a partir delas são claros, rastreáveis e corretamente classificados. Como referência, utilizou-se o livro (VAZQUEZ; SIMÕES, 2016) <a href="#RP1">[1]</a>, especificamente o Capítulo 7.3 (Técnica: análise de documentos) e os Critérios de Qualidade da Especificação (Capítulo 2.6). Durante o processo, foram analisadas as fontes, os resumos e a lista de requisitos elicitados, com o intuito de aprimorar o artefato e assegurar sua adequação ao desenvolvimento do sistema.</p>
+Após o planejamento da verificação, foi iniciada a inspeção do artefato [Analise de Documentos](https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_02/Elicitacao/Analise_de_Documentos/) referente ao aplicativo ID Jovem. O propósito da verificação é garantir que a análise dos documentos foi realizada de forma sistemática, que as fontes são relevantes para o domínio do problema, e que os requisitos elicitados a partir delas são claros, rastreáveis e corretamente classificados. Como referência, utilizou-se o livro (VAZQUEZ; SIMÕES, 2016) , especificamente o Capítulo 7.3 (Técnica: análise de documentos) e os Critérios de Qualidade da Especificação (Capítulo 2.6). Durante o processo, foram analisadas as fontes, os resumos e a lista de requisitos elicitados, com o intuito de aprimorar o artefato e assegurar sua adequação ao desenvolvimento do sistema.
 
 <small><em>Revisado por [Gemini](https://gemini.google.com/), em 12 de Novembro 2025</em></small>
 
@@ -98,24 +98,24 @@ Fonte: <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeir
     <tr>
       <td><b>01:</b> As fontes documentais analisadas (Site Oficial, Lojas de App) são relevantes para o domínio do problema?</td>
       <td><a href="#" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 433)</a></td>
-      <td>Sim</td>
-      <td>Os documentos são fontes primárias que descrevem o sistema existente e seus objetivos, alinhando-se à "identificação de informação relevante".</td>
+      <td>Conforme</td>
+      <td></td>
       <td>-</td>
       <td><a href="https://github.com/GiovanaFontesS" target="_blank">Giovana Fontes</a></td>
     </tr>
     <tr>
       <td><b>02:</b> A análise dos documentos serviu de base para "ganhar conhecimento sobre o negócio" antes de outras técnicas?</td>
       <td><a href="#" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 442)</a></td>
-      <td>Sim</td>
-      <td>O artefato foi usado como "um dos primeiros passos" e seus requisitos (AD01-AD18) são visivelmente usados em artefatos posteriores (Casos de Uso, etc).</td>
+      <td>Conforme</td>
+      <td></td>
       <td>-</td>
       <td><a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeira</a></td>
     </tr>
     <tr>
       <td><b>03:</b> A análise conseguiu elicitar requisitos (Funcionais e Não Funcionais)?</td>
       <td><a href="#" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 433)</a></td>
-      <td>Sim</td>
-      <td>A Tabela "Requisitos Identificados" lista 18 requisitos (AD01-AD18) que foram claramente extraídos dos resumos dos documentos.</td>
+      <td>Conforme</td>
+      <td></td>
       <td>-</td>
       <td><a href="https://github.com/arthurfernandesj" target="_blank">Arthur Fernandes</a></td>
     </tr>
@@ -130,16 +130,16 @@ Fonte: <a href="https://github.com/BrenoLTeixeira" target="_blank">Breno Teixeir
     <tr>
       <td><b>05:</b> A classificação entre Requisitos Funcionais e Não Funcionais está correta?</td>
       <td><a href="#" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 288, 314)</a></td>
-      <td>Sim</td>
-      <td>A classificação está correta. Ex: AD02 ("Geração e emissão") é "o que o software faz" (RF). AD11 ("Segurança") é uma qualidade (RNF).</td>
+      <td>Conforme</td>
+      <td></td>
       <td>-</td>
       <td><a href="https://github.com/eduardar0" target="_blank">Eduarda Rodrigues</a></td>
     </tr>
     <tr>
       <td><b>06:</b> Os resumos dos documentos são objetivos e focam em informações relevantes para os requisitos?</td>
       <td><a href="#" target="_blank">(VAZQUEZ; SIMÕES, 2016, p. 433)</a></td>
-      <td>Sim</td>
-      <td>Os resumos do Site Oficial e das Lojas de App focam diretamente nas funcionalidades (o que é, como funciona, emitir carteira, validar).</td>
+      <td>Conforme</td>
+      <td></td>
       <td>-</td>
       <td><a href="https://github.com/leticialopes20" target="_blank">Letícia Maria</a></td>
     </tr>
@@ -169,23 +169,28 @@ O artefato <b>Análise de Documentos</b> (versão 1.2) é um artefato sólido e 
 Recomenda-se apenas uma pequena correção: adicionar uma coluna "Fonte" na tabela "Requisitos Identificados" para mapear cada ID (AD01 a AD18) ao "Documento 1" ou "Documento 2". Isso resolverá a pendência do <b>Item 04</b> e garantirá a rastreabilidade completa do artefato.
 </p>
 
-## Referencias Bibliograficas
+## Referências Bibliográficas
 
-> <a id="RP1" href="#TEC1">1.</a> VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. *Engenharia de Requisitos: Software Orientado ao Negócio.* 1. ed. Rio de Janeiro: Brasport, 2016. [Referenciado: Cap 2.6, Cap 5.9, Cap 5.10, Cap 7.3, Cap 9.6].
+> <a id="RP1" href="#TEC1">1.</a> Requisitos de Software. Bilheteria-Digital (2023.1). Disponível em: [https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/). Acesso em: 12 Out. 2025.
 
-## Bibliografia 
-> VAZQUEZ, Carlos; SIMÕES, Guilherme. Engenharia de Requisitos: software orientado ao negócio. Rio de Janeiro: Brasport, 2016.</a>.
->
-> SERRANO, Milene; SERRANO, Mauricio. Requisitos – Aula 07. Universidade de Brasília, 2016.
+> <a id="RP2" href="#TEC2">2.</a> Eeles, Peter. QualidadeBR: FURPS+. jun, 2008. Disponível em: [https://qualidadebr.wordpress.com/2008/07/10/furps/](https://qualidadebr.wordpress.com/2008/07/10/furps/). Acesso em: 12 Out. 2025.
+
+
 
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :--: | :--: | :-- | :-- | :-- |
 | 1.0 | 12/11/2025 | Criação da página de verificação da Análise de Documentos | [Dylan Cavalcante](https://github.com/dylancavalcante) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
+| 1.1 | 21/11/2025 | Correção de prints | [Giovana Fontes](https://github.com/dylancavalcante) | [Arthur Fernandes](https://github.com/arthurfernandesj) |
 
 
 ## Agrecimentos
 
-De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
-Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.
+<p style="text-align: justify;">
+Queremos agradecer ao Gemini, ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto First Things First. Sua ajuda foi essencial na revisão de textos, organização das ideias e pesquisa de conteúdos complementares, contribuindo para deixar nossa documentação mais clara e completa.
+</p>
+
+<p style="text-align: justify;">
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico. Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.
+</p>

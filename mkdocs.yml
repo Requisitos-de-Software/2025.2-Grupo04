@@ -69,11 +69,11 @@ nav:
           - Ata 09 (06/10): Encontros/atas/ata_08_10.md
           - Ata 10 (17/10): Encontros/atas/ata_17_10.md
           - Ata 11 (10/11): Encontros/atas/ata_nov_10.md
+          - Ata 12 (16/11): Encontros/atas/ata_nov_16.md
 
   - Entregas:
       - Entrega 01:
           - Pré-Rastreabilidade (RichPicture): Entregas/Entregas_01/RichPicture.md
-          - Apresentação: Entregas/Entregas_01/apresentacao01.md
           - Verificação e inspeção: 
                 - Inspeção: Entregas/Entregas_01/Entrega_01.md
                 - Verificação grupo n+1: Entregas/Entregas_01/inspecao01.md
@@ -125,8 +125,8 @@ nav:
 
       - Entrega 05: 
           - Verificação e inspeção:
-            - Inspeção: Entregas/Entrega_05/Verificacao_grupo.md
-            - Verificação grupo n+1: Entregas/Entrega_05/Inspecao_grupo.md
+            - Inspeção: Entregas/Entrega_05/Inspecao_grupo.md
+            - Verificação grupo n+1: Entregas/Entrega_05/Verificacao_grupo.md
 
       - Entrega 06:
           - Matriz de Rastreabilidade: Entregas/Entregas_05/Matriz_de_Rastreabilidade.md

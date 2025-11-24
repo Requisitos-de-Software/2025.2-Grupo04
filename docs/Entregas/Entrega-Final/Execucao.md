@@ -28,51 +28,6 @@ Além disso, o app apresenta funcionalidades bem definidas, fluxos claros e um p
 
 
 
-## Cronograma de Participantes
-
-<font size="3"><p style="text-align: center">Tabela 1: Cronograma de Participantes</p></font>
-
-<div align="center">
-
-<table>
-  <thead>
-    <tr>
-      <th>Nome</th>
-    </tr>
-  </thead>
-  <tbody>
- <tr>
-  <td>Arthur Fernandes</td>
-
-</tr>
-
-<tr>
-  <td>Breno Lourenço</td>
-
-</tr>
-<tr>
-  <td>Dylan Cavalcante</td>
-
-</tr>
-<tr>
-  <td>Eduarda Domingos</td>
-
-</tr>
-<tr>
-  <td>Giovana Fontes</td>
-
-</tr>
-<tr>
-  <td>Leticia Lopes</td>
-
-</tr>
-  </tbody>
-</table>
-
-</div>
-
-<font size="2"><p style="text-align: center">Fonte: [Arthur Fernandes](https://github.com/arthurfernandesj) </p></font>
-
 ## Resumo da Execução do Projeto
 
 <font size="3"><p style="text-align: center">Tabela 2: Execução do Projeto</p></font>

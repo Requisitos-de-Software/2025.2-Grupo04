@@ -11,7 +11,6 @@ A Tabela 1 apresenta os aplicativos escolhidos por cada integrante para desenvol
 | :-----------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
 | [Arthur Fernandes](https://www.google.com/search?q=%23) |           [Metro DF](https://play.google.com/store/apps/details?id=br.gov.df.metroapp&hl=pt_BR)           |
 |  [Breno Lourenço](https://www.google.com/search?q=%23)  |         [Moodle](https://play.google.com/store/apps/details?id=com.moodle.moodlemobile&hl=pt_BR)          |
-|   [Danilo Melo](https://www.google.com/search?q=%23)    | [Carteira Digital de Trânsito](https://play.google.com/store/apps/details?id=br.gov.serpro.cnhe&hl=pt_BR) |
 | [Dylan Cavalcante](https://www.google.com/search?q=%23) |                             [VsCode](https://code.visualstudio.com/download)                              |
 | [Eduarda Domingos](https://www.google.com/search?q=%23) |        [Meu INSS](https://play.google.com/store/apps/details?id=br.gov.dataprev.meuinss&hl=pt_BR)         |
 |  [Giovana Fontes](https://www.google.com/search?q=%23)  |           [CIN](https://play.google.com/store/apps/details?id=com.identidadenacional&hl=pt_BR)            |
@@ -45,17 +44,6 @@ O resultado do *Rich Picture* pode ser visualizado na **Figura 3**.
 <p style="text-align: center; font-size: 10pt;">Autor: <a href="https://github.com/BrenoLTeixeira">Breno Teixeira</a></p>
 
 
-### Carteira Digital de Trânsito  
-
-O integrante **Danilo Melo** escolheu o aplicativo **Carteira Digital de Trânsito (CDT)**, ferramenta oficial que reúne a versão digital da Carteira Nacional de Habilitação (CNH) e do Certificado de Registro e Licenciamento do Veículo (CRLV). O aplicativo busca facilitar o acesso a documentos veiculares e de habilitação em formato digital, oferecendo praticidade e segurança aos motoristas.  
-
-No *Rich Picture* desenvolvido, são destacados recursos como o acesso à CNH Digital, consulta de infrações, recebimento de notificações de multas, além da possibilidade de compartilhar o CRLV eletrônico. A representação evidencia como o aplicativo centraliza serviços importantes para o condutor, tornando mais ágil e acessível a gestão de documentos de trânsito.  
-
-O resultado do *Rich Picture* pode ser visualizado na **Figura 5**.
-
-![](../assets/rich_pictures_analisados/Danilo.png)
-<p style="text-align: center; font-size: 10pt;">Autor: <a href="https://github.com/EngDann">Danilo Melo</a></p>
-
 ### Visual Studio Code - VsCode
 
 O integrante **Dylan Cavalcante** optou pelo **Visual Studio Code (VS Code)**, um editor de código multiplataforma amplamente utilizado por desenvolvedores. O aplicativo busca oferecer uma experiência de programação mais ágil e prática, possibilitando que os usuários editem códigos em diferentes linguagens diretamente do celular.  
@@ -75,7 +63,7 @@ No *Rich Picture* desenvolvido, são destacados serviços como solicitação de 
 
 O resultado do *Rich Picture* pode ser visualizado na **Figura 9**.
 
-![](../assets/rich_pictures_analisados/)
+![](../assets/rich_pictures_analisados/Eduarda.jpeg)
 <p style="text-align: center; font-size: 10pt;">Autor: <a href="https://github.com/eduardar0">Eduarda Domingos</a></p>
 
 ### CIN (Carteira de Identidade Nacional)  

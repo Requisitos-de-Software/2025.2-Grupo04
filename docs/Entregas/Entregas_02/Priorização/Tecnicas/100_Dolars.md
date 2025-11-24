@@ -233,9 +233,28 @@ A Tabela 2 mostra os dados consolidados em uma única planilha, com os valores a
 
 Para acessar a gravação da aplicação da técnica, acesse o vídeo através do link abaixo:
 
+
+### **Gravação 1** <a id="ceng01"></a> - Primeira aplicação da técnica de Priorização - 100 Dólares
+
+<div align="center">
+  <p style="text-align: center">
+    <a href="https://youtu.be/8k1RkCJvzxo" target="_blank">
+      <b>Vídeo 1:</b> Aplicação 100 Dolares
+    </a>
+  </p>
+
+  <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/8k1RkCJvzxo"
+          title="Validação – Casos de Uso"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+  </iframe>
+</div>
+
 <div align="center">
 <p style="text-align: center">
-  <a href="https://youtu.be/veKZUIvgnAI" target="_blank"><b>Vídeo 1:</b> Primeira aplicação da técnica de Priorização - 100 Dólares</a>
+  <a href="https://youtu.be/veKZUIvgnAI" target="_blank"><b>Vídeo 2:</b> Segunda aplicação da técnica de Priorização - 100 Dólares</a>
 </p>
 
 <iframe width="560" height="315"
@@ -246,18 +265,6 @@ Para acessar a gravação da aplicação da técnica, acesse o vídeo através d
         allowfullscreen>
 </iframe>
 
-<p style="text-align: center; font-size: 10pt;">
-  Fonte: <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, 2025.
-</p>
-</div>
-
-<div align="center">
-<p style="text-align: center"><a href="" target="_blank"><b>Vídeo 2:</b> Segunda aplicação da técnica de Priorização - 100 Dólares</a></p>
-
-<iframe width="560" height="315" src="" title="Sessão de Técnica de Priorização - 100 Dólares" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/leticialopes20">Letícia Lopes</a>, 2025.</p>
-</div>
 
 ## Referências Bibliográficas
 

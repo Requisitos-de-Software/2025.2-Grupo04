@@ -188,6 +188,51 @@ Esta seção abrange todos os requisitos que influenciam o Suportabilidade do si
     </p>
   </font>
 
+### **Gravação 2** <a id="ceng01"></a> - Validação Giovana
+
+<div align="center">
+  <p style="text-align: center">
+    <a href="https://youtu.be/5hT7xe_aKjc" target="_blank">
+      <b>Vídeo 2:</b> Validação – Cenarios
+    </a>
+  </p>
+
+  <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/5hT7xe_aKjc"
+          title="Validação – Cenarios"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+  </iframe>
+</div>
+
+### **Gravação 3** <a id="ceng01"></a> - Validação Arthur
+
+### **Gravação 4** <a id="ceng01"></a> - Validação Dylan
+
+### **Gravação 5** <a id="ceng01"></a> - Validação Leticia 
+
+<div align="center">
+  <p style="text-align: center">
+    <a href="https://youtu.be/5hT7xe_aKjc" target="_blank"><b>Vídeo 5:</b> Validação de Cenários</a>
+  </p>
+
+  <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/5hT7xe_aKjc"
+          title="Validação de Cenários"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+  </iframe>
+
+  <font size="3">
+    <p style="text-align: center">
+      <b>Fonte:</b> <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, 2025
+    </p>
+  </font>
+</div>
+
+
 ## Referências Bibliográficas
 
 > <a id="RP1" href="#TEC1">1.</a> Requisitos de Software. Bilheteria-Digital (2023.1). Disponível em: [https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/). Acesso em: 12 Out. 2025.

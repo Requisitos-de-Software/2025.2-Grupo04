@@ -39,9 +39,9 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 | Nome | Cenários Relacionados |
 |------|---------------------------|
 | **[Arthur Fernandes](https://github.com/arthurfernandesj)** | • [Cenário 9: Alertas de Irregularidades no Uso dos Benefícios](#cenário-9-alertas-de-irregularidades-no-uso-dos-benefícios)<br>• [Cenário 10: Visualização Geográfica de Parceiros e Eventos](#cenário-10-visualização-geográfica-de-parceiros-e-eventos) |
-| **[Breno Lourenço](https://github.com/BrenoLTeixeira)** | • [Cenário 11: Atualização de Cadastro e Preferências Pessoais](#cenário-11-atualização-de-cadastro-e-preferências-pessoais)<br>• [Cenário 12: Canal para Denúncia ou Feedback sobre Estabelecimentos](#cenário-12-canal-para-denúncia-ou-feedback-sobre-estabelecimentos) |
+| **[Breno Lourenço](https://github.com/BrenoLTeixeira)** | • [Cenário 11: Atualização de Cadastro e Preferências Pessoais](#cenário-11-atualização-de-cadastro-e-preferências-pessoais)<br>• [Cenário 12: Canal para Denúncia ou Feedback sobre Estabelecimentos](#cenário-12-canal-para-denúncia-ou-feedback-sobre-estabelecimentos) <br>  •[Validação](#ceng01)|
 | **[Dylan Cavalcante](https://github.com/dylancavalcante)** | • [Cenário 5: Exibição de Novidades e Divulgação de Novos Parceiros](#cenário-5-exibição-de-novidades-e-divulgação-de-novos-parceiros)<br>• [Cenário 6: Consulta ao Histórico de Utilização dos Benefícios](#cenário-6-consulta-ao-histórico-de-utilização-dos-benefícios) |
-| **[Eduarda Domingos](https://github.com/eduardar0)** | • [Cenário 3: Consulta de Locais e Parceiros que Aceitam o Benefício](#cenário-3-consulta-de-locais-e-parceiros-que-aceitam-o-benefício)<br>• [Cenário 4: Canal de Suporte via Chat, E-mail ou Formulário de Contato](#cenário-4-canal-de-suporte-via-chat-e-mail-ou-formulário-de-contato) |
+| **[Eduarda Domingos](https://github.com/eduardar0)** | • [Cenário 3: Consulta de Locais e Parceiros que Aceitam o Benefício](#cenário-3-consulta-de-locais-e-parceiros-que-aceitam-o-benefício)<br>• [Cenário 4: Canal de Suporte via Chat, E-mail ou Formulário de Contato](#cenário-4-canal-de-suporte-via-chat-e-mail-ou-formulário-de-contato) <br> •[Validação](#ceng01)|
 | **[Giovana Fontes](https://github.com/GiovanaFontesS)** | • [Cenário 7: Compartilhamento da Carteirinha em PDF ou Imagem](#cenário-7-compartilhamento-da-carteirinha-em-pdf-ou-imagem)<br>• [Cenário 8: Exibição de Pendências e Erros Relacionados aos Benefícios](#cenário-8-exibição-de-pendências-e-erros-relacionados-aos-benefícios) |
 | **[Letícia Lopes](https://github.com/leticialopes20)** | • [Cenário 1: Integração com o CadÚnico para Atualização Automática de Dados](#cenário-1-integração-com-o-cadúnico-para-atualização-automática-de-dados)<br>• [Cenário 2: Notificações sobre Vencimento e Renovação do Benefício](#cenário-2-notificações-sobre-vencimento-e-renovação-do-benefício) |
 
@@ -261,6 +261,29 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 | **Autor**      | [Breno Teixeira](https://github.com/BrenoLTeixeira) |
 
 <font size="2"><p style="text-align: center">Fonte: [Breno Teixeira](https://github.com/BrenoLTeixeira)</p></font>
+
+
+## Validação  
+
+### **Gravação 1** <a id="ceng01"></a> - Validação Breno e Eduarda 
+
+<p style="text-align: center">
+  <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/3Hp9AFMWI6k" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+  </iframe>
+</p>
+
+ <font size="3">
+    <p style="text-align: center">
+      <b>Fonte:</b> <a href="https://github.com/eduardar0">Eduarda Domingos</a>, 2025
+    </p>
+  </font>
+
 
 
 

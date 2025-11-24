@@ -405,7 +405,7 @@ Na entrevista 2 encontra-se a gravação da entrevista da Noemy da Luz Cardoso.
     </tr>
   </tbody>
 </table>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/">Arthur Fernandes</a>, 2025.</p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/">Arthur Fernandes</a>, 2025.</p></font>
 </div>
 
 <div align="center">
@@ -464,7 +464,7 @@ Na entrevista 2 encontra-se a gravação da entrevista da Noemy da Luz Cardoso.
     </tr>
   </tbody>
 </table>
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/">Arthur Fernandes</a>, 2025.</p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/">Arthur Fernandes</a>, 2025.</p></font>
 </div>
 
 

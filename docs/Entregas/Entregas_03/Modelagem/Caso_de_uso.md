@@ -63,9 +63,9 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 | Nome | Casos de Uso Relacionados |
 |------|---------------------------|
 | **[Arthur Fernandes](https://github.com/arthurfernandesj)** | • [Caso de Uso 9: Alertas de Irregularidades no Uso dos Benefícios](#caso-de-uso-9-rf20)<br>• [Caso de Uso 10: Visualização Geográfica de Parceiros e Eventos](#caso-de-uso-10-rf21) |
-| **[Breno Lourenço](https://github.com/BrenoLTeixeira)** | • [Caso de Uso 11: Baixar Carteirinha para Uso Offline](#caso-de-uso-11-rf09)<br>• [Caso de Uso 12: Gerenciar Cadastro e Preferências](#caso-de-uso-12-rf19) |
+| **[Breno Lourenço](https://github.com/BrenoLTeixeira)** | • [Caso de Uso 11: Baixar Carteirinha para Uso Offline](#caso-de-uso-11-rf09)<br>• [Caso de Uso 12: Gerenciar Cadastro e Preferências](#caso-de-uso-12-rf19) <br>• [Validação](#ucg01)|
 | **[Dylan Cavalcante](https://github.com/dylancavalcante)** | • [Caso de Uso 5: Visualizar Novidades e Novos Parceiros](#caso-de-uso-5-rf13)<br>• [Caso de Uso 6: Consultar Histórico de Utilização](#caso-de-uso-6-rf12) |
-| **[Eduarda Domingos](https://github.com/eduardar0)** | • [Caso de Uso 3: Consultar Locais e Parceiros](#caso-de-uso-3-rf10)<br>• [Caso de Uso 4: Solicitar Suporte ao Beneficiário](#caso-de-uso-4-rf11) |
+| **[Eduarda Domingos](https://github.com/eduardar0)** | • [Caso de Uso 3: Consultar Locais e Parceiros](#caso-de-uso-3-rf10)<br>• [Caso de Uso 4: Solicitar Suporte ao Beneficiário](#caso-de-uso-4-rf11)<br>• [Validação](#ucg01) |
 | **[Giovana Fontes](https://github.com/GiovanaFontesS)** | • [Caso de Uso 7: Compartilhar Carteirinha Digital](#caso-de-uso-7-rf17)<br>• [Caso de Uso 8: Exibir Pendências e Erros Relacionados aos Benefícios](#caso-de-uso-8-rf18) |
 | **[Letícia Lopes](https://github.com/leticialopes20)** | • [Caso de Uso 1: Atualizar Dados via CadÚnico](#caso-de-uso-1-rf07)<br>• [Caso de Uso 2: Notificações de Vencimento e Renovação de Benefício](#caso-de-uso-2-rf08) |
 
@@ -313,6 +313,28 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 | **Autor** | [Breno Teixeira](https://github.com/BrenoLTeixeira) |
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Breno Teixeira](https://github.com/BrenoLTeixeira) </i></b></p></font>
+## Validação  
+
+### **Gravação 1** <a id="ucg01"></a> - Validação Breno e Eduarda 
+
+<p style="text-align: center">
+  <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/rpmxUE1rrak" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+  </iframe>
+</p>
+
+ <font size="3">
+    <p style="text-align: center">
+      <b>Fonte:</b> <a href="https://github.com/eduardar0">Eduarda Domingos</a>, 2025
+    </p>
+  </font>
+
+
 
 ## Referências Bibliográficas
 

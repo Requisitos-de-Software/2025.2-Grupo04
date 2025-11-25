@@ -54,7 +54,7 @@ Documenta a criação de cenários, léxicos, casos de uso e especificação sup
 | Requisitos Não Implementados | 1 | 0 | 1 | 1 | 0 | 0 |
 | **Total de documentos criados** | **13** | **12** | **13** | **15** | **12** | **14** |
 | **Total de documentos revisados** | **5** | **3** | **4** | **5** | **4** | **4** |
-
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/eduardar0">Eduarda Domingos</a></p>
 
 ## Entrega 4
 Registra o desenvolvimento de NFR Framework, histórias de usuário e backlog do produto.

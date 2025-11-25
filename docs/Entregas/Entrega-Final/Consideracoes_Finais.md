@@ -5,6 +5,35 @@
 Nesta seção, cada integrante da equipe compartilha, de forma individual, as principais facilidades e dificuldades enfrentadas ao longo da execução do projeto. O objetivo é refletir sobre o processo de desenvolvimento, destacando os pontos que contribuíram positivamente para o desempenho de cada um, bem como os desafios superados durante as etapas de planejamento, execução e finalização das atividades.
 
 
+## Gravação Apresentação Final 
+
+A gravação da apresentação final foi realizada no dia 24/11, com a presença de todos os integrantes da equipe. Durante a apresentação, foram mostrados e explicados todos os documentos que compõem a entrega final, organizados de forma clara para demonstrar o progresso e os resultados do projeto. A gravação registra toda a explicação do grupo e serve como evidência da conclusão completa da última etapa.
+
+### **Gravação – Entrega Final**
+
+<div align="center">
+  <p style="text-align: center">
+    <a href="https://youtu.be/q2VNO6hYUY4" target="_blank">
+      <b>Vídeo:</b> Entrega Final
+    </a>
+  </p>
+
+  <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/q2VNO6hYUY4"
+          title="Entrega Final"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+  </iframe>
+
+  <font size="3">
+    <p style="text-align: center">
+      <b>Fonte:</b> <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, 2025
+    </p>
+  </font>
+</div>
+
+
 ## Cronograma de Participantes
 
 

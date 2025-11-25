@@ -188,18 +188,18 @@ Esta seção abrange todos os requisitos que influenciam o Suportabilidade do si
     </p>
   </font>
 
-### **Gravação 2** <a id="ceng01"></a> - Validação Giovana
+### **Gravação 2** <a id="ceng01"></a> - Validação Giovana e Leticia
 
 <div align="center">
   <p style="text-align: center">
-    <a href="https://youtu.be/5hT7xe_aKjc" target="_blank">
-      <b>Vídeo 2:</b> Validação – Cenarios
+    <a href="https://youtu.be/as_xqt24O-E" target="_blank">
+      <b>Vídeo 2:</b> Validação – Especificação
     </a>
   </p>
 
   <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/5hT7xe_aKjc"
-          title="Validação – Cenarios"
+          src="https://www.youtube.com/embed/as_xqt24O-E"
+          title="Validação – Especificação"
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           allowfullscreen>
@@ -209,30 +209,6 @@ Esta seção abrange todos os requisitos que influenciam o Suportabilidade do si
 ### **Gravação 3** <a id="ceng01"></a> - Validação Arthur
 
 ### **Gravação 4** <a id="ceng01"></a> - Validação Dylan
-
-### **Gravação 5** <a id="ceng01"></a> - Validação Leticia 
-
-### **Gravação 5** <a id="ceng01"></a> - Validação Leticia
-
-<div align="center">
-  <p style="text-align: center">
-    <a href="https://youtu.be/09OI7c20UTY" target="_blank"><b>Vídeo 5:</b> Validação de Especificação </a>
-  </p>
-
-  <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/09OI7c20UTY"
-          title="Validação de Especificação"
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          allowfullscreen>
-  </iframe>
-
-  <font size="3">
-    <p style="text-align: center">
-      <b>Fonte:</b> <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, 2025
-    </p>
-  </font>
-</div>
 
 
 ## Referências Bibliográficas

@@ -186,14 +186,15 @@ A estratégia de planejamento consistiu na verificação de cada artefato por um
     <td>Arthur, Breno, Dylan, Eduarda, Giovana e Letícia</td>
     <td>Giovana</td>
   </tr>
-</table>
 
   <tr>
     <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo04/Entregas/Entregas_04/Modelagem_II/Historias_de_Usuario/">Histórias de Usuário</a></td>
     <td>Arthur, Breno, Dylan, Eduarda, Giovana e Letícia</td>
     <td>Dylan</td>
   </tr>
+  
 </table>
+
 
 <p style="text-align: center; font-size: 12px;">
   Fonte: <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a>
@@ -289,7 +290,7 @@ No contexto deste projeto, foram desenvolvidos protótipos para todos os requisi
 
 A Comprovação Informal é uma forma de validação que usa linguagem natural para descrever os requisitos, permitindo que o cliente identifique possíveis falhas ou ambiguidades. Para isso, é essencial a participação do cliente.
 
-No projeto, a metodologia adotada envolveu a tentativa de contato com a equipe do aplicativo FGTS por meio de e-mails, elaborados e revisados por todos os membros do grupo 7. No entanto, até a data da entrega dos artefatos de validação, não houve retorno. Caso algum contato seja respondido futuramente, ele será registrado neste tópico.
+No projeto, a metodologia adotada envolveu a tentativa de contato com a equipe do aplicativo ID Jovem por meio de e-mails, elaborados e revisados por todos os membros do grupo 4. No entanto, até a data da entrega dos artefatos de validação, não houve retorno. Caso algum contato seja respondido futuramente, ele será registrado neste tópico.
 
 
 ## Histórico de Versões

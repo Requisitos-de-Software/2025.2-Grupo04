@@ -217,6 +217,27 @@ Os léxicos do tipo estado referem-se às condições, situações ou configura�
 
 ### **Gravação 3** <a id="ceng01"></a> - Validação Arthur
 
+<div align="center">
+  <p style="text-align: center">
+    <a href="https://youtu.be/52tm62g1U1U" target="_blank"><b>Vídeo 3:</b> Validação dos Léxicos </a>
+  </p>
+
+  <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/52tm62g1U1U"
+          title="Validação do Caso de Uso"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+  </iframe>
+
+  <font size="3">
+    <p style="text-align: center">
+      <b>Fonte:</b> <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a>, 2025
+    </p>
+  </font>
+</div>
+
+
 ### **Gravação 4** <a id="ceng01"></a> - Validação Dylan
 
 ## Bibliografia

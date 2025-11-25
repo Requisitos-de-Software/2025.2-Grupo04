@@ -242,11 +242,11 @@ Os léxicos do tipo estado referem-se às condições, situações ou configura�
 
 <div align="center">
   <p style="text-align: center">
-    <a href="https://youtu.be/9vKlYh51YjA" target="_blank"><b>Vídeo 3:</b> Validação do Caso de Uso </a>
+    <a href="https://www.youtube.com/embed/pJjBn6kTuPs" target="_blank"><b>Vídeo 3:</b> Validação do Caso de Uso </a>
   </p>
 
   <iframe width="560" height="315"
-          src="https://youtu.be/pJjBn6kTuPs?si=FnzpqI6Ew0fH-iwH"
+          src="https://www.youtube.com/embed/pJjBn6kTuPs"
           title="Validação de Especificação"
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

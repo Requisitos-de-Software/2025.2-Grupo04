@@ -233,11 +233,11 @@ Esta seção abrange todos os requisitos que influenciam o Suportabilidade do si
 
 <div align="center">
   <p style="text-align: center">
-    <a href="https://youtu.be/TTQg1O4aH7g?si=uCYOOSWYLxX-JxUy" target="_blank"><b>Vídeo 3:</b> Validação do Caso de Uso </a>
+    <a href="https://www.youtube.com/embed/TTQg1O4aH7g" target="_blank"><b>Vídeo 3:</b> Validação do Caso de Uso </a>
   </p>
 
   <iframe width="560" height="315"
-          src="https://youtu.be/pJjBn6kTuPs?si=FnzpqI6Ew0fH-iwH"
+          src="https://www.youtube.com/embed/TTQg1O4aH7g"
           title="Validação de Especificação"
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

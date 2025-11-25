@@ -320,13 +320,13 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
 
 <p align="center">
-<iframe width="560" height="315" 
-        src="https://youtu.be/wzeREMzFs6M" 
-        title="YouTube video player" frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-        referrerpolicy="strict-origin-when-cross-origin" 
-        allowfullscreen>
+<iframe width="100%" height="450"
+  src="https://www.youtube.com/embed/wzeREMzFs6M"
+  title="YouTube video player" frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
 </iframe>
+
 </p>
 
 ### Entrega 4
@@ -338,12 +338,11 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
 
 <p align="center">
-<iframe width="560" height="315" 
-        src="https://youtu.be/NZ47w1XCKHg" 
-        title="YouTube video player" frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-        referrerpolicy="strict-origin-when-cross-origin" 
-        allowfullscreen>
+<iframe width="100%" height="450"
+  src="https://www.youtube.com/embed/NZ47w1XCKHg"
+  title="YouTube video player" frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
 </iframe>
 </p>
 
@@ -356,12 +355,11 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
 
 <p align="center">
-<iframe width="560" height="315" 
-        src="https://youtu.be/ftiXP1UaDqU" 
-        title="YouTube video player" frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-        referrerpolicy="strict-origin-when-cross-origin" 
-        allowfullscreen>
+<iframe width="100%" height="450"
+  src="https://www.youtube.com/embed/ftiXP1UaDqU"
+  title="YouTube video player" frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
 </iframe>
 </p>
 
@@ -373,12 +371,11 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
 
 <p align="center">
-<iframe width="560" height="315" 
-        src="https://youtu.be/wHQ02EF-WGY" 
-        title="YouTube video player" frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-        referrerpolicy="strict-origin-when-cross-origin" 
-        allowfullscreen>
+<iframe width="100%" height="450"
+  src="https://www.youtube.com/embed/wHQ02EF-WGY"
+  title="YouTube video player" frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
 </iframe>
 </p>
 
@@ -393,12 +390,11 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
 
 <p align="center">
-<iframe width="560" height="315" 
-        src="https://youtu.be/Uc70L-51jYw" 
-        title="YouTube video player" frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-        referrerpolicy="strict-origin-when-cross-origin" 
-        allowfullscreen>
+<iframe width="100%" height="450"
+  src="https://www.youtube.com/embed/Uc70L-51jYw"
+  title="YouTube video player" frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
 </iframe>
 </p>
 
@@ -498,6 +494,12 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
  
 ### Caso de Uso
 
+<font size="3"><p style="text-align: center">Tabela 33: Caso de Uso</p></font>
+
+| Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
+| :-: | :-: | :-: | :-: | :-: | :-: | 
+| ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
+
 <p style="text-align: center">
   <iframe width="560" height="315" 
     src="https://www.youtube.com/embed/rpmxUE1rrak" 
@@ -512,6 +514,12 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 
 ### Cenários
 
+<font size="3"><p style="text-align: center">Tabela 34: Cenários</p></font>
+
+| Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
+| :-: | :-: | :-: | :-: | :-: | :-: | 
+| ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
+
 <p style="text-align: center">
   <iframe width="560" height="315" 
     src="https://www.youtube.com/embed/3Hp9AFMWI6k" 
@@ -525,6 +533,12 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 
 ### Léxicos
 
+<font size="3"><p style="text-align: center">Tabela 35: Léxicos</p></font>
+
+| Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
+| :-: | :-: | :-: | :-: | :-: | :-: | 
+| ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
+
 <p style="text-align: center">
   <iframe width="560" height="315" 
     src="https://www.youtube.com/embed/RGZCayCbnnU" 
@@ -537,6 +551,12 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 </p>
 
 ### Especificação Suplementar
+
+<font size="3"><p style="text-align: center">Tabela 36: Especificação Suplementar</p></font>
+
+| Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
+| :-: | :-: | :-: | :-: | :-: | :-: | 
+| ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
 
 <p style="text-align: center">
   <iframe width="560" height="315" 
@@ -553,7 +573,7 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 
 ## NFR Framework
 
-<font size="3"><p style="text-align: center">Tabela 33: NFR Framework</p></font>
+<font size="3"><p style="text-align: center">Tabela 37: NFR Framework</p></font>
 
 | Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
 | :-: | :-: | :-: | :-: | :-: | :-: | 
@@ -593,7 +613,7 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 
 ### Histórias de Usuário
 
-<font size="3"><p style="text-align: center">Tabela 34: Histórias de Usuário</p></font>
+<font size="3"><p style="text-align: center">Tabela 38: Histórias de Usuário</p></font>
 
 | Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
 | :-: | :-: | :-: | :-: | :-: | :-: | 
@@ -645,7 +665,7 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 
 ### Product Backlog 
 
-<font size="3"><p style="text-align: center">Tabela 35: Product Backlog</p></font>
+<font size="3"><p style="text-align: center">Tabela 39: Product Backlog</p></font>
 
 | Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
 | :-: | :-: | :-: | :-: | :-: | :-: | 
@@ -688,7 +708,7 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 
 ### Prototipação
 
-<font size="3"><p style="text-align: center">Tabela 36: Prototipação</p></font>
+<font size="3"><p style="text-align: center">Tabela 40: Prototipação</p></font>
 
 | Arthur| Breno | Dylan| Eduarda| Giovana | Letícia | 
 | :-: | :-: | :-: | :-: | :-: | :-: | 
@@ -755,4 +775,5 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 | Versão | Data       | Descrição                                                        | Autor(es)                                                                 | Revisor(es)  |
 |:-----: | :--------: | :-------------------------------------------------------------- | :------------------------------------------------------------------------ | :---------- |
 | `1.0`    | 16/11/2025 | Criação da página de Vídeos do Projeto                          | [Arthur Fernandes](https://github.com/arthurfernandesj)                                  | [Dylan Cavalcante](https://github.com/dylancavalcante)           |
-| `1.1`    | 24/11/2025 | Adição de informações na página e finalização do documento |[Letícia Lopes](https://github.com/leticialopes20)                                | [Dylan Cavalcante](https://github.com/dylancavalcante)           |
+| `1.1`    | 24/11/2025 | Adição de informações na página|[Letícia Lopes](https://github.com/leticialopes20)                                | [Dylan Cavalcante](https://github.com/dylancavalcante)           |
+| `1.2`    | 24/11/2025 | Adição de novos links e tabelas|[Letícia Lopes](https://github.com/leticialopes20)                                | [Dylan Cavalcante](https://github.com/dylancavalcante)           |

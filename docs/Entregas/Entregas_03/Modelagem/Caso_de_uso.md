@@ -379,6 +379,26 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
 
 ### **Gravação 4** <a id="ceng01"></a> - Validação Dylan
 
+<div align="center">
+  <p style="text-align: center">
+    <a href="https://youtu.be/9vKlYh51YjA" target="_blank"><b>Vídeo 3:</b> Validação do Caso de Uso </a>
+  </p>
+
+  <iframe width="560" height="315"
+          src="https://youtu.be/pJjBn6kTuPs?si=FnzpqI6Ew0fH-iwH"
+          title="Validação de Especificação"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+  </iframe>
+
+  <font size="3">
+    <p style="text-align: center">
+      <b>Fonte:</b> <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a>, 2025
+    </p>
+  </font>
+</div>
+
 ### **Gravação 5** <a id="ceng01"></a> - Validação Leticia
 
 <div align="center">
@@ -404,11 +424,6 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
     </p>
   </font>
 </div>
-
-
-### **Gravação 3** <a id="ceng01"></a> - Validação Arthur
-
-### **Gravação 4** <a id="ceng01"></a> - Validação Dylan
 
 
 ## Referências Bibliográficas

@@ -240,6 +240,26 @@ Os léxicos do tipo estado referem-se às condições, situações ou configura�
 
 ### **Gravação 4** <a id="ceng01"></a> - Validação Dylan
 
+<div align="center">
+  <p style="text-align: center">
+    <a href="https://youtu.be/9vKlYh51YjA" target="_blank"><b>Vídeo 3:</b> Validação do Caso de Uso </a>
+  </p>
+
+  <iframe width="560" height="315"
+          src="https://youtu.be/pJjBn6kTuPs?si=FnzpqI6Ew0fH-iwH"
+          title="Validação de Especificação"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+  </iframe>
+
+  <font size="3">
+    <p style="text-align: center">
+      <b>Fonte:</b> <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a>, 2025
+    </p>
+  </font>
+</div>
+
 ## Bibliografia
 
 > SERRANO, Milene. Requisitos - Aula 10. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: [Requisitos - Aula 10](https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf). Acesso em: 11 de Outubro de 2025.

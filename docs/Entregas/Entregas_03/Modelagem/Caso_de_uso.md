@@ -337,7 +337,7 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
     </p>
   </font>
 
-### **Gravação 2** <a id="ceng01"></a> - Validação Giovana
+### **Gravação 2** <a id="ceng01"></a> - Validação Giovana e Leticia
 
 <div align="center">
   <p style="text-align: center">

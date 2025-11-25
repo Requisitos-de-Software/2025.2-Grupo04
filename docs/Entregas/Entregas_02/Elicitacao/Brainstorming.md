@@ -384,13 +384,16 @@ s14"></a> | O aplicativo deve oferecer um processo de onboarding adaptado para j
 </div>
 
 
+## Referências Bibliográficas 
+> <a id="QT2"></a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021). *Interação Humano-Computador e Experiência do usuário*. Autopublicação. ISBN: 978-65-00-19677-1. Disponível em: [Interação Humano-Computador e Experiência do Usuário - Aprender3](https://aprender3.unb.br/course/view.php?id=27470). Acesso em: 23 set. 2025.
+
+> <a id="QT1"></a> Retraining - Universidade Federal de Santa Catarina. Técnicas de Elicitação de Requisitos: Brainstorming. Disponível em: [Universidade Federal de Santa Catarina. Técnicas de Elicitação de Requisitos: Brainstorming](https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-brainstorming). Acesso em: 23 set. 2025.
 
 ## Bibliografia
 
 
 > <a id="QT1"></a> Retraining - Universidade Federal de Santa Catarina. Técnicas de Elicitação de Requisitos: Brainstorming. Disponível em: [Universidade Federal de Santa Catarina. Técnicas de Elicitação de Requisitos: Brainstorming](https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-brainstorming). Acesso em: 23 set. 2025.
 
-> <a id="QT2"></a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021). *Interação Humano-Computador e Experiência do usuário*. Autopublicação. ISBN: 978-65-00-19677-1. Disponível em: [Interação Humano-Computador e Experiência do Usuário - Aprender3](https://aprender3.unb.br/course/view.php?id=27470). Acesso em: 23 set. 2025.
 
 > REQUISITOS DE SOFTWARE. *Bilheteria Digital (2023.1)*. Disponível em: [https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital](https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital). Acesso em: 23 set. 2025.
 

@@ -131,9 +131,3 @@ Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total respons
 |:---:|---|---|---|---|
 | 1.0 | 24/11/2025 | Criação das tabelas. | [Eduarda Domingos](https://github.com/eduardar0) | [Leticia Lopes](https://github.com/leticialopes20) |
 
-a
-a
-a
-a
-a
-a

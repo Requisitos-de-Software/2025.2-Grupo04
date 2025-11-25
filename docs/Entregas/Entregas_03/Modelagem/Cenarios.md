@@ -304,8 +304,48 @@ A **Tabela 1** apresenta os membros responsáveis pelo desenvolvimento dos cená
 
 ### **Gravação 3** <a id="ceng01"></a> - Validação Arthur
 
+<div align="center">
+  <p style="text-align: center">
+    <a href="https://youtu.be/yYDo4aa1bKM" target="_blank"><b>Vídeo 3:</b> Validação dos cenários </a>
+  </p>
+
+  <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/yYDo4aa1bKM"
+          title="Validação do Caso de Uso"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+  </iframe>
+
+  <font size="3">
+    <p style="text-align: center">
+      <b>Fonte:</b> <a href="https://github.com/arthurfernandesj">Arthur Fernandes</a>, 2025
+    </p>
+  </font>
+</div>
+
+
 ### **Gravação 4** <a id="ceng01"></a> - Validação Dylan
 
+<div align="center">
+  <p style="text-align: center">
+    <a href="https://www.youtube.com/embed/pJjBn6kTuPs" target="_blank"><b>Vídeo 3:</b> Validação do Caso de Uso </a>
+  </p>
+
+  <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/pJjBn6kTuPs"
+          title="Validação de Especificação"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+  </iframe>
+
+  <font size="3">
+    <p style="text-align: center">
+      <b>Fonte:</b> <a href="https://github.com/dylancavalcante">Dylan Cavalcante</a>, 2025
+    </p>
+  </font>
+</div>
 
 ## Referências Bibliográficas
 

@@ -402,6 +402,32 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 </iframe>
 </p>
 
+## Entrega Final 
+
+### **Gravação – Apresentação Entrega Final**
+
+<div align="center">
+  <p style="text-align: center">
+    <a href="https://youtu.be/q2VNO6hYUY4" target="_blank">
+      <b>Vídeo:</b> Entrega Final
+    </a>
+  </p>
+
+  <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/q2VNO6hYUY4"
+          title="Entrega Final"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+  </iframe>
+
+  <font size="3">
+    <p style="text-align: center">
+      <b>Fonte:</b> <a href="https://github.com/GiovanaFontesS">Giovana Fontes</a>, 2025
+    </p>
+  </font>
+</div>
+
 
 ## Elicitação
 

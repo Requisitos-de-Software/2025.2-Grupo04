@@ -337,16 +337,15 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
     </p>
   </font>
 
-### **Gravação 2** <a id="ceng01"></a> - Validação Giovana
+### **Gravação 2** <a id="ceng01"></a> - Validação Giovana e Leticia
 
 <div align="center">
   <p style="text-align: center">
-    <a href="https://youtu.be/QSPdq-IFH58" target="_blank">
-      <b>Vídeo 2:</b> Validação – Casos de Uso
-    </a>
+    <a href="https://youtu.be/Vvx-G76FZ5U" target="_blank"><b>Vídeo 2:</b> Validação de Casos de uso</a>
   </p>
 
   <iframe width="560" height="315"
+
           src="https://www.youtube.com/embed/QSPdq-IFH58"
           title="Validação – Casos de Uso"
           frameborder="0"
@@ -390,6 +389,10 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
   <iframe width="560" height="315"
           src="https://www.youtube.com/embed/09OI7c20UTY"
           title="Validação de Caso de uso"
+
+          src="https://www.youtube.com/embed/Vvx-G76FZ5U"
+          title="Validação de Casos de uso"
+
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           allowfullscreen>
@@ -401,6 +404,12 @@ A utilização do diagrama de casos de uso é justificada por sua capacidade de 
     </p>
   </font>
 </div>
+
+
+### **Gravação 3** <a id="ceng01"></a> - Validação Arthur
+
+### **Gravação 4** <a id="ceng01"></a> - Validação Dylan
+
 
 ## Referências Bibliográficas
 
